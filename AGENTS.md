@@ -63,14 +63,29 @@ Use the existing bilingual folder structure as the source of truth. Do not renam
 | Folder | Responsibility |
 |---|---|
 | `00_Home（首页）/` | Human entry points, project vision, usage, workflow, writing rules. |
-| `01_Timeline（时间线）/` | Chronological context and period summaries; do not duplicate full event notes. |
-| `02_Events（事件）/` | Primary database for real historical events. |
+| `01_Timeline（时间线）/` | Chronological home for dated event notes and period summaries. If an event has a clear year, decade, or date, place the primary event note in the matching century / decade folder here. |
+| `02_Events（事件）/` | Event entry points, taxonomy, and indexes that link to timeline-hosted event notes; do not dump event notes in the root of this folder. |
 | `03_Patterns（模式）/` | Recurring financial, economic, market, and policy patterns. |
 | `04_Countries（国家）/` | Country or region context nodes, not the primary event structure. |
 | `05_Assets（资产）/` | Asset-class behavior across regimes and crises. |
 | `06_Concepts（概念）/` | Reusable mechanisms and financial concepts. |
 | `07_Comparisons（对比）/` | Structured analytical comparisons. |
 | `99_Tool/Templates（模板）/` | Templates and operational helpers. |
+
+### Folder placement discipline
+
+一级目录根部要保持干净，正文笔记不要直接堆在一级目录根部。
+
+Root-level module folders must stay clean:
+
+- In `01_Timeline（时间线）/`, use the existing century and decade folders. A dated event such as a 2026 event belongs under `01_Timeline（时间线）/2000s（21世纪）/2020-2029（2020-2029年）/`.
+- In `02_Events（事件）/`, keep the root as an event index or taxonomy entry point. It should link to event notes in Timeline instead of duplicating them.
+- In `03_Patterns（模式）/`, `04_Countries（国家）/`, `05_Assets（资产）/`, `06_Concepts（概念）/`, and `07_Comparisons（对比）/`, root-level files should normally be indexes or overview files only.
+- Before writing a content note, look for an existing child folder that matches the subject, such as real estate, debt, currency crisis, inflation, war, technology, or platform economics.
+- If no existing child folder fits, create one small, semantic child folder under the correct existing top-level module. This does not require confirmation. Do not create a new top-level folder without explicit user approval.
+- A note is in the wrong place if it sits beside an index file in a module root when it could live in a category folder or a Timeline decade folder.
+
+正文笔记必须进入合适的子目录；如果没有合适分类，就在现有一级目录下新建一个语义明确的小分类目录，不要把正文扔到根目录。
 
 ---
 
@@ -94,13 +109,14 @@ Use existing templates first:
 
 | Material | Primary type | Folder | Template |
 |---|---|---|---|
-| A real historical case or crisis | `event` | `02_Events（事件）/` | `99_Tool/Templates（模板）/Event Template.md` |
-| A recurring crisis or market structure | `pattern` | `03_Patterns（模式）/` | `99_Tool/Templates（模板）/Pattern Template.md` |
-| An asset-class behavior profile | `asset` | `05_Assets（资产）/` | `99_Tool/Templates（模板）/Asset Template.md` |
-| A reusable mechanism or financial idea | `concept` | `06_Concepts（概念）/` | `99_Tool/Templates（模板）/Concept Template.md` |
-| A country or region financial context | `country` | `04_Countries（国家）/` | Use the established YAML and section rules from this file. |
-| A structured comparison between cases | `comparison` | `07_Comparisons（对比）/` | Use consistent comparison dimensions from this file. |
-| A chronological period overview | `timeline` | `01_Timeline（时间线）/` | Keep it chronological; do not duplicate event notes. |
+| A real historical case or crisis with a clear date | `event` | `01_Timeline（时间线）/<century>/<decade>/`; link it from `02_Events（事件）/Event Index（事件索引）.md` or a relevant event category index | `99_Tool/Templates（模板）/Event Template.md` |
+| A real historical case without a clear date but with an event category | `event` | A relevant child folder under `02_Events（事件）/`; create a semantic child folder if none fits | `99_Tool/Templates（模板）/Event Template.md` |
+| A recurring crisis or market structure | `pattern` | A relevant child folder under `03_Patterns（模式）/`; create a semantic child folder if none fits | `99_Tool/Templates（模板）/Pattern Template.md` |
+| An asset-class behavior profile | `asset` | A relevant child folder under `05_Assets（资产）/`; create a semantic child folder if none fits | `99_Tool/Templates（模板）/Asset Template.md` |
+| A reusable mechanism or financial idea | `concept` | A relevant child folder under `06_Concepts（概念）/`; create a semantic child folder if none fits | `99_Tool/Templates（模板）/Concept Template.md` |
+| A country or region financial context | `country` | A relevant child folder under `04_Countries（国家）/`; create a semantic child folder if none fits | Use the established YAML and section rules from this file. |
+| A structured comparison between cases | `comparison` | A relevant child folder under `07_Comparisons（对比）/`; create a semantic child folder if none fits | Use consistent comparison dimensions from this file. |
+| A chronological period overview | `timeline` | The relevant century, decade, or overview folder under `01_Timeline（时间线）/` | Keep it chronological; do not duplicate event notes. |
 
 If no exact template exists, follow the closest existing template style: YAML frontmatter, concise sections, tables where useful, mechanism chains, graph relations, investment lessons, and open questions.
 
@@ -156,7 +172,19 @@ For mixed material, split only when the knowledge units have different primary t
 
 混合材料中，只有当知识单元属于不同主类型时才拆分；不要把无关内容硬塞进一篇大笔记。
 
-### Step 4: Use templates and write the note
+### Step 4: Decide exact folder placement
+
+Do this before writing the file.
+
+1. If the note is an event and has a clear year, decade, or date, place the primary note in the matching Timeline decade folder.
+2. Link the event from `02_Events（事件）/Event Index（事件索引）.md` or an existing event category index. Do not duplicate the event body in both Timeline and Events.
+3. If the note is a pattern, concept, asset, country, or comparison, place it in an existing child folder under its module when one fits.
+4. If no child folder fits, create a concise semantic child folder under the correct module, for example `Platform Economics（平台经济）/` or `Platform Economics Comparisons（平台经济对比）/`.
+5. Do not place content notes directly next to module index files unless the module has no category structure and the user explicitly wants it.
+
+先定位置再写文件。有明确年份的事件进 Timeline 年代目录；Events 负责索引调用。其他正文笔记进对应模块的子分类目录，没有合适分类就创建小的语义子分类。
+
+### Step 5: Use templates and write the note
 
 Use the relevant template. Keep writing concise and analytical.
 
@@ -175,7 +203,7 @@ Open Questions
 
 Do not invent precise dates, numbers, or causal claims. If the material is unsourced, mark it clearly as draft and uncertain.
 
-### Step 5: Link into the graph
+### Step 6: Link into the graph
 
 The note is not fully ingested until it is connected to the graph.
 
@@ -189,7 +217,7 @@ Minimum useful links for an event note:
 
 Pattern, concept, asset, and country notes should link back to the events that demonstrate them when the new material deepens or validates those nodes.
 
-### Step 6: Update old nodes when the new note adds meaning
+### Step 7: Update old nodes when the new note adds meaning
 
 If a new event illustrates an existing concept, pattern, asset behavior, or country profile, update the existing node with a short backlink and one sentence explaining what the new note contributes.
 
@@ -197,7 +225,7 @@ Do not rely only on folder indexes. Indexes are entry points; conceptual meaning
 
 新笔记如果深化了旧概念、旧模式或旧资产节点，要反向更新旧节点。不要只依赖索引建立关系。
 
-### Step 7: Update existing indexes only when appropriate
+### Step 8: Update existing indexes only when appropriate
 
 If a folder has an existing index file and the new note clearly belongs there, update that index. Do not create new index, MOC, or administrative middle-layer files unless the user explicitly asks.
 
@@ -429,6 +457,8 @@ Before finishing any new or edited note, verify:
 
 - Is the note type clear?
 - Is the note in the correct folder?
+- If the note is a dated event, is the primary note in the correct Timeline decade folder?
+- If the note is not an index or overview, is it inside a semantic child folder rather than a module root?
 - Was the vault searched first to avoid duplicates?
 - Was the closest existing template used?
 - Does the note include YAML frontmatter?
@@ -460,6 +490,8 @@ When reporting back, list the files created or edited and mention any remaining 
 - Do not overstate causality.
 - Do not rename files casually.
 - Do not create new top-level folders without explicit user approval.
+- Do not place content notes directly in module roots beside index files when a Timeline decade folder or category subfolder is available.
+- Do not duplicate a full dated event note in both Timeline and Events; Timeline stores the primary dated note, Events indexes and links to it.
 - Do not make broad changes when a narrow update is enough.
 
 ---
