@@ -1,7 +1,7 @@
 ---
 type: overview
 status: active
-title: "How to Use This Vault"
+title: "如何使用这个知识库"
 source_status: unsourced
 sources: []
 tags:
@@ -13,189 +13,187 @@ created: 2026-07-01
 updated: 2026-07-01
 ---
 
-# How to Use This Vault 如何使用这个知识库
+# 如何使用这个知识库
 
-## 1. Start With a Question
-
-Do not start by collecting random material. Start with a question.
+## 1. 先从一个问题开始
 
 不要从“我想多存点资料”开始，而要从一个具体问题开始。
 
-Good entry questions:
+好的入口问题：
 
-- What happened in this event?
-- What mechanism caused the crisis or boom?
-- What asset performed well or badly in this regime?
-- Which historical case is similar to the current environment?
-- What did policy makers do, and what did the market do after that?
-- What lesson can be reused for risk control or asset allocation?
+- 这个事件到底发生了什么？
+- 这次危机或繁荣背后的机制是什么？
+- 在这种制度环境下，哪类资产表现好，哪类资产表现差？
+- 当前环境和历史上哪个案例相似？
+- 政策制定者做了什么，市场之后又如何反应？
+- 这里面有什么可以用于风险控制或资产配置的经验？
 
-Example questions:
+示例问题：
 
 - 1989 年日本资产泡沫破裂之前，房价、股市、信贷和政策之间是什么关系？
 - 2008 年全球金融危机中，银行系统的问题是如何传导到实体经济的？
-- 高通胀时期，股票、债券、现金和房地产分别承担什么风险？
+- 高通胀时期，股票、债券 bonds、现金和房地产分别承担什么风险？
 - 美国某一轮加息周期和今天有哪些相似点，哪些不同点？
 
 ---
 
-## 2. Choose the Right Folder
+## 2. 选择正确的文件夹
 
-Each folder has one job.
+每个文件夹只负责一种任务。
 
-| Folder | Use It When |
+| 文件夹 | 什么时候使用 |
 |---|---|
-| [[Home（首页）]] | You need orientation, rules, workflow, and project purpose. |
-| `01_Timeline（时间线）/` | You need chronological context or period overview. |
-| `02_Events（事件）/` | You are writing a real historical event. |
-| `03_Patterns（模式）/` | You are extracting recurring patterns across events. |
-| `04_Countries（国家）/` | You are building country or region background. |
-| `05_Assets（资产）/` | You are studying asset behavior across regimes. |
-| `06_Concepts（概念）/` | You are defining reusable mechanisms. |
-| `07_Comparisons（对比）/` | You are comparing multiple cases with the same dimensions. |
-| `99_Tool/Templates（模板）/` | You need templates or operating helpers. |
+| [[Home（首页）]] | 需要查看入口、规则、流程和项目目标时使用。 |
+| `01_Timeline（时间线）/` | 需要整理时间顺序、历史阶段或周期总览时使用。 |
+| `02_Events（事件）/` | 写真实历史事件时使用。 |
+| `03_Patterns（模式）/` | 从多个事件中提炼反复出现的模式时使用。 |
+| `04_Countries（国家）/` | 建立国家或地区背景时使用。 |
+| `05_Assets（资产）/` | 研究不同资产在不同制度和危机中的表现时使用。 |
+| `06_Concepts（概念）/` | 定义可复用机制或金融概念时使用。 |
+| `07_Comparisons（对比）/` | 用相同维度比较多个案例时使用。 |
+| `99_Tool/Templates（模板）/` | 需要模板或操作辅助材料时使用。 |
 
-Rule of thumb:
+快速判断：
 
 ```text
-one real case → event
-repeated mechanism → pattern or concept
-country background → country
-asset behavior → asset
-case-to-case analysis → comparison
-time sequence → timeline
+一个真实案例 → event
+反复出现的机制 → pattern 或 concept
+国家背景 → country
+资产表现 → asset
+案例之间的比较 → comparison
+按时间展开的脉络 → timeline
 ```
 
 ---
 
-## 3. Daily Usage Flow
+## 3. 日常使用流程
 
-Use this vault in a small repeatable loop.
-
-```text
-Question
-→ search existing notes
-→ choose note type
-→ use template
-→ write facts first
-→ write mechanism chain
-→ link related notes
-→ mark uncertainty
-→ extract reusable lesson
-```
-
-### Step 1: Search First
-
-Before creating anything, search for:
-
-- event name
-- country or region
-- decade
-- crisis type
-- asset class
-- key mechanism
-- comparable historical case
-
-This prevents duplicate notes.
-
-### Step 2: Use the Correct Template
-
-Use templates in [[../99_Tool/Templates（模板）/Event Template|Event Template]], [[../99_Tool/Templates（模板）/Concept Template|Concept Template]], [[../99_Tool/Templates（模板）/Pattern Template|Pattern Template]], or [[../99_Tool/Templates（模板）/Asset Template|Asset Template]] when creating structured notes.
-
-### Step 3: Separate Facts and Analysis
-
-Write facts before interpretation.
+用一个小循环来维护这个知识库：
 
 ```text
-Facts: what happened and what can be sourced
-Mechanism: how one variable affected another
-Interpretation: what this may mean
-Investment Lessons: reusable but not personalized advice
-Open Questions: what still needs verification
+提出问题
+→ 搜索已有笔记
+→ 判断笔记类型
+→ 使用对应模板
+→ 先写事实
+→ 写出机制链条
+→ 链接相关笔记
+→ 标记不确定性
+→ 提炼可复用经验
 ```
 
-### Step 4: Link the Graph
+### 第一步：先搜索
 
-Every useful note should connect to the graph.
+创建新笔记之前，先搜索：
 
-Event notes should link to:
+- 事件名称。
+- 国家或地区。
+- 年代。
+- 危机类型。
+- 资产类别。
+- 关键机制。
+- 可对比的历史案例。
 
-- countries
-- patterns
-- assets
-- concepts
-- comparable events
+这样可以避免重复笔记。
 
-Concept, pattern, asset, and country notes should link back to events that demonstrate them.
+### 第二步：使用正确模板
+
+创建结构化笔记时，优先使用 [[../99_Tool/Templates（模板）/Event Template|Event Template]]、[[../99_Tool/Templates（模板）/Concept Template|Concept Template]]、[[../99_Tool/Templates（模板）/Pattern Template|Pattern Template]] 或 [[../99_Tool/Templates（模板）/Asset Template|Asset Template]]。
+
+这些模板名称可以保留英文，因为它们是文件名和可复用模板入口。
+
+### 第三步：区分事实和分析
+
+先写事实，再写解释。
+
+```text
+事实：发生了什么，哪些内容可以找到来源
+机制：一个变量如何影响另一个变量
+解释：这些事实可能意味着什么
+投资启发：可复用的经验，不是个性化投资建议
+未解决问题：哪些内容还需要继续核查
+```
+
+### 第四步：把笔记连进图谱
+
+每篇有用的笔记都应该接入图谱。
+
+事件笔记应该链接到：
+
+- 国家或地区。
+- 模式 patterns。
+- 资产 assets。
+- 概念 concepts。
+- 可对比事件。
+
+概念、模式、资产和国家笔记，也应该反向链接到能体现它们的事件。
 
 ---
 
-## 4. How to Read the Vault
+## 4. 如何阅读这个知识库
 
-There are four main reading modes.
+主要有四种阅读方式：
 
-| Mode | Use Case |
+| 阅读方式 | 用途 |
 |---|---|
-| Event mode | Understand what happened in one historical case. |
-| Mechanism mode | Follow concepts and patterns across many events. |
-| Asset mode | Study how stocks, bonds, real estate, currencies, commodities, and cash behaved. |
-| Comparison mode | Compare cases to understand similarities, differences, and false analogies. |
+| 事件阅读 | 理解一个历史案例到底发生了什么。 |
+| 机制阅读 | 沿着概念 concepts 和模式 patterns，看它们如何出现在多个事件中。 |
+| 资产阅读 | 研究股票 stocks、债券 bonds、房地产 real estate、汇率 currencies、商品 commodities 和现金 cash 在不同环境中的表现。 |
+| 对比阅读 | 比较不同案例，理解相似点、差异点和错误类比。 |
 
-When reading a note, always ask:
+读一篇笔记时，要一直问：
 
-- What is fact?
-- What is interpretation?
-- What is still uncertain?
-- What mechanism is reusable?
-- What would change the conclusion?
-- What present-day situation might this resemble?
+- 哪些是事实？
+- 哪些是解释？
+- 哪些仍然不确定？
+- 哪个机制可以复用？
+- 什么条件变化会改变结论？
+- 现在有没有类似的现实场景？
 
 ---
 
-## 5. Minimum Standard for a Useful Note
+## 5. 一篇有用笔记的最低标准
 
-A useful note should have:
+一篇有用的笔记应该具备：
 
-- YAML frontmatter
-- clear type
-- standardized tags
-- concise facts
-- mechanism chain
-- meaningful links
-- source status
-- uncertainty markers
-- investment or risk lesson when relevant
+- YAML frontmatter。
+- 清晰的 `type`。
+- 标准化标签。
+- 简洁事实。
+- 机制链条。
+- 有意义的链接。
+- 来源状态 `source_status`。
+- 不确定性标记。
+- 相关时提炼投资或风险启发。
 
-If a note does not meet this standard yet, keep it as:
+如果一篇笔记还没有达到这个标准，就保持为：
 
 ```yaml
 status: draft
 source_status: unsourced
 ```
 
-Draft is allowed. Fake certainty is not allowed.
-
 草稿可以存在，但不能把不确定内容写成确定结论。
 
 ---
 
-## 6. What Not to Do
+## 6. 不要把这个库当成什么
 
-Do not use this vault as:
+不要把这个知识库当成：
 
-- a random clipping folder;
-- a general encyclopedia;
-- a diary;
-- a place for motivational writing;
-- a prediction machine;
-- a single-source investment answer.
+- 随手剪藏夹。
+- 通用百科。
+- 日记。
+- 鸡汤和励志空间。
+- 预测机器。
+- 单一来源的投资答案。
 
-Use it as a thinking system:
+应该把它当成一个思考系统：
 
 ```text
-history
-→ mechanism
-→ comparison
-→ judgment
-→ discipline
+历史
+→ 机制
+→ 对比
+→ 判断
+→ 纪律
 ```

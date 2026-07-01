@@ -1,7 +1,7 @@
 ---
 type: overview
 status: active
-title: "Project Vision"
+title: "项目愿景"
 source_status: unsourced
 sources: []
 tags:
@@ -13,13 +13,11 @@ created: 2026-07-01
 updated: 2026-07-01
 ---
 
-# Project Vision 项目愿景
+# 项目愿景
 
-## 1. Why This Vault Exists
+## 1. 为什么要建立这个知识库
 
-This vault exists to turn financial history, economic history, monetary regimes, wars, policy choices, and market reactions into reusable judgment.
-
-这个知识库存在的原因，不是为了“知道很多历史故事”，而是为了把历史变成未来判断力。
+这个知识库存在的原因，不是为了“知道很多历史故事”，而是为了把金融史、经济史、货币制度、战争、政策选择和市场反应，转化成未来可以反复使用的判断力。
 
 学习历史的意义在于：
 
@@ -29,27 +27,23 @@ This vault exists to turn financial history, economic history, monetary regimes,
 - 在拥有资产和货币时，知道应该保护什么、回避什么、等待什么。
 - 建立一种可以传给下一代的分析框架，而不只是留下钱。
 
-Money can lose purchasing power. Assets can disappear. The part that can be carried forward is judgment, discipline, and the ability to read regimes.
-
 钱会贬值，资产也可能消失；真正能传承的是判断力、纪律和看懂时代的能力。
 
 ---
 
-## 2. What This Vault Is For
+## 2. 这个知识库要解决什么问题
 
-This is a market memory system.
+这是一个“市场记忆系统”。它要回答的问题包括：
 
-它要回答的问题包括：
-
-| Question | 中文解释 |
+| 问题 | 解释 |
 |---|---|
-| What happened? | 某个金融事件、战争冲击、繁荣周期或危机阶段到底发生了什么？ |
-| Why did it happen? | 风险是因为哪些机制被放大，而不是只记住一个单一原因？ |
-| How did it spread? | 信贷、汇率、银行、资产价格、财政和社会情绪如何互相传导？ |
-| Who responded? | 政府、央行、银行、企业、居民和国际机构分别做了什么？ |
-| How did assets behave? | 股票、债券、房价、汇率、商品和现金在不同环境中如何表现？ |
-| What resembles today? | 今天的环境像过去哪一个阶段，理由是什么，不像的地方又是什么？ |
-| What should be remembered? | 对投资、风险控制、家庭教育和长期资产配置有什么可复用启发？ |
+| 发生了什么？ | 某个金融事件、战争冲击、繁荣周期或危机阶段到底发生了什么？ |
+| 为什么发生？ | 风险是因为哪些机制被放大，而不是只记住一个单一原因？ |
+| 风险如何扩散？ | 信贷、汇率、银行、资产价格、财政和社会情绪如何互相传导？ |
+| 谁做出了反应？ | 政府、央行、银行、企业、居民和国际机构分别做了什么？ |
+| 资产如何表现？ | 股票、债券 bonds、房价、汇率、商品 commodities 和现金在不同环境中如何表现？ |
+| 今天像过去哪个阶段？ | 今天的环境像过去哪一个阶段，理由是什么，不像的地方又是什么？ |
+| 应该记住什么？ | 对投资、风险控制、家庭教育和长期资产配置有什么可复用启发？ |
 
 这个库应该帮助我在未来面对问题时，不只是问“涨还是跌”，而是先问：
 
@@ -65,47 +59,38 @@ This is a market memory system.
 
 ---
 
-## 3. Personal and Family Meaning
+## 3. 对个人和家庭的意义
 
-This project is also a long-term education project.
-
-它不只是为了当前投资，也和未来的家庭教育有关。一个家庭里必须有人研究这些东西：金融危机、战争冲击、货币制度、通胀、房地产、银行爆雷、政策周期、市场泡沫和资产保护。
+这个项目不只是为了当前投资，也和未来的家庭教育有关。一个家庭里必须有人研究这些东西：金融危机、战争冲击、货币制度、通胀、房地产、银行爆雷、政策周期、市场泡沫和资产保护。
 
 如果未来有孩子，这个知识库应该能支持这样的对话：
 
-- Tell me what happened in the First Sino-Japanese War.  
-  甲午战争发生了什么？它改变了什么？
-- Tell me why the May Fourth Movement happened.  
-  五四运动为什么会发生？它背后的制度和社会条件是什么？
-- How many tightening and easing cycles did the United States go through, and what changed in markets?  
-  美国历史上的加息和降息周期如何影响房价、通胀、银行和股市？
-- Why does stop-loss discipline matter?  
-  为什么止损不是情绪问题，而是风险暴露和资金生存问题？
-- When a banking system breaks, what usually breaks first?  
-  银行系统出问题时，通常是哪些机制先出问题？
-
-The point is not to force memorization. The point is to train a way of seeing problems.
+- 甲午战争发生了什么？它改变了什么？
+- 五四运动为什么会发生？它背后的制度和社会条件是什么？
+- 美国历史上的加息和降息周期如何影响房价、通胀、银行和股市？
+- 为什么止损不是情绪问题，而是风险暴露和资金生存问题？
+- 银行系统出问题时，通常是哪些机制先出问题？
 
 重点不是背答案，而是训练看问题的框架。
 
 ---
 
-## 4. Scope
+## 4. 研究范围
 
-This vault focuses on financial and market-relevant history.
+这个知识库聚焦金融和市场相关的历史。
 
 优先研究：
 
-- major financial crises
-- monetary regime changes
-- inflation and deflation episodes
-- credit booms and busts
-- banking crises
-- sovereign debt crises
-- wars and geopolitical shocks with market consequences
-- asset bubbles and collapses
-- policy cycles in major countries and regions
-- China, the United States, Britain, Germany, Japan, Australia, and other important developed or developing economies
+- 重大金融危机。
+- 货币制度变化。
+- 通胀和通缩阶段。
+- 信贷繁荣和信贷收缩。
+- 银行危机。
+- 主权债务危机 sovereign debt crisis。
+- 对市场有影响的战争和地缘冲击。
+- 资产泡沫和资产价格崩塌。
+- 主要国家和地区的政策周期。
+- 中国、美国、英国、德国、日本、澳大利亚，以及其他重要发达经济体和发展中经济体。
 
 可以研究战争，但必须服务于金融、财政、产业、货币、民生或市场理解。
 
@@ -113,21 +98,18 @@ This vault focuses on financial and market-relevant history.
 
 ---
 
-## 5. Final Aim
-
-The final aim is not to predict every future event.
+## 5. 最终目标
 
 最终目标不是预测每一次涨跌，而是：
 
-- know which era the present resembles;
-- know why the resemblance may be false;
-- know where risk is accumulating;
-- know when capital should be protected;
-- know when opportunity is created by panic;
-- know how policy, assets, and society interact;
-- avoid being easily deceived by slogans, narratives, and short-term price moves.
+- 知道现在像过去哪个时代。
+- 知道这种相似性为什么可能是假的。
+- 知道风险正在哪里积累。
+- 知道什么时候应该保护本金和资产。
+- 知道什么时候恐慌会创造机会。
+- 知道政策、资产和社会之间如何互相影响。
+- 避免轻易被口号、叙事和短期价格波动欺骗。
 
 这个知识库要长期服务于一个目标：
 
-> Build a reusable family-level market memory system.  
 > 建立一个可复用、可传承、可用于未来判断的家族级市场记忆系统。

@@ -1,7 +1,7 @@
 ---
 type: overview
 status: active
-title: "Research Workflow"
+title: "研究流程"
 source_status: unsourced
 sources: []
 tags:
@@ -13,255 +13,253 @@ created: 2026-07-01
 updated: 2026-07-01
 ---
 
-# Research Workflow 研究流程
+# 研究流程
 
-## 1. Workflow Overview
-
-The workflow is designed to turn historical material into reusable market reasoning.
+## 1. 流程总览
 
 研究流程的目标是把历史材料变成可复用的市场判断，而不是把资料堆进文件夹。
 
 ```text
-Question
-→ Scope
-→ Source
-→ Facts
-→ Mechanism
-→ Asset Reaction
-→ Policy Response
-→ Links
-→ Comparison
-→ Lessons
-→ Open Questions
+问题
+→ 确定范围
+→ 收集来源
+→ 整理事实
+→ 提炼机制
+→ 记录资产反应
+→ 记录政策反应
+→ 建立链接
+→ 做案例对比
+→ 提炼经验
+→ 留下未解决问题
 ```
 
 ---
 
-## 2. Step 1: Define the Research Question
+## 2. 第一步：定义研究问题
 
-Start with one clear question.
+先从一个明确问题开始。
 
-Bad:
+不好的问题：
 
 - 研究一下日本。
 - 看看金融危机。
 - 整理一下美国历史。
 
-Good:
+好的问题：
 
 - 1980s 日本资产泡沫是如何通过信贷、房地产和股市互相强化的？
 - 2008 年全球金融危机中，银行资产负债表风险如何传导到实体经济？
 - 一轮加息周期通常怎样影响房价、银行、股市和失业率？
 - 战争如何通过财政支出、通胀、债务和货币制度影响市场？
 
-The question determines note type.
+研究问题会决定笔记类型。
 
-| Question Type | Primary Note Type |
+| 问题类型 | 主要笔记类型 |
 |---|---|
-| What happened in one case? | event |
-| What repeated across many cases? | pattern |
-| What mechanism explains many events? | concept |
-| How did one asset behave? | asset |
-| How did one country evolve? | country |
-| How are two or more cases similar? | comparison |
-| What happened over time? | timeline |
+| 一个案例发生了什么？ | event |
+| 多个案例中反复出现了什么？ | pattern |
+| 哪个机制能解释多个事件？ | concept |
+| 某类资产如何表现？ | asset |
+| 某个国家如何演变？ | country |
+| 两个或多个案例有什么相似和不同？ | comparison |
+| 某段历史如何按时间展开？ | timeline |
 
 ---
 
-## 3. Step 2: Search Existing Notes
+## 3. 第二步：搜索已有笔记
 
-Before writing, search for existing notes by:
+写之前，先按这些关键词搜索已有笔记：
 
-- event name
-- country
-- decade
-- asset
-- mechanism
-- policy tool
-- crisis type
-- comparable event
+- 事件名称。
+- 国家。
+- 年代。
+- 资产。
+- 机制。
+- 政策工具。
+- 危机类型。
+- 可对比事件。
 
-If a related note already exists, update it instead of creating a duplicate.
+如果相关笔记已经存在，就更新已有笔记，不要重复创建。
 
-If a missing related note is important, create a small draft placeholder only when it improves the graph.
+如果缺失的相关笔记很重要，只有在它能改善图谱关系时，才创建一个小型草稿占位笔记。
 
 ---
 
-## 4. Step 3: Collect Sources and Mark Source Status
+## 4. 第三步：收集来源并标记来源状态
 
-Every note should show how reliable its material currently is.
+每篇笔记都应该显示当前材料的可靠程度。
 
-| source_status | Meaning |
+| `source_status` | 含义 |
 |---|---|
-| unsourced | No clear source is attached. |
-| partially-sourced | Some claims have sources, but not all. |
-| sourced | Main factual claims are supported. |
-| verified | Important factual claims have been checked against reliable sources. |
+| `unsourced` | 没有明确来源。 |
+| `partially-sourced` | 部分说法有来源，但不是所有关键内容都有来源。 |
+| `sourced` | 主要事实已经有来源支持。 |
+| `verified` | 关键事实已经对照可靠来源核查。 |
 
-Rules:
+规则：
 
-- Do not mark user memory or rough notes as verified.
-- Do not add precise dates, numbers, or causal claims without a source or uncertainty marker.
-- If unsure, write the uncertainty directly.
+- 不要把个人记忆或粗略材料标成 `verified`。
+- 没有来源或不确定性标记时，不要添加精确日期、数字或因果判断。
+- 如果不确定，就直接写出不确定。
 
-Useful uncertainty phrases:
+可以使用的不确定性表达：
 
-- "needs verification"
-- "likely, but source needed"
-- "one possible mechanism"
-- "not enough evidence in this note yet"
-- "causality may be multi-factor"
+- “需要核查来源”。
+- “可能如此，但需要来源”。
+- “这是一个可能的机制”。
+- “这篇笔记目前证据不足”。
+- “因果关系可能是多因素共同作用”。
 
 ---
 
-## 5. Step 4: Write Facts First
+## 5. 第四步：先写事实
 
-Facts should be separated from interpretation.
+事实要和解释分开。
 
-For event notes, start with:
+写事件笔记时，先从这些维度开始：
 
-| Dimension | Question |
+| 维度 | 要回答的问题 |
 |---|---|
-| Time | When did the event happen? |
-| Place | Which country or region was involved? |
-| Actors | Which governments, central banks, banks, firms, households, or investors mattered? |
-| Market | Which assets moved? |
-| Trigger | What event started the visible crisis or turning point? |
-| Background | What conditions allowed risk to build? |
-| Consequence | What changed after the event? |
+| 时间 | 事件发生在什么时候？ |
+| 地点 | 涉及哪个国家或地区？ |
+| 参与者 | 哪些政府、央行、银行、企业、居民或投资者很重要？ |
+| 市场 | 哪些资产发生了变化？ |
+| 触发因素 | 哪件事引发了可见的危机或转折？ |
+| 背景条件 | 哪些条件让风险能够积累？ |
+| 后果 | 事件之后发生了什么变化？ |
 
-Do not explain everything too early. First establish what happened.
+不要太早解释一切。先把“发生了什么”建立起来。
 
 ---
 
-## 6. Step 5: Build the Mechanism Chain
+## 6. 第五步：建立机制链条
 
-Mechanism is the center of this vault.
+机制是这个知识库的中心。
 
-Use chains instead of vague summaries.
+用链条代替模糊总结。
 
-Bad:
+不好的写法：
 
 ```text
-This crisis had a huge impact on the economy.
+这场危机对经济影响很大。
 ```
 
-Good:
+好的写法：
 
 ```text
-credit expansion
-→ asset prices rise
-→ collateral values rise
-→ more borrowing becomes possible
-→ leverage increases
-→ policy tightening or income shock appears
-→ refinancing becomes difficult
-→ forced selling and defaults spread
+信贷扩张
+→ 资产价格上涨
+→ 抵押品价值上升
+→ 更多借款变得可能
+→ 杠杆继续增加
+→ 政策收紧或收入冲击出现
+→ 再融资变困难
+→ 被迫卖出和违约开始扩散
 ```
 
-Mechanism writing should identify:
+写机制时，要尽量识别：
 
-- initial condition
-- trigger
-- transmission channel
-- balance-sheet effect
-- policy constraint
-- market price reaction
-- social or economic consequence
+- 初始条件。
+- 触发因素。
+- 传导渠道。
+- 资产负债表影响。
+- 政策约束。
+- 市场价格反应。
+- 社会或经济后果。
 
 ---
 
-## 7. Step 6: Record Asset Price Reaction
+## 7. 第六步：记录资产价格反应
 
-When relevant, record how different assets behaved.
+相关时，要记录不同资产如何表现。
 
-| Asset | What to Look For |
+| 资产 | 观察重点 |
 |---|---|
-| stocks | valuation, earnings, liquidity, risk appetite |
-| bonds | yields, credit spreads, default risk, policy expectations |
-| real estate | credit availability, income, leverage, policy support |
-| currency | balance of payments, capital flows, monetary credibility |
-| commodities | inflation, war demand, supply shock, global cycle |
-| cash | purchasing power, optionality, liquidity value |
+| 股票 stocks | 估值、盈利、流动性、风险偏好。 |
+| 债券 bonds | 收益率、信用利差、违约风险、政策预期。 |
+| 房地产 real estate | 信贷可得性、收入、杠杆、政策支持。 |
+| 汇率 currencies | 国际收支、资本流动、货币信誉。 |
+| 商品 commodities | 通胀、战争需求、供给冲击、全球周期。 |
+| 现金 cash | 购买力、选择权、流动性价值。 |
 
-Asset reaction should not be treated as a simple rule. Always attach it to regime, policy, valuation, and balance-sheet conditions.
+不要把资产反应写成简单规则。资产表现必须放回制度环境、政策环境、估值和资产负债表条件中理解。
 
 ---
 
-## 8. Step 7: Record Policy Response
+## 8. 第七步：记录政策反应
 
-Policy response should include both action and constraint.
+政策反应要同时写“做了什么”和“受什么约束”。
 
-| Actor | Questions |
+| 参与者 | 要回答的问题 |
 |---|---|
-| central bank | Did it raise rates, cut rates, provide liquidity, defend currency, or change regime? |
-| government | Did it use fiscal stimulus, austerity, bailout, capital controls, war spending, or regulation? |
-| banks | Did they expand credit, shrink balance sheets, fail, merge, or receive support? |
-| households | Did they borrow, default, save, protest, or change consumption? |
-| firms | Did they invest, cut jobs, default, hoard cash, or move production? |
-| foreign actors | Did capital flow in or out? Did international institutions intervene? |
+| 央行 central bank | 是加息、降息、提供流动性、保汇率，还是改变货币制度？ |
+| 政府 government | 是财政刺激、财政紧缩、救助、资本管制、战争支出，还是监管改革？ |
+| 银行 banks | 是扩张信贷、收缩资产负债表、倒闭、合并，还是接受救助？ |
+| 居民 households | 是借钱、违约、增加储蓄、抗议，还是减少消费？ |
+| 企业 firms | 是投资、裁员、违约、囤现金，还是转移生产？ |
+| 外部参与者 foreign actors | 资本是流入还是流出？国际机构是否介入？ |
 
-Do not write "policy worked" without saying through which channel and over what time horizon.
-
----
-
-## 9. Step 8: Link and Compare
-
-After writing the first version, add links.
-
-Minimum useful links:
-
-- event to country
-- event to pattern
-- event to asset
-- event to concept
-- event to comparable event
-
-Then ask:
-
-- What older case does this resemble?
-- What present case might people wrongly compare it to?
-- Which variables are similar?
-- Which institutional conditions are different?
-- Which lesson transfers, and which does not?
-
-When the comparison becomes important, create a `comparison` note.
+不要只写“政策有效”。必须说明它通过什么渠道、在多长时间尺度上产生效果。
 
 ---
 
-## 10. Step 9: Extract Lessons Carefully
+## 9. 第八步：建立链接并做对比
 
-Investment lessons must be separated from historical analysis.
+写完第一版之后，要补上链接。
 
-Good lessons:
+最低限度的有用链接：
 
-- When leverage depends on rising collateral values, falling prices can make risk non-linear.
-- A policy tool that works under monetary sovereignty may not work under a hard currency constraint.
-- Cash can be valuable during forced deleveraging, but it loses purchasing power during persistent inflation.
-- Stop-loss discipline protects survival when the original thesis is invalidated.
+- event 链接到 country。
+- event 链接到 pattern。
+- event 链接到 asset。
+- event 链接到 concept。
+- event 链接到可对比事件。
 
-Bad lessons:
+然后继续追问：
 
-- Stocks always crash after rate hikes.
-- Real estate always goes up.
-- War is always good for commodities.
-- Central banks can always solve the problem.
+- 这个案例像过去哪个旧案例？
+- 哪个现实案例可能被错误类比到这里？
+- 哪些变量相似？
+- 哪些制度条件不同？
+- 哪些经验可以迁移，哪些不能迁移？
 
-Historical lessons should improve judgment, not create rigid slogans.
+当对比本身变得重要时，就创建 `comparison` 笔记。
 
 ---
 
-## 11. Step 10: Leave Open Questions
+## 10. 第九步：谨慎提炼经验
 
-Every serious note should leave room for what is still unknown.
+投资启发必须和历史分析分开。
 
-Open questions may include:
+好的经验：
 
-- Which source should be checked next?
-- Which number needs verification?
-- Which causal link is uncertain?
-- Which comparable case should be added?
-- Which asset reaction needs data?
-- Which policy effect may have a lag?
+- 当杠杆依赖不断上涨的抵押品价值时，价格下跌会让风险变成非线性。
+- 在货币主权环境下有效的政策工具，在硬货币约束下未必有效。
+- 现金在被迫去杠杆时有价值，但在持续通胀中会损失购买力。
+- 止损纪律保护的是生存能力，尤其是当原始判断已经被证伪时。
 
-Research is finished only when the note is useful, not when it is perfect.
+不好的经验：
+
+- 加息后股票一定崩。
+- 房地产永远上涨。
+- 战争一定利好商品。
+- 央行总能解决问题。
+
+历史经验应该提高判断力，而不是制造僵硬口号。
+
+---
+
+## 11. 第十步：留下未解决问题
+
+严肃笔记应该留下仍然未知的部分。
+
+未解决问题可以包括：
+
+- 下一步应该查哪个来源？
+- 哪个数字需要核查？
+- 哪条因果链还不确定？
+- 哪个可对比案例应该补充？
+- 哪类资产反应需要数据？
+- 哪个政策效果可能存在滞后？
+
+研究不是等到完美才结束，而是当这篇笔记已经能服务未来判断时，先形成一个可用版本。
