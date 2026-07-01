@@ -1,90 +1,82 @@
 # Market Memory Agent Protocol
 
-AI agents: read and follow the English text; the Chinese text is human-facing annotation and does not add separate requirements.  
-AI 代理：只需要阅读并执行英文内容；中文是给人类用户看的对照说明，不额外增加规则。
+AI agents: read and follow the English instructions. Chinese text is human-facing annotation and does not add separate requirements.
+
+AI 代理：执行英文规则；中文是给人类用户看的说明，不额外增加要求。
 
 ---
 
-## 1. Purpose
+## 1. Agent Role
 
-This vault is a structured knowledge base for financial history, economic mechanisms, monetary regimes, geopolitical shocks, and market behavior.  
-这个知识库用于结构化研究金融历史、经济机制、货币制度、地缘冲击和市场表现。
+This vault is a structured market-memory system for financial history, economic mechanisms, monetary regimes, geopolitical shocks, policy response, asset behavior, and reusable market reasoning.
 
-The goal is not to collect everything. The goal is to build reusable, linked, searchable, and comparable knowledge for future market reasoning.  
-目标不是记录一切，而是建立可复用、可链接、可搜索、可对比，并能服务未来市场推理的知识系统。
+这个知识库是一个“市场记忆系统”，用于沉淀金融历史、经济机制、货币制度、地缘冲击、政策反应、资产表现和可复用的市场判断。
+
+The agent is not only a summarizer. The agent is the vault maintainer. When the user asks to "ingest", "archive", "write this into the vault", "summarize this into the vault", or equivalent Chinese requests such as "入库", "整理进去", "写进知识库", the default behavior is to perform the full vault-ingestion operation.
+
+AI 不是只负责总结，而是负责维护知识库。用户说“入库”“整理进去”“写进知识库”等表达时，默认执行完整入库动作。
+
+Default ingestion means:
+
+- search existing notes first;
+- classify the material;
+- choose the correct note type and folder;
+- use the closest existing template;
+- create or update notes;
+- add YAML, disciplined tags, meaningful Obsidian links, and source metadata;
+- update relevant existing nodes, indexes, or backlinks when useful;
+- run the quality checklist before reporting back.
+
+默认入库包括：先搜索、判断类型、选择文件夹和模板、创建或更新笔记、补 YAML/标签/链接/来源信息、必要时更新旧节点或索引，并完成质量检查。
+
+Only pause for user confirmation when the next action would delete user-written content, rename many existing files, create a new top-level folder, publish or push externally, or when the material cannot be reasonably classified.
+
+只有在要删除用户内容、大量重命名、创建新顶层文件夹、外部发布/推送，或材料完全无法判断时，才停下来询问用户。
+
+---
+
+## 2. Core Purpose
+
+The goal is not to collect everything. The goal is to build notes that are precise, structured, linked, searchable, comparable, and useful for future market reasoning.
+
+目标不是收集一切，而是让每篇笔记都精确、结构化、有链接、可搜索、可对比，并服务未来市场推理。
 
 This vault should help answer:
 
-这个知识库应帮助回答：
+- What happened in a specific financial event or period?
+- What mechanisms caused risk to build, spread, or collapse?
+- How did policy makers, banks, households, firms, and markets respond?
+- How did assets behave across regimes and crises?
+- Which historical cases resemble each other, and where does the analogy fail?
+- What reusable risk, investment, or policy lessons can be extracted?
 
-- What happened in a specific financial event or period?  
-  某个金融事件或历史阶段发生了什么？
-- What mechanisms caused risk to build, spread, or collapse?  
-  风险通过什么机制积累、扩散或崩塌？
-- How did policy makers, banks, households, firms, and markets respond?  
-  政策制定者、银行、居民、企业和市场如何反应？
-- How did assets behave across regimes and crises?  
-  不同资产在不同制度和危机中如何表现？
-- Which historical cases resemble each other?  
-  哪些历史案例具有可比性？
-- What reusable investment or risk lessons can be extracted?  
-  可以提炼出哪些可复用的投资或风险经验？
-
-This vault is not a general encyclopedia, news archive, diary, motivation space, or collection of loose essays.  
-这个知识库不是通用百科、新闻归档、日记、鸡汤空间，也不是散文集合。
-
----
-
-## 2. Core Principles
-
-- Prefer mechanism over narration.  
-  机制优先于叙事。
-- Prefer facts over opinions.  
-  事实优先于观点。
-- Prefer structure over long prose.  
-  结构优先于长篇散文。
-- Separate facts, mechanisms, interpretation, uncertainty, and investment lessons.  
-  区分事实、机制、解释、不确定性和投资启示。
-- Do not overstate causality; financial events are usually multi-causal.  
-  不要夸大因果关系；金融事件通常是多因共同作用。
-- Do not add precise dates, numbers, or causal claims without a source or uncertainty marker.  
-  没有来源或不确定性标记时，不要添加精确日期、数字或因果判断。
-- Preserve user-written content unless the user explicitly asks for deletion or rewriting.  
-  除非用户明确要求删除或改写，否则保留用户写过的内容。
-- Avoid duplicate notes for the same event, concept, country, asset, pattern, or comparison.  
-  避免为同一事件、概念、国家、资产、模式或对比创建重复笔记。
-- Do not create new top-level folders without explicit user approval.  
-  未经用户明确同意，不要创建新的顶层文件夹。
+This vault is not a general encyclopedia, news archive, diary, motivation space, prediction machine, or loose essay collection.
 
 ---
 
 ## 3. Folder Map
 
-Use the existing bilingual folder structure as the source of truth. Do not rename it into English-only folders.  
-以当前已经存在的双语目录结构为准，不要改成纯英文目录。
+Use the existing bilingual folder structure as the source of truth. Do not rename it into English-only folders. Do not create new top-level folders without explicit user approval.
+
+以现有双语目录为准，不要改成纯英文目录，也不要未经确认创建新的顶层文件夹。
 
 | Folder | Responsibility |
 |---|---|
-| `00_Home（首页）/` | Human entry points, purpose, usage, workflow, writing rules. / 人类入口、项目目标、使用方法、研究流程、写作规则。 |
-| `01_Timeline（时间线）/` | Chronological context and period summaries; do not duplicate full event notes. / 时间线和阶段总览；不要重复完整事件笔记。 |
-| `02_Events（事件）/` | Primary database for real historical events. / 真实历史事件的主要数据库。 |
-| `03_Patterns（模式）/` | Recurring financial, economic, market, and policy patterns. / 反复出现的金融、经济、市场和政策模式。 |
-| `04_Countries（国家）/` | Country or region context nodes, not the primary event structure. / 国家或地区背景节点，不是事件主结构。 |
-| `05_Assets（资产）/` | Asset-class behavior across regimes and crises. / 不同周期和危机中的资产表现。 |
-| `06_Concepts（概念）/` | Reusable mechanisms and financial concepts. / 可复用机制和金融概念。 |
-| `07_Comparisons（对比）/` | Structured analytical comparisons. / 结构化分析对比。 |
-| `99_Tool/Templates（模板）/` | Templates and operational helpers. / 模板和操作辅助材料。 |
+| `00_Home（首页）/` | Human entry points, project vision, usage, workflow, writing rules. |
+| `01_Timeline（时间线）/` | Chronological context and period summaries; do not duplicate full event notes. |
+| `02_Events（事件）/` | Primary database for real historical events. |
+| `03_Patterns（模式）/` | Recurring financial, economic, market, and policy patterns. |
+| `04_Countries（国家）/` | Country or region context nodes, not the primary event structure. |
+| `05_Assets（资产）/` | Asset-class behavior across regimes and crises. |
+| `06_Concepts（概念）/` | Reusable mechanisms and financial concepts. |
+| `07_Comparisons（对比）/` | Structured analytical comparisons. |
+| `99_Tool/Templates（模板）/` | Templates and operational helpers. |
 
 ---
 
-## 4. Note Types
+## 4. Note Types and Templates
 
-Every structured note should have one primary type.  
-每篇结构化笔记都应该有一个主要类型。
-
-Allowed types:
-
-允许类型：
+Every structured note must have one primary `type`.
 
 ```text
 event
@@ -98,67 +90,201 @@ overview
 draft
 ```
 
-- `event`: a real historical event. / 真实历史事件。
-- `pattern`: a recurring market or economic pattern. / 反复出现的市场或经济模式。
-- `country`: a country or region financial profile. / 国家或地区金融档案。
-- `asset`: an asset-class behavior profile. / 资产类别行为档案。
-- `concept`: a reusable mechanism or financial concept. / 可复用机制或金融概念。
-- `comparison`: a structured comparison between cases. / 案例之间的结构化对比。
-- `timeline`: a chronological overview. / 时间线总览。
-- `overview`: a landing page inside a folder. / 文件夹内的总览页。
-- `draft`: incomplete, unverified, or temporary material. / 不完整、未验证或临时材料。
+Use existing templates first:
+
+| Material | Primary type | Folder | Template |
+|---|---|---|---|
+| A real historical case or crisis | `event` | `02_Events（事件）/` | `99_Tool/Templates（模板）/Event Template.md` |
+| A recurring crisis or market structure | `pattern` | `03_Patterns（模式）/` | `99_Tool/Templates（模板）/Pattern Template.md` |
+| An asset-class behavior profile | `asset` | `05_Assets（资产）/` | `99_Tool/Templates（模板）/Asset Template.md` |
+| A reusable mechanism or financial idea | `concept` | `06_Concepts（概念）/` | `99_Tool/Templates（模板）/Concept Template.md` |
+| A country or region financial context | `country` | `04_Countries（国家）/` | Use the established YAML and section rules from this file. |
+| A structured comparison between cases | `comparison` | `07_Comparisons（对比）/` | Use consistent comparison dimensions from this file. |
+| A chronological period overview | `timeline` | `01_Timeline（时间线）/` | Keep it chronological; do not duplicate event notes. |
+
+If no exact template exists, follow the closest existing template style: YAML frontmatter, concise sections, tables where useful, mechanism chains, graph relations, investment lessons, and open questions.
+
+如果没有完全对应的模板，就参考已有模板的结构，不要写成长篇散文。
 
 ---
 
-## 5. Naming and Language
+## 5. Chat-to-Vault Ingestion Workflow
 
-For new files, prefer stable English filenames. Keep existing bilingual folder names unchanged.  
-新文件优先使用稳定英文文件名；保留现有双语文件夹名称。
+When the user provides spoken, rough, mixed, or story-like material and asks for ingestion, execute this workflow without waiting for a manual classification step.
 
-For event files, prefer:
+用户用聊天方式讲材料并要求入库时，直接执行下面流程，不要把分类工作推回给用户。
 
-事件文件优先使用：
+### Step 1: Read and extract
+
+Extract:
+
+- the main event, mechanism, asset, country, or comparison;
+- time period, region, country, actors, policies, and assets mentioned;
+- source status: user memory, unsourced draft, source excerpt, or verified source;
+- reusable concepts or patterns worth linking;
+- uncertainty, missing facts, and claims that need verification.
+
+### Step 2: Search before writing
+
+Before creating a new note, search the vault with `rg` or filename search for:
+
+- event name and alternate names;
+- country or region;
+- decade or year;
+- asset class;
+- crisis type;
+- policy tool;
+- concept or mechanism;
+- comparable cases.
+
+If a related note already exists, update it instead of creating a duplicate.
+
+### Step 3: Decide operation
+
+Choose the smallest operation that preserves meaning:
 
 ```text
-YYYY - Country or Region - Event Name.md
+update existing note
+create a new note
+split into multiple notes
+merge with an existing note
+create a small draft placeholder
+leave as draft
 ```
+
+For mixed material, split only when the knowledge units have different primary types. For example, a story about "Japan 1989 bubble collapse" may create or update an event note, while "collateral cycle" may update or create a concept note if it is reusable across many cases.
+
+混合材料中，只有当知识单元属于不同主类型时才拆分；不要把无关内容硬塞进一篇大笔记。
+
+### Step 4: Use templates and write the note
+
+Use the relevant template. Keep writing concise and analytical.
+
+Separate:
+
+```text
+Facts
+Mechanism
+Policy Response
+Asset Price Reaction
+Social and Economic Impact
+Interpretation
+Investment Lessons
+Open Questions
+```
+
+Do not invent precise dates, numbers, or causal claims. If the material is unsourced, mark it clearly as draft and uncertain.
+
+### Step 5: Link into the graph
+
+The note is not fully ingested until it is connected to the graph.
+
+Minimum useful links for an event note:
+
+- country or region;
+- relevant patterns;
+- relevant assets;
+- relevant concepts;
+- comparable events.
+
+Pattern, concept, asset, and country notes should link back to the events that demonstrate them when the new material deepens or validates those nodes.
+
+### Step 6: Update old nodes when the new note adds meaning
+
+If a new event illustrates an existing concept, pattern, asset behavior, or country profile, update the existing node with a short backlink and one sentence explaining what the new note contributes.
+
+Do not rely only on folder indexes. Indexes are entry points; conceptual meaning belongs in concept, pattern, asset, country, event, and comparison notes.
+
+新笔记如果深化了旧概念、旧模式或旧资产节点，要反向更新旧节点。不要只依赖索引建立关系。
+
+### Step 7: Update existing indexes only when appropriate
+
+If a folder has an existing index file and the new note clearly belongs there, update that index. Do not create new index, MOC, or administrative middle-layer files unless the user explicitly asks.
+
+如果已有索引，就按需更新；不要主动制造新的中转层。
+
+---
+
+## 6. Concept, Pattern, and Link Discipline
+
+Tags classify. Links express meaning.
+
+标签负责分类，链接负责表达关系。
+
+Use `[[wikilink]]` inline for important concepts, mechanisms, assets, countries, and comparable events. Do not only list links at the bottom.
+
+重要概念要在正文中内嵌 `[[wikilink]]`，不要只堆在文末。
+
+Create a new concept or pattern node only when all or most of these are true:
+
+- it is not already covered by an existing note;
+- it is reusable across multiple events or regimes;
+- it helps explain market behavior, policy response, asset pricing, or crisis transmission;
+- it is likely to appear again in future research;
+- it improves graph connectivity rather than adding noise.
+
+Do not create a new node when:
+
+- the term is a one-off mention;
+- a close existing concept or pattern can cover it;
+- the node would only restate a generic dictionary definition;
+- the link would be vague and not useful for future reasoning.
 
 Examples:
 
-示例：
+- `financial crisis` may be too broad as a standalone concept unless the note defines a reusable mechanism.
+- `collateral cycle`, `balance-sheet recession`, `currency mismatch`, `liquidity spiral`, or `sovereign debt crisis` are better candidates when they explain multiple events.
+- If the material is mainly a real case, create or update an `event` note first, then link to concepts and patterns.
 
-```text
-1929 - United States - Great Depression.md
-1971 - United States - Nixon Shock.md
-1985 - Global - Plaza Accord.md
-1989 - Japan - Asset Bubble Collapse.md
-2008 - Global - Global Financial Crisis.md
-```
-
-For multi-year events, use the starting decade or historically standard name when appropriate.  
-跨多年事件可使用起始年代，或使用历史上更通行的名称。
-
-```text
-1980s - Latin America - Debt Crisis.md
-1990s - Japan - Lost Decade.md
-```
-
-Use English titles when possible. In body content, write bilingual explanations where useful, with English first and Chinese second.  
-标题能用英文时优先使用英文；正文需要解释时使用中英双语，英文在前，中文在后。
-
-Avoid vague, emotional, overly long, duplicate, or unstable file names.  
-避免模糊、情绪化、过长、重复或不稳定的文件名。
+When linking to missing but important nodes, either create a small draft placeholder with a TODO section or avoid the link until the node is useful enough to maintain.
 
 ---
 
-## 6. YAML Metadata
+## 7. Tag Discipline
 
-Every structured note must include YAML frontmatter. YAML is the database layer of the vault.  
-每篇结构化笔记都必须包含 YAML frontmatter；YAML 是这个知识库的数据库层。
+Use lowercase English, slash-based, hyphenated tags. In YAML `tags`, omit the leading `#`.
+
+YAML 中标签不写 `#`；正文里如果使用普通 hashtag，可以写 `#`。
+
+Correct YAML tag examples:
+
+```yaml
+tags:
+  - type/event
+  - status/draft
+  - decade/1980s
+  - region/asia
+  - country/japan
+  - pattern/asset-bubble
+  - asset/real-estate
+  - concept/leverage
+  - impact/systemic
+```
+
+Incorrect examples:
+
+```text
+Japan
+日本
+Asset Bubble
+金融危机
+RealEstate
+```
+
+Use tags sparingly:
+
+- Always include `type/...` and `status/...`.
+- Add decade, region, country, asset, pattern, concept, or impact tags only when they help filtering or search.
+- Do not create many one-off tags.
+- Do not use tags as a substitute for meaningful `[[wikilink]]` relationships.
+
+---
+
+## 8. YAML Metadata
+
+Every structured note must include YAML frontmatter.
 
 Minimum required fields:
-
-最低必需字段：
 
 ```yaml
 ---
@@ -175,8 +301,6 @@ updated:
 
 Allowed `status` values:
 
-允许的 `status` 值：
-
 ```text
 draft
 active
@@ -186,8 +310,6 @@ archived
 
 Allowed `source_status` values:
 
-允许的 `source_status` 值：
-
 ```text
 unsourced
 partially-sourced
@@ -195,219 +317,165 @@ sourced
 verified
 ```
 
-If the user provides unsourced rough material, keep it as `status: draft`, `source_status: unsourced`, and `sources: []`.  
-如果用户提供的是未标来源的粗略材料，应保留为 `status: draft`、`source_status: unsourced`、`sources: []`。
+If the user provides unsourced rough material, use:
 
-Use `created` for the original creation date and `updated` for the latest edit date.  
-`created` 表示原始创建日期，`updated` 表示最近编辑日期。
-
----
-
-## 7. Tags and Links
-
-Tags classify notes. Links express relationships.  
-标签用于分类，链接用于表达关系。
-
-Tags must be lowercase, English, slash-based, and hyphenated for multi-word terms.  
-标签必须使用小写英文、斜杠结构，多词条使用连字符。
-
-Correct examples:
-
-正确示例：
-
-```text
-#type/event
-#status/draft
-#decade/1980s
-#region/asia
-#country/japan
-#pattern/asset-bubble
-#asset/real-estate
-#concept/leverage
-#impact/systemic
+```yaml
+status: draft
+source_status: unsourced
+sources: []
 ```
 
-Incorrect examples:
+Do not mark user memory, rough narration, or unsourced notes as `verified`.
 
-错误示例：
+---
+
+## 9. Naming and Language
+
+For new files, prefer stable English filenames. Keep existing bilingual folder names unchanged.
+
+For event files, prefer:
 
 ```text
-#Japan
-#日本
-#Asset Bubble
-#金融危机
-#RealEstate
+YYYY - Country or Region - Event Name.md
 ```
 
-Every structured note should contain meaningful Obsidian links. Avoid orphan notes unless they are explicitly marked as drafts.  
-每篇结构化笔记都应包含有意义的 Obsidian 链接；除非明确标记为草稿，否则避免孤立笔记。
-
-Event notes should link to relevant country, pattern, asset, concept, and comparable event notes whenever possible.  
-事件笔记应尽可能链接到相关国家、模式、资产、概念和可比事件笔记。
-
-Pattern, country, asset, and concept notes should link back to the events that demonstrate them.  
-模式、国家、资产和概念笔记应反向链接到能体现它们的事件。
-
-Avoid links to non-existing notes unless the missing note is intentionally planned. If important, create a small draft placeholder with a TODO section.  
-避免链接到不存在的笔记；如果缺失笔记很重要，可以创建带 TODO 的小型草稿占位笔记。
-
----
-
-## 8. Ingestion Workflow
-
-When the user provides new material, first classify it.  
-当用户提供新材料时，先判断材料类型。
-
-Material types:
-
-材料类型：
+Examples:
 
 ```text
-historical event
-pattern or mechanism
-country or region
-asset
-concept
-comparison
-raw draft
-source excerpt
-mixed material
+1929 - United States - Great Depression.md
+1971 - United States - Nixon Shock.md
+1985 - Global - Plaza Accord.md
+1989 - Japan - Asset Bubble Collapse.md
+2008 - Global - Global Financial Crisis.md
 ```
 
-Then decide the operation.  
-然后判断操作类型。
-
-Operation types:
-
-操作类型：
+For multi-year events, use the starting decade or historically standard name when appropriate:
 
 ```text
-create a new note
-update an existing note
-split into multiple notes
-merge with an existing note
-move a note
-rename a note
-create draft placeholders
-leave as draft
+1980s - Latin America - Debt Crisis.md
+1990s - Japan - Lost Decade.md
 ```
 
-Before creating a note, search for existing related notes to avoid duplication.  
-创建笔记前，先搜索已有相关笔记，避免重复。
+Use Chinese for body explanations when that is clearer for the user. Preserve English for filenames, YAML fields, tags, note types, and important finance terms when it improves search or precision.
 
-If the material contains multiple independent knowledge units, split them or update multiple existing notes.  
-如果材料包含多个独立知识单元，应拆分，或更新多篇已有笔记。
-
-Place each note in the correct folder, then add YAML, standardized tags, meaningful links, and source metadata.  
-把每篇笔记放入正确目录，然后添加 YAML、标准化标签、有意义链接和来源元数据。
-
-After editing, run the quality checklist in this file.  
-编辑完成后，执行本文档中的质量检查清单。
+正文可用中文解释；文件名、YAML、标签、笔记类型和关键金融术语可保留英文以便搜索和精确管理。
 
 ---
 
-## 9. Writing and Output Rules
+## 10. Source and Uncertainty Rules
 
-Use concise analytical writing. Prefer headings, bullet points, tables, and mechanism chains over long paragraphs.  
-使用简洁的分析型写作；优先使用标题、要点、表格和机制链，而不是长段落。
-
-Separate these sections when relevant:
-
-在相关时区分这些部分：
+The vault does not require a separate source folder by default, but every structured note must preserve lightweight source metadata.
 
 ```text
-Facts
-Mechanism
-Policy Response
-Asset Price Reaction
-Social and Economic Impact
-Interpretation
-Investment Lessons
-Open Questions
+unsourced          no clear source is attached
+partially-sourced  some claims have sources but not all
+sourced            main factual claims are supported
+verified           important factual claims have been checked against reliable sources
 ```
 
-Avoid vague sentences. Replace "This crisis had a huge impact" with the concrete transmission mechanism.  
-避免空泛句子；不要写“这场危机影响巨大”，要写清楚具体传导机制。
+Rules:
 
-When answering from the vault, use existing notes as primary context and separate vault facts, inferred analysis, uncertainty, and investment implications.  
-基于知识库回答时，优先使用已有笔记，并区分知识库事实、推导分析、不确定性和投资含义。
-
-Do not invent historical facts that are not in the vault or otherwise verified. If information is missing, say what is missing.  
-不要编造知识库中没有、也没有被验证的历史事实；如果信息不足，要说明缺少什么。
-
-When comparing events, use consistent dimensions: background, trigger, transmission mechanism, policy response, asset price reaction, long-term consequences, and investment lessons.  
-对比事件时，使用一致维度：背景、触发因素、传导机制、政策反应、资产价格反应、长期后果和投资启示。
-
-Prefer tables for comparisons.  
-对比内容优先使用表格。
+- Do not add precise dates, numbers, or causal claims without a source or uncertainty marker.
+- Separate facts, mechanisms, interpretation, uncertainty, and investment lessons.
+- Use uncertainty markers such as "needs source", "possibly", "one possible mechanism", or "causality is multi-factor".
+- If live verification is required by the user or by the nature of the claim, verify before upgrading `source_status`.
+- Investment lessons must be framed as historical or risk lessons, not personalized investment advice.
 
 ---
 
-## 10. Source Rules
+## 11. Writing Rules
 
-The vault does not require a separate source folder by default, but every structured note should preserve lightweight source metadata.  
-默认不要求单独建立来源文件夹，但每篇结构化笔记仍应保留轻量来源元数据。
+Prefer mechanism over narration, facts over opinions, structure over long prose.
 
-- `unsourced`: no clear source is attached. / 没有明确来源。
-- `partially-sourced`: some claims have sources but not all. / 部分内容有来源。
-- `sourced`: main factual claims are supported. / 主要事实有来源支持。
-- `verified`: important factual claims have been checked against reliable sources. / 关键事实已对照可靠来源核查。
+Use mechanism chains instead of vague impact statements.
 
-Do not mark unsourced user notes as verified.  
-不要把未标来源的用户笔记标为已验证。
+Weak:
 
----
+```text
+This crisis had a huge impact.
+```
 
-## 11. Quality Checklist
+Better:
 
-Before finishing any new or edited note, check:
+```text
+credit expansion
+→ asset prices rise
+→ collateral value rises
+→ more borrowing becomes possible
+→ leverage increases
+→ policy tightening or income shock appears
+→ refinancing becomes difficult
+→ forced selling and defaults spread
+```
 
-完成任何新建或编辑笔记前，检查：
+When comparing events, use consistent dimensions:
 
-- Is the note type clear? / 笔记类型是否明确？
-- Is the note in the correct folder? / 笔记是否放在正确目录？
-- Does it include YAML frontmatter? / 是否包含 YAML frontmatter？
-- Are `type`, `status`, `source_status`, `created`, and `updated` present? / 是否包含这些关键字段？
-- Are tags standardized? / 标签是否标准化？
-- Are meaningful Obsidian links present? / 是否包含有意义的 Obsidian 链接？
-- Does it avoid duplicate existing notes? / 是否避免重复已有笔记？
-- Are facts separated from interpretation? / 事实和解释是否分开？
-- Is uncertainty marked? / 不确定性是否被标出？
-- Is causality stated carefully? / 因果关系是否谨慎表述？
-- Is the note useful for future financial or market reasoning? / 是否有助于未来的金融或市场推理？
+- background;
+- trigger;
+- transmission mechanism;
+- policy response;
+- asset price reaction;
+- long-term consequences;
+- investment or risk lessons;
+- where the analogy fails.
 
----
-
-## 12. Forbidden Practices
-
-- Do not create vague notes with no links. / 不要创建没有链接的模糊笔记。
-- Do not treat the vault as a general history archive. / 不要把这个知识库当成通用历史档案馆。
-- Do not mix unrelated events into one oversized note. / 不要把无关事件混进一篇过大的笔记。
-- Do not replace structured notes with long essays. / 不要用长篇散文替代结构化笔记。
-- Do not use Chinese tags mixed with English tags. / 不要混用中文标签和英文标签。
-- Do not generate investment advice without separating it from historical analysis. / 不要在未区分历史分析的情况下生成投资建议。
-- Do not hide uncertainty. / 不要隐藏不确定性。
-- Do not rename files casually. / 不要随意重命名文件。
-- Do not make broad changes when a narrow update is enough. / 能小范围更新时，不要进行大范围改动。
+Prefer tables for comparisons.
 
 ---
 
-## 13. Final Philosophy
+## 12. Quality Checklist
 
-Folders store facts by module.  
-文件夹按模块存放事实。
+Before finishing any new or edited note, verify:
 
-Links express relationships.  
-链接表达关系。
+- Is the note type clear?
+- Is the note in the correct folder?
+- Was the vault searched first to avoid duplicates?
+- Was the closest existing template used?
+- Does the note include YAML frontmatter?
+- Are `type`, `status`, `source_status`, `created`, and `updated` present?
+- Are tags lowercase, English, slash-based, and useful rather than noisy?
+- Are important concepts linked inline with `[[wikilink]]`?
+- Are graph relations listed or linked where useful?
+- Were relevant old concept, pattern, asset, country, event, comparison, or index notes updated when the new material added meaning?
+- Are facts separated from interpretation?
+- Is uncertainty marked?
+- Is causality stated carefully?
+- Is the note useful for future financial or market reasoning?
 
-Tags classify notes.  
-标签分类笔记。
+When reporting back, list the files created or edited and mention any remaining uncertainty or missing sources.
 
-YAML makes the vault queryable.  
-YAML 让知识库可查询。
+---
 
-Comparison notes generate insight.  
-对比笔记产生洞察。
+## 13. Forbidden Practices
 
-Every note should be precise, structured, linked, searchable, comparable, and useful for future market reasoning.  
-每篇笔记都应该精确、结构化、有链接、可搜索、可对比，并能服务未来的市场推理。
+- Do not stop at a summary when the user asked to ingest material.
+- Do not create vague notes with no links.
+- Do not treat the vault as a general history archive.
+- Do not mix unrelated events into one oversized note.
+- Do not replace structured notes with long essays.
+- Do not use Chinese tags mixed with English tags.
+- Do not create duplicate notes for the same event, concept, country, asset, pattern, or comparison.
+- Do not create many one-off concept nodes or tags.
+- Do not hide uncertainty.
+- Do not overstate causality.
+- Do not rename files casually.
+- Do not create new top-level folders without explicit user approval.
+- Do not make broad changes when a narrow update is enough.
+
+---
+
+## 14. Final Philosophy
+
+Folders store facts by module.
+
+Links express relationships.
+
+Tags classify notes.
+
+YAML makes the vault queryable.
+
+Templates keep notes comparable.
+
+Comparison notes generate insight.
+
+Every note should be precise, structured, linked, searchable, comparable, and useful for future market reasoning.
