@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Home（首页）/Writing Rules（写作规则）.md",
-                "mode": "source",
+                "file": "02_Events（事件）/Platform Economy Events（平台经济事件）/2026 - Global - PlayStation Physical Disc Exit.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing Rules（写作规则）"
+              "title": "2026 - Global - PlayStation Physical Disc Exit"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 449.5
   },
   "right": {
     "id": "2e05c30da0781b56",
@@ -182,41 +182,41 @@
   },
   "active": "3ca22841e5b3e361",
   "lastOpenFiles": [
+    "02_Events（事件）/Event Index（事件索引）.md",
+    "01_Timeline（时间线）/2000s（21世纪）/2020-2029（2020-2029年）/2020-2029 Timeline Index（2020-2029时间线索引）.md",
+    "02_Events（事件）/Platform Economy Events（平台经济事件）/2026 - Global - PlayStation Physical Disc Exit.md",
+    "02_Events（事件）/Platform Economy Events（平台经济事件）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
+    "02_Events（事件）/Platform Economy Events（平台经济事件）",
+    "03_Patterns（模式）/Platform Economics（平台经济）/Digital Distribution Lock-In.md",
+    "03_Patterns（模式）/Pattern Index（模式索引）.md",
+    "06_Concepts（概念）/Platform Economics（平台经济）/Platform-Mediated Ownership.md",
+    "01_Timeline（时间线）/2000s（21世纪）/2020-2029（2020-2029年）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
+    "01_Timeline（时间线）/2000s（21世纪）/2020-2029（2020-2029年）/2026 - Global - PlayStation Physical Disc Exit.md",
+    "07_Comparisons（对比）/Comparison Index（对比索引）.md",
+    "07_Comparisons（对比）/PlayStation Disc Exit vs Nintendo Game-Key Cards.md",
+    "07_Comparisons（对比）/Platform Economics Comparisons（平台经济对比）/PlayStation Disc Exit vs Nintendo Game-Key Cards.md",
+    "07_Comparisons（对比）/Platform Economics Comparisons（平台经济对比）",
+    "06_Concepts（概念）/Platform Economics（平台经济）",
+    "03_Patterns（模式）/Platform Economics（平台经济）",
+    "02_Events（事件）/2026 - Global - PlayStation Physical Disc Exit.md",
+    "02_Events（事件）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
+    "06_Concepts（概念）/Platform-Mediated Ownership.md",
+    "06_Concepts（概念）/Concept Index（概念索引）.md",
+    "05_Assets（资产）/Asset Index（资产索引）.md",
+    "03_Patterns（模式）/Digital Distribution Lock-In.md",
+    "00_Home（首页）/Writing Rules（写作规则）.md",
+    "README.md",
     "AGENTS.md",
     "00_Home（首页）/Home（首页）.md",
     "00_Home（首页）/How to Use This Vault（如何使用这个知识库）.md",
     "00_Home（首页）/Project Vision（项目愿景）.md",
-    "00_Home（首页）/Writing Rules（写作规则）.md",
     "00_Home（首页）/Research Workflow（研究流程）.md",
     "99_Tool/草稿参考.md",
-    "99_Tool/Templates（模板）/Pattern Template.md",
-    "99_Tool/Templates（模板）/Concept Template.md",
-    "99_Tool/Templates（模板）/Asset Template.md",
-    "99_Tool/Templates（模板）/Event Template.md",
-    "123.md",
-    "99_Tool/Templates（模板）/Asset Folder Template（资产文件夹模板）.md",
-    "事件名.md",
-    "05_Assets（资产）/Stocks（股票）/Crash Behavior（崩盘表现）.md",
     "03_Patterns（模式）/Stock Market Crash（股市崩盘）/Liquidity Spiral（流动性螺旋）",
     "03_Patterns（模式）/Stock Market Crash（股市崩盘）/Stock Market Crash Overview（股市崩盘总览）",
     "03_Patterns（模式）/Stock Market Crash（股市崩盘）/Investment Lessons（投资启示）",
     "03_Patterns（模式）/Stock Market Crash（股市崩盘）/Margin and Leverage（保证金与杠杆）",
     "03_Patterns（模式）/Stock Market Crash（股市崩盘）/Historical Cases（历史案例）",
-    "03_Patterns（模式）/Stock Market Crash（股市崩盘）/Crash Triggers（崩盘触发因素）",
-    "03_Patterns（模式）/Currency Crisis（货币危机）/Currency Crisis Overview（货币危机总览）",
-    "03_Patterns（模式）/Currency Crisis（货币危机）/IMF Intervention（国际货币基金组织干预）",
-    "03_Patterns（模式）/Currency Crisis（货币危机）/Fixed Exchange Rate Failure（固定汇率失败）",
-    "03_Patterns（模式）/Currency Crisis（货币危机）/Investment Lessons（投资启示）",
-    "06_Concepts（概念）/Concept Index（概念索引）.md",
-    "06_Concepts（概念）/Deflation（通货紧缩）/Related Events（相关事件）.md",
-    "06_Concepts（概念）/Deflation（通货紧缩）/Japan Case（日本案例）.md",
-    "06_Concepts（概念）/Deflation（通货紧缩）/Demand Collapse（需求坍塌）.md",
-    "06_Concepts（概念）/Deflation（通货紧缩）/Deflation Overview（通货紧缩总览）.md",
-    "06_Concepts（概念）/Deflation（通货紧缩）/Debt Deflation（债务通缩）.md",
-    "01_Timeline（时间线）/Timeline Overview（时间线总览）.md",
-    "03_Patterns（模式）/Pattern Index（模式索引）.md",
-    "03_Patterns（模式）/War Finance（战争财政）/Historical Cases（历史案例）.md",
-    "03_Patterns（模式）/War Finance（战争财政）/Fiscal Expansion（财政扩张）.md",
-    "03_Patterns（模式）/Stock Market Crash（股市崩盘）/Crash Triggers（崩盘触发因素）.md"
+    "03_Patterns（模式）/Stock Market Crash（股市崩盘）/Crash Triggers（崩盘触发因素）"
   ]
 }
