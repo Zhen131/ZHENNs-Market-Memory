@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8c707600945b5786",
+        "id": "0062e52c84d67869",
         "type": "tabs",
         "children": [
           {
-            "id": "d2e94ad58a6eccaf",
+            "id": "a2b8b247fe8f9cda",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -176,7 +176,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d2e94ad58a6eccaf",
+  "active": "a2b8b247fe8f9cda",
   "lastOpenFiles": [
     "00_Home（首页）/How to Use This Vault（如何使用这个知识库）.md",
     "99_Tool",
