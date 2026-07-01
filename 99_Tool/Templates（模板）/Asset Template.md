@@ -1,6 +1,7 @@
 ---
 type: asset
 status: draft
+title: "{{Asset Name}}"
 asset: "{{Asset Name}}"
 asset_class: ""
 value_source: []
