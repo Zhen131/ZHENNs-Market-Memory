@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0062e52c84d67869",
+        "id": "2e7266c71b7a277d",
         "type": "tabs",
         "children": [
           {
-            "id": "a2b8b247fe8f9cda",
+            "id": "3ca22841e5b3e361",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00_Home（首页）/Writing Rules（写作规则）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Writing Rules（写作规则）"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 409.5
   },
   "right": {
     "id": "2e05c30da0781b56",
@@ -176,42 +180,43 @@
       "bases:新建数据库": false
     }
   },
-  "active": "a2b8b247fe8f9cda",
+  "active": "3ca22841e5b3e361",
   "lastOpenFiles": [
-    "00_Home（首页）/How to Use This Vault（如何使用这个知识库）.md",
-    "99_Tool",
+    "AGENTS.md",
     "00_Home（首页）/Home（首页）.md",
-    "99_Tool/Templates（模板）/Country Folder Template（国家文件夹模板）.md",
-    "99_Tool/Templates（模板）/Comparison Template（对比模板）.md",
+    "00_Home（首页）/How to Use This Vault（如何使用这个知识库）.md",
+    "00_Home（首页）/Project Vision（项目愿景）.md",
+    "00_Home（首页）/Writing Rules（写作规则）.md",
+    "00_Home（首页）/Research Workflow（研究流程）.md",
+    "99_Tool/草稿参考.md",
+    "99_Tool/Templates（模板）/Pattern Template.md",
+    "99_Tool/Templates（模板）/Concept Template.md",
+    "99_Tool/Templates（模板）/Asset Template.md",
+    "99_Tool/Templates（模板）/Event Template.md",
+    "123.md",
     "99_Tool/Templates（模板）/Asset Folder Template（资产文件夹模板）.md",
-    "07_Comparisons（对比）/War and Crisis Comparisons（战争与危机对比）/1973 Oil Shock vs 2022 Energy Shock（1973石油冲击对比2022能源冲击）.md",
-    "07_Comparisons（对比）/War and Crisis Comparisons（战争与危机对比）/War and Crisis Comparisons Overview（战争与危机对比总览）.md",
-    "99_Tool/Templates（模板）/Overview Page Template（总览页模板）.md",
-    "99_Tool/Templates（模板）/Concept Folder Template（概念文件夹模板）.md",
-    "99_Tool/Templates（模板）/Pattern Folder Template（模式文件夹模板）.md",
-    "99_Tool/Templates（模板）/Event Template（事件模板）.md",
-    "07_Comparisons（对比）/War and Crisis Comparisons（战争与危机对比）/World War I vs World War II Financial Impact（一战对比二战金融影响）.md",
-    "07_Comparisons（对比）/Inflation Comparisons（通胀对比）/Weimar Hyperinflation vs Modern Inflation（魏玛恶性通胀对比现代通胀）.md",
-    "07_Comparisons（对比）/Inflation Comparisons（通胀对比）/Inflation Comparisons Overview（通胀对比总览）.md",
-    "07_Comparisons（对比）/Inflation Comparisons（通胀对比）/1970s Inflation vs 2022 Inflation（1970年代通胀对比2022年通胀）.md",
-    "07_Comparisons（对比）/Debt Crisis Comparisons（债务危机对比）/Latin America 1980s vs Europe 2010（拉丁美洲1980年代对比欧洲2010）.md",
-    "07_Comparisons（对比）/Debt Crisis Comparisons（债务危机对比）/Debt Crisis Comparisons Overview（债务危机对比总览）.md",
-    "07_Comparisons（对比）/Debt Crisis Comparisons（债务危机对比）/Argentina vs Greece（阿根廷对比希腊）.md",
-    "07_Comparisons（对比）/Currency Crisis Comparisons（货币危机对比）/Turkey Lira Crisis vs Argentina Peso Crisis（土耳其里拉危机对比阿根廷比索危机）.md",
-    "07_Comparisons（对比）/Currency Crisis Comparisons（货币危机对比）/Currency Crisis Comparisons Overview（货币危机对比总览）.md",
-    "07_Comparisons（对比）/Currency Crisis Comparisons（货币危机对比）/1992 Black Wednesday vs 1997 Asian Crisis（1992黑色星期三对比1997亚洲危机）.md",
-    "07_Comparisons（对比）/Bubble Comparisons（泡沫对比）/Railway Mania vs AI Boom（铁路狂热对比AI热潮）.md",
-    "07_Comparisons（对比）/Bubble Comparisons（泡沫对比）/Japan 1989 vs US 2008（日本1989对比美国2008）.md",
-    "07_Comparisons（对比）/Bubble Comparisons（泡沫对比）/Dotcom Bubble vs Crypto Bubble（互联网泡沫对比加密泡沫）.md",
-    "07_Comparisons（对比）/Bubble Comparisons（泡沫对比）/Bubble Comparisons Overview（泡沫对比总览）.md",
-    "07_Comparisons（对比）/War and Crisis Comparisons（战争与危机对比）",
-    "07_Comparisons（对比）/Inflation Comparisons（通胀对比）",
-    "07_Comparisons（对比）/Debt Crisis Comparisons（债务危机对比）",
-    "07_Comparisons（对比）/Currency Crisis Comparisons（货币危机对比）",
-    "07_Comparisons（对比）/Bubble Comparisons（泡沫对比）",
-    "07_Comparisons（对比）",
-    "06_Concepts（概念）/Quantitative Easing（量化宽松）",
-    "06_Concepts（概念）/Leverage（杠杆）",
-    "06_Concepts（概念）/Liquidity（流动性）"
+    "事件名.md",
+    "05_Assets（资产）/Stocks（股票）/Crash Behavior（崩盘表现）.md",
+    "03_Patterns（模式）/Stock Market Crash（股市崩盘）/Liquidity Spiral（流动性螺旋）",
+    "03_Patterns（模式）/Stock Market Crash（股市崩盘）/Stock Market Crash Overview（股市崩盘总览）",
+    "03_Patterns（模式）/Stock Market Crash（股市崩盘）/Investment Lessons（投资启示）",
+    "03_Patterns（模式）/Stock Market Crash（股市崩盘）/Margin and Leverage（保证金与杠杆）",
+    "03_Patterns（模式）/Stock Market Crash（股市崩盘）/Historical Cases（历史案例）",
+    "03_Patterns（模式）/Stock Market Crash（股市崩盘）/Crash Triggers（崩盘触发因素）",
+    "03_Patterns（模式）/Currency Crisis（货币危机）/Currency Crisis Overview（货币危机总览）",
+    "03_Patterns（模式）/Currency Crisis（货币危机）/IMF Intervention（国际货币基金组织干预）",
+    "03_Patterns（模式）/Currency Crisis（货币危机）/Fixed Exchange Rate Failure（固定汇率失败）",
+    "03_Patterns（模式）/Currency Crisis（货币危机）/Investment Lessons（投资启示）",
+    "06_Concepts（概念）/Concept Index（概念索引）.md",
+    "06_Concepts（概念）/Deflation（通货紧缩）/Related Events（相关事件）.md",
+    "06_Concepts（概念）/Deflation（通货紧缩）/Japan Case（日本案例）.md",
+    "06_Concepts（概念）/Deflation（通货紧缩）/Demand Collapse（需求坍塌）.md",
+    "06_Concepts（概念）/Deflation（通货紧缩）/Deflation Overview（通货紧缩总览）.md",
+    "06_Concepts（概念）/Deflation（通货紧缩）/Debt Deflation（债务通缩）.md",
+    "01_Timeline（时间线）/Timeline Overview（时间线总览）.md",
+    "03_Patterns（模式）/Pattern Index（模式索引）.md",
+    "03_Patterns（模式）/War Finance（战争财政）/Historical Cases（历史案例）.md",
+    "03_Patterns（模式）/War Finance（战争财政）/Fiscal Expansion（财政扩张）.md",
+    "03_Patterns（模式）/Stock Market Crash（股市崩盘）/Crash Triggers（崩盘触发因素）.md"
   ]
 }
