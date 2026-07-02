@@ -233,6 +233,21 @@ If a folder has an existing index file and the new note clearly belongs there, u
 
 如果已有索引，就按需更新；不要主动制造新的中转层。
 
+Existing index files are maintained entry points, not static placeholders. When creating, updating, splitting, merging, renaming, archiving, or deleting structured notes, update the affected existing index entries when the change alters membership, title, link target, status, source status, category, or a short description.
+
+Routine entry-level index maintenance is automatic:
+
+- add an entry when a new note clearly belongs in an existing index;
+- update an entry when the note's name, status, classification, or short summary changes;
+- remove or replace an entry when a note is merged, renamed, archived, or deleted after the underlying note operation is already justified or approved;
+- keep index entries concise and link to the actual note instead of duplicating the note's content.
+
+Do not create a new index file, delete an entire index file, or reorganize index strategy without explicit user confirmation. Entry-level additions, edits, and removals inside existing index files do not require confirmation when they follow from the note change.
+
+已有索引文件是需要维护的入口，不是静态占位。创建、更新、拆分、合并、重命名、归档或删除结构化笔记时，如果影响归属、标题、链接、状态、来源状态、分类或简短说明，要同步维护对应索引条目。
+
+索引条目的新增、修改、移除属于常规维护，可自动执行；但新增整个索引文件、删除整个索引文件，或改变索引体系，必须先得到用户确认。
+
 ---
 
 ## 6. Concept, Pattern, and Link Discipline
@@ -469,6 +484,7 @@ Before finishing any new or edited note, verify:
 - Are tags lowercase, English, slash-based, and useful rather than noisy?
 - Are important concepts linked inline with `[[wikilink]]`?
 - Are graph relations listed or linked where useful?
+- Were existing index entries added, updated, removed, or left unchanged intentionally when note membership changed?
 - Were relevant old concept, pattern, asset, country, event, comparison, or index notes updated when the new material added meaning?
 - Are facts separated from interpretation?
 - Is uncertainty marked?
