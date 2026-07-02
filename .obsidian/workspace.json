@@ -180,8 +180,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "3ca22841e5b3e361",
+  "active": "bf4d29801d1f95cb",
   "lastOpenFiles": [
+    "04_Countries（国家）/United States（美国）/United States Overview.md",
+    "04_Countries（国家）/Japan（日本）/Japan Overview.md",
     "02_Events（事件）/Platform Economy Events（平台经济事件）/2026 - Global - PlayStation Physical Disc Exit.md",
     "02_Events（事件）/Event Index（事件索引）.md",
     "02_Events（事件）/Platform Economy Events（平台经济事件）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
@@ -215,8 +217,6 @@
     "03_Patterns（模式）/Digital Distribution Lock-In.md",
     "00_Home（首页）/Writing Rules（写作规则）.md",
     "README.md",
-    "AGENTS.md",
-    "00_Home（首页）/Home（首页）.md",
-    "00_Home（首页）/How to Use This Vault（如何使用这个知识库）.md"
+    "AGENTS.md"
   ]
 }
