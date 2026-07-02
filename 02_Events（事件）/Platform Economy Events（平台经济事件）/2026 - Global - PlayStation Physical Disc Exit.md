@@ -138,7 +138,8 @@ updated: 2026-07-02
 ### 相关国家 / 地区
 
 - Global digital game market（暂不单独建地区节点）
-- Japan / United States（企业与主要市场维度，暂不单独建国家节点）
+- [[Japan Overview|Japan]]：Sony / PlayStation 企业主体和平台规则来源地。
+- [[United States Overview|United States]]：PlayStation 数字所有权争议、实体零售变化和消费者反馈的重要市场。
 
 ### 相关 Patterns
 
