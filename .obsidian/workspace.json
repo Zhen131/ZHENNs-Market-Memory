@@ -11,14 +11,10 @@
             "id": "3ca22841e5b3e361",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Events（事件）/Platform Economy Events（平台经济事件）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025 - Global - Nintendo Switch 2 Game-Key Cards"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -180,13 +176,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "bf4d29801d1f95cb",
+  "active": "3ca22841e5b3e361",
   "lastOpenFiles": [
     "04_Countries（国家）/United States（美国）/United States Overview.md",
     "04_Countries（国家）/Japan（日本）/Japan Overview.md",
+    "02_Events（事件）/Platform Economy Events（平台经济事件）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
     "02_Events（事件）/Platform Economy Events（平台经济事件）/2026 - Global - PlayStation Physical Disc Exit.md",
     "02_Events（事件）/Event Index（事件索引）.md",
-    "02_Events（事件）/Platform Economy Events（平台经济事件）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
     "01_Timeline（时间线）/2000s（21世纪）/2020-2029 Timeline Index（2020-2029时间线索引）.md",
     "01_Timeline（时间线）/2000s（21世纪）/2020-2029 Timeline Index（2020-2029时间线索引）未命名.md",
     "01_Timeline（时间线）/2000s（21世纪）/2000s Overview（21世纪总览）",
