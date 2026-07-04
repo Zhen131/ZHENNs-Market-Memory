@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2e7266c71b7a277d",
+        "id": "1b9e20ee2e3dcb1b",
         "type": "tabs",
         "children": [
           {
-            "id": "3ca22841e5b3e361",
+            "id": "166caca8562d98bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "04_Countries（国家）/Japan（日本）/Japan Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Japan Overview"
             }
           }
         ]
@@ -74,15 +78,35 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 270.5
   },
   "right": {
     "id": "2e05c30da0781b56",
     "type": "split",
     "children": [
       {
+        "id": "5fd385eb5e18e29f",
+        "type": "tabs",
+        "dimension": 68,
+        "children": [
+          {
+            "id": "3ca22841e5b3e361",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      },
+      {
         "id": "6ab45a42aafd11ac",
         "type": "tabs",
+        "dimension": 32,
         "children": [
           {
             "id": "004a7b6bbe7c4bc7",
@@ -90,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04_Countries（国家）/Japan（日本）/Japan Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Japan Overview 的反向链接列表"
             }
           },
           {
@@ -108,11 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04_Countries（国家）/Japan（日本）/Japan Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Japan Overview 的出链列表"
             }
           },
           {
@@ -150,20 +176,20 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04_Countries（国家）/Japan（日本）/Japan Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Japan Overview 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 438.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,14 +202,18 @@
       "bases:新建数据库": false
     }
   },
-  "active": "3ca22841e5b3e361",
+  "active": "166caca8562d98bd",
   "lastOpenFiles": [
-    "04_Countries（国家）/United States（美国）/United States Overview.md",
+    "README.md",
     "04_Countries（国家）/Japan（日本）/Japan Overview.md",
+    "04_Countries（国家）/Country Index（国家索引）.md",
+    "00_Home（首页）/Project Vision（项目愿景）.md",
+    "01_Timeline（时间线）/2000s（21世纪）/2020-2029 Timeline Index（2020-2029时间线索引）.md",
+    "03_Patterns（模式）/Platform Economics（平台经济）/Digital Distribution Lock-In.md",
+    "04_Countries（国家）/United States（美国）/United States Overview.md",
     "02_Events（事件）/Platform Economy Events（平台经济事件）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
     "02_Events（事件）/Platform Economy Events（平台经济事件）/2026 - Global - PlayStation Physical Disc Exit.md",
     "02_Events（事件）/Event Index（事件索引）.md",
-    "01_Timeline（时间线）/2000s（21世纪）/2020-2029 Timeline Index（2020-2029时间线索引）.md",
     "01_Timeline（时间线）/2000s（21世纪）/2020-2029 Timeline Index（2020-2029时间线索引）未命名.md",
     "01_Timeline（时间线）/2000s（21世纪）/2000s Overview（21世纪总览）",
     "01_Timeline（时间线）/1900s（20世纪）/1900s Overview（20世纪总览）",
@@ -195,7 +225,6 @@
     "01_Timeline（时间线）/2000s（21世纪）/2020-2029（2020-2029年）/2020-2029 Timeline Index（2020-2029时间线索引）.md",
     "01_Timeline（时间线）/2000s（21世纪）/2020-2029（2020-2029年）",
     "02_Events（事件）/Platform Economy Events（平台经济事件）",
-    "03_Patterns（模式）/Platform Economics（平台经济）/Digital Distribution Lock-In.md",
     "03_Patterns（模式）/Pattern Index（模式索引）.md",
     "06_Concepts（概念）/Platform Economics（平台经济）/Platform-Mediated Ownership.md",
     "01_Timeline（时间线）/2000s（21世纪）/2020-2029（2020-2029年）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
@@ -210,9 +239,6 @@
     "06_Concepts（概念）/Platform-Mediated Ownership.md",
     "06_Concepts（概念）/Concept Index（概念索引）.md",
     "05_Assets（资产）/Asset Index（资产索引）.md",
-    "03_Patterns（模式）/Digital Distribution Lock-In.md",
-    "00_Home（首页）/Writing Rules（写作规则）.md",
-    "README.md",
-    "AGENTS.md"
+    "03_Patterns（模式）/Digital Distribution Lock-In.md"
   ]
 }
