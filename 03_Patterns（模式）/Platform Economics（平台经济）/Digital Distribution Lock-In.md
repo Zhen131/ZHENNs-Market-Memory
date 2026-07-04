@@ -16,6 +16,7 @@ transmission_channels:
 related_events:
   - "[[2026 - Global - PlayStation Physical Disc Exit]]"
   - "[[2025 - Global - Nintendo Switch 2 Game-Key Cards]]"
+  - "[[2026 - India - Apple App Store Antitrust Penalty Risk]]"
 related_assets:
   - digital-entertainment-platforms
   - digital-game-licenses
@@ -26,6 +27,7 @@ sources:
   - "PlayStation.Blog, 2026-07-01, Physical disc production ending in January 2028 for new games releasing on PlayStation consoles"
   - "The Verge, 2025-04-07, Why some Switch 2 carts won't have games on them"
   - "User observation, 2026-07-02, community backlash and platform-ownership interpretation"
+  - "Internal vault note: 2026 - India - Apple App Store Antitrust Penalty Risk"
 tags:
   - type/pattern
   - status/draft
@@ -34,7 +36,7 @@ tags:
   - concept/digital-license
   - impact/consumer-rights
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-07-04
 ---
 
 # Digital Distribution Lock-In
@@ -89,6 +91,7 @@ Digital Distribution Lock-In 是指平台把内容发行、支付、下载、更
 - [[2026 - Global - PlayStation Physical Disc Exit]] 是强版本：新游戏实体光盘在 2028-01 后退出，数字格式成为默认。
 - [[2025 - Global - Nintendo Switch 2 Game-Key Cards]] 是过渡版本：实体卡仍存在，但更多承担下载钥匙和验证功能。
 - 两个案例共同说明：数字化不是单纯从“线下买”改成“线上买”，而是把内容权利从用户可控制介质迁移到平台可管理许可。
+- [[2026 - India - Apple App Store Antitrust Penalty Risk]] 展示平台锁定的监管侧：当平台同时控制应用分发、支付和外部引导规则，锁定能力会被反垄断机构重新定价。
 
 ---
 
@@ -110,6 +113,7 @@ Digital Distribution Lock-In 是指平台把内容发行、支付、下载、更
 |---|---|---|---|
 | 2025 | [[2025 - Global - Nintendo Switch 2 Game-Key Cards]] | 实体卡带变成下载钥匙。 | 实体渠道可保留，但内容交付数字化。 |
 | 2026 | [[2026 - Global - PlayStation Physical Disc Exit]] | 2028-01 后新 PlayStation 游戏停止实体光盘生产。 | 平台可直接把新内容供给切向数字许可。 |
+| 2026 | [[2026 - India - Apple App Store Antitrust Penalty Risk]] | App Store 分发、支付和外部引导规则被印度 CCI 审查。 | 平台入口控制带来高质量收入，也带来监管风险。 |
 
 ---
 
@@ -137,6 +141,7 @@ Digital Distribution Lock-In 是指平台把内容发行、支付、下载、更
 
 - [[2026 - Global - PlayStation Physical Disc Exit]]
 - [[2025 - Global - Nintendo Switch 2 Game-Key Cards]]
+- [[2026 - India - Apple App Store Antitrust Penalty Risk]]
 
 ### 相关 Assets
 
