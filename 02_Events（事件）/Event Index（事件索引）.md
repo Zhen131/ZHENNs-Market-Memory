@@ -8,6 +8,7 @@
 
 ## Platform Economy Events（平台经济事件）
 
+- [[2026 - United States - Anthropic Claude Code China Access Detection Controversy]]：Anthropic 因限制中国用户、企业和疑似中转访问 Claude / Claude Code 的做法引发争议，暴露 AI 开发工具的安全治理、反蒸馏检测和平台信任边界问题。
 - [[2026 - India - Apple App Store Antitrust Penalty Risk]]：Apple 在印度 App Store 反垄断案中面临潜在高额罚款风险，显示印度既是制造承接地，也是平台监管谈判场。
 - [[2026 - Global - PlayStation Physical Disc Exit]]：2026-07-01 Sony 宣布 2028-01 起 PlayStation 新游戏停止实体光盘生产，并同步推进 PS3/PS Vita 商店分阶段关停。
 - [[2025 - Global - Nintendo Switch 2 Game-Key Cards]]：Nintendo Switch 2 的实体卡部分转为数字下载钥匙，是实体介质向平台许可过渡的可比案例。

@@ -13,31 +13,36 @@ market_structure:
 key_events:
   - "[[2025 - Global - Nintendo Switch 2 Game-Key Cards]]"
   - "[[2026 - Global - PlayStation Physical Disc Exit]]"
+  - "[[2026 - United States - Anthropic Claude Code China Access Detection Controversy]]"
 common_patterns:
   - "[[Digital Distribution Lock-In]]"
 key_assets:
   - digital-entertainment-platforms
   - digital-game-licenses
   - physical-game-media
+  - frontier-ai-models
+  - developer-tools
 source_status: partially-sourced
 sources:
   - "Internal vault note: 2025 - Global - Nintendo Switch 2 Game-Key Cards"
   - "Internal vault note: 2026 - Global - PlayStation Physical Disc Exit"
+  - "Internal vault note: 2026 - United States - Anthropic Claude Code China Access Detection Controversy"
 tags:
   - type/country
   - status/draft
   - region/north-america
   - country/united-states
   - pattern/digital-distribution
+  - asset/frontier-ai-models
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-07-06
 ---
 
 # United States Overview
 
 ## 定位
 
-United States 在这两篇平台经济事件中主要不是企业来源地，而是全球游戏主机、数字商店、消费者权益争议和平台商业模式的重要市场。
+United States 在现有平台经济事件中既是全球游戏主机、数字商店、消费者权益争议和平台商业模式的重要市场，也是 frontier AI 公司、开发者工具和 AI 安全治理叙事的重要来源地。
 
 这篇国家节点暂时只承接平台经济相关事件，不扩展成完整美国金融史总览。
 
@@ -52,6 +57,15 @@ United States 在这两篇平台经济事件中主要不是企业来源地，而
 | 机制 | 两个案例都体现 [[Digital Distribution Lock-In]]：账号、商店、下载、更新和许可验证成为用户访问游戏资产的关键入口。 |
 | 国家含义 | 美国消费者、媒体、零售渠道和潜在监管讨论可能放大平台规则变化的市场反馈。 |
 
+## AI 平台相关线索
+
+| 维度 | 当前观察 |
+|---|---|
+| 市场角色 | 美国 frontier AI 公司掌握模型、API、开发者工具、服务地区规则和企业合规叙事。 |
+| 事件样本 | [[2026 - United States - Anthropic Claude Code China Access Detection Controversy]] 显示美国 AI 公司在反蒸馏、出口/地区限制、开发工具信任和全球用户关系之间的张力。 |
+| 机制 | 当开发工具进入本地代码环境，[[Platform Trust Boundary]] 会影响企业采购、开发者留存和 AI 公司估值叙事。 |
+| 国家含义 | 美国 AI 公司既输出工具能力，也输出规则边界；这种边界可能被其他国家用户解释为安全治理、歧视性访问控制或供应链风险。 |
+
 ---
 
 ## 图谱关系
@@ -60,11 +74,14 @@ United States 在这两篇平台经济事件中主要不是企业来源地，而
 
 - [[2025 - Global - Nintendo Switch 2 Game-Key Cards]]：美国市场是 Nintendo Game-Key Card 争议和接受度观察的重要区域之一。
 - [[2026 - Global - PlayStation Physical Disc Exit]]：美国市场对 PlayStation 实体光盘退出、PS3 / PS Vita 商店关停和数字所有权争议具有重要反馈价值。
+- [[2026 - United States - Anthropic Claude Code China Access Detection Controversy]]：美国 AI 公司在全球访问控制、反蒸馏检测和开发者工具信任中的典型案例。
 
 ### 相关模式与概念
 
 - [[Digital Distribution Lock-In]]
 - [[Platform-Mediated Ownership]]
+- [[Platform Trust Boundary]]
+- [[Transcendent Value]]
 
 ---
 
