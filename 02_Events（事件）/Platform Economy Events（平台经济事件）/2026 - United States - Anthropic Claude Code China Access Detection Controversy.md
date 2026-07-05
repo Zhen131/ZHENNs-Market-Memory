@@ -28,7 +28,7 @@ sources:
   - "Times of India, 2026, Why Anthropic embedded spyware in Claude Code and attempted to hide it from users, https://timesofindia.indiatimes.com/technology/tech-news/why-anthropic-embedded-spyware-in-claude-code-and-attempted-to-hide-it-from-users-in-/articleshow/132111399.cms"
   - "Times of India, 2026, Alibaba bans Claude Code from office environments from July 10, https://timesofindia.indiatimes.com/technology/tech-news/one-of-chinas-biggest-ecommerce-company-to-employees-starting-july-10-you-cannot-use-americas-/articleshow/132157569.cms"
   - "Tom's Hardware, 2026, Anthropic claims Alibaba illicitly distilled its models, https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-that-chinas-alibaba-illicitly-distilled-its-models-from-april-to-june-2026-says-effort-involved-25-000-fake-accounts-and-28-8-million-exchanges-on-claude"
-  - "User investment observation, 2026-07-06, transcendent value and Kodak analogy"
+  - "ZHENN investment observation, 2026-07-06, transcendent value, market reflexivity, and Kodak analogy"
 tags:
   - type/event
   - status/draft
@@ -147,7 +147,11 @@ AI 模型能力成为战略资产
 
 这件事的核心不只是“中国用户能不能用 Claude”，而是一个自称重视 AI safety、constitutional AI 和人类价值的公司，在现实商业竞争和地缘压力下，是否仍然保持足够透明、克制和可解释的执行方式。
 
-用户观察：我不会投资这种没有[[Transcendent Value|超越性价值]]的公司。一个公司即使做出了世界级工具，也不代表它能长期活下来；如果它为了短期防御或既有利益，牺牲自己原本应该代表的更高价值，就会像 Kodak 发明数码相机却害怕冲击胶片业务一样，失去原本“让普通人更容易捕捉生活幸福”的使命感。
+ZHENN 观察：我更愿意投资有[[Transcendent Value|超越性价值]]的公司和产品。通俗地说，这类公司不只是“故事讲得好”，而是它讲出的故事、做出的产品和关键时刻的选择能互相支撑；如果一个公司做出了世界级工具，却在压力下牺牲诚信、透明度或更高使命，它未必值得长期托付。
+
+ZHENN 同时保留一层反身性担忧：把个人判断写进公开市场笔记，未来如果读者变多，可能会影响别人对某家公司或某类资产的判断。这个风险现在很小，但它提醒这篇笔记应被理解为个人市场记忆和投资框架，而不是投资建议、事实定论或市场动员。
+
+Kodak 类比：Kodak 曾发明数码相机，却因担心冲击胶片业务而没有充分拥抱新方向；它原本代表的是让普通人更容易 capture / 捕捉生命中的幸福快乐，但当组织选择保护旧利益而不是延伸更高价值时，技术能力本身也不足以保证长期生存。
 
 ---
 
