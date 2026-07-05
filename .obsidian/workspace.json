@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Timeline（时间线）/2000s（21世纪）/2020-2029 Timeline Index（2020-2029时间线索引）.md",
+                "file": "02_Events（事件）/Platform Economy Events（平台经济事件）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2020-2029 Timeline Index（2020-2029时间线索引）"
+              "title": "2025 - Global - Nintendo Switch 2 Game-Key Cards"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 200
   },
   "right": {
     "id": "2e05c30da0781b56",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Timeline（时间线）/2000s（21世纪）/2020-2029 Timeline Index（2020-2029时间线索引）.md",
+                "file": "02_Events（事件）/Platform Economy Events（平台经济事件）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2020-2029 Timeline Index（2020-2029时间线索引） 的反向链接列表"
+              "title": "2025 - Global - Nintendo Switch 2 Game-Key Cards 的反向链接列表"
             }
           },
           {
@@ -204,12 +204,17 @@
   },
   "active": "166caca8562d98bd",
   "lastOpenFiles": [
+    "04_Countries（国家）/China（中国）/China Overview.md",
+    "06_Concepts（概念）/Investment Philosophy（投资哲学）/Transcendent Value.md",
+    "06_Concepts（概念）/Platform Economics（平台经济）/Platform Trust Boundary.md",
+    "02_Events（事件）/Platform Economy Events（平台经济事件）/2026 - United States - Anthropic Claude Code China Access Detection Controversy.md",
+    "03_Patterns（模式）/Platform Economics（平台经济）/Digital Distribution Lock-In.md",
+    "01_Timeline（时间线）/2000s（21世纪）/2020-2029 Timeline Index（2020-2029时间线索引）.md",
+    "06_Concepts（概念）/Investment Philosophy（投资哲学）",
     "04_Countries（国家）/Japan（日本）/Japan Overview.md",
     "README.md",
     "04_Countries（国家）/Country Index（国家索引）.md",
     "00_Home（首页）/Project Vision（项目愿景）.md",
-    "01_Timeline（时间线）/2000s（21世纪）/2020-2029 Timeline Index（2020-2029时间线索引）.md",
-    "03_Patterns（模式）/Platform Economics（平台经济）/Digital Distribution Lock-In.md",
     "04_Countries（国家）/United States（美国）/United States Overview.md",
     "02_Events（事件）/Platform Economy Events（平台经济事件）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
     "02_Events（事件）/Platform Economy Events（平台经济事件）/2026 - Global - PlayStation Physical Disc Exit.md",
@@ -233,12 +238,7 @@
     "07_Comparisons（对比）/PlayStation Disc Exit vs Nintendo Game-Key Cards.md",
     "07_Comparisons（对比）/Platform Economics Comparisons（平台经济对比）/PlayStation Disc Exit vs Nintendo Game-Key Cards.md",
     "07_Comparisons（对比）/Platform Economics Comparisons（平台经济对比）",
-    "06_Concepts（概念）/Platform Economics（平台经济）",
     "02_Events（事件）/2026 - Global - PlayStation Physical Disc Exit.md",
-    "02_Events（事件）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
-    "06_Concepts（概念）/Platform-Mediated Ownership.md",
-    "06_Concepts（概念）/Concept Index（概念索引）.md",
-    "05_Assets（资产）/Asset Index（资产索引）.md",
-    "03_Patterns（模式）/Digital Distribution Lock-In.md"
+    "02_Events（事件）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md"
   ]
 }
