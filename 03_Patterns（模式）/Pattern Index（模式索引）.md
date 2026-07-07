@@ -3,6 +3,7 @@
 ## Corporate Governance（公司治理）
 
 - [[Pre-IPO Governance Risk]]：拟上市公司在公开发行前，内部合同、员工激励、诉讼、主体结构或披露不一致问题被监管机构和投资者重新审查的风险模式。
+- [[Contractual Separation and Accountability Arbitrage]]：公司在融资和增长叙事中强调整体价值，在承担义务或争议责任时强调法人切割，从而转移执行成本和责任边界的治理模式。
 
 ## Platform Economics（平台经济）
 
