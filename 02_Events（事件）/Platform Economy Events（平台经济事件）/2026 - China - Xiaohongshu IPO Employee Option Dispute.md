@@ -127,7 +127,7 @@ updated: 2026-07-07
 公司准备 IPO
 → 员工期权和未上市股权开始接近可变现状态
 → 若核心员工在归属 / 行权前后被解约，激励兑现争议出现
-→ 若公司以境内外主体切割回应争议，问题从劳动纠纷变成主体结构和披露一致性问题
+→ 若公司以境内外主体切割回应争议，问题从劳动纠纷变成主体结构和 [[IPO Disclosure Risk|披露一致性问题]]
 → 若争议被提交给上市审核相关机构，投行、律师和交易所可能要求补充解释
 → IPO 节奏、估值和市场信任可能受影响
 ```
@@ -186,6 +186,7 @@ updated: 2026-07-07
 - [[Variable Interest Entity]]
 - [[Onshore-Offshore Corporate Structure]]
 - [[Initial Public Offering]]
+- [[IPO Disclosure Risk]]
 
 ### 可对比事件
 

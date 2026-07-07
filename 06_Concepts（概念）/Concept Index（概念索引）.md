@@ -18,6 +18,7 @@
 ## Capital Markets（资本市场）
 
 - [[Initial Public Offering]]：公司第一次向公众投资者发行股票并进入公开市场交易的过程，同时是融资、流动性、披露审核和治理门槛。
+- [[IPO Disclosure Risk]]：拟上市公司因历史争议、合同义务、诉讼、主体结构或重大不确定性披露不足，导致审核延迟、估值折价或发行失败的风险。
 
 ## Platform Economics（平台经济）
 
