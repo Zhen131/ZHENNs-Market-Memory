@@ -18,6 +18,7 @@ sources:
   - "SEC, Form S-1 Registration Statement: https://www.sec.gov/about/forms/forms-1.pdf"
   - "Investor.gov, Initial Public Offering (IPO): https://www.investor.gov/introduction-investing/investing-basics/glossary/initial-public-offering-ipo"
   - "HKEX, Listing Rules and Guidance: https://www.hkex.com.hk/Listing/Rules-and-Resources/Listing-Rules?sc_lang=en"
+  - "IFRS, IAS 37 Provisions, Contingent Liabilities and Contingent Assets: https://www.ifrs.org/issued-standards/list-of-standards/ias-37-provisions-contingent-liabilities-and-contingent-assets/"
 tags:
   - type/concept
   - status/draft
