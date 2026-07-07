@@ -8,8 +8,9 @@ related_events:
 related_patterns:
   - "[[Contractual Separation and Accountability Arbitrage]]"
   - "[[Pre-IPO Governance Risk]]"
+  - "[[China Platform Company Offshore Listing Risk]]"
 related_assets:
-  - private-company-equity
+  - "[[Private Company Equity]]"
   - stocks
 related_countries:
   - "[[China Overview]]"
@@ -17,6 +18,7 @@ source_status: sourced
 sources:
   - "Variable interest entity, Wikipedia: https://en.wikipedia.org/wiki/Variable_interest_entity"
   - "The Wall Street Journal, 2026-06-17, Xiaohongshu Hong Kong IPO report: https://www.wsj.com/tech/chinas-instagram-readies-hong-kong-ipo-that-could-see-it-valued-at-over-70-billion-879222fa"
+  - "CSRC, 2023-02-17, Overseas offering and listing filing-based administration: https://www.csrc.gov.cn/csrc_en/c102030/c7125865/content.shtml"
 tags:
   - type/concept
   - status/draft
@@ -121,10 +123,11 @@ Variable Interest Entity, or VIE, 是一种通过经济利益、合同安排或�
 
 - [[Contractual Separation and Accountability Arbitrage]]
 - [[Pre-IPO Governance Risk]]
+- [[China Platform Company Offshore Listing Risk]]
 
 ### 相关 Assets
 
-- private-company-equity
+- [[Private Company Equity]]
 - stocks
 
 ### 相关国家 / 地区

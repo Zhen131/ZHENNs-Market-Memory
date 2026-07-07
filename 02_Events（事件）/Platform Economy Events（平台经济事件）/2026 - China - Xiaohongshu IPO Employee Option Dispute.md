@@ -11,9 +11,10 @@ countries:
 patterns:
   - "[[Pre-IPO Governance Risk]]"
   - "[[Contractual Separation and Accountability Arbitrage]]"
+  - "[[China Platform Company Offshore Listing Risk]]"
 assets:
   - stocks
-  - private-company-equity
+  - "[[Private Company Equity]]"
 concepts:
   - "[[Employee Stock Option]]"
   - "[[Equity Incentive]]"
@@ -21,6 +22,8 @@ concepts:
   - "[[Variable Interest Entity]]"
   - "[[Onshore-Offshore Corporate Structure]]"
   - "[[Initial Public Offering]]"
+  - "[[IPO Disclosure Risk]]"
+  - "[[Contingent Liability]]"
 impact_level: company-specific
 time_horizon: short-term to medium-term
 source_status: partially-sourced
@@ -63,7 +66,7 @@ updated: 2026-07-07
 | 时间 | 2026 年，公开 IPO 准备报道集中在 2026-06 至 2026-07；用户叙事称争议发生在香港上市准备前后，具体日期待核验。 |
 | 国家 / 地区 | China；上市地叙事涉及 Hong Kong。 |
 | 事件类型 | platform-company governance / pre-IPO equity incentive dispute / offshore-listing structure risk。 |
-| 主要资产 | private-company-equity、stocks、employee stock options。 |
+| 主要资产 | [[Private Company Equity]]、stocks、employee stock options。 |
 | 主要机构 | Xiaohongshu / RedNote、员工、投行和上市中介、港交所 / 香港证监会作为待核验叙事中的审核方。 |
 | 影响等级 | company-specific；若争议进入正式上市文件或监管问询，可能影响同类平台公司治理风险定价。 |
 
@@ -171,6 +174,7 @@ updated: 2026-07-07
 
 - [[Pre-IPO Governance Risk]]
 - [[Contractual Separation and Accountability Arbitrage]]
+- [[China Platform Company Offshore Listing Risk]]
 
 ### 相关 Assets
 

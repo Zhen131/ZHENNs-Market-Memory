@@ -9,7 +9,7 @@ related_patterns:
   - "[[Pre-IPO Governance Risk]]"
   - "[[Contractual Separation and Accountability Arbitrage]]"
 related_assets:
-  - private-company-equity
+  - "[[Private Company Equity]]"
   - stocks
 related_countries:
   - "[[China Overview]]"
@@ -124,7 +124,7 @@ Vesting and Exercise Conditions 是股权激励中决定员工“何时取得权
 
 ### 相关 Assets
 
-- private-company-equity
+- [[Private Company Equity]]
 - stocks
 
 ### 相关国家 / 地区

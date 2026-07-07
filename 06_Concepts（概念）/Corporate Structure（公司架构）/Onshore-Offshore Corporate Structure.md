@@ -8,8 +8,9 @@ related_events:
 related_patterns:
   - "[[Contractual Separation and Accountability Arbitrage]]"
   - "[[Pre-IPO Governance Risk]]"
+  - "[[China Platform Company Offshore Listing Risk]]"
 related_assets:
-  - private-company-equity
+  - "[[Private Company Equity]]"
   - stocks
 related_countries:
   - "[[China Overview]]"
@@ -18,6 +19,7 @@ sources:
   - "Variable interest entity, Wikipedia: https://en.wikipedia.org/wiki/Variable_interest_entity"
   - "Financial Times, 2026-07-02, RedNote prepares Hong Kong IPO: https://www.ft.com/content/bed4b1c8-6345-4a89-b356-4479783a9157"
   - "The Wall Street Journal, 2026-06-17, Xiaohongshu Hong Kong IPO report: https://www.wsj.com/tech/chinas-instagram-readies-hong-kong-ipo-that-could-see-it-valued-at-over-70-billion-879222fa"
+  - "CSRC, 2023-02-17, Overseas offering and listing filing-based administration: https://www.csrc.gov.cn/csrc_en/c102030/c7125865/content.shtml"
 tags:
   - type/concept
   - status/draft
@@ -123,10 +125,11 @@ Onshore-Offshore Corporate Structure 是公司把境内实际运营主体、境�
 
 - [[Contractual Separation and Accountability Arbitrage]]
 - [[Pre-IPO Governance Risk]]
+- [[China Platform Company Offshore Listing Risk]]
 
 ### 相关 Assets
 
-- private-company-equity
+- [[Private Company Equity]]
 - stocks
 
 ### 相关国家 / 地区
