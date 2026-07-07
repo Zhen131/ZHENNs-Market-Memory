@@ -13,6 +13,7 @@
 ## Corporate Structure（公司架构）
 
 - [[Variable Interest Entity]]：境外上市主体通过合同、经济利益和控制安排连接境内运营主体的结构，核心风险在于控制效果、法律所有权和披露一致性并不完全相同。
+- [[Onshore-Offshore Corporate Structure]]：公司把境内运营主体、境外融资或上市主体、控股平台、员工激励主体和合同安排分置在不同司法辖区中的跨境公司架构。
 
 ## Platform Economics（平台经济）
 
