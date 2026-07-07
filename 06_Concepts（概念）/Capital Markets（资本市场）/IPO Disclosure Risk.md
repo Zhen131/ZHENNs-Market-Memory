@@ -136,7 +136,7 @@ IPO Disclosure Risk 是拟上市公司在招股书、上市审核和投资者尽
 
 ### 相关 Comparisons
 
-- 待补：[[Founder Contributor Purge vs Pre-IPO Incentive Cleanup]]
+- [[Founder Contributor Purge vs Pre-IPO Incentive Cleanup]]
 
 ---
 

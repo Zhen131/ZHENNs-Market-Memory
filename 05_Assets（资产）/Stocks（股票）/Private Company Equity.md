@@ -109,7 +109,7 @@ Private Company Equity 是未上市公司的股权、期权行权后股份或类
 
 ### 相关 Comparisons
 
-- 待补：[[Founder Contributor Purge vs Pre-IPO Incentive Cleanup]]
+- [[Founder Contributor Purge vs Pre-IPO Incentive Cleanup]]
 
 ---
 

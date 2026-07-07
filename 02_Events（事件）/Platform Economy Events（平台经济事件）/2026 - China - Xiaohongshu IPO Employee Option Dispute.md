@@ -200,6 +200,7 @@ updated: 2026-07-07
 
 - 待补：平台公司境外上市前员工激励争议。
 - [[Post-Success Reward Reallocation]]：历史上的“功臣收益再分配”类比只能作为比较框架，不能直接等同于现代公司治理。
+- [[Founder Contributor Purge vs Pre-IPO Incentive Cleanup]]：用于说明该类比的可用边界和失效边界。
 
 ---
 
