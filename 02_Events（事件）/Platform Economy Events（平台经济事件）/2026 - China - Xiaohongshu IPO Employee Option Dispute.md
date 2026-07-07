@@ -24,6 +24,7 @@ concepts:
   - "[[Initial Public Offering]]"
   - "[[IPO Disclosure Risk]]"
   - "[[Contingent Liability]]"
+  - "[[Hong Kong Listing Review as Governance Gatekeeper]]"
 impact_level: company-specific
 time_horizon: short-term to medium-term
 source_status: partially-sourced
@@ -158,7 +159,7 @@ updated: 2026-07-07
 
 | 机构 | 措施 | 效果 |
 |---|---|---|
-| 港交所 / 香港证监会 | 用户叙事称曾收到实名投诉；公开材料暂未确认。 | 不写成事实，后续等待正式申请文件、问询或可靠报道。 |
+| 港交所 / 香港证监会 | 用户叙事称曾收到实名投诉；公开材料暂未确认。 | 不写成事实；若未来进入 [[Hong Kong Listing Review as Governance Gatekeeper|香港上市审核]] 文件或问询，再补充。 |
 | 公司 / 中介机构 | 若争议存在，可能需要补充法律意见、风险披露、员工激励说明和 [[Contingent Liability|或有负债]] 判断。 | 目前仅为机制推断，不能替代事实。 |
 | 境内劳动仲裁 / 司法机构 | 用户叙事称员工走劳动仲裁路径。 | 案号、裁判结果和合同主体待核验。 |
 
@@ -192,6 +193,7 @@ updated: 2026-07-07
 - [[Initial Public Offering]]
 - [[IPO Disclosure Risk]]
 - [[Contingent Liability]]
+- [[Hong Kong Listing Review as Governance Gatekeeper]]
 
 ### 可对比事件
 

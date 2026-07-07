@@ -8,6 +8,7 @@ related_events:
 related_patterns:
   - "[[Pre-IPO Governance Risk]]"
   - "[[Contractual Separation and Accountability Arbitrage]]"
+  - "[[China Platform Company Offshore Listing Risk]]"
 related_assets:
   - "[[Private Company Equity]]"
   - stocks
@@ -58,7 +59,7 @@ IPO Disclosure Risk 是拟上市公司在招股书、上市审核和投资者尽
 - 一个争议是否构成 IPO 披露风险，不只取决于金额，还取决于它是否影响投资者对公司治理、现金流、法律责任和主体结构的判断。
 - 员工期权争议、未决诉讼、监管调查、VIE 合同安排、关联交易和重大客户依赖，都可能从内部管理事项变成招股书风险因素。
 - 对拟上市平台公司而言，若公司在融资叙事中强调整体平台价值，在争议中又强调法人隔离，就可能触发披露一致性问题。
-- [[IPO Disclosure Risk]] 往往是 [[Pre-IPO Governance Risk]] 的资本市场表达：治理瑕疵通过招股书和审核流程进入市场定价。
+- [[IPO Disclosure Risk]] 往往是 [[Pre-IPO Governance Risk]] 的资本市场表达：治理瑕疵通过招股书和审核流程进入市场定价；在香港上市语境中，它会具体表现为 [[Hong Kong Listing Review as Governance Gatekeeper]]。
 
 ---
 
@@ -108,6 +109,7 @@ IPO Disclosure Risk 是拟上市公司在招股书、上市审核和投资者尽
 | [[Initial Public Offering]] | 都与上市流程有关。 | IPO 是融资和上市过程；披露风险是上市文件中风险信息不充分或不一致带来的问题。 |
 | [[Pre-IPO Governance Risk]] | 都发生在上市前。 | 治理风险强调公司内部规则和行为；披露风险强调这些问题进入公开市场文件后的定价和审核后果。 |
 | [[Contingent Liability]] | 都可能影响招股书。 | 或有负债是潜在义务；披露风险还包括主体结构、员工激励、关联交易和业务不确定性。 |
+| [[Hong Kong Listing Review as Governance Gatekeeper]] | 都与上市审核有关。 | 本概念是披露风险的一种制度化表现，强调香港审核流程如何要求公司解释风险。 |
 
 ---
 
@@ -121,6 +123,7 @@ IPO Disclosure Risk 是拟上市公司在招股书、上市审核和投资者尽
 
 - [[Pre-IPO Governance Risk]]
 - [[Contractual Separation and Accountability Arbitrage]]
+- [[China Platform Company Offshore Listing Risk]]
 
 ### 相关 Assets
 

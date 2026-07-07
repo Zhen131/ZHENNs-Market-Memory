@@ -20,6 +20,7 @@
 
 - [[Initial Public Offering]]：公司第一次向公众投资者发行股票并进入公开市场交易的过程，同时是融资、流动性、披露审核和治理门槛。
 - [[IPO Disclosure Risk]]：拟上市公司因历史争议、合同义务、诉讼、主体结构或重大不确定性披露不足，导致审核延迟、估值折价或发行失败的风险。
+- [[Hong Kong Listing Review as Governance Gatekeeper]]：把香港上市审核理解为公司治理闸门，要求拟上市公司把内部治理、主体结构和风险披露转化为公众投资者可评估的信息。
 
 ## Platform Economics（平台经济）
 
