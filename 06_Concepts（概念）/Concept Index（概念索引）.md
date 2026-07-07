@@ -7,6 +7,7 @@
 ## Corporate Finance（公司金融）
 
 - [[Employee Stock Option]]：公司授予员工在未来按约定价格购买股票或股份权益的条件性权利，常在上市前后从激励工具变成治理和兑现风险。
+- [[Equity Incentive]]：公司用期权、限制性股票、RSU 或类似权益工具，把员工和管理层的收益与公司长期价值绑定的一组激励安排。
 
 ## Platform Economics（平台经济）
 
