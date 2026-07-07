@@ -10,6 +10,10 @@
 - [[Equity Incentive]]：公司用期权、限制性股票、RSU 或类似权益工具，把员工和管理层的收益与公司长期价值绑定的一组激励安排。
 - [[Vesting and Exercise Conditions]]：股权激励中决定员工何时取得权利、在什么条件下使用权利、离职后是否还能保留权利的合同门槛。
 
+## Corporate Structure（公司架构）
+
+- [[Variable Interest Entity]]：境外上市主体通过合同、经济利益和控制安排连接境内运营主体的结构，核心风险在于控制效果、法律所有权和披露一致性并不完全相同。
+
 ## Platform Economics（平台经济）
 
 - [[Platform-Mediated Ownership]]：用户支付购买数字内容，但访问、转让、保存和持续使用都通过平台账号、商店、服务器和许可条款中介完成的所有权形态。
