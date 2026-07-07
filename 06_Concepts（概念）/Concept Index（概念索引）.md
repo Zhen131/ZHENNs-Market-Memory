@@ -15,6 +15,10 @@
 - [[Variable Interest Entity]]：境外上市主体通过合同、经济利益和控制安排连接境内运营主体的结构，核心风险在于控制效果、法律所有权和披露一致性并不完全相同。
 - [[Onshore-Offshore Corporate Structure]]：公司把境内运营主体、境外融资或上市主体、控股平台、员工激励主体和合同安排分置在不同司法辖区中的跨境公司架构。
 
+## Capital Markets（资本市场）
+
+- [[Initial Public Offering]]：公司第一次向公众投资者发行股票并进入公开市场交易的过程，同时是融资、流动性、披露审核和治理门槛。
+
 ## Platform Economics（平台经济）
 
 - [[Platform-Mediated Ownership]]：用户支付购买数字内容，但访问、转让、保存和持续使用都通过平台账号、商店、服务器和许可条款中介完成的所有权形态。
