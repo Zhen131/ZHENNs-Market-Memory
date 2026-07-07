@@ -176,6 +176,7 @@ updated: 2026-07-07
 - [[Pre-IPO Governance Risk]]
 - [[Contractual Separation and Accountability Arbitrage]]
 - [[China Platform Company Offshore Listing Risk]]
+- [[Post-Success Reward Reallocation]]
 
 ### 相关 Assets
 
@@ -198,7 +199,7 @@ updated: 2026-07-07
 ### 可对比事件
 
 - 待补：平台公司境外上市前员工激励争议。
-- 待补：历史上的“功臣收益再分配”类比只能作为比较框架，不能直接等同于现代公司治理。
+- [[Post-Success Reward Reallocation]]：历史上的“功臣收益再分配”类比只能作为比较框架，不能直接等同于现代公司治理。
 
 ---
 
