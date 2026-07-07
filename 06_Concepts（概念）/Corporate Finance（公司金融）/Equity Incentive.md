@@ -9,7 +9,7 @@ related_patterns:
   - "[[Pre-IPO Governance Risk]]"
   - "[[Contractual Separation and Accountability Arbitrage]]"
 related_assets:
-  - private-company-equity
+  - "[[Private Company Equity]]"
   - stocks
 related_countries:
   - "[[China Overview]]"
@@ -125,7 +125,7 @@ Equity Incentive 是公司用股票、期权、限制性股票、RSU 或类似�
 
 ### 相关 Assets
 
-- private-company-equity
+- [[Private Company Equity]]
 - stocks
 
 ### 相关国家 / 地区
