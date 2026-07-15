@@ -1,6 +1,25 @@
+---
+type: overview
+status: active
+title: "Event Index"
+source_status: partially-sourced
+sources:
+  - "Derived from linked event notes in this vault"
+tags:
+  - type/overview
+  - status/active
+  - vault/event-index
+created: 2026-07-01
+updated: 2026-07-15
+---
+
 # Event Index（事件索引）
 
 事件库保存完整事件正文；`01_Timeline（时间线）/` 只保存按时间排列的简短索引条目，并链接回这里的事件节点。
+
+## Wars and Geopolitical Shocks（战争与地缘政治冲击）
+
+- [[1914 - Global - First World War]]：1914 年欧洲危机经联盟、动员和帝国体系升级为全球总体战，并通过税收、国债、中央银行信用、通胀和国际借款重塑世界政治与金融秩序。
 
 ## Technology Supply Chain Events（科技供应链事件）
 

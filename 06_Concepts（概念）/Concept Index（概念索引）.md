@@ -1,4 +1,23 @@
+---
+type: overview
+status: active
+title: "Concept Index"
+source_status: partially-sourced
+sources:
+  - "Derived from linked concept notes in this vault"
+tags:
+  - type/overview
+  - status/active
+  - vault/concept-index
+created: 2026-07-01
+updated: 2026-07-15
+---
+
 # Concept Index（概念索引）
+
+## Monetary Systems（货币制度）
+
+- [[Gold Standard]]：把货币价值按固定比率与黄金联系的兑换制度，能提高汇率可预期性，却会在战争、银行危机与通缩压力下限制政策空间。
 
 ## Supply Chain Economics（供应链经济）
 

@@ -1,4 +1,23 @@
+---
+type: overview
+status: active
+title: "Pattern Index"
+source_status: partially-sourced
+sources:
+  - "Derived from linked pattern notes in this vault"
+tags:
+  - type/overview
+  - status/active
+  - vault/pattern-index
+created: 2026-07-01
+updated: 2026-07-15
+---
+
 # Pattern Index（模式索引）
+
+## War Finance（战争融资）
+
+- [[Wartime Fiscal-Monetary Expansion]]：国家在大规模战争中用税收、国债、银行信用、中央银行支持、对外借款和行政管制转移真实资源，并把部分成本延后为债务、通胀与战后调整。
 
 ## Corporate Governance（公司治理）
 

@@ -1,4 +1,23 @@
+---
+type: overview
+status: active
+title: "Country Index"
+source_status: partially-sourced
+sources:
+  - "Derived from linked country and region notes in this vault"
+tags:
+  - type/overview
+  - status/active
+  - vault/country-index
+created: 2026-07-01
+updated: 2026-07-15
+---
+
 # Country Index（国家索引）
+
+## Europe
+
+- [[Europe Overview]]：承接一战中的欧洲帝国与国家体系、战争融资、金本位中断和战后债权债务重组，并为后续二战对照预留区域主线。
 
 ## Asia
 
