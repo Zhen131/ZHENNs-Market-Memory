@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Events（事件）/Platform Economy Events（平台经济事件）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
+                "file": "02_Events（事件）/Wars and Geopolitical Shocks（战争与地缘政治冲击）/1914 - Global - First World War.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025 - Global - Nintendo Switch 2 Game-Key Cards"
+              "title": "1914 - Global - First World War"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 225.5
   },
   "right": {
     "id": "2e05c30da0781b56",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Events（事件）/Platform Economy Events（平台经济事件）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
+                "file": "02_Events（事件）/Wars and Geopolitical Shocks（战争与地缘政治冲击）/1914 - Global - First World War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025 - Global - Nintendo Switch 2 Game-Key Cards 的反向链接列表"
+              "title": "1914 - Global - First World War 的反向链接列表"
             }
           },
           {
@@ -189,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 222.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,41 +204,41 @@
   },
   "active": "166caca8562d98bd",
   "lastOpenFiles": [
-    "04_Countries（国家）/China（中国）/China Overview.md",
-    "06_Concepts（概念）/Investment Philosophy（投资哲学）/Transcendent Value.md",
-    "06_Concepts（概念）/Platform Economics（平台经济）/Platform Trust Boundary.md",
-    "02_Events（事件）/Platform Economy Events（平台经济事件）/2026 - United States - Anthropic Claude Code China Access Detection Controversy.md",
-    "03_Patterns（模式）/Platform Economics（平台经济）/Digital Distribution Lock-In.md",
-    "01_Timeline（时间线）/2000s（21世纪）/2020-2029 Timeline Index（2020-2029时间线索引）.md",
-    "06_Concepts（概念）/Investment Philosophy（投资哲学）",
-    "04_Countries（国家）/Japan（日本）/Japan Overview.md",
-    "README.md",
-    "04_Countries（国家）/Country Index（国家索引）.md",
-    "00_Home（首页）/Project Vision（项目愿景）.md",
-    "04_Countries（国家）/United States（美国）/United States Overview.md",
-    "02_Events（事件）/Platform Economy Events（平台经济事件）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
-    "02_Events（事件）/Platform Economy Events（平台经济事件）/2026 - Global - PlayStation Physical Disc Exit.md",
     "02_Events（事件）/Event Index（事件索引）.md",
-    "01_Timeline（时间线）/2000s（21世纪）/2020-2029 Timeline Index（2020-2029时间线索引）未命名.md",
-    "01_Timeline（时间线）/2000s（21世纪）/2000s Overview（21世纪总览）",
-    "01_Timeline（时间线）/1900s（20世纪）/1900s Overview（20世纪总览）",
-    "01_Timeline（时间线）/1800s（19世纪）/1800s Overview（19世纪总览）",
-    "01_Timeline（时间线）/1800s（19世纪）/1800s Overview（19世纪总览）.md",
-    "01_Timeline（时间线）/1900s（20世纪）",
-    "01_Timeline（时间线）/1800s（19世纪）",
-    "01_Timeline（时间线）/Timeline Overview（时间线总览）",
-    "01_Timeline（时间线）/2000s（21世纪）/2020-2029（2020-2029年）/2020-2029 Timeline Index（2020-2029时间线索引）.md",
-    "01_Timeline（时间线）/2000s（21世纪）/2020-2029（2020-2029年）",
-    "02_Events（事件）/Platform Economy Events（平台经济事件）",
-    "03_Patterns（模式）/Pattern Index（模式索引）.md",
-    "06_Concepts（概念）/Platform Economics（平台经济）/Platform-Mediated Ownership.md",
-    "01_Timeline（时间线）/2000s（21世纪）/2020-2029（2020-2029年）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md",
-    "01_Timeline（时间线）/2000s（21世纪）/2020-2029（2020-2029年）/2026 - Global - PlayStation Physical Disc Exit.md",
-    "07_Comparisons（对比）/Comparison Index（对比索引）.md",
-    "07_Comparisons（对比）/PlayStation Disc Exit vs Nintendo Game-Key Cards.md",
-    "07_Comparisons（对比）/Platform Economics Comparisons（平台经济对比）/PlayStation Disc Exit vs Nintendo Game-Key Cards.md",
-    "07_Comparisons（对比）/Platform Economics Comparisons（平台经济对比）",
-    "02_Events（事件）/2026 - Global - PlayStation Physical Disc Exit.md",
-    "02_Events（事件）/2025 - Global - Nintendo Switch 2 Game-Key Cards.md"
+    "AGENTS.md",
+    "04_Countries（国家）/Europe（欧洲）/Europe Overview.md",
+    "05_Assets（资产）/Bonds（债券）/Government Bonds.md",
+    "06_Concepts（概念）/Monetary Systems（货币制度）/Gold Standard.md",
+    "03_Patterns（模式）/War Finance（战争融资）/Wartime Fiscal-Monetary Expansion.md",
+    "01_Timeline（时间线）/1900s（20世纪）/1910-1919 Timeline（1910-1919时间线）.md",
+    "02_Events（事件）/Wars and Geopolitical Shocks（战争与地缘政治冲击）/1914 - Global - First World War.md",
+    "06_Concepts（概念）/Monetary Systems（货币制度）",
+    "04_Countries（国家）/Europe（欧洲）",
+    "03_Patterns（模式）/War Finance（战争融资）",
+    "README.md",
+    "06_Concepts（概念）/Corporate Finance（公司金融）/Employee Stock Option.md",
+    "07_Comparisons（对比）/Corporate Governance Comparisons（公司治理对比）/Founder Contributor Purge vs Pre-IPO Incentive Cleanup.md",
+    "07_Comparisons（对比）/Corporate Governance Comparisons（公司治理对比）",
+    "03_Patterns（模式）/Corporate Governance（公司治理）/Post-Success Reward Reallocation.md",
+    "06_Concepts（概念）/Capital Markets（资本市场）/Hong Kong Listing Review as Governance Gatekeeper.md",
+    "03_Patterns（模式）/Corporate Governance（公司治理）/China Platform Company Offshore Listing Risk.md",
+    "06_Concepts（概念）/Corporate Finance（公司金融）/Contingent Liability.md",
+    "06_Concepts（概念）/Capital Markets（资本市场）/IPO Disclosure Risk.md",
+    "05_Assets（资产）/Stocks（股票）/Private Company Equity.md",
+    "02_Events（事件）/Platform Economy Events（平台经济事件）/2026 - China - Xiaohongshu IPO Employee Option Dispute.md",
+    "03_Patterns（模式）/Corporate Governance（公司治理）/Contractual Separation and Accountability Arbitrage.md",
+    "03_Patterns（模式）/Corporate Governance（公司治理）/Pre-IPO Governance Risk.md",
+    "2026 - China - Xiaohongshu IPO Employee Option Dispute.md",
+    "06_Concepts（概念）/Capital Markets（资本市场）/Initial Public Offering.md",
+    "02_Events（事件）/Platform Economy Events（平台经济事件）/2026 - Global - PlayStation Physical Disc Exit.md",
+    "01_Timeline（时间线）/2000s（21世纪）/2020-2029 Timeline Index（2020-2029时间线索引）.md",
+    "06_Concepts（概念）/Corporate Structure（公司架构）/Onshore-Offshore Corporate Structure.md",
+    "06_Concepts（概念）/Corporate Structure（公司架构）/Variable Interest Entity.md",
+    "03_Patterns（模式）/Corporate Governance（公司治理）",
+    "06_Concepts（概念）/Capital Markets（资本市场）",
+    "06_Concepts（概念）/Corporate Structure（公司架构）",
+    "06_Concepts（概念）/Corporate Finance（公司金融）",
+    "06_Concepts（概念）/Investment Philosophy（投资哲学）",
+    "01_Timeline（时间线）/2000s（21世纪）/2000s Overview（21世纪总览）"
   ]
 }
