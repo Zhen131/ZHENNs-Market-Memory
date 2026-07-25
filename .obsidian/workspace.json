@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Events（事件）/Wars and Geopolitical Shocks（战争与地缘政治冲击）/1914 - Global - First World War.md",
-                "mode": "source",
+                "file": "02_Events（事件）/Platform Economy Events（平台经济事件）/2026 - Global - PlayStation Physical Disc Exit.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1914 - Global - First World War"
+              "title": "2026 - Global - PlayStation Physical Disc Exit"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 242.5
   },
   "right": {
     "id": "2e05c30da0781b56",
@@ -114,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Events（事件）/Wars and Geopolitical Shocks（战争与地缘政治冲击）/1914 - Global - First World War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1914 - Global - First World War 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -189,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 544.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,43 +201,43 @@
       "bases:新建数据库": false
     }
   },
-  "active": "166caca8562d98bd",
+  "active": "bf4d29801d1f95cb",
   "lastOpenFiles": [
-    "02_Events（事件）/Event Index（事件索引）.md",
-    "AGENTS.md",
-    "04_Countries（国家）/Europe（欧洲）/Europe Overview.md",
-    "05_Assets（资产）/Bonds（债券）/Government Bonds.md",
-    "06_Concepts（概念）/Monetary Systems（货币制度）/Gold Standard.md",
-    "03_Patterns（模式）/War Finance（战争融资）/Wartime Fiscal-Monetary Expansion.md",
-    "01_Timeline（时间线）/1900s（20世纪）/1910-1919 Timeline（1910-1919时间线）.md",
+    "99_Tool/00_99Z待入库顺序.md",
+    "images/8315b9bd974bd8d3949894e7141423a5909d232712055a6218029d0c1d5bda84.jpg.md",
+    "images",
+    "02_Events（事件）/Platform Economy Events（平台经济事件）/2026 - Global - PlayStation Physical Disc Exit.md",
+    "04_Countries（国家）/United States（美国）/United States Overview.md",
+    "99Z_等待入库文件/3.美股港股A股都有哪些护城河最深的长牛股（二）完整版_文字纪要.md",
+    "99Z_等待入库文件/2.美股港股A股都有哪些护城河最深的长牛股（一）_文字纪要.md",
+    "99Z_等待入库文件/1.美股港股A股都有哪些护城河最深的长牛股（一）_文字纪要.md",
+    "00_Home（首页）/Project Vision（项目愿景）.md",
+    "01_Timeline（时间线）/2000s（21世纪）/2020-2029 Timeline Index（2020-2029时间线索引）.md",
+    "04_Countries（国家）/Country Index（国家索引）.md",
     "02_Events（事件）/Wars and Geopolitical Shocks（战争与地缘政治冲击）/1914 - Global - First World War.md",
+    "01_Timeline（时间线）/1900s（20世纪）/1910-1919 Timeline（1910-1919时间线）.md",
+    "04_Countries（国家）/China（中国）/China Overview.md",
+    "05_Assets（资产）/Stocks（股票）/Private Company Equity.md",
+    "AGENTS.md",
+    "README.md",
+    "99Z_等待入库文件/5.13直播：如何寻找下一个闪迪，如何看待研报、农产品通胀、SOFC、DPZ、SPMO、PATH、RELX、关西电力、NEE、GEV_unlocked.md",
+    "99_Tool/MinerU PDF 批量转 Markdown 使用指南.md",
+    "99Z_等待入库文件/沙漠之花也能实现超级复利的商业模式.md",
+    "99Z_等待入库文件/核心资产防守策略.md",
+    "99Z_等待入库文件/20260305+美伊战争对资本市场有什么影响.word.md",
+    "99Z_等待入库文件/20260301 股票估值入门.md",
+    "99Z_等待入库文件/20260226+普通人都能学会的创业入门课.md",
+    "99Z_等待入库文件/20260223+美股港股A股都有哪些护城河最深的长牛股（四）.md",
+    "99Z_等待入库文件/20260219+美股港股A股都有哪些护城河最深的长牛股（三）.md",
+    "99Z_等待入库文件/20260215+ 美股港股A股都有哪些护城河最深的长牛股（二）.md",
+    "99Z_等待入库文件",
     "06_Concepts（概念）/Monetary Systems（货币制度）",
     "04_Countries（国家）/Europe（欧洲）",
     "03_Patterns（模式）/War Finance（战争融资）",
-    "README.md",
-    "06_Concepts（概念）/Corporate Finance（公司金融）/Employee Stock Option.md",
-    "07_Comparisons（对比）/Corporate Governance Comparisons（公司治理对比）/Founder Contributor Purge vs Pre-IPO Incentive Cleanup.md",
     "07_Comparisons（对比）/Corporate Governance Comparisons（公司治理对比）",
-    "03_Patterns（模式）/Corporate Governance（公司治理）/Post-Success Reward Reallocation.md",
-    "06_Concepts（概念）/Capital Markets（资本市场）/Hong Kong Listing Review as Governance Gatekeeper.md",
-    "03_Patterns（模式）/Corporate Governance（公司治理）/China Platform Company Offshore Listing Risk.md",
-    "06_Concepts（概念）/Corporate Finance（公司金融）/Contingent Liability.md",
-    "06_Concepts（概念）/Capital Markets（资本市场）/IPO Disclosure Risk.md",
-    "05_Assets（资产）/Stocks（股票）/Private Company Equity.md",
-    "02_Events（事件）/Platform Economy Events（平台经济事件）/2026 - China - Xiaohongshu IPO Employee Option Dispute.md",
-    "03_Patterns（模式）/Corporate Governance（公司治理）/Contractual Separation and Accountability Arbitrage.md",
-    "03_Patterns（模式）/Corporate Governance（公司治理）/Pre-IPO Governance Risk.md",
-    "2026 - China - Xiaohongshu IPO Employee Option Dispute.md",
-    "06_Concepts（概念）/Capital Markets（资本市场）/Initial Public Offering.md",
-    "02_Events（事件）/Platform Economy Events（平台经济事件）/2026 - Global - PlayStation Physical Disc Exit.md",
-    "01_Timeline（时间线）/2000s（21世纪）/2020-2029 Timeline Index（2020-2029时间线索引）.md",
-    "06_Concepts（概念）/Corporate Structure（公司架构）/Onshore-Offshore Corporate Structure.md",
-    "06_Concepts（概念）/Corporate Structure（公司架构）/Variable Interest Entity.md",
     "03_Patterns（模式）/Corporate Governance（公司治理）",
     "06_Concepts（概念）/Capital Markets（资本市场）",
     "06_Concepts（概念）/Corporate Structure（公司架构）",
-    "06_Concepts（概念）/Corporate Finance（公司金融）",
-    "06_Concepts（概念）/Investment Philosophy（投资哲学）",
-    "01_Timeline（时间线）/2000s（21世纪）/2000s Overview（21世纪总览）"
+    "06_Concepts（概念）/Corporate Finance（公司金融）"
   ]
 }
