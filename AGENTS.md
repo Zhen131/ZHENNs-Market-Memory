@@ -118,9 +118,9 @@ Use existing templates first:
 | A structured comparison between cases | `comparison` | A relevant child folder under `07_Comparisons（对比）/`; create a semantic child folder if none fits | Use consistent comparison dimensions from this file. |
 | A chronological period overview or year/decade index | `timeline` | The relevant century, decade, or overview folder under `01_Timeline（时间线）/` | Keep it chronological; write short entries that link to Events; do not duplicate full event notes. |
 
-If no exact template exists, follow the closest existing template style: YAML frontmatter, concise sections, tables where useful, mechanism chains, graph relations, investment lessons, and open questions.
+If no exact template exists, follow the closest template's YAML, source, and graph-link discipline, but let the body structure follow the material. Templates are guardrails, not forms that every note must fill out.
 
-如果没有完全对应的模板，就参考已有模板的结构，不要写成长篇散文。
+如果没有完全对应的模板，就沿用最接近模板的 YAML、来源和链接规则；正文结构跟着内容走，不必把模板里的每一栏都填满。
 
 ---
 
@@ -188,20 +188,9 @@ Do this before writing the file.
 
 ### Step 5: Use templates and write the note
 
-Use the relevant template. Keep writing concise and analytical.
+Use the relevant template, but write the body for a human reader. Start by making clear what happened and why it matters, then explain causes, consequences, and uncertainty in the order that best fits the material. Use only the sections the note actually needs.
 
-Separate:
-
-```text
-Facts
-Mechanism
-Policy Response
-Asset Price Reaction
-Social and Economic Impact
-Interpretation
-Investment Lessons
-Open Questions
-```
+使用对应模板，但正文首先要让人读懂。先说清发生了什么、为什么值得记录，再按材料需要解释原因、影响和不确定性；不需要的章节不要硬写。
 
 Do not invent precise dates, numbers, or causal claims. If the material is unsourced, mark it clearly as draft and uncertain.
 
@@ -430,41 +419,38 @@ Rules:
 
 ## 11. Writing Rules
 
-Prefer mechanism over narration, facts over opinions, structure over long prose.
+Write for a human reader before optimizing for format. The default voice is natural, neutral Chinese: it should sound like a knowledgeable person explaining the subject clearly, not like a generated research form or official briefing.
 
-Use mechanism chains instead of vague impact statements.
+正文先服务人的理解，再考虑格式。默认使用自然、中性的中文，像一个真正懂这件事的人在耐心讲解，不要写成 AI 表格、研究报告套话或公文。
+
+Writing priorities:
+
+- explain the concrete meaning before naming the abstract mechanism;
+- use Chinese first, adding an English term on first use only when it improves precision or search;
+- let the body normally move from what happened, to why it happened, to what actually changed, and finally to what remains uncertain;
+- use headings that tell the reader what the section answers, such as “美国为什么从中立走向参战”, instead of empty labels such as “当前观察”, “国家含义”, “平台结构”, or “图谱含义”;
+- preserve distinctive claims, analogies, and reasoning from the source, while clearly attributing them as the source author's view when they are not verified facts;
+- separate verified facts, source opinions, vault interpretation, and uncertainty in the prose, not only in YAML;
+- prefer complete paragraphs when explaining a sequence or argument; use bullets when the items are genuinely parallel;
+- use tables only for real comparisons or exact repeated-field mappings, not for ordinary background, narrative, or a single chain of reasoning;
+- use a mechanism chain only when the chain makes causality easier to understand; it is optional, not a required section;
+- keep terminology precise, but do not stack abstract nouns or untranslated English terms when plain Chinese can carry the meaning.
+
+Concrete before abstract:
 
 Weak:
 
 ```text
-This crisis had a huge impact.
+PlayStation 已形成主机、账号、商店、支付、下载、许可验证的一体化平台。
 ```
 
 Better:
 
 ```text
-credit expansion
-→ asset prices rise
-→ collateral value rises
-→ more borrowing becomes possible
-→ leverage increases
-→ policy tightening or income shock appears
-→ refinancing becomes difficult
-→ forced selling and defaults spread
+游戏越来越绑定 PlayStation 账号和商店后，Sony 对玩家能否购买、下载和长期访问游戏拥有了更强的控制。
 ```
 
-When comparing events, use consistent dimensions:
-
-- background;
-- trigger;
-- transmission mechanism;
-- policy response;
-- asset price reaction;
-- long-term consequences;
-- investment or risk lessons;
-- where the analogy fails.
-
-Prefer tables for comparisons.
+When comparing events, use consistent dimensions such as background, trigger, transmission, response, asset reaction, long-term consequences, lessons, and where the analogy fails. A comparison table is useful only when seeing these dimensions side by side is clearer than reading prose.
 
 ---
 
@@ -487,8 +473,13 @@ Before finishing any new or edited note, verify:
 - Were existing index entries added, updated, removed, or left unchanged intentionally when note membership changed?
 - Were relevant old concept, pattern, asset, country, event, comparison, or index notes updated when the new material added meaning?
 - Are facts separated from interpretation?
+- Are source opinions attributed instead of being rewritten as facts?
 - Is uncertainty marked?
 - Is causality stated carefully?
+- Does the opening make clear what happened and why the note is worth reading?
+- Do headings state real questions or conclusions instead of generic labels?
+- Are tables and mechanism chains used only where they improve understanding?
+- Does the Chinese read naturally aloud, without stacked jargon, fragmented labels, or unnecessary English?
 - Is the note useful for future financial or market reasoning?
 
 When reporting back, list the files created or edited and mention any remaining uncertainty or missing sources.
