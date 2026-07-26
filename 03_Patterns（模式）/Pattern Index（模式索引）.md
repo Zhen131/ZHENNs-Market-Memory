@@ -10,7 +10,7 @@ tags:
   - status/active
   - vault/pattern-index
 created: 2026-07-01
-updated: 2026-07-15
+updated: 2026-07-26
 ---
 
 # Pattern Index（模式索引）
@@ -29,3 +29,7 @@ updated: 2026-07-15
 ## Platform Economics（平台经济）
 
 - [[Digital Distribution Lock-In]]：平台把内容发行、支付、下载、验证和售后集中到账号与商店系统中，从而提高控制力并削弱用户可转让、可保存的实体所有权。
+
+## Investment Analysis（投资分析）
+
+- [[Desert Flower Investing]]：在低增长、低关注或经营困难的行业中，检查竞争者退出、压力测试、局部优势和市场偏见能否让少数公司持续留住利润，同时把公司价值、价格便宜与实际买点分开判断。

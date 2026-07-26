@@ -10,7 +10,7 @@ tags:
   - status/active
   - vault/concept-index
 created: 2026-07-01
-updated: 2026-07-15
+updated: 2026-07-26
 ---
 
 # Concept Index（概念索引）
@@ -49,3 +49,4 @@ updated: 2026-07-15
 ## Investment Philosophy（投资哲学）
 
 - [[Transcendent Value]]：用公司是否拥有超越短期利润、技术领先和既有利益防御的长期使命感，判断它是否值得被长期托付资本和信任。
+- [[Competition and Profit Retention]]：沿价值链判断竞争如何通过价格、获客、扩产、要素和创新投入搬走利润，以及哪些认证、网络、成本或转换障碍能让公司持续留住现金。
