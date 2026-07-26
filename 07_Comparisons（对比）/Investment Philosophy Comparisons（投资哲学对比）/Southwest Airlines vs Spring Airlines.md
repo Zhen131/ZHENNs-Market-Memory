@@ -1,0 +1,96 @@
+---
+type: comparison
+status: draft
+title: "Southwest Airlines vs Spring Airlines"
+comparison_class: "investment-philosophy"
+cases:
+  - "Southwest Airlines"
+  - "Spring Airlines"
+related_patterns:
+  - "[[Desert Flower Investing]]"
+related_concepts:
+  - "[[Competition and Profit Retention]]"
+  - "[[Value Chain Profit Pool]]"
+related_assets:
+  - public-equities
+related_countries:
+  - United States
+  - China
+source_status: partially-sourced
+sources:
+  - "脑总，4.4沙漠之花投资：不性感行业中的卓越公司（已入库）.md，原始转写"
+  - "Southwest Airlines Co., 2025 Form 10-K, https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/luv-20251231.htm"
+  - "春秋航空股份有限公司，2025 年年度报告，https://ajax.springairlines.com/content/invester/%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA2025%E5%B9%B4%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf"
+  - "StockAnalysis, Southwest financial ratios, accessed 2026-07-26, https://stockanalysis.com/stocks/luv/financials/ratios/"
+  - "Investing.com, Spring Airlines historical prices, accessed 2026-07-26, https://cn.investing.com/equities/spring-airlines-co-ltd-historical-data"
+  - "公开行情页面，春秋航空 P/B 快照，accessed 2026-07-26, https://data.agoer.com/cms/Index/detail?id=601021"
+tags:
+  - type/comparison
+  - status/draft
+  - concept/cost-advantage
+  - concept/profit-retention
+  - industry/aviation
+  - region/global
+  - asset/public-equities
+created: 2026-07-26
+updated: 2026-07-26
+---
+
+# Southwest Airlines vs Spring Airlines（低成本航空的优势为什么会老化）
+
+脑总把西南航空当作“曾经成立、后来要重做判断”的案例。他称彼得·林奇曾经投资西南航空，并认为当年的低票价、简化运营和成本文化让它区别于传统航空公司。本轮没有找到足以独立确认这段具体投资关系的一手材料，因此继续标记为脑总观点。
+
+这篇对比的重点不是谁更像经典案例，而是：**一家公司几十年前形成的低成本优势，为什么不能自动延续到今天？**
+
+## 西南航空的旧优势正在被重新设计
+
+低成本航空的传统逻辑是把复杂性拿掉：机型更统一、地面周转更快、服务更简化、直销更多、单位成本更低。只要成本领先幅度足够大，公司可以用较低票价扩大需求，同时仍留下利润。
+
+Southwest 的 2025 年报却显示，公司正在引入指定座位、额外腿部空间、分层票价和大多数产品的托运行李收费。这些变化可能提高收入，也说明历史差异化正在变化。公司还明确承认，竞争者的低价与拆分服务已挑战其传统低票价位置。
+
+这不是简单的“变好”或“变坏”。新产品可能改善单位收入，却也会增加系统、运营和品牌复杂性。判断旧优势是否老化，要看改变后成本文化是否仍能落到数字上。
+
+## 春秋航空把模式写成“两单、两高、两低”
+
+春秋航空 2025 年报将模式概括为：
+
+- 两单：单一 A320 系列机型、单一经济舱；
+- 两高：高客座率、高飞机利用率；
+- 两低：较低销售费用、较低管理费用。
+
+单一机型能减少航材、维修和培训复杂度；直销和附加收费能把基础票价与可选服务拆开；高利用率能让昂贵飞机在更多航段上摊薄固定成本。
+
+但这些做法不是专利。传统航司能推出低价舱位，其他廉航也能复制部分流程；高利用率还会在天气、机场和系统故障时放大连锁延误。低成本优势只有在单位成本、准点率、客座率和现金回报上持续领先时才成立。
+
+## 两家公司都不能逃离的共同约束
+
+无论是西南还是春秋，都要承担燃油、工资、飞机与发动机、机场时刻、维修、安全监管和宏观需求。客户在同一路线上容易比较价格，运力又不能储存。
+
+因此 [[Competition and Profit Retention]] 在航空业的关键不是“有没有增长”，而是增长带来的收入能否超过新飞机、人员和运行复杂度。一个历史优秀模式会被以下变化慢慢侵蚀：
+
+- 工资和维修成本上升，单位成本领先收窄；
+- 同行模仿低票价、直销和附加收费；
+- 机队与航线扩大后，原有简化体系变复杂；
+- 客户偏好改变，迫使公司增加座位、渠道和服务层级；
+- 安全、IT 或调度事故暴露过度追求利用率的代价；
+- 资本开支和债务先增长，需求却没有如期兑现。
+
+## 市场现在怎么定价（2026-07-24 快照）
+
+| 公司 | 观察口径 | 执行日附近快照 | 五个完整年度或可得历史 | 市场似乎已经相信什么 |
+|---|---|---|---|---|
+| Southwest | P/TBV、EV/EBITDA、债务和租赁 | P/TBV 约 4.29 倍，EV/EBITDA 约 12.08 倍；2025 年末总债务/总资产约 16.9% | 2021—2025 年 P/TBV 约 2.76、2.23、1.94、2.31、3.29 倍；EV/EBITDA 约 7.40、7.24、8.56、9.75、12.10 倍 | 倍数抬升说明市场在期待转型与盈利修复，但历史模式的失效风险也更值得追问 |
+| 春秋航空 | P/B、单位成本、经营现金流和租赁 | 股价约 44.64 元，P/B 约 2.42 倍 | 同源五年历史估值未可靠复原，留空 | 高于普通周期航司的资产倍数可能已反映成本文化和经营效率 |
+
+两家公司处于不同市场、会计和租赁结构中，不能用一个简单 P/E 得出高低结论。尤其在利润接近周期低谷或高点时，P/E 可能因为分母异常而误导。若做进一步研究，需要统一飞机租赁后的 EV/EBITDAR、单位座公里成本、单位收益和净债务。
+
+## 可以迁移到其他公司的问题
+
+1. 历史优势是制度、文化和流程，还是一个容易模仿的产品特征？
+2. 公司扩张后，原来的“简单”是否仍然简单？
+3. 新收费提高收入的同时，是否损害品牌或增加复杂度？
+4. 单位成本领先能否跨越工资、油价和利用率变化？
+5. 当前估值奖励的是已兑现效率，还是尚未兑现的转型？
+6. 哪个运营指标连续恶化，会证明旧方法已经失效？
+
+“曾经符合某套方法”只是历史起点。真正的长期研究，是每隔一段时间把商业模式、竞争环境和价格重新放回同一张桌子。

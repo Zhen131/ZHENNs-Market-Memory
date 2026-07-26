@@ -16,6 +16,7 @@ related_patterns:
   - "[[Desert Flower Investing]]"
 related_concepts:
   - "[[Competition and Profit Retention]]"
+  - "[[Value Chain Profit Pool]]"
 related_assets:
   - public-equities
 related_countries:
@@ -149,6 +150,19 @@ updated: 2026-07-26
 南方航空则提醒我们：如果客户容易比较、同行能加供给、上游要素又集中，即使市场巨大，利润也可能沿价值链流向别人。
 
 这套对比最终服务于 [[Competition and Profit Retention]]：研究公司时先画清价值链和利润池，再查证优势如何形成、谁能推翻它，最后才讨论价格。本轮不回答任何一家公司的当前买卖问题。
+
+## 六个专题入口
+
+总览保留八个代表案例的共同检查框架，第二轮把其中可形成独立比较的问题展开：
+
+- [[Airlines vs Aerospace Component Suppliers]]：把航空公司、整机制造和关键零件供应商放在同一条产业链上，检查认证、售后、债务与周期。
+- [[Tire Manufacturers vs Tire Mold Suppliers]]：对照米其林、赛轮和豪迈，区分终端品牌竞争与定制模具的利润留存。
+- [[Waste Management and China Municipal Waste Services]]：拆开美国路线与填埋场网络、中国政府合同与特许经营，避免把物业公司当成直接对应物。
+- [[Southwest Airlines vs Spring Airlines]]：检查历史低成本优势为什么会老化，以及“两单、两高、两低”需要什么当前证据。
+- [[Three Profit Retention Mechanisms - AutoZone, Weixing and Angel Yeast]]：对照及时可得、低成本占比与工艺稳定三种不同机制。
+- 延伸阅读：[[Pop Mart vs Roblox vs Disney]]。它比较爆款运营、创作者平台和完整 IP 体系，不把三家公司硬归入“沙漠之花”。
+
+这些专题都连接 [[Value Chain Profit Pool]]，并加入带日期的市场估值快照。估值只用于识别市场已经相信了什么，不形成目标价或操作指令。
 
 ## 资料边界
 

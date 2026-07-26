@@ -16,6 +16,7 @@ related_assets:
   - public-equities
 related_concepts:
   - "[[Competition and Profit Retention]]"
+  - "[[Value Chain Profit Pool]]"
 source_status: partially-sourced
 sources:
   - "脑总，4.4沙漠之花投资：不性感行业中的卓越公司（已入库）.md，原始转写"
@@ -139,6 +140,8 @@ updated: 2026-07-26
 7. 即使公司很好，当前价格是否仍给错误判断留下余地？
 
 八个案例的正反检查见 [[Desert Flower Investment Comparisons]]。它们的作用是训练对利润池和竞争边界的判断，不是形成股票推荐名单。
+
+如果要把“利润池”真正画开，可以继续阅读 [[Value Chain Profit Pool]]。六组专题分别把同一套问题放进航空零件、轮胎模具、垃圾处理、低成本航空、IP 经济和三种利润留存机制中；它们深化案例，但不改变本笔记“公司价值、价格与买点分开”的边界。
 
 ## 仍需确认的部分
 
