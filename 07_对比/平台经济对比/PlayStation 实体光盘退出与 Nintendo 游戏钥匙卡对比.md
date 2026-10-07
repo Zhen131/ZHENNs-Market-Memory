@@ -2,6 +2,9 @@
 type: comparison
 status: draft
 title: "PlayStation 实体光盘退出与 Nintendo 游戏钥匙卡对比"
+summary: "对比 PlayStation 2028-01 起新游戏实体光盘退出与 Nintendo Switch 2 Game-Key Card 的过渡型数字发行方案。"
+aliases: []
+comparison_class:
 cases:
   - "[[2026 - 全球 - PlayStation 实体光盘退出]]"
   - "[[2025 - 全球 - Nintendo Switch 2 游戏钥匙卡]]"
@@ -21,11 +24,9 @@ tags:
   - status/draft
   - decade/2020s
   - region/global
-  - pattern/digital-distribution
-  - concept/platform-ownership
   - impact/consumer-rights
 created: 2026-07-02
-updated: 2026-07-31
+updated: 2026-10-07
 ---
 
 # PlayStation 实体光盘退出与 Nintendo 游戏钥匙卡对比

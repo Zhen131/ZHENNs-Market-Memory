@@ -2,21 +2,21 @@
 type: comparison
 status: draft
 title: "AutoZone、伟星与安琪酵母的三种利润留存方式"
-comparison_class: "investment-philosophy"
+summary: "用库存配送、低成本占比和工艺稳定三个不同机制，比较公司怎样减少利润被竞争拿走。"
+aliases: []
+comparison_class: investment-philosophy
 cases:
-  - "AutoZone"
-  - "Weixing"
-  - "Angel Yeast"
-related_patterns:
-  - "[[沙漠之花投资]]"
-related_concepts:
+  - "[[AutoZone]]"
+  - "[[伟星股份]]"
+  - "[[安琪酵母]]"
+concepts:
   - "[[竞争怎样吃掉利润]]"
   - "[[价值链利润池]]"
-related_assets:
-  - public-equities
-related_countries:
-  - United States
-  - China
+methods:
+  - "[[沙漠之花投资]]"
+countries:
+  - "[[美国]]"
+  - "[[中国]]"
 source_status: partially-sourced
 sources:
   - "脑总，4.4沙漠之花投资：不性感行业中的卓越公司（已入库）.md，原始转写"
@@ -29,13 +29,9 @@ sources:
 tags:
   - type/comparison
   - status/draft
-  - concept/profit-retention
-  - concept/distribution
-  - concept/switching-costs
   - region/global
-  - asset/public-equities
 created: 2026-07-26
-updated: 2026-07-30
+updated: 2026-10-07
 ---
 
 # AutoZone、伟星与安琪酵母的三种利润留存方式（AutoZone、伟星和安琪酵母怎样用不同方式留住利润）

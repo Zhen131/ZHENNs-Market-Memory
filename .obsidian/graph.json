@@ -1,12 +1,69 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "-path:00_首页 -path:99_工具 -path:99Z_等待入库文件 -file:索引",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:02_事件",
+      "color": {
+        "a": 1,
+        "rgb": 14242639
+      }
+    },
+    {
+      "query": "path:04_主体",
+      "color": {
+        "a": 1,
+        "rgb": 3898840
+      }
+    },
+    {
+      "query": "path:05_资产",
+      "color": {
+        "a": 1,
+        "rgb": 13934615
+      }
+    },
+    {
+      "query": "path:03_模式 OR path:06_概念",
+      "color": {
+        "a": 1,
+        "rgb": 3972445
+      }
+    },
+    {
+      "query": "path:07_对比 OR path:08_方法",
+      "color": {
+        "a": 1,
+        "rgb": 9329858
+      }
+    },
+    {
+      "query": "path:10_观点",
+      "color": {
+        "a": 1,
+        "rgb": 15237946
+      }
+    },
+    {
+      "query": "path:11_来源",
+      "color": {
+        "a": 1,
+        "rgb": 9080728
+      }
+    },
+    {
+      "query": "path:20_我的",
+      "color": {
+        "a": 1,
+        "rgb": 2793880
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,

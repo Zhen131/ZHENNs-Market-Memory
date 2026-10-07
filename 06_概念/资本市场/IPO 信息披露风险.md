@@ -2,18 +2,11 @@
 type: concept
 status: draft
 title: "IPO 信息披露风险"
+summary: "拟上市公司因历史争议、合同义务、诉讼、主体结构或重大不确定性披露不足，导致审核延迟、估值折价或发行失败的风险。"
+aliases: []
 concept_class: "capital-markets / disclosure-risk"
-related_events:
-  - "[[2026 - 中国 - 小红书 IPO 员工期权争议]]"
-related_patterns:
-  - "[[Pre-IPO 阶段治理风险]]"
-  - "[[合同关系分离与责任套利]]"
-  - "[[中国平台公司境外上市风险]]"
-related_assets:
-  - "[[非上市公司股权]]"
-  - stocks
-related_countries:
-  - "[[中国概览]]"
+countries:
+  - "[[中国]]"
 source_status: sourced
 sources:
   - "SEC, Form S-1 Registration Statement: https://www.sec.gov/about/forms/forms-1.pdf"
@@ -23,12 +16,9 @@ sources:
 tags:
   - type/concept
   - status/draft
-  - concept/ipo-disclosure-risk
-  - concept/disclosure
-  - concept/capital-markets
   - impact/governance
 created: 2026-07-07
-updated: 2026-07-30
+updated: 2026-10-07
 ---
 
 # IPO 信息披露风险
@@ -71,4 +61,4 @@ updated: 2026-07-30
 
 不要只数招股书列了多少风险，而要看它是否把关键矛盾说清楚：风险从哪里来，可能影响哪个主体，金额和概率有多不确定，公司采取了什么措施。
 
-[[创始贡献者清退与 Pre-IPO 激励清理对比]] 能提示成功后的分配冲突，却不能证明具体披露义务。不同上市地对重大性与文件要求也不完全相同，分析 [[中国概览]] 中的公司时，应以实际上市地规则和正式文件为准。
+[[创始贡献者清退与 Pre-IPO 激励清理对比]] 能提示成功后的分配冲突，却不能证明具体披露义务。不同上市地对重大性与文件要求也不完全相同，分析 [[中国]] 中的公司时，应以实际上市地规则和正式文件为准。

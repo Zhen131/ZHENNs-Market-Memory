@@ -2,6 +2,8 @@
 type: pattern
 status: draft
 title: "Pre-IPO 阶段治理风险"
+summary: "拟上市公司在公开发行前，内部合同、员工激励、诉讼、主体结构或披露不一致问题被监管机构和投资者重新审查的风险模式。"
+aliases: []
 pattern_class: "corporate-governance / listing-risk"
 typical_triggers:
   - "IPO preparation"
@@ -13,12 +15,10 @@ transmission_channels:
   - valuation
   - legal-risk
   - investor-trust
-related_events:
-  - "[[2026 - 中国 - 小红书 IPO 员工期权争议]]"
-related_assets:
-  - stocks
+assets:
+  - "[[股票]]"
   - "[[非上市公司股权]]"
-related_concepts:
+concepts:
   - "[[首次公开募股（IPO）]]"
   - "[[IPO 信息披露风险]]"
   - "[[或有负债]]"
@@ -27,6 +27,9 @@ related_concepts:
   - "[[归属与行权条件]]"
   - "[[可变利益实体（VIE）]]"
   - "[[境内外公司架构]]"
+  - "[[香港上市审核的治理把关作用]]"
+countries:
+  - "[[中国]]"
 source_status: partially-sourced
 sources:
   - "Investor.gov, Initial Public Offering (IPO): https://www.investor.gov/introduction-investing/investing-basics/glossary/initial-public-offering-ipo"
@@ -35,12 +38,9 @@ sources:
 tags:
   - type/pattern
   - status/draft
-  - pattern/pre-ipo-governance-risk
-  - concept/ipo
-  - concept/equity-compensation
   - impact/governance
 created: 2026-07-07
-updated: 2026-07-31
+updated: 2026-10-07
 ---
 
 # Pre-IPO 阶段治理风险
@@ -75,7 +75,7 @@ updated: 2026-07-31
 
 [[2026 - 中国 - 小红书 IPO 员工期权争议]]可以确认的只是小红书 / RedNote 准备香港 IPO。员工期权纠纷、实名投诉和审核受影响来自用户叙事，当前没有公开可核验材料。因此，它只能展示“如果激励争议牵涉主体结构，风险可能怎样扩散”，不能充当这一模式已经在小红书被事实验证的证据。
 
-这也提醒[[中国概览|中国]]平台公司研究：增长故事决定市场愿意想象多大空间，兑现规则决定投资者是否愿意相信这个故事。只有出现申请文件、法律材料或监管问询后，才能判断具体争议是否达到重大披露标准。
+这也提醒[[中国]]平台公司研究：增长故事决定市场愿意想象多大空间，兑现规则决定投资者是否愿意相信这个故事。只有出现申请文件、法律材料或监管问询后，才能判断具体争议是否达到重大披露标准。
 
 ## 仍需回答的问题
 

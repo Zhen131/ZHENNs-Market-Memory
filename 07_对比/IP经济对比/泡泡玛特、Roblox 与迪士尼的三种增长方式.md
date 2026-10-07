@@ -2,21 +2,21 @@
 type: comparison
 status: draft
 title: "泡泡玛特、Roblox 与迪士尼的三种增长方式"
-comparison_class: "ip-economics"
+summary: "比较持续爆款、创作者平台和跨媒体体验体系三种增长方式，作为“沙漠之花”的延伸阅读而非硬性归类。"
+aliases: []
+comparison_class: ip-economics
 cases:
-  - "Pop Mart"
-  - "Roblox"
-  - "Disney"
-related_patterns:
-  - "[[沙漠之花投资]]"
-related_concepts:
+  - "[[泡泡玛特]]"
+  - "[[Roblox]]"
+  - "[[迪士尼]]"
+concepts:
   - "[[竞争怎样吃掉利润]]"
   - "[[价值链利润池]]"
-related_assets:
-  - public-equities
-related_countries:
-  - China
-  - United States
+methods:
+  - "[[沙漠之花投资]]"
+countries:
+  - "[[中国]]"
+  - "[[美国]]"
 source_status: partially-sourced
 sources:
   - "脑总，4.4沙漠之花投资：不性感行业中的卓越公司（已入库）.md，原始转写"
@@ -30,13 +30,9 @@ sources:
 tags:
   - type/comparison
   - status/draft
-  - concept/ip-economics
-  - concept/platform-economics
-  - concept/profit-retention
   - region/global
-  - asset/public-equities
 created: 2026-07-26
-updated: 2026-07-30
+updated: 2026-10-07
 ---
 
 # 泡泡玛特、Roblox 与迪士尼的三种增长方式（三种增长方式，不是三家同类公司）

@@ -2,20 +2,20 @@
 type: comparison
 status: draft
 title: "Waste Management 与中国市政垃圾服务"
-comparison_class: "investment-philosophy"
+summary: "区分美国客户收费与设施网络、中国政府合同与特许经营，说明垃圾刚需为何不能直接推出相同股东经济性。"
+aliases: []
+comparison_class: investment-philosophy
 cases:
-  - "Waste Management"
-  - "Grandblue Environment"
-related_patterns:
-  - "[[沙漠之花投资]]"
-related_concepts:
+  - "[[Waste Management]]"
+  - "[[瀚蓝环境]]"
+concepts:
   - "[[竞争怎样吃掉利润]]"
   - "[[价值链利润池]]"
-related_assets:
-  - public-equities
-related_countries:
-  - United States
-  - China
+methods:
+  - "[[沙漠之花投资]]"
+countries:
+  - "[[美国]]"
+  - "[[中国]]"
 source_status: partially-sourced
 sources:
   - "脑总，4.4沙漠之花投资：不性感行业中的卓越公司（已入库）.md，原始转写"
@@ -27,13 +27,10 @@ sources:
 tags:
   - type/comparison
   - status/draft
-  - concept/value-chain
-  - concept/network-density
   - industry/waste-services
   - region/global
-  - asset/public-equities
 created: 2026-07-26
-updated: 2026-07-30
+updated: 2026-10-07
 ---
 
 # Waste Management 与中国市政垃圾服务（中美垃圾处理为什么不能直接类比）

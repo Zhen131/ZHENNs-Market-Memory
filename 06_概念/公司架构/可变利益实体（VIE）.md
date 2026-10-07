@@ -2,18 +2,11 @@
 type: concept
 status: draft
 title: "可变利益实体（VIE）"
+summary: "境外上市主体通过合同、经济利益和控制安排连接境内运营主体的结构，核心风险在于控制效果、法律所有权和披露一致性并不完全相同。"
+aliases: []
 concept_class: "corporate-structure / accounting / offshore-listing"
-related_events:
-  - "[[2026 - 中国 - 小红书 IPO 员工期权争议]]"
-related_patterns:
-  - "[[合同关系分离与责任套利]]"
-  - "[[Pre-IPO 阶段治理风险]]"
-  - "[[中国平台公司境外上市风险]]"
-related_assets:
-  - "[[非上市公司股权]]"
-  - stocks
-related_countries:
-  - "[[中国概览]]"
+countries:
+  - "[[中国]]"
 source_status: sourced
 sources:
   - "Variable interest entity, Wikipedia: https://en.wikipedia.org/wiki/Variable_interest_entity"
@@ -22,12 +15,8 @@ sources:
 tags:
   - type/concept
   - status/draft
-  - concept/variable-interest-entity
-  - concept/vie
-  - concept/offshore-listing
-  - country/china
 created: 2026-07-07
-updated: 2026-07-30
+updated: 2026-10-07
 ---
 
 # 可变利益实体（VIE）
@@ -62,7 +51,7 @@ VIE 本身不必然阻断 [[首次公开募股（IPO）|IPO]]。真正增加审�
 
 公开报道支持小红书准备香港上市这一背景。[[2026 - 中国 - 小红书 IPO 员工期权争议]] 的用户材料还称，员工期权纠纷涉及境内雇主与境外授予主体，但这一细节尚无公开证据。
 
-在正式招股书或可靠法律文件出现前，不能确认小红书是否采用何种 VIE 安排，也不能确认拟上市主体、境内运营主体和员工激励主体的关系。[[中国概览]] 中的平台公司也不应被一概而论。
+在正式招股书或可靠法律文件出现前，不能确认小红书是否采用何种 VIE 安排，也不能确认拟上市主体、境内运营主体和员工激励主体的关系。[[中国]] 中的平台公司也不应被一概而论。
 
 ## 研究 VIE 时应先问哪几件事
 

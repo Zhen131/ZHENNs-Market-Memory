@@ -1,3 +1,10 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "userIgnoreFilters": [
+    "99Z_等待入库文件/",
+    "/_原始文件/"
+  ]
 }

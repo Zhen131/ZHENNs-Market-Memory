@@ -1,10 +1,10 @@
 ---
 type: overview
 status: active
-title: MinerU PDF 批量转 Markdown 使用指南
+title: "MinerU PDF 批量转 Markdown 使用指南"
 source_status: verified
 sources:
-  - 本机 MinerU 3.4.4 实际安装与转换测试
+  - "本机 MinerU 3.4.4 实际安装与转换测试"
 tags:
   - type/overview
   - status/active

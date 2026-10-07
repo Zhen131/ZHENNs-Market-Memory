@@ -2,34 +2,30 @@
 type: comparison
 status: draft
 title: "创始贡献者清退与 Pre-IPO 激励清理对比"
+summary: "对比开国功臣清算类历史叙事与上市前激励清理类公司治理问题，提取成功前承诺、成功后分配、控制权再集中和类比失效边界。"
+aliases: []
 comparison_class: "corporate-governance / political-analogy / incentive-conflict"
 cases:
-  - "Founder contributor purge"
-  - "Pre-IPO incentive cleanup"
-related_events:
   - "[[2026 - 中国 - 小红书 IPO 员工期权争议]]"
-related_patterns:
+patterns:
   - "[[成功后的回报重新分配]]"
   - "[[Pre-IPO 阶段治理风险]]"
   - "[[合同关系分离与责任套利]]"
-related_concepts:
+concepts:
   - "[[员工股票期权]]"
   - "[[股权激励]]"
   - "[[归属与行权条件]]"
   - "[[或有负债]]"
-related_assets:
+assets:
   - "[[非上市公司股权]]"
-  - stocks
 source_status: unsourced
 sources: []
 tags:
   - type/comparison
   - status/draft
   - comparison/corporate-governance
-  - pattern/reward-reallocation
-  - concept/equity-compensation
 created: 2026-07-07
-updated: 2026-07-31
+updated: 2026-10-07
 ---
 
 # 创始贡献者清退与 Pre-IPO 激励清理对比

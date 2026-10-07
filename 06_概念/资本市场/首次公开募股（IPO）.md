@@ -2,17 +2,11 @@
 type: concept
 status: draft
 title: "首次公开募股（IPO）"
+summary: "公司第一次向公众投资者发行股票并进入公开市场交易的过程，同时是融资、流动性、披露审核和治理门槛。"
+aliases: []
 concept_class: "capital-markets / public-listing"
-related_events:
-  - "[[2026 - 中国 - 小红书 IPO 员工期权争议]]"
-related_patterns:
-  - "[[Pre-IPO 阶段治理风险]]"
-  - "[[合同关系分离与责任套利]]"
-related_assets:
-  - stocks
-  - "[[非上市公司股权]]"
-related_countries:
-  - "[[中国概览]]"
+countries:
+  - "[[中国]]"
 source_status: sourced
 sources:
   - "Investor.gov, Initial Public Offering (IPO): https://www.investor.gov/introduction-investing/investing-basics/glossary/initial-public-offering-ipo"
@@ -21,12 +15,8 @@ sources:
 tags:
   - type/concept
   - status/draft
-  - concept/ipo
-  - concept/public-listing
-  - concept/capital-markets
-  - asset/stocks
 created: 2026-07-07
-updated: 2026-07-31
+updated: 2026-10-07
 ---
 
 # 首次公开募股（IPO）
@@ -70,4 +60,4 @@ updated: 2026-07-31
 
 审核不能保证公司没有风险，也不替投资者判断收益。它要求公司把重要风险说清楚，让市场能够定价。在香港语境中，这种制度功能见 [[香港上市审核的治理把关作用]]。
 
-对 [[中国概览]] 中的跨境上市公司，投资者还要关注境内备案、行业准入、数据安全与跨境资金等约束。越接近上市，越不能只看增长故事；但任何风险结论也都应以正式申请文件为准。
+对 [[中国]] 中的跨境上市公司，投资者还要关注境内备案、行业准入、数据安全与跨境资金等约束。越接近上市，越不能只看增长故事；但任何风险结论也都应以正式申请文件为准。
