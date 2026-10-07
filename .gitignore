@@ -1,0 +1,13 @@
+# 系统与编辑器的本机状态，不入库
+.DS_Store
+**/.DS_Store
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# iCloud 同步冲突时生成的副本
+* 2.md
+
+# 检查脚本的运行缓存
+__pycache__/
