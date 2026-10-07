@@ -1,0 +1,44 @@
+filters:
+  and:
+    - 'note.type == "view"'
+properties:
+  note.speaker:
+    displayName: 说话人
+  note.said_on:
+    displayName: 日期
+  note.view_kind:
+    displayName: 类型
+  note.about:
+    displayName: 谈论
+  note.fact_check:
+    displayName: 史实核对
+  note.outcome:
+    displayName: 结果
+views:
+  - type: table
+    name: 按说话人
+    groupBy:
+      property: note.speaker
+      direction: ASC
+    order:
+      - file.name
+      - note.said_on
+      - note.view_kind
+      - note.about
+      - note.fact_check
+    sort:
+      - property: note.said_on
+        direction: DESC
+  - type: table
+    name: 按类型
+    groupBy:
+      property: note.view_kind
+      direction: ASC
+    order:
+      - file.name
+      - note.speaker
+      - note.said_on
+      - note.about
+    sort:
+      - property: note.said_on
+        direction: DESC

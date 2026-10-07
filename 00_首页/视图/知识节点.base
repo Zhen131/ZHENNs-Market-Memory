@@ -1,0 +1,71 @@
+properties:
+  note.summary:
+    displayName: 一句话
+  note.status:
+    displayName: 状态
+  note.source_status:
+    displayName: 来源状态
+  file.folder:
+    displayName: 分类
+views:
+  - type: table
+    name: 概念
+    filters:
+      and:
+        - 'note.type == "concept"'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - note.summary
+      - note.source_status
+  - type: table
+    name: 模式
+    filters:
+      and:
+        - 'note.type == "pattern"'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - note.summary
+      - note.source_status
+  - type: table
+    name: 资产
+    filters:
+      and:
+        - 'note.type == "asset"'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - note.summary
+      - note.source_status
+  - type: table
+    name: 方法
+    filters:
+      and:
+        - 'note.type == "method"'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - note.summary
+      - note.origin
+      - note.source_status
+  - type: table
+    name: 对比
+    filters:
+      and:
+        - 'note.type == "comparison"'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - note.summary
+      - note.cases

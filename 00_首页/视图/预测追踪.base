@@ -1,0 +1,48 @@
+filters:
+  and:
+    - 'note.type == "view"'
+    - 'note.view_kind == "prediction"'
+properties:
+  note.speaker:
+    displayName: 说话人
+  note.said_on:
+    displayName: 说的日期
+  note.snapshot:
+    displayName: 当时的市场
+  note.review_on:
+    displayName: 复盘日
+  note.outcome:
+    displayName: 结果
+  note.outcome_note:
+    displayName: 依据
+views:
+  - type: table
+    name: 待验证
+    filters:
+      and:
+        - 'note.outcome == "pending"'
+    order:
+      - file.name
+      - note.speaker
+      - note.said_on
+      - note.snapshot
+      - note.review_on
+    sort:
+      - property: note.review_on
+        direction: ASC
+  - type: table
+    name: 已验证
+    filters:
+      and:
+        - 'note.outcome != "pending"'
+    groupBy:
+      property: note.speaker
+      direction: ASC
+    order:
+      - file.name
+      - note.said_on
+      - note.outcome
+      - note.outcome_note
+    sort:
+      - property: note.review_on
+        direction: DESC

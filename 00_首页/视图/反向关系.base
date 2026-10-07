@@ -1,0 +1,54 @@
+properties:
+  note.summary:
+    displayName: 一句话
+  note.start_year:
+    displayName: 年份
+  note.speaker:
+    displayName: 说话人
+  note.said_on:
+    displayName: 日期
+  note.view_kind:
+    displayName: 类型
+  note.type:
+    displayName: 笔记类型
+views:
+  - type: table
+    name: 事件
+    filters:
+      and:
+        - 'note.type == "event"'
+        - file.hasLink(this.file)
+    order:
+      - file.name
+      - note.start_year
+      - note.summary
+    sort:
+      - property: note.start_year
+        direction: ASC
+  - type: table
+    name: 观点
+    filters:
+      and:
+        - 'note.type == "view"'
+        - file.hasLink(this.file)
+    groupBy:
+      property: note.speaker
+      direction: ASC
+    order:
+      - file.name
+      - note.said_on
+      - note.view_kind
+    sort:
+      - property: note.said_on
+        direction: ASC
+  - type: table
+    name: 全部
+    filters:
+      and:
+        - file.hasLink(this.file)
+    groupBy:
+      property: note.type
+      direction: ASC
+    order:
+      - file.name
+      - note.summary

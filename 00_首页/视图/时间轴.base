@@ -1,0 +1,41 @@
+filters:
+  and:
+    - 'note.type == "event"'
+properties:
+  note.start_year:
+    displayName: 开始
+  note.end_year:
+    displayName: 结束
+  note.summary:
+    displayName: 一句话
+  note.countries:
+    displayName: 国家与地区
+  note.source_status:
+    displayName: 来源状态
+  note.decade:
+    displayName: 年代
+views:
+  - type: table
+    name: 时间轴
+    order:
+      - file.name
+      - note.start_year
+      - note.end_year
+      - note.summary
+      - note.countries
+      - note.source_status
+    sort:
+      - property: note.start_year
+        direction: ASC
+  - type: table
+    name: 按年代
+    groupBy:
+      property: note.decade
+      direction: ASC
+    order:
+      - file.name
+      - note.summary
+      - note.source_status
+    sort:
+      - property: note.start_year
+        direction: ASC

@@ -1,0 +1,29 @@
+filters:
+  and:
+    - 'note.type == "entity"'
+properties:
+  note.entity_kind:
+    displayName: 类别
+  note.summary:
+    displayName: 一句话
+  note.countries:
+    displayName: 所属国家
+  note.tickers:
+    displayName: 代码
+  note.source_status:
+    displayName: 来源状态
+views:
+  - type: table
+    name: 全部主体
+    groupBy:
+      property: note.entity_kind
+      direction: ASC
+    order:
+      - file.name
+      - note.summary
+      - note.countries
+      - note.tickers
+      - note.source_status
+    sort:
+      - property: file.name
+        direction: ASC

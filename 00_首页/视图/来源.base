@@ -1,0 +1,29 @@
+filters:
+  and:
+    - 'note.type == "source"'
+properties:
+  note.speaker:
+    displayName: 说话人
+  note.published:
+    displayName: 发布日期
+  note.medium:
+    displayName: 形式
+  note.transcription:
+    displayName: 文字来源
+  note.ingest_status:
+    displayName: 入库进度
+views:
+  - type: table
+    name: 全部来源
+    groupBy:
+      property: note.speaker
+      direction: ASC
+    order:
+      - file.name
+      - note.published
+      - note.medium
+      - note.transcription
+      - note.ingest_status
+    sort:
+      - property: note.published
+        direction: DESC
