@@ -20,6 +20,8 @@ REPORT = ROOT / "00_首页" / "视图" / "待建节点.md"
 
 SKIP_PREFIXES = ("99Z_等待入库文件/", "99_工具/模板/")
 FAT_LIMIT = 5000  # 正文超过这么多字就警告「卡片太长」，见 AGENTS.md 第 12.4 节
+GUIDE_AT = 20     # 观点文件夹到这么多张卡要有导览，见 AGENTS.md 第 8.5 节
+SPLIT_AT = 50     # 观点文件夹到这么多张卡要分子文件夹，见 AGENTS.md 第 8.5 节
 NO_FM_OK = ("README.md", "AGENTS.md")  # 以及 99_工具/ 下的说明文件
 
 ENUMS = {
@@ -345,6 +347,17 @@ def main():
                     head = anchor.split("#")[-1].strip()
                     if head not in parsed[tgt]["headings"]:
                         warnings["标题链接找不到对应标题"].append(f"{rel}：[[{inner}]]")
+
+    # 观点文件夹：到 GUIDE_AT 张要有导览，到 SPLIT_AT 张要分子文件夹
+    per_folder = defaultdict(int)
+    for rel, n in parsed.items():
+        if (n["fm"] or {}).get("type") == "view":
+            per_folder[Path(rel).parent.as_posix()] += 1
+    for folder, cnt in sorted(per_folder.items()):
+        if cnt >= GUIDE_AT and f"{folder}/{Path(folder).name}导览.md" not in parsed:
+            warnings["观点文件夹该加导览（见 AGENTS.md 第 8.5 节）"].append(f"{folder}（{cnt} 张）")
+        if cnt >= SPLIT_AT:
+            warnings["观点文件夹该分子文件夹（见 AGENTS.md 第 8.5 节）"].append(f"{folder}（{cnt} 张）")
 
     for name in unresolved:
         if name.casefold() in owner:
