@@ -1,11 +1,15 @@
 filters:
   and:
     - 'note.type == "view"'
+formulas:
+  times: 'note.said_in.length'
 properties:
   note.speaker:
     displayName: 说话人
   note.said_on:
-    displayName: 日期
+    displayName: 第一次说
+  formula.times:
+    displayName: 讲过几次
   note.view_kind:
     displayName: 类型
   note.about:
@@ -23,11 +27,28 @@ views:
     order:
       - file.name
       - note.said_on
+      - formula.times
       - note.view_kind
       - note.about
       - note.fact_check
     sort:
       - property: note.said_on
+        direction: DESC
+  - type: table
+    name: 反复讲的
+    filters:
+      and:
+        - 'note.status != "archived"'
+    groupBy:
+      property: note.speaker
+      direction: ASC
+    order:
+      - file.name
+      - formula.times
+      - note.said_on
+      - note.view_kind
+    sort:
+      - property: formula.times
         direction: DESC
   - type: table
     name: 按类型

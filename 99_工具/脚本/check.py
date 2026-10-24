@@ -5,13 +5,10 @@
   python3 99_工具/脚本/check.py                 检查全库，并更新 00_首页/视图/待建节点.md
   python3 99_工具/脚本/check.py -v              同时列出全部警告
   python3 99_工具/脚本/check.py --no-report     只检查，不写报告
-  python3 99_工具/脚本/check.py --fingerprint <来源卡.md> [...]
-                                               为清洗好的来源卡写入 body_sha256
 
-有错误时退出码为 1。规则依据见 AGENTS.md 第 5、6、7、8、12 节。
+有错误时退出码为 1。规则依据见 AGENTS.md 第 5、6、8、12 节。
 """
 import datetime
-import hashlib
 import json
 import re
 import sys
@@ -22,43 +19,41 @@ ROOT = Path(__file__).resolve().parents[2]
 REPORT = ROOT / "00_首页" / "视图" / "待建节点.md"
 
 SKIP_PREFIXES = ("99Z_等待入库文件/", "99_工具/模板/")
+FAT_LIMIT = 5000  # 正文超过这么多字就警告「卡片太长」，见 AGENTS.md 第 12.4 节
 NO_FM_OK = ("README.md", "AGENTS.md")  # 以及 99_工具/ 下的说明文件
 
 ENUMS = {
     "type": {"event", "entity", "asset", "concept", "pattern", "comparison", "method",
-             "view", "source", "timeline", "overview", "note"},
+             "view", "timeline", "overview", "note"},
     "status": {"draft", "active", "reviewed", "archived"},
     "source_status": {"unsourced", "partially-sourced", "sourced", "verified"},
     "entity_kind": {"country", "company", "institution", "person", "place"},
     "view_kind": {"framework", "judgment", "prediction", "action", "case"},
     "fact_check": {"unchecked", "consistent", "inconsistent", "mixed"},
     "outcome": {"pending", "hit", "miss", "partial", "void"},
-    "medium": {"video", "live", "pdf", "article", "book", "podcast"},
-    "transcription": {"official", "subtitle", "asr", "manual"},
-    "ingest_status": {"raw", "cleaned", "viewed", "done"},
     "region": {"global", "asia", "europe", "north-america", "latin-america", "middle-east", "africa", "oceania"},
 }
 COMMON = ["type", "status", "title", "source_status", "sources", "tags", "created", "updated"]
 REQUIRED = {
     "event": ["start_year", "decade"],
     "entity": ["entity_kind"],
-    "view": ["view_kind", "speaker", "said_on", "source", "anchor", "about", "fact_check"],
-    "source": ["speaker", "published", "medium", "transcription", "ingest_status"],
+    "view": ["view_kind", "speaker", "said_on", "said_in", "about", "fact_check"],
 }
-NEEDS_SUMMARY = {"event", "entity", "asset", "concept", "pattern", "comparison", "method", "view", "source"}
+NEEDS_SUMMARY = {"event", "entity", "asset", "concept", "pattern", "comparison", "method", "view"}
 LINK_LIST = {"countries", "actors", "assets", "patterns", "concepts", "related", "led_to", "broader",
-             "cases", "methods", "origin", "applies_to", "about", "based_on", "raw_files"}
-LINK_ONE = {"currency", "central_bank", "speaker", "source"}
+             "cases", "methods", "origin", "applies_to", "about", "based_on"}
+LINK_ONE = {"currency", "central_bank", "speaker", "changed_from"}
 HOME_OF = {
     "event": "02_事件/", "entity": "04_主体/", "asset": "05_资产/", "concept": "06_概念/",
     "pattern": "03_模式/", "comparison": "07_对比/", "method": "08_方法/", "view": "10_观点/",
-    "source": "11_来源/", "timeline": "01_时间线/", "note": "20_我的/",
+    "timeline": "01_时间线/", "note": "20_我的/",
 }
 MODULE_ROOT = re.compile(r"^(0[1-8]|1\d|20)_[^/]+/[^/]+\.md$")
 
 WIKILINK = re.compile(r"(!?)\[\[([^\]\n]+?)\]\]")
 BLOCK_ID = re.compile(r"(?:^|\s)\^([A-Za-z0-9-]+)\s*$", re.M)
 HEADING = re.compile(r"^#{1,6}\s+(.+?)\s*#*\s*$", re.M)
+SAID_IN = re.compile(r"^(\d{4}(?:-\d{2}){0,2}) \S")
 
 
 # ------------------------------------------------------------------ YAML
@@ -138,8 +133,12 @@ def strip_code(text):
     return re.sub(r"`[^`\n]*`", "", text)
 
 
-def body_hash(body):
-    return hashlib.sha256(body.strip().encode("utf-8")).hexdigest()
+def body_chars(body):
+    """正文字数：去掉代码、注释、嵌入、链接语法和空白后的字符数。"""
+    text = strip_code(body)
+    text = re.sub(r"!\[\[[^\]]*\]\]", "", text)
+    text = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", text)
+    return len(re.sub(r"\s", "", text))
 
 
 # ------------------------------------------------------------------ 收集
@@ -163,8 +162,6 @@ def collect():
 
 def main():
     args = sys.argv[1:]
-    if args and args[0] == "--fingerprint":
-        return fingerprint(args[1:])
     verbose = "-v" in args
     write_report = "--no-report" not in args
 
@@ -295,20 +292,28 @@ def main():
                     ro = str(fm.get("review_on") or "")
                     if fm.get("outcome") == "pending" and ro and ro <= today:
                         warnings["预测已到复盘日"].append(f"{rel}（{ro}）")
-                src, anchor = fm.get("source"), str(fm.get("anchor") or "")
-                if isinstance(src, str) and src.startswith("[["):
-                    tgt = resolve(src[2:-2].split("|")[0].split("#")[0])
-                    if not tgt:
-                        errors["观点卡的来源不存在"].append(f"{rel}：{src}")
-                    elif anchor.lstrip("^") not in parsed.get(tgt, {}).get("blocks", []):
-                        errors["观点卡的锚点在来源里找不到"].append(f"{rel}：{anchor}")
-            # 来源卡指纹
-            if t == "source" and fm.get("ingest_status") not in (None, "", "raw"):
-                h = fm.get("body_sha256")
-                if not h:
-                    errors["来源卡没有写指纹"].append(f"{rel}（运行 --fingerprint）")
-                elif h != body_hash(body):
-                    errors["来源卡正文被改动过"].append(rel)
+                said_in = fm.get("said_in")
+                if said_in not in (None, "", []):
+                    if not isinstance(said_in, list):
+                        errors["said_in 必须是列表"].append(rel)
+                    else:
+                        dates = []
+                        for x in said_in:
+                            m = SAID_IN.match(str(x))
+                            if not m:
+                                errors["said_in 每一行要以日期开头"].append(f"{rel}：{x}")
+                            else:
+                                dates.append(m.group(1))
+                        if dates and str(fm.get("said_on") or "") != min(dates):
+                            errors["said_on 不是 said_in 里最早的日期"].append(
+                                f"{rel}：said_on = {fm.get('said_on')}，最早 = {min(dates)}")
+                for k in ("source", "anchor"):
+                    if k in fm:
+                        errors["观点卡还留着旧字段（2026-10-24 起不用）"].append(f"{rel}：{k}")
+            # 卡片太长
+            if t in NEEDS_SUMMARY and body_chars(body) > FAT_LIMIT:
+                warnings["卡片太长（考虑拆分，见 AGENTS.md 第 12.4 节）"].append(
+                    f"{rel}（{body_chars(body)} 字）")
 
         # 模块根部只放索引
         if MODULE_ROOT.match(rel) and t != "overview":
@@ -399,24 +404,6 @@ def write_pending(unresolved):
     old = REPORT.read_text(encoding="utf-8") if REPORT.exists() else ""
     if re.sub(r"^updated: .*$", "", old, flags=re.M) != re.sub(r"^updated: .*$", "", text, flags=re.M):
         REPORT.write_text(text, encoding="utf-8")
-
-
-def fingerprint(paths):
-    if not paths:
-        print("用法：check.py --fingerprint <来源卡.md> [...]")
-        return 1
-    for p in paths:
-        p = Path(p)
-        text = p.read_text(encoding="utf-8")
-        raw, body = split_fm(text)
-        if raw is None or not re.search(r"^body_sha256:", raw, re.M):
-            print(f"[跳过] {p}：YAML 里没有 body_sha256 字段")
-            continue
-        h = body_hash(body)
-        new_raw = re.sub(r"^body_sha256:.*$", f'body_sha256: "{h}"', raw, count=1, flags=re.M)
-        p.write_text("---\n" + new_raw + "\n---\n" + body, encoding="utf-8")
-        print(f"[已写入] {p}：{h[:12]}…")
-    return 0
 
 
 if __name__ == "__main__":
