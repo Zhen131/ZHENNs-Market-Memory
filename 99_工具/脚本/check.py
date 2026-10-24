@@ -56,6 +56,8 @@ WIKILINK = re.compile(r"(!?)\[\[([^\]\n]+?)\]\]")
 BLOCK_ID = re.compile(r"(?:^|\s)\^([A-Za-z0-9-]+)\s*$", re.M)
 HEADING = re.compile(r"^#{1,6}\s+(.+?)\s*#*\s*$", re.M)
 SAID_IN = re.compile(r"^(\d{4}(?:-\d{2}){0,2}) \S")
+# 观点卡必有的部分，见 AGENTS.md 第 8.2 节
+VIEW_PARTS = ["**一句话**", "### 他是在什么情况下说的", "### 他怎么说", "**一句话记住**"]
 
 
 # ------------------------------------------------------------------ YAML
@@ -309,6 +311,9 @@ def main():
                         if dates and str(fm.get("said_on") or "") != min(dates):
                             errors["said_on 不是 said_in 里最早的日期"].append(
                                 f"{rel}：said_on = {fm.get('said_on')}，最早 = {min(dates)}")
+                missing = [x.strip("*# ") for x in VIEW_PARTS if x not in body]
+                if missing:
+                    warnings["观点卡缺少必有的部分（见 AGENTS.md 第 8.2 节）"].append(f"{rel}：{'、'.join(missing)}")
                 for k in ("source", "anchor"):
                     if k in fm:
                         errors["观点卡还留着旧字段（2026-10-24 起不用）"].append(f"{rel}：{k}")
