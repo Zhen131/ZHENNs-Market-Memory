@@ -16,6 +16,8 @@ sources:
   - "Reddit 8-K 附件（财报新闻稿），2026-07-30，Reddit Reports Second Quarter 2026 Results，https://www.sec.gov/Archives/edgar/data/0001713445/000171344526000098/earningspressreleaseq226.htm"
   - "Stock Analysis（数据网站，仅作参考），2026-10-23，Reddit (RDDT) Statistics，https://stockanalysis.com/stocks/rddt/statistics/"
   - "Stock Analysis（数据网站，仅作参考），2026-10-23，Reddit (RDDT) Stock Price History，https://stockanalysis.com/stocks/rddt/history/"
+  - "道琼斯（老虎证券转载），2026-07-22，Reddit Down Nearly 10%, on Pace for Largest Percent Decrease Since October 2025，https://www.itiger.com/news/2653650717"
+  - "StockStory（Finviz 转载），2026-01-15，Why Reddit (RDDT) Stock Is Nosediving，https://finviz.com/news/278183/why-reddit-rddt-stock-is-nosediving"
   - "Simpson Thacher，2022-10-28，Elon Musk Completes Twitter Acquisition，https://webdev.stblaw.com/about-us/news/view/2022/10/28/elon-musk-completes-twitter-acquisition"
   - "推特 8-K 附件（财报新闻稿），2022-07-22，Twitter Announces Second Quarter 2022 Results，https://www.sec.gov/Archives/edgar/data/1418091/000141809122000143/twtrq222ex991.htm"
   - "推特 8-K 附件（财报新闻稿），2022-02-10，Twitter Announces Fourth Quarter and Fiscal Year 2021 Results，https://sec.gov/Archives/edgar/data/1418091/000141809122000021/twtrq421ex991.htm"
@@ -39,6 +41,8 @@ updated: 2026-10-24
 前一题讲任天堂时，他刚说过平台要替用户把关质量，YouTube 如果被 AI 批量生产的内容淹没就可能溃败，见 [[开放生态被垃圾内容淹没会溃败]]。Reddit 正好是一个靠人把关的平台。
 
 〔背景〕Reddit 7 月 30 日公布的二季度业绩很亮眼：平均每天的活跃用户 1.303 亿，增长 18%；营收 8.05 亿美元，增长 61%；净利润 2.53 亿美元；毛利率 91.3%；它给三季度的营收指引是 8.6 亿到 8.7 亿美元。但股价没怎么涨：数据网站显示，10 月 21 日收在 153.28 美元，按约 1.92 亿股算，市值约 295 亿美元，大约是过去一年营收的 10 倍多。
+
+〔背景〕会员说的“上去过一波”又“跌下来”，有行情数据可查。据道琼斯，Reddit 2025-09-18 收在 270.71 美元的历史最高点，2026-03-27 跌到 121.84 美元的一年最低点，7 月 22 日又一度跌近 10%，当时年内累计跌了约 27%。年初的一次大跌有明确的导火索：2026-01-15，加拿大皇家银行（RBC）的分析师说，向广告代理商调研中小企业投放时听到的反馈“有挑战”，对 Reddit 的前景不如对谷歌、Meta 乐观，Reddit 当天下午跌了约 9%（StockStory）。
 
 所以会员的困惑是：业绩这么好，股价为什么不跟？现在能不能开始买？
 
@@ -79,6 +83,6 @@ updated: 2026-10-24
 
 它怕的，他也说了：估值贵，增长一旦失速，跌起来会很吓人，[[Pinterest]] 就是例子。按图谱从〔背景〕里看到的情况，Reddit 的营收增速远高于用户增速（61% 对 18%），也就是说，最近的增长更多来自每个用户身上多赚了钱。将来要是变现放慢，增速可能比用户数掉得更快。
 
-〔核对〕推特收购价 400 多亿、约 440 亿美元：对得上，2022 年 10 月底完成，总价约 440 亿美元。Reddit 约 300 亿美元：对得上，10 月 21 日约 295 亿美元。日活 1 亿多：对得上，二季度 1.303 亿。用户增速「10%大几」：对得上，18%。市销率约 10 倍：对得上；推特被收购时按 2021 年营收算约 8.7 倍，和他说的差不多。推特用户约是 Reddit 的两倍：拿推特 2022 年的 2.378 亿和 Reddit 现在的 1.303 亿比，约 1.8 倍，大致对得上。管理层给的日活天花板 10 亿：只在一份自动生成的二手摘要里看到 10 亿用户的长期目标，没找到可靠来源，也不确定指的是日活。
+〔核对〕推特收购价 400 多亿、约 440 亿美元：对得上，2022 年 10 月底完成，总价约 440 亿美元。Reddit 约 300 亿美元：对得上，10 月 21 日约 295 亿美元。日活 1 亿多：对得上，二季度 1.303 亿。用户增速「10%大几」：对得上，18%。市销率约 10 倍：对得上；推特被收购时按 2021 年营收算约 8.7 倍，和他说的差不多。推特用户约是 Reddit 的两倍：拿推特 2022 年的 2.378 亿和 Reddit 现在的 1.303 亿比，约 1.8 倍，大致对得上。管理层给的日活天花板 10 亿：2026-10-24 补查仍未找到可靠来源。只在网友整理的一份分析师问答摘要里看到 CEO 霍夫曼（Steve Huffman）提过 10 亿用户的长期目标，没有找到公司公告、财报电话会或会议实录的原文，也不确定指的是日活。
 
 **一句话记住**：有些护城河是一代人用爱发电攒下来的，钱也买不到。脑总认为 Reddit 就是这样，问题只在价钱。
