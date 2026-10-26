@@ -34,12 +34,12 @@ tags:
   - impact/supply-chain-security
   - theme/tech-supply-chain
 created: 2026-07-04
-updated: 2026-10-07
+updated: 2026-10-26
 ---
 
 # 2026 - 印度 - 塔塔电子 Apple iPhone 18 数据泄露
 
-2026 年 6 月下旬，Tata Electronics 确认发生网络安全事件。TechRadar 在 6 月 23 日报道，泄露组织 World Leaks 声称取得超过 20 万份、约 630GB 的文件；6 月 29 日至 30 日的后续报道则称，其中可能包含 Apple 客户资料、iPhone 18 Pro 测试照片、零部件清单、供应商映射、主板信息和 A20 Pro 相关文件。
+2026 年 6 月下旬，Tata Electronics 确认发生网络安全事件。TechRadar 在 6 月 23 日报道，泄露组织 World Leaks 声称取得超过 20 万份、约 630GB 的文件；6 月 29 日至 30 日的后续报道则称，其中可能包含 [[苹果公司|Apple]] 客户资料、iPhone 18 Pro 测试照片、零部件清单、供应商映射、主板信息和 A20 Pro 相关文件。
 
 超过 20 万份和约 630GB 都是攻击者声称、媒体转述的规模，本轮没有对暗网文件逐份核验。哪些资料真实、哪些与 Apple 或未来产品直接相关，仍需要独立安全研究或当事方说明。Tata 据报道表示运营没有受到影响，随后限制了部分系统访问并展开取证审计；报道还称 Apple 对文件传播表示担忧并与 Tata 推进安全措施，但 Apple 没有公开完整回应。目前也没有证据证明泄露造成了 iPhone 生产中断或市场供给变化。
 
