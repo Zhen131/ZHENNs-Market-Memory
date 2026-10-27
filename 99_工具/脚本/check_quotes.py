@@ -11,6 +11,7 @@
       只核对指定的卡或文件夹
 
 一张卡讲过好几期时，把这几期的原文都写上：每条原话只要出现在其中一份里就算对。
+原文先按 99_工具/ASR校正表.md 把错字改过来再比，所以「」里按校正表改正的字也算对得上。
 有找不到的片段时退出码为 1。
 """
 import re
@@ -26,6 +27,22 @@ def norm(s):
     for a, b in (("『", '"'), ("』", '"'), ("“", '"'), ("”", '"')):
         s = s.replace(a, b)
     return s
+
+
+def asr_pairs():
+    """读 ASR 校正表里的「错 → 对」，按表里的顺序返回。"""
+    p = ROOT / "99_工具" / "ASR校正表.md"
+    pairs = []
+    if not p.exists():
+        return pairs
+    for line in p.read_text(encoding="utf-8").splitlines():
+        if not line.startswith("|"):
+            continue
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if len(cells) < 2 or cells[0] in ("错", "") or set(cells[0]) <= set("-: "):
+            continue
+        pairs.append((norm(cells[0]), norm(cells[1])))
+    return pairs
 
 
 def segments(body):
@@ -59,7 +76,14 @@ def main():
         print(__doc__)
         return 1
 
-    text = "".join(norm(p.read_text(encoding="utf-8")) for p in sources)
+    pairs = asr_pairs()
+    text = ""
+    for p in sources:
+        raw = norm(p.read_text(encoding="utf-8"))
+        fixed = raw
+        for wrong, right in pairs:
+            fixed = fixed.replace(wrong, right)
+        text += raw + "\n" + fixed + "\n"
     cards = []
     for t in targets or [ROOT / "10_观点"]:
         cards += sorted(t.rglob("*.md")) if t.is_dir() else [t]
