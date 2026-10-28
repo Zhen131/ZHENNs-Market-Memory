@@ -9,6 +9,7 @@ speaker: "[[脑总]]"
 said_on: 2026-02-26
 said_in:
   - "2026-02-26 普通人都能学会的创业入门课"
+  - "2026-03-05 美伊战争对资本市场有什么影响"
 about: ["[[Circle]]", "[[比特币]]", "[[Visa]]"]
 fact_check: mixed
 snapshot: "2026-02-25 Circle 公布 2025 年四季度业绩，当天股价涨约 29%（FXStreet）；年末 USDC 流通量 753 亿美元，同比增 72%；比特币从 2025 年 10 月约 12.6 万美元的高点跌到 2 月初约 6 万美元，2 月 25 日反弹到约 7 万美元。"
@@ -21,6 +22,10 @@ sources:
   - "StreetInsider，2026-02-25，Circle Internet Group beats Q4 estimates, stock surges，https://www.streetinsider.com/General+News/Circle+Internet+Group+beats+Q4+estimates%2C+stock+surges/26054981.html"
   - "KuCoin 快讯（转述 XWIN Research），2026-02，Bitcoin Falls 46% From $126,000 Peak as XWIN Research Calls It Early Bear Market，https://www.kucoin.com/news/flash/bitcoin-falls-46-from-126-000-peak-as-xwin-research-calls-it-early-bear-market"
   - "FXStreet，2026-02-19，Bitcoin approaches a critical zone: bear pennant projects $56,000，https://www.fxstreet.com/cryptocurrencies/news/bitcoin-approaches-a-critical-zone-bear-pennant-projects-56-000-202602190153"
+  - "Cointelegraph，2026-03-04，Bitcoin passing geopolitical stress test: BTC price spikes above $72K，https://cointelegraph.com/markets/bitcoin-passing-geopolitical-stress-test-btc-price-spikes-above-72k"
+  - "Cointelegraph，2026-03，Circle stock (CRCL) 25% rebound，https://cointelegraph.com/markets/circle-stock-crcl-25percent-rebound-clarity-act-fears"
+  - "The Block（转彭博），2025-09，Tether seeks $500 billion valuation，https://www.theblock.co/post/372033/tether-seeks-500-billion-valuation-would-rank-among-worlds-most-valuable-private-firms-bloomberg"
+  - "Yahoo Finance，2026，Tether's Fundraising Plans Quietly Collapse — Is the $500B Valuation Too Much?，https://finance.yahoo.com/news/tether-fundraising-plans-quietly-collapse-100215500.html"
 tags: [type/view, view/prediction, status/active]
 created: 2026-10-28
 updated: 2026-10-28
@@ -91,3 +96,7 @@ updated: 2026-10-28
 〔核对〕“涨了 30%”是会员说的，FXStreet 报道当天涨约 29%，对得上。他说 Circle 的盘子「基本全是」币圈炒币用户、很多是机构，这一轮没找到 USDC 持有人按机构和散户拆分的数据，没有核对。四季度币圈成交量大，链上交易额增长 247% 可以作为旁证。
 
 **一句话记住**：一次好业绩加一天大涨，不等于底已经有了；稳定币生意在熊市里反应慢、机构赎回猛，新故事还在从 0 到 1，所以他主张把建仓时间拉长、分批慢慢买。
+
+## 后来又讲过
+
+- 2026-03-05 美伊战争对资本市场有什么影响（比上面那次晚一周）：「我个人倾向于它会做漫长的底部横盘震荡，可能是一个比较宽幅的震荡。」这次是会员问“怎么看 Circle 这波的反弹”，他说是跟着[[比特币]]反弹的，Circle 是「一个币圈的大 Beta，是加了杠杆的币圈标的」。补了三点。一是之前的低点「肯定是能够买一些仓位进去的」，理由是「Tether（泰达币）一年的利润已经比 Circle 的市值高了」，他要是 [[Tether]] 的老板，没有反垄断法就会把它私有化；据他说 Circle 占 20% 的份额、大部分合规市场（未核实）。二是上一期说的业绩不能外推，这次讲得更细：财报超预期是因为去年币圈 10 月见顶后成交还活跃，赎回要等成交稀薄、没人关心时才来，基本面变化是滞后的；它是典型周期股，会先炒预期、落空再跌回去，等行业没人关心、比特币还在磨底而它先走强，才要高度重视。三是它偏投机，「Tether 才是“龙一”，它只是“龙二”」，合规的壁垒不高，但市值想象空间大。〔背景〕3 月 2 日比特币在美伊冲突中逼近 7 万美元，Circle 股价摸到三个多月的高点；3 月 4 日比特币冲上 7.2 万美元（Cointelegraph），和他说的「从 6 万反弹到了 7 万2」对得上。〔核对〕Tether 2025 年净利润据报道约 100 亿美元；他说的 Tether「估值5000 亿美金」是它 2025 年 9 月融资时谈的目标估值，后来报道称融资进展不顺，并不是成交出来的价格（The Block 转彭博、Yahoo Finance）。Circle 2 月低点约 50 美元，他说「之前跌到了100 多亿」，和一年利润比市值高大致对得上，Circle 的股本没有另查。
