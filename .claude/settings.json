@@ -1,0 +1,37 @@
+{
+  "attribution": {
+    "commit": "",
+    "pr": "",
+    "sessionUrl": false
+  },
+  "includeCoAuthoredBy": false,
+  "env": {
+    "GIT_AUTHOR_NAME": "Zhen Zhu",
+    "GIT_AUTHOR_EMAIL": "gyyhyyi@gmail.com",
+    "GIT_COMMITTER_NAME": "Zhen Zhu",
+    "GIT_COMMITTER_EMAIL": "gyyhyyi@gmail.com"
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "f=\"$CLAUDE_PROJECT_DIR/99_工具/脚本/git_guard.py\"; if [ -f \"$f\" ]; then python3 \"$f\" session-start; fi"
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "f=\"$CLAUDE_PROJECT_DIR/99_工具/脚本/git_guard.py\"; if [ -f \"$f\" ]; then python3 \"$f\" claude-pretool; fi"
+          }
+        ]
+      }
+    ]
+  }
+}

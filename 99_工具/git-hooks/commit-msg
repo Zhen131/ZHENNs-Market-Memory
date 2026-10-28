@@ -1,0 +1,3 @@
+#!/bin/sh
+# 署名守门（见 99_工具/脚本/git_guard.py）。只允许 Zhen 的邮箱。
+exec python3 "$(git rev-parse --show-toplevel)/99_工具/脚本/git_guard.py" commit-msg "$@"
