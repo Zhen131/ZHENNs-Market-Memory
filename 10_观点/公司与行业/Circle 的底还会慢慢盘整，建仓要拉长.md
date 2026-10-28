@@ -10,6 +10,7 @@ said_on: 2026-02-26
 said_in:
   - "2026-02-26 普通人都能学会的创业入门课"
   - "2026-03-05 美伊战争对资本市场有什么影响"
+  - "2026-04-01 直播"
 about: ["[[Circle]]", "[[比特币]]", "[[Visa]]"]
 fact_check: mixed
 snapshot: "2026-02-25 Circle 公布 2025 年四季度业绩，当天股价涨约 29%（FXStreet）；年末 USDC 流通量 753 亿美元，同比增 72%；比特币从 2025 年 10 月约 12.6 万美元的高点跌到 2 月初约 6 万美元，2 月 25 日反弹到约 7 万美元。"
@@ -25,6 +26,7 @@ sources:
   - "Cointelegraph，2026-03-04，Bitcoin passing geopolitical stress test: BTC price spikes above $72K，https://cointelegraph.com/markets/bitcoin-passing-geopolitical-stress-test-btc-price-spikes-above-72k"
   - "Cointelegraph，2026-03，Circle stock (CRCL) 25% rebound，https://cointelegraph.com/markets/circle-stock-crcl-25percent-rebound-clarity-act-fears"
   - "The Block（转彭博），2025-09，Tether seeks $500 billion valuation，https://www.theblock.co/post/372033/tether-seeks-500-billion-valuation-would-rank-among-worlds-most-valuable-private-firms-bloomberg"
+  - "TIKR，2026-02，Circle Internet Group Jumps 35.5% on Earnings: Analysts See $130 Target Price，https://www.tikr.com/blog/circle-internet-group-jumps-35-5-on-earnings-analysts-see-130-target-price"
   - "Yahoo Finance，2026，Tether's Fundraising Plans Quietly Collapse — Is the $500B Valuation Too Much?，https://finance.yahoo.com/news/tether-fundraising-plans-quietly-collapse-100215500.html"
 tags: [type/view, view/prediction, status/active]
 created: 2026-10-28
@@ -100,3 +102,4 @@ updated: 2026-10-28
 ## 后来又讲过
 
 - 2026-03-05 美伊战争对资本市场有什么影响（比上面那次晚一周）：「我个人倾向于它会做漫长的底部横盘震荡，可能是一个比较宽幅的震荡。」这次是会员问“怎么看 Circle 这波的反弹”，他说是跟着[[比特币]]反弹的，Circle 是「一个币圈的大 Beta，是加了杠杆的币圈标的」。补了三点。一是之前的低点「肯定是能够买一些仓位进去的」，理由是「Tether（泰达币）一年的利润已经比 Circle 的市值高了」，他要是 [[Tether]] 的老板，没有反垄断法就会把它私有化；据他说 Circle 占 20% 的份额、大部分合规市场（未核实）。二是上一期说的业绩不能外推，这次讲得更细：财报超预期是因为去年币圈 10 月见顶后成交还活跃，赎回要等成交稀薄、没人关心时才来，基本面变化是滞后的；它是典型周期股，会先炒预期、落空再跌回去，等行业没人关心、比特币还在磨底而它先走强，才要高度重视。三是它偏投机，「Tether 才是“龙一”，它只是“龙二”」，合规的壁垒不高，但市值想象空间大。〔背景〕3 月 2 日比特币在美伊冲突中逼近 7 万美元，Circle 股价摸到三个多月的高点；3 月 4 日比特币冲上 7.2 万美元（Cointelegraph），和他说的「从 6 万反弹到了 7 万2」对得上。〔核对〕Tether 2025 年净利润据报道约 100 亿美元；他说的 Tether「估值5000 亿美金」是它 2025 年 9 月融资时谈的目标估值，后来报道称融资进展不顺，并不是成交出来的价格（The Block 转彭博、Yahoo Finance）。Circle 2 月低点约 50 美元，他说「之前跌到了100 多亿」，和一年利润比市值高大致对得上，Circle 的股本没有另查。
+- 2026-04-01 直播（比上面那次晚四周）：「现在的态度依然是不用着急，一定要做好预案分批买入。」这次是问答里会员问 Circle 这类能不能买。他说 Circle 跟着比特币走，在币圈熊市里指望它单边大涨很难，「后面应该会给比较长时间的低位震荡」，至于会不会创新低、最后在哪里横住，「这就不好说了」。补了三点。一是收购价值：「假设 Tether 公司拿出一年的利润，其实就能直接把它给买下来了」，它在稳定币市场里的份额还在涨，没有反垄断法的话他要是 [[Tether]] 的老板就会收购它；对做支付的公司也有战略价值。二是护城河还没成形：合规的护城河「还远远在形成的过程中」，「它目前只有极弱的网络效应」，业务局限在币圈之内。三是因此怎么买：这类公司没多少扎实的基本面可分析，「核心就是跟着 K 线做交易」，这是把它放进了 [[投资和投机是两套打法]] 里投机的那一边。同一场最后讲 [[Fiserv]] 时，他又回头提了一句：Circle 在底部横盘稳住之后，反转的第一根 K 线涨了 35%，半个月股价就翻倍了（见 [[最好的左侧是底部已经横了一阵]]）。这次没有改变上面的预测，只是把建仓拉长讲成了「做好预案分批买入」。〔核对〕他说的第一根 K 线涨 35%，指的应是 2026-02-25 业绩当天：TIKR 等报道当天涨约 35.5%、收 83.14 美元；上面〔背景〕里 FXStreet 给的是约 29%，几家报道的口径不一样。半个月翻倍这一说，这一轮没有查。
