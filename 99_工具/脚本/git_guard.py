@@ -191,7 +191,9 @@ def cmd_pre_push():
 
 BYPASS = [
     (re.compile(r"--no-verify"), "不许用 --no-verify 跳过检查"),
-    (re.compile(r"core\.hookspath", re.I), "不许改 git 钩子目录"),
+    # 只拦「改」：赋值、跟着新值、删除。只读（git config core.hooksPath）放行。
+    (re.compile(r"core\.hookspath\s*=|core\.hookspath\s+[^\s|;&>)]|--unset(-all)?\s+core\.hookspath",
+                re.I), "不许改 git 钩子目录"),
     (re.compile(r"\bcommit\b[^|;&]*\s-[A-Za-z]*n[A-Za-z]*\b"), "不许用 -n 跳过检查"),
     (re.compile(r"\bcommit\b[^|;&]*--author\b"), "不许用 --author 改作者"),
     (re.compile(r"commit\.gpgsign\s*=?\s*true", re.I), "不许打开 Anthropic 的提交签名"),
