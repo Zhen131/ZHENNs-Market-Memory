@@ -12,6 +12,7 @@
 用法（一般不用手动跑，由 git 钩子和 .claude/settings.json 调用）：
   python3 99_工具/脚本/git_guard.py session-start   设置本仓库的 git 钩子目录和署名
   python3 99_工具/脚本/git_guard.py audit           检查所有还没推送的提交
+  python3 99_工具/脚本/git_guard.py verify 范围      检查已经推送的提交，例如 verify 1300f82..origin/main
   python3 99_工具/脚本/git_guard.py commit-msg 文件  git 的 commit-msg 钩子
   python3 99_工具/脚本/git_guard.py post-commit      git 的 post-commit 钩子
   python3 99_工具/脚本/git_guard.py pre-push         git 的 pre-push 钩子
@@ -139,6 +140,20 @@ def cmd_audit():
     return 0
 
 
+def cmd_verify(rng):
+    """推送以后再查一遍：rng 可以是一笔提交，也可以是 a..b 这样的范围。"""
+    if ".." in rng:
+        shas = git("rev-list", "--reverse", rng).split()
+    else:
+        shas = [git("rev-parse", rng).strip()]
+    bad = find_bad(shas)
+    if bad:
+        say(report(bad))
+        return 1
+    print(f"查了 {len(shas)} 笔提交，都只有 Zhen 的邮箱，没有 AI 署名。")
+    return 0
+
+
 def cmd_commit_msg(path):
     text = open(path, encoding="utf-8").read()
     # 去掉 git 自己加的注释行再检查
@@ -257,6 +272,8 @@ def main():
         return cmd_session_start()
     if mode == "audit":
         return cmd_audit()
+    if mode == "verify":
+        return cmd_verify(sys.argv[2] if len(sys.argv) > 2 else "HEAD")
     if mode == "commit-msg":
         return cmd_commit_msg(sys.argv[2])
     if mode == "post-commit":

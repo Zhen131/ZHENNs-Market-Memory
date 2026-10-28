@@ -22,7 +22,7 @@ SKIP_PREFIXES = ("99Z_等待入库文件/", "99_工具/模板/")
 FAT_LIMIT = 5000  # 正文超过这么多字就警告「卡片太长」，见 AGENTS.md 第 12.4 节
 GUIDE_AT = 20     # 观点文件夹到这么多张卡要有导览，见 AGENTS.md 第 8.5 节
 SPLIT_AT = 50     # 观点文件夹到这么多张卡要分子文件夹，见 AGENTS.md 第 8.5 节
-NO_FM_OK = ("README.md", "AGENTS.md")  # 以及 99_工具/ 下的说明文件
+NO_FM_OK = ("README.md", "AGENTS.md", "CLAUDE.md")  # 以及 99_工具/ 下的说明文件
 
 ENUMS = {
     "type": {"event", "entity", "asset", "concept", "pattern", "comparison", "method",
