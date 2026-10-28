@@ -6,8 +6,9 @@ title: "AI 时代数据库的壁垒最稳，工作流拿不准"
 summary: "AI 冲击信息类公司时，脑总对数据库的壁垒最有把握，认为 AI 发展还离不开数据；工作流软件他已拿不准，业务偏软件的公司便宜也有便宜的道理。"
 aliases: []
 speaker: "[[脑总]]"
-said_on: 2026-10-11
+said_on: 2026-02-19
 said_in:
+  - "2026-02-19 美股港股A股都有哪些护城河最深的长牛股（三）"
   - "2026-10-11 直播"
   - "2026-10-18 直播"
 about: ["[[RELX]]", "[[威科集团]]", "[[汤森路透]]", "[[标普全球]]"]
@@ -20,9 +21,11 @@ sources:
   - "Wolters Kluwer（Placera 转载），2026-08-05，Wolters Kluwer 2026 Half-Year Report，https://www.placera.se/pressmeddelanden/wolters-kluwer-wolters-kluwer-2026-half-year-report-20260805"
   - "Stock Analysis（数据网站，仅作参考），2026-10-27 查，RELX 历史股价、行情页与 Statistics（一年内价格区间、市盈率），https://stockanalysis.com/stocks/relx/history/"
   - "Stock Analysis（数据网站，仅作参考），2026-10-27 查，Wolters Kluwer (AMS:WKL) 历史股价与 Statistics，https://stockanalysis.com/quote/ams/WKL/statistics/"
+  - "Morningstar（Dow Jones），2026-02-03，Thomson Reuters Shares Slide After Anthropic Unveils AI Tool Targeting Legal-Workflow Business，https://www.morningstar.com/news/dow-jones/202602037872/thomson-reuters-shares-slide-after-anthropic-unveils-ai-tool-targeting-legal-workflow-business"
+  - "MarketBeat，2025-07-14，Thomson Reuters (NYSE:TRI) Sets New 52-Week High，https://www.marketbeat.com/instant-alerts/thomson-reuters-nysetri-sets-new-52-week-high-should-you-buy-2025-07-14"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 > 数据库壁垒比较高，我还是很确定的
@@ -76,7 +79,7 @@ updated: 2026-10-27
 
 ### 这个判断靠什么、怕什么
 
-它靠一件事：AI 越往前走，越需要真实的人类数据，而数据库公司手里的数据别人拿不到。注意他说的是「中性」，不是利好：合成数据是负的那一面。
+它靠一件事：AI 越往前走，越需要真实的人类数据，而数据库公司手里的数据别人拿不到。他在更早的 2026-02-19 那期把这一点说得更直白：「AI 本身是不生产金融数据的」。那期他还举了路透：据他一个在这行工作过的朋友说，全球金融市场一出大事，路透的记者永远最早到现场，别家只能接它的二手信息（未核实）。第一手采集来的数据，AI 合成不出来。注意他说的是「中性」，不是利好：合成数据是负的那一面。
 
 它怕三件事。一是合成数据那一面赢了。二是把公司归错了层：像威科集团这样数据和软件混在一起的公司，怎么分并不容易。三是他自己说的，工作流软件「预期差比较大」：要是 AI 没那么可怕，被打得最狠的反而可能涨得最多，只拿数据库股的人会错过这一段。
 
@@ -87,3 +90,4 @@ updated: 2026-10-27
 ## 后来又讲过
 
 - 2026-10-18 直播：「有些软件我拿不准了，我说数据库、数据这一层的，我还是相对拿得准一些的。」这次是在回顾大盘时说的：RELX 已经涨出新高，汤森路透也逆势走强。他把它们放进“热门板块抽走资金、冷门好公司被错杀”的道理里，见 [[抱团一个板块时，别的板块会被错杀]]。
+- 2026-02-19 美股港股A股都有哪些护城河最深的长牛股（三）（比 10-11 那次早将近八个月，入库晚）：「我觉得值得好好研究，因为AI 本身是不生产金融数据的。」这次是讲金融基础设施时讲到金融投研信息平台：彭博没有上市，所以这个领域的龙头是[[汤森路透]]；据他说它「从最高的287 刀一直干到了117刀」，市盈率 26 倍多，「这个估值还可以，值得认真对待了」（未核实），他猜下跌是市场担心 AI 冲击，原因要等研究后再说。中国的对标是万得，据他说没上市，数据「主要就是A 股的数据，连港股的数据都不是很全」。〔背景〕两周多前的 2026-02-03，[[Anthropic]] 发布面向法律工作流的 AI 工具，汤森路透在多伦多一天跌了 17% 以上，到 123.21 加元（道琼斯）。〔核对〕287 和 117 还没核实：它在纽约的历史最高约 214 美元（2025-07-14），他说的可能是多伦多的加元价格，本轮没有查到加元的最高价；他说「从2025 年11 月份跌下来的」，也没有核对。这次补了 AI 不生产金融数据、第一手采集这一层（并进了上面“这个判断靠什么、怕什么”一节）。
