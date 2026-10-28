@@ -13,7 +13,7 @@ sources:
   - "Costco，2025-10（财年截至 2025-08-31），Form 10-K FY2025，https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831.htm"
   - "Retail Insider（Bruce Winder），2025-09，Costco Wholesale Corp 4th Q Fiscal 2025 Earnings Review，https://retail-insider.com/retail-insider/2025/09/costco-wholesale-corp-4th-q-fiscal-2025-earnings-review-commentary-bruce-winder"
   - "Fox 10 Phoenix，2024-07-10，Costco raising membership fees for 1st time since 2017，https://www.fox10phoenix.com/news/costco-raises-membership-fees-1st-time-since-2017"
-  - "脑总 2026-04 沙漠之花也能实现超级复利的商业模式（未核实）"
+  - "脑总 2026-04-11 沙漠之花也能实现超级复利的商业模式（未核实）"
 tags:
   - type/entity
   - entity/company
@@ -34,7 +34,7 @@ Costco 是美国的会员制仓储超市，中文常叫开市客或好市多，�
 
 ## 脑总怎么提到它
 
-2026 年 4 月中旬前后的一期专题直播里，他把 Costco 当成讲商业模式的头一个例子，并说这个案例讲过很多遍：
+2026 年 4 月 11 日（日子是推断的）的一期专题直播里，他把 Costco 当成讲商业模式的头一个例子，并说这个案例讲过很多遍：
 
 - 和传统超市同在零售业，却不是一个商业模式；线上的亚马逊会员反而和它是同一种模式，见 [[看公司先按商业模式归类，不按行业]]。
 - 据他说，会员一年花三千多美元、只交六十几美元会员费（未核实）；收的比给会员创造的少，所以能滚雪球，见 [[收得比给客户创造的少，才滚得起雪球]]。

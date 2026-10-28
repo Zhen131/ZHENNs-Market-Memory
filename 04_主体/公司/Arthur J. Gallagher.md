@@ -13,7 +13,7 @@ sources:
   - "Arthur J. Gallagher & Co.，2026-01-29，Arthur J. Gallagher & Co. Announces Fourth Quarter and Full Year 2025 Financial Results，https://investor.ajg.com/news/news-details/2026/Arthur-J--Gallagher--Co--Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx"
   - "Business Insurance，2019-07-01，Business Insurance broker rankings 2019: Arthur J. Gallagher & Co.，https://www.businessinsurance.com/business-insurance-broker-rankings-2019-arthur-j-gallagher-co/"
   - "Insurance Journal，2026-02-10，Insurance Broker Stocks Sink as AI App Sparks Disruption Fears，https://www.insurancejournal.com/news/national/2026/02/10/857525.htm"
-  - "脑总 2026-04 沙漠之花也能实现超级复利的商业模式（未核实）"
+  - "脑总 2026-04-11 沙漠之花也能实现超级复利的商业模式（未核实）"
 tags:
   - type/entity
   - entity/company
@@ -37,7 +37,7 @@ Arthur J. Gallagher（中文名安睿嘉尔）是美国的保险经纪公司，�
 
 ## 脑总怎么提到它
 
-2026 年 4 月中旬前后讲靠并购滚雪球的那期专题里，他把它和[[星座软件]]、[[TransDigm]]、[[Service Corporation International|SCI]] 放在一起，说它通过不停并购小保险经纪公司，走出了类似星座的增长；他认为保险经纪比保险公司更值得看，估值不便宜但贵得有道理，见 [[保险经纪比保险公司更值得看]]。
+2026 年 4 月 11 日（日子是推断的）讲靠并购滚雪球的那期专题里，他把它和[[星座软件]]、[[TransDigm]]、[[Service Corporation International|SCI]] 放在一起，说它通过不停并购小保险经纪公司，走出了类似星座的增长；他认为保险经纪比保险公司更值得看，估值不便宜但贵得有道理，见 [[保险经纪比保险公司更值得看]]。
 
 ## 各方怎么看它
 

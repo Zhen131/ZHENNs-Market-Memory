@@ -311,7 +311,19 @@ def main():
                         if dates and str(fm.get("said_on") or "") != min(dates):
                             errors["said_on 不是 said_in 里最早的日期"].append(
                                 f"{rel}：said_on = {fm.get('said_on')}，最早 = {min(dates)}")
-                missing = [x.strip("*# ") for x in VIEW_PARTS if x not in body]
+                        # 新旧按说话日期算，不按入库先后（AGENTS.md 第 8.3 节）
+                        if dates != sorted(dates):
+                            errors["said_in 没按日期从早到晚排"].append(rel)
+                        main = re.search(r"^> —— (\d{4}(?:-\d{2}){0,2}) ", body, re.M)
+                        for sec, wrong in (("## 后来又讲过", lambda d, m: d < m), ("## 更早讲过", lambda d, m: d > m)):
+                            if main and sec in body:
+                                part = body.split(sec, 1)[1].split("\n## ", 1)[0]
+                                bad = [d for d in re.findall(r"^- (\d{4}(?:-\d{2}){0,2}) ", part, re.M)
+                                       if wrong(d, main.group(1))]
+                                if bad:
+                                    errors[f"「{sec[3:]}」里的日期方向反了（主体是开头引用块那一次）"].append(
+                                        f"{rel}：主体 {main.group(1)}，{'、'.join(bad)}")
+                missing =[x.strip("*# ") for x in VIEW_PARTS if x not in body]
                 if missing:
                     warnings["观点卡缺少必有的部分（见 AGENTS.md 第 8.2 节）"].append(f"{rel}：{'、'.join(missing)}")
                 for k in ("source", "anchor"):
