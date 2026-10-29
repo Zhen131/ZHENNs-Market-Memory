@@ -6,13 +6,15 @@ title: "Reddit 的版主生态今天无法复制"
 summary: "Reddit 每个版面都有版主无偿维护讨论氛围，早期 KOL 也在这里成名；这种生态错过那个时代就复制不出来，连谷歌也做不到。唯一的问题是估值有点贵。"
 aliases: []
 speaker: "[[脑总]]"
-said_on: 2026-10-22
+said_on: 2026-04-26
 said_in:
+  - "2026-04-26 直播"
   - "2026-10-22 直播"
 about: ["[[Reddit]]", "[[推特]]"]
-fact_check: consistent
+fact_check: mixed
 source_status: sourced
 sources:
+  - "Reddit 财报新闻稿（Business Wire），2026-02-05，Reddit Reports Fourth Quarter and Full Year 2025 Results; Announces $1 Billion Share Repurchase Program，https://www.businesswire.com/news/home/20260205441801/en/Reddit-Reports-Fourth-Quarter-and-Full-Year-2025-Results-Announces-%241-Billion-Share-Repurchase-Program"
   - "Reddit 8-K 附件（财报新闻稿），2026-07-30，Reddit Reports Second Quarter 2026 Results，https://www.sec.gov/Archives/edgar/data/0001713445/000171344526000098/earningspressreleaseq226.htm"
   - "Stock Analysis（数据网站，仅作参考），2026-10-23，Reddit (RDDT) Statistics，https://stockanalysis.com/stocks/rddt/statistics/"
   - "Stock Analysis（数据网站，仅作参考），2026-10-23，Reddit (RDDT) Stock Price History，https://stockanalysis.com/stocks/rddt/history/"
@@ -23,7 +25,7 @@ sources:
   - "推特 8-K 附件（财报新闻稿），2022-02-10，Twitter Announces Fourth Quarter and Fiscal Year 2021 Results，https://sec.gov/Archives/edgar/data/1418091/000141809122000021/twtrq421ex991.htm"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-24
-updated: 2026-10-24
+updated: 2026-10-29
 ---
 
 > Reddit 在我看来属于你错过了那个时代，今天你想要复制一个 Reddit， 已经绝无可能。
@@ -35,6 +37,8 @@ updated: 2026-10-24
 **一句话**：脑总认为，[[Reddit]] 最值钱的是一大群不拿工资的版主和在这里成名的网友，这种生态错过了那个时代就再也造不出来；它唯一的问题是估值有点贵。
 
 ### 他是在什么情况下说的
+
+看好 Reddit 这个意思，他最早在 2026-04-26 直播就讲过：那时他已经说它「非常独特」、AI 时代真人内容「极其稀缺」，可以当前锋仓位（见文末“更早讲过”）；下面按 2026-10-22 这次写，这次把版主生态为什么复制不出来讲得最完整。再往前，2026-04-09 直播他还说过 Reddit「确定性不够高」、看不清十年后，那是他改口前的看法，见 [[Reddit 确定性不够高，看不清它十年后的样子]]；那张和这张算不算改口、要不要把早的那张归档，等 Zhen 确认。
 
 这是那场直播的最后一题，他说自己已经「讲不动了」。会员的问题是：“Reddit 是软件股， 但是之前软件股修复估值的时候却没有跟着一起修复，中途上去过一波，但是又跌下来了，目前长期还看好吗？是否适合左侧建仓了？”左侧建仓，是说在股价还没止跌时就开始分批买。
 
@@ -86,3 +90,7 @@ updated: 2026-10-24
 〔核对〕推特收购价 400 多亿、约 440 亿美元：对得上，2022 年 10 月底完成，总价约 440 亿美元。Reddit 约 300 亿美元：对得上，10 月 21 日约 295 亿美元。日活 1 亿多：对得上，二季度 1.303 亿。用户增速「10%大几」：对得上，18%。市销率约 10 倍：对得上；推特被收购时按 2021 年营收算约 8.7 倍，和他说的差不多。推特用户约是 Reddit 的两倍：拿推特 2022 年的 2.378 亿和 Reddit 现在的 1.303 亿比，约 1.8 倍，大致对得上。管理层给的日活天花板 10 亿：2026-10-24 补查仍未找到可靠来源。只在网友整理的一份分析师问答摘要里看到 CEO 霍夫曼（Steve Huffman）提过 10 亿用户的长期目标，没有找到公司公告、财报电话会或会议实录的原文，也不确定指的是日活。
 
 **一句话记住**：有些护城河是一代人用爱发电攒下来的，钱也买不到。脑总认为 Reddit 就是这样，问题只在价钱。
+
+## 更早讲过
+
+- 2026-04-26 直播：「我觉得挺看好Reddit 的，非常独特，真的非常独特。」那次有人问：Reddit 目前股价深度调整，能不能左侧慢慢买入，长期看好吗？他说要「分档买入，不求一把重仓」，因为它可能「宽幅震荡式上涨」；「Reddit可以作为前锋式的仓位，确定性还比较强。」估值上，据他说 2025 年营收增长 60%，利润增速哪怕只和营收持平，「PEG小于 1」，市销率「在 10倍左右」（未核实），所以「这叫好股好价」。看好的理由那时讲的是 AI：「Reddit是目前AI引用量第一的互联网平台」，在大量 AI 智能体涌现的时候，「带有强烈真人感的内容极其稀缺」；他还举了自己在北美买房、查片区情况都上 Reddit 的例子。那时他还没讲版主生态，到 2026-10-22 才讲；两次对估值的口气也不同，04-26 是「好股好价」，10-22 是「估值有点贵」。〔核对〕Reddit 公告 2025 年全年营收 22 亿美元、增长 69%（2026-02-05），他说的 60% 偏低；PEG、10 倍市销率、「AI引用量第一」这次都没有查。17 天前的 2026-04-09 他还说「确定性不够高」，见 [[Reddit 确定性不够高，看不清它十年后的样子]]。

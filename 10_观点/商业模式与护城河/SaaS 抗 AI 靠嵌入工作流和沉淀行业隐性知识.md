@@ -9,10 +9,12 @@ speaker: "[[脑总]]"
 said_on: 2026-04-19
 said_in:
   - "2026-04-19 直播"
-about: ["[[星座软件]]", "[[AI 不能背锅，企业软件可以]]", "[[AI 时代数据库的壁垒最稳，工作流拿不准]]"]
+  - "2026-04-26 直播"
+about: ["[[星座软件]]", "[[迈克尔·伯里]]", "[[AI 不能背锅，企业软件可以]]", "[[AI 时代数据库的壁垒最稳，工作流拿不准]]"]
 fact_check: unchecked
 source_status: sourced
 sources:
+  - "CNBC（经 trade-intel 聚合页转载，仅作参考），2026-04-16，Michael Burry buys the dip in Salesforce and other software stocks after AI-fueled sell-off，https://trade-intel-aife.vercel.app/news/michael-burry-buys-the-dip-in-salesforce-and-other-software-stocks-after-ai-fueled-sell-off-cnbc"
   - "Bloomberg（经 Bloomberg Government 转载），2026-04-09，Software Slumps Anew With Growth Hopes ‘Dashed on the Rocks’，https://news.bgov.com/california-brief/software-slumps-anew-with-growth-hopes-dashed-on-the-rocks-1"
 tags: [type/view, view/framework, status/active]
 created: 2026-10-29
@@ -76,3 +78,7 @@ updated: 2026-10-29
 〔核对〕这一题他没有引用数字。他说「我之前写过一条帖子」讲请假系统，这条帖子本轮没有去找。
 
 **一句话记住**：看一家软件公司扛不扛得住 AI，问两句：客户的活是不是已经长在它的软件上，它是不是知道外人和 AI 都不知道的行业规矩。但要记得，到 2026-10 脑总对工作流软件已经说拿不准了。
+
+## 后来又讲过
+
+- 2026-04-26 直播（比上面那次晚一周）：「我自己也在买 SaaS，道理是一样的。」这是他说自己的操作，不只是看法。那次有人问怎么看[[迈克尔·伯里]]这些名人的言论，他说伯里在共识最拥挤的地方保持反共识思考值得学，「他最近也在买SaaS，因为 SaaS便宜了」，他自己也在买。他这次讲的理由只有便宜，没有回到嵌入工作流、行业隐性知识这两条标准，也没说买的是哪几家；同一期他说 ServiceNow 跌势太快，「至少等到它下跌趋缓、止跌了再深入研究」。〔核对〕CNBC 4 月 16 日报道伯里在 AI 引发的抛售后买入 Salesforce 等软件股（只查到聚合页转载，仅作参考），和「他最近也在买SaaS」大致对得上。

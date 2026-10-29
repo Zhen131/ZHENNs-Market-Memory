@@ -3,20 +3,23 @@ type: entity
 entity_kind: company
 status: draft
 title: "Reddit"
-summary: "美国论坛式社交平台，按兴趣分版面讨论，由大量志愿版主维护；据脑总说日活 1 亿多、市值约 300 亿美元。"
+summary: "美国论坛式社交平台，按兴趣分版面讨论，由大量志愿版主维护；2025 年收入约 22 亿美元、增长 69%。脑总对它从「确定性不够高」转到看好。"
 aliases: ["RDDT"]
 countries:
   - "[[美国]]"
 tickers: ["RDDT"]
-source_status: unsourced
+source_status: partially-sourced
 sources:
+  - "Business Wire，2026-02-05，Reddit Reports Fourth Quarter and Full Year 2025 Results; Announces $1 Billion Share Repurchase Program，https://www.businesswire.com/news/home/20260205441801/en/Reddit-Reports-Fourth-Quarter-and-Full-Year-2025-Results-Announces-%241-Billion-Share-Repurchase-Program"
+  - "脑总 2026-04-09 直播（未核实）"
+  - "脑总 2026-04-26 直播（未核实）"
   - "脑总 2026-10-22 直播（未核实）"
 tags:
   - type/entity
   - entity/company
   - status/draft
 created: 2026-10-24
-updated: 2026-10-24
+updated: 2026-10-29
 ---
 
 # Reddit
@@ -25,9 +28,25 @@ Reddit 是按兴趣分版面的论坛，每个版面由版主维护讨论秩序�
 
 ## 关键事实（据脑总说，未核实）
 
+以下是 2026-10-22 他说的：
+
 - 日活 1 亿多，管理层给的天花板是 10 亿；用户增速还有百分之十几。
 - 市值约 300 亿美元，市销率约 10 倍。
 - 版主约 10 万级别，无偿维护各自版面。
+
+## 关键事实（有来源）
+
+- 2025 年全年收入约 22 亿美元，比 2024 年增长 69%；净利润 5.3 亿美元，2024 年是亏损 4.84 亿美元。四季度日活跃用户 1.214 亿，同比增长 19%。公司同时宣布最多 10 亿美元的回购（Reddit 2026-02-05 公告）。
+
+## 脑总三次怎么说它
+
+他对 Reddit 的看法前后变过，按时间排：
+
+- **2026-04-09：确定性不够高。** 他说 Reddit 是 AI 时代真人意见的数据源、PEG 不贵，「但它的确定性不够高，我看不清它十年后的样子」，用户壁垒并非牢不可破，更适合交易能力强的人逐季跟踪。见 [[Reddit 确定性不够高，看不清它十年后的样子]]。
+- **2026-04-26：看好，可做前锋仓位。** 17 天后有人问 Reddit 深度调整能不能左侧慢慢买，他说「我觉得挺看好Reddit 的」，「Reddit可以作为前锋式的仓位，确定性还比较强」，要分档买入、不求一把重仓。据他说 2025 年营收增长 60%、市销率 10 倍左右、PEG 小于 1（未核实；公告的全年增速是 69%）。他说它是「AI引用量第一」的平台，「带有强烈真人感的内容极其稀缺」。见 [[Reddit 的版主生态今天无法复制]]。
+- **2026-10-22：生态绝无可能复制。** 他说今天想复制一个 Reddit「已经绝无可能」，唯一的问题是估值有点贵，那张卡开头引用的就是这次；同一题里他讲成长股要逐季跟踪，见 [[成长股要逐季跟踪，失速就先卖]]。
+
+04-09 到 04-26 那次转向，他自己没有解释为什么；算不算改口，还没定。
 
 ## 各方怎么看它
 

@@ -9,6 +9,7 @@ speaker: "[[脑总]]"
 said_on: 2026-02-19
 said_in:
   - "2026-02-19 美股港股A股都有哪些护城河最深的长牛股（三）"
+  - "2026-04-26 直播"
 about: ["[[FICO]]", "[[收费站式商业模式]]"]
 fact_check: mixed
 source_status: sourced
@@ -22,9 +23,12 @@ sources:
   - "FICO（Business Wire），2026-05-21，FICO 新闻稿（FICO Scores used by 90% of top U.S. lenders），https://www.businesswire.com/news/home/20260521780888/en/"
   - "Gurufocus（数据网站，仅作参考），FICO PE Ratio，https://gurufocus.com/stock/FICO/data/pe-ratio"
   - "Robinhood（数据网站，仅作参考），2026-03，Fair Isaac 行情页，https://robinhood.com/us/en/stocks/FICO/"
+  - "老虎证券，2026-04-10，Fair Isaac Corp Stock (FICO) Moved Down by 13.51% on Apr 10: What Investors Need To Know，https://www.itiger.com/news/2626611409"
+  - "Public.com（数据网站，仅作参考），2026-04-02，FICO P/E Ratio，https://public.com/stocks/fico/pe-ratio"
+  - "Business Wire，2026-04-16，Fair Isaac Corporation Announces Date for Reporting of Second Quarter Fiscal 2026 Financial Results，https://www.businesswire.com/news/home/20260416909717/en/Fair-Isaac-Corporation-Announces-Date-for-Reporting-of-Second-Quarter-Fiscal-2026-Financial-Results/"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 > 它的评分模型被90% 以上的贷款决策所采用，这种地位是被制度“焊死”的。
@@ -84,3 +88,7 @@ updated: 2026-10-28
 - 房利美、房地美用 FICO 分审核贷款：对得上，但〔背景〕里 2025 年 7 月起已经可以改用 VantageScore 4.0，所以「焊死」到他说话时已经松动。
 
 **一句话记住**：制度给的垄断很牢，但牢不牢取决于写规则的人；脑总认为 FICO 是好公司，只是要等一个合理的价钱。
+
+## 后来又讲过
+
+- 2026-04-26 直播：「估值现在不算便宜，但已经不是之前那么贵了，想抄底的话可以分批开始布局，拉开打。」有人问 FICO：朋友公司的研究员说「下周二财报」（就是 04-28）可能超预期 15% 到 20%，值不值得中线投资。他说 FICO 属于「护城河最刚硬那一类，高度垄断」；之前是加速上涨之后的结果，跌下来以后，据他说「现在还有 30多倍市盈率，之前是一百多倍」（未核实），「现在估值算是合理了，但不能说便宜」。这次补了三点。一是为什么不怕经济下行：它「不像银行那样加了负债杠杆」，经济下行时无非业绩降一些，不会亏掉资产。二是这一波为什么大跌：「纯粹是因为之前估值太贵」，在 SaaS 泡沫破裂中又叠加了「引入竞争」的鬼故事；他认为没有人真正相信有谁能动摇它的统治地位。三是买法：最低点不好猜，他自己「还有点贪婪，想等到更好的价格」，但现价已经不错。这不是改口：02-19 他说约 50 倍太贵、跌到合理估值才值得买，04-26 是这个条件兑现了，所以从等着变成了「可以分批开始布局」。卡名里的“只是太贵”，到 04-26 按他的说法已经过时。他同时把 FICO 放进一整批估值约 30 倍的金融基础设施股里横比，说它比同档的稍贵一点（见 [[金融基础设施股都在 30 倍上下，AI 降温后资金回流]]）。〔背景〕04-10 FICO 单日跌约 13.5%，报道把原因归到参议员霍利对它定价方式的调查和巴克莱下调目标价（老虎证券转载）；公司 04-16 宣布 04-28 收盘后公布二季报（Business Wire）。〔核对〕「30 多倍」：数据网站 04-02 约 40 倍（Public.com，仅作参考），大致对得上；「一百多倍」和上面〔核对〕里 2024 年高点 93 到 116 倍对得上，但和 02-19 他说的「2400多刀的时候……80 倍」不是同一个数，口径他没说。
