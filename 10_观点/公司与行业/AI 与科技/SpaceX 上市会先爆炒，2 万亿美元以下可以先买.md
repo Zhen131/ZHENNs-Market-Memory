@@ -9,8 +9,9 @@ speaker: "[[脑总]]"
 said_on: 2026-03-22
 said_in:
   - "2026-03-22 讲讲技术分析"
+  - "2026-04-16 直播"
 about: ["[[SpaceX]]", "[[首次公开募股（IPO）]]", "[[稀缺新股在概念最热时上市，先爆炒再杀泡沫]]"]
-fact_check: consistent
+fact_check: mixed
 snapshot: "SpaceX 还没上市。据他说，它现在是 1 万多亿美元的 Pre-IPO 估值（未核实）。查到的：2026 年 2 月初 SpaceX 与 xAI 合并，合并后估值约 1.25 万亿美元，其中 SpaceX 约 1 万亿、xAI 约 2500 亿；报道说它在准备上市，目标估值约 1.5 万亿美元。"
 review_on: 2027-03-22
 outcome: pending
@@ -20,6 +21,7 @@ sources:
   - "Yahoo Finance，2026-02，Elon Musk merges SpaceX with xAI at $1.25tn valuation，https://finance.yahoo.com/news/elon-musk-merges-spacex-artificial-233427458.html"
   - "Bloomberg Law，2026-02-03，Musk's SpaceX Combines With xAI at $1.25 Trillion Valuation，https://news.bloomberglaw.com/ip-law/elon-musks-spacex-said-to-combine-with-xai-ahead-of-mega-ipo"
   - "TechCrunch，2026-06-11，SpaceX officially prices shares at $135 in the largest IPO ever，https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/"
+  - "Seeking Alpha，2026-04-13，Morgan Stanley maps 60 stocks across the space trade，https://seekingalpha.com/news/4574518-morgan-stanley-maps-60-stocks-across-the-space-trade"
   - "IPOScoop（数据网站，仅作参考），2026-06-12，The IPO Buzz: SpaceX (SPCX) Climbs 19 Percent in NASDAQ Debut After Record IPO，https://www.iposcoop.com/?p=38639"
 tags: [type/view, view/prediction, status/active]
 created: 2026-10-29
@@ -66,6 +68,10 @@ updated: 2026-10-29
 
 **复盘日期怎么定。** 他没有给时间。图谱估定 2027-03-22，也就是他说话后一年，这个日期是估的；SpaceX 若在 2026 年年中上市，到时能看到上市后大半年到一年的走势。到时看三件事：上市后头几周、头几个月有没有明显的爆炒；之后有没有一轮大幅回落；上市时和上市后的市值有没有落在 2 万亿美元以下，在这条线以下买入的人到复盘时是赚是亏。
 
-〔核对〕他说的「1 万多亿美元 Pre-IPO 的估值」，和 2026 年 2 月合并时约 1.25 万亿美元的估值对得上（Yahoo Finance、Bloomberg Law）。
+〔核对〕他说的「1 万多亿美元 Pre-IPO 的估值」，和 2026 年 2 月合并时约 1.25 万亿美元的估值对得上（Yahoo Finance、Bloomberg Law）。04-16 他说的摩根士丹利「商业航天50」，查到的是 60 只（见文末“后来又讲过”）。
 
 **一句话记住**：他预计 SpaceX 上市会先爆炒再杀泡沫，但估值在 2 万亿美元以下就先买一批心理上扛得住的，免得错过一家他非常看好的公司。
+
+## 后来又讲过
+
+- 2026-04-16 直播（比上面那次晚三周多）：「SpaceX快要上市了，到时候能不能借机再炒一波商业航天的概念，有没有机会，这个值得密切关注，虽然不一定会发生。」这次是有朋友问想配前锋股、哪些板块值得关注，他讲到维珍银河这类商业航天股还不适合当前锋（见 [[前锋股要买强势热门股，灵活进出]]），顺带说了这一句。他还说摩根士丹利「最近」弄出了一个「商业航天50」指数，据他说有 50 只成分股，他还在研究。这次没有再谈 SpaceX 本身的估值和买点，补的是另一面：它上市可能顺带把整个商业航天板块再炒一波，他用了「不一定会发生」。〔核对〕查到的是摩根士丹利分析师亚当·乔纳斯 2026 年 4 月 13 日前后发布的“Space 60”清单，列了 60 只和航天产业链相关的上市公司，从原材料、推进系统到卫星运营分成七类（Seeking Alpha）；数目和他说的 50 只对不上，也是一份股票清单，不一定是指数。
