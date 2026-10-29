@@ -17,13 +17,15 @@ sources:
   - "The Peninsula，2026-02-03，SpaceX completes acquisition of xAI，https://thepeninsulaqatar.com/article/03/02/2026/spacex-completes-acquisition-of-xai"
   - "TechCrunch，2026-06-11，SpaceX officially prices shares at $135 in the largest IPO ever，https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/"
   - "IPOScoop（数据网站，仅作参考），2026-06-12，The IPO Buzz: SpaceX (SPCX) Climbs 19 Percent in NASDAQ Debut After Record IPO，https://www.iposcoop.com/?p=38639"
+  - "Investment News，2026-02，Musk merger creates $1.25T privately-held company ripe for IPO, but what about Tesla?，https://www.investmentnews.com/equities/musk-merger-creates-125t-privately-held-company-ripe-for-ipo-but-what-about-tesla/265106"
+  - "脑总 2026-03-22 讲讲技术分析（未核实）"
   - "脑总 2026-10-18 直播（未核实）"
 tags:
   - type/entity
   - entity/company
   - status/draft
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 # SpaceX
@@ -36,10 +38,12 @@ SpaceX 是 [[马斯克]] 创办的航天公司。它最出名的一件事，是�
 - 2010-06-04，猎鹰 9 号第一次发射，从卡纳维拉尔角升空并进入轨道（NASA）。
 - 2015-12-21（美国东部时间），猎鹰 9 号执行 ORBCOMM-2 任务，第一级飞回 1 号着陆区，是世界上第一次回收轨道级火箭（SpaceX）。
 - 2017-03-30，猎鹰 9 号用一枚回收过的第一级发射 SES-10 卫星，这是轨道级火箭第一次复用；这枚第一级此前执行过 CRS-8 任务（UPI）。
-- 2026-02-02，马斯克的 [[xAI]] 并入 SpaceX，成为它的全资子公司（The Peninsula）。
+- 2026-02-02，马斯克的 [[xAI]] 并入 SpaceX，成为它的全资子公司（The Peninsula）。这笔全换股交易给合并后的公司估值约 1.25 万亿美元，其中 SpaceX 约 1 万亿、xAI 约 2500 亿；合并前，SpaceX 上一次老股转让的估值是 8000 亿美元（Investment News 等）。
 - 2026-06-11 公布上市定价，每股 135 美元，募资约 750 亿美元，是有记录以来最大的一次 IPO；股票在纳斯达克交易，代码 SPCX（TechCrunch）。2026-06-12 第一天交易，开盘 150 美元（IPOScoop）。
 
 ## 脑总怎么看它
+
+上市前三个月，2026-03-22 讲技术分析那期，他开场就讲 SpaceX 上市。据他说，它当时 Pre-IPO 的估值是 1 万多亿美元（未核实；和上面合并时的估值大致对得上）。他估计它上市后会像 Circle、Coinbase、Roblox 那样先被爆炒一波再杀泡沫；如果上市时估值在 2 万亿美元以下，可以先买一批心理上承受得住的筹码，「我自己对它还是非常看好的」。见 [[SpaceX 上市会先爆炒，2 万亿美元以下可以先买]] 和 [[稀缺新股在概念最热时上市，先爆炒再杀泡沫]]。
 
 据脑总在 2026-10-18 直播里说：飞车用的喷气技术「肯定不如 SpaceX火箭回收的难度吧」（[[造奇观比打广告划算|他的说法]]）；他还把一家早期地热公司比作「猎鹰 9 号时期的SpaceX」，见 [[Fervo 像猎鹰 9 号时期的 SpaceX]]。
 
