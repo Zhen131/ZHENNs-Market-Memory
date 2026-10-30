@@ -18,7 +18,7 @@ countries:
   - "[[中国]]"
 source_status: partially-sourced
 sources:
-  - "脑总，4.4沙漠之花投资：不性感行业中的卓越公司（已入库）.md，原始转写"
+  - "脑总，260404_沙漠之花投资：不性感行业中的卓越公司.md，原始转写"
   - "Waste Management, Inc., 2025 Form 10-K, https://www.sec.gov/Archives/edgar/data/823768/000110465926012049/wm-20251231x10k.htm"
   - "瀚蓝环境股份有限公司，2025 年年度报告，https://dataclouds.cninfo.com.cn/shgonggao/hsomarket/2026/20260423/2a7671f89bbd4488bd338ae227d27753.PDF"
   - "StockAnalysis, Waste Management financial ratios, accessed 2026-07-26, https://stockanalysis.com/stocks/wm/financials/ratios/"

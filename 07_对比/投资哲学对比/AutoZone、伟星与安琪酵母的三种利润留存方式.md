@@ -19,7 +19,7 @@ countries:
   - "[[中国]]"
 source_status: partially-sourced
 sources:
-  - "脑总，4.4沙漠之花投资：不性感行业中的卓越公司（已入库）.md，原始转写"
+  - "脑总，260404_沙漠之花投资：不性感行业中的卓越公司.md，原始转写"
   - "AutoZone, Inc., 2025 Form 10-K, https://www.sec.gov/Archives/edgar/data/866787/000110465925102611/azo-20250830x10k.htm"
   - "浙江伟星实业发展股份有限公司，2025 年年度报告，https://static.cninfo.com.cn/finalpage/2026-04-17/1225112913.PDF"
   - "安琪酵母股份有限公司，2025 年年度报告，https://static.cninfo.com.cn/finalpage/2026-03-31/1225056953.PDF"

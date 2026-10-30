@@ -19,7 +19,7 @@ countries:
   - "[[美国]]"
 source_status: partially-sourced
 sources:
-  - "脑总，4.4沙漠之花投资：不性感行业中的卓越公司（已入库）.md，原始转写"
+  - "脑总，260404_沙漠之花投资：不性感行业中的卓越公司.md，原始转写"
   - "Pop Mart International Group Limited, 2025 Annual Results, https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0325/2026032500285.pdf"
   - "Roblox Corporation, 2025 Form 10-K, https://www.sec.gov/Archives/edgar/data/1315098/000131509826000024/rblx-20251231.htm"
   - "Roblox Corporation, Q1 2026 Form 10-Q, https://www.sec.gov/Archives/edgar/data/1315098/000162828026028904/rblx-20260331.htm"

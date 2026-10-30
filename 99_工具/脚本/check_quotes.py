@@ -7,7 +7,7 @@
 规则见 AGENTS.md 第 8.2 节、第 12.1 节。
 
 在 vault 根目录运行：
-  python3 99_工具/脚本/check_quotes.py --said-in "2026-10-22 直播" 99Z_等待入库文件/已入库/261022.md
+  python3 99_工具/脚本/check_quotes.py --said-in "2026-10-22 直播" 99Z_等待入库文件/已入库/261022_中国出口产业与低人权优势、腾讯、英伟达、交易所、Circle、任天堂、Reddit.md
       核对 said_in 或 sources 里有「2026-10-22 直播」的所有卡（观点卡和世界层的卡都算）
   python3 99_工具/脚本/check_quotes.py 原文.md 10_观点/公司与行业/某张卡.md
       只核对指定的卡或文件夹
