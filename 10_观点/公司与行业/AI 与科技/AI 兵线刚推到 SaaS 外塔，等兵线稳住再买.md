@@ -10,7 +10,8 @@ said_on: 2026-05-02
 said_in:
   - "2026-05-02 直播"
   - "2026-05-07 直播"
-about: ["[[SaaS 抗 AI 靠嵌入工作流和沉淀行业隐性知识]]", "[[Chegg]]", "[[印度]]", "[[风险偏好收缩，先剥梦想溢价再剥成长溢价]]", "[[ADP]]", "[[ServiceNow]]"]
+  - "2026-05-13 直播"
+about: ["[[SaaS 抗 AI 靠嵌入工作流和沉淀行业隐性知识]]", "[[Chegg]]", "[[印度]]", "[[风险偏好收缩，先剥梦想溢价再剥成长溢价]]", "[[ADP]]", "[[ServiceNow]]", "[[Five9]]", "[[UiPath]]"]
 fact_check: mixed
 source_status: sourced
 sources:
@@ -21,6 +22,7 @@ sources:
   - "MarketBeat，2026-04-09，Automatic Data Processing (NASDAQ:ADP) Hits New 52-Week Low，https://www.marketbeat.com/instant-alerts/automatic-data-processing-nasdaqadp-hits-new-52-week-low-heres-why-2026-04-09/（仅作参考）"
   - "MEXC 博客，2026-04，Why ADP stock dropping 2026，https://blog.mexc.com/finance/why-adp-stock-dropping-2026-automatic-data-processing/（仅作参考）"
   - "OpenCapital，无发布日期（2026-10-30 访问），ServiceNow PE ratio / PS ratio，https://www.opencapital.sh/stocks/now/metrics/pe_ratio（仅作参考）"
+  - "Barchart（只看到搜索摘要），2026-04-30 财报后，Five9 (FIVN) Stock Trades Up, Here Is Why，https://www.barchart.com/story/news/1650662/five9-fivn-stock-trades-up-here-is-why"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-30
 updated: 2026-10-30
@@ -79,3 +81,4 @@ updated: 2026-10-30
 ## 后来又讲过
 
 - 2026-05-07 直播：「外塔公司已经止跌了。内塔公司就可以买。」这次是有朋友问 AI 对 ADP 的影响，同一场又有人问 ServiceNow 是不是错杀。意思和 05-02 一样，补了三处细节：要等的信号说得更具体，是外塔公司止跌、业绩回升；例子新加了 ADP（他说至少是内塔，据他说股息率 3.17%、三个月没创新低）和 ServiceNow（内塔级别，但估值杀得不够）；护城河的排序这次是特许经营权第一、网络效应第二，05-02 排第二的是行业隐性知识，这次隐性知识放在 ADP 自己的优势里讲（并进了上面“他怎么说”一节）。
+- 2026-05-13 直播：「这就是战线，创新低意味着战线在不断被 AI推进；一旦大家都不创新低了，意味着战线守住了，那就有可能进入战略反攻的阶段了。」这次是答 [[UiPath]] 时讲的，把“看兵线”落到了能每天看的东西上：盯 SaaS 类 ETF 和软件指数还创不创新低，哪些个股已经开始涨、哪些还在新低。新例子是 [[Five9]]：做呼叫中心客服平台，原来被认为会被 AI 取代，据他说新财报出来直接涨了 30%（未核实）；几家外塔公司守住了，他觉得还扭转不了市场的整体担忧，「但这有可能是一个先行信号」。他还说「我主观判断，大部分最后还是都能活下来，只有一小部分会真正被AI 淘汰掉」；UiPath 被他放在还在创新低的那一类（见 [[UiPath 在外塔到中塔，还要再跌一波]]）。〔核对〕Five9 是 2026-04-30 公布一季报，据 Barchart 的报道（只看到搜索摘要），之后早盘涨了约 22.7%，和「30%」差一截，收盘涨幅没有查到。
