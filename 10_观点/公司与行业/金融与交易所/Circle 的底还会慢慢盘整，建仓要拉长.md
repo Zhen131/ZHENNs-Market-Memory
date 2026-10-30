@@ -6,8 +6,9 @@ title: "Circle 的底还会慢慢盘整，建仓要拉长"
 summary: "Circle 业绩超预期、一天涨了约三成后，脑总倾向于它的底还会慢慢盘整：币圈转熊后稳定币规模反应慢、机构赎回猛，AI Agent 支付还在从 0 到 1，建仓要拉长、分批买。"
 aliases: []
 speaker: "[[脑总]]"
-said_on: 2026-02-26
+said_on: 2026-02-15
 said_in:
+  - "2026-02-15 美股港股A股都有哪些护城河最深的长牛股（二）"
   - "2026-02-26 普通人都能学会的创业入门课"
   - "2026-03-05 美伊战争对资本市场有什么影响"
   - "2026-04-01 直播"
@@ -27,10 +28,11 @@ sources:
   - "Cointelegraph，2026-03，Circle stock (CRCL) 25% rebound，https://cointelegraph.com/markets/circle-stock-crcl-25percent-rebound-clarity-act-fears"
   - "The Block（转彭博），2025-09，Tether seeks $500 billion valuation，https://www.theblock.co/post/372033/tether-seeks-500-billion-valuation-would-rank-among-worlds-most-valuable-private-firms-bloomberg"
   - "TIKR，2026-02，Circle Internet Group Jumps 35.5% on Earnings: Analysts See $130 Target Price，https://www.tikr.com/blog/circle-internet-group-jumps-35-5-on-earnings-analysts-see-130-target-price"
+  - "Macrotrends（数据网站，仅作参考），无发布日期（2026-10-30 访问），Coinbase Global - Stock Price History，https://www.macrotrends.net/stocks/charts/COIN/coinbase-global/stock-price-history"
   - "Yahoo Finance，2026，Tether's Fundraising Plans Quietly Collapse — Is the $500B Valuation Too Much?，https://finance.yahoo.com/news/tether-fundraising-plans-quietly-collapse-100215500.html"
 tags: [type/view, view/prediction, status/active]
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 > 所以我个人倾向于 Circle 的底部还会慢慢盘整，应该不会这么直接冲上去，你根据这个预期来慢慢买会比较好。
@@ -42,6 +44,8 @@ updated: 2026-10-28
 **一句话**：[[Circle]] 业绩超预期、一天大涨之后，脑总倾向于认为它的底还没走完，还会慢慢横着磨一阵，不会直接冲上去。所以想买的人别急着当成右侧加仓，把建仓时间拉长、分批慢慢买。他也说了，这是他「主观算个命」。
 
 ### 他是在什么情况下说的
+
+早在 2026-02-15 长牛股系列第二讲的问答里，他已经说过 Circle 有双杀预期、要等熊市底部、底部有的是时间慢慢买（见文末“更早讲过”）。下面按 2026-02-26 这次写，这次他把底为什么还要盘整讲得最完整。
 
 这一期主题是普通人怎么创业，后半段是会员问答，问题东一个西一个。前面刚有人问做产品的 sense 怎么来，他拿段永平「敢为天下后，后中争先」作答。接着一位会员问：“circle 怎么看？今天涨了 30%，底是不是已经有了？该右侧加仓了吗？”右侧加仓，指等股价确认见底、开始往上走了再买。问题里带着三层意思：涨了这么多，底是不是有了，现在该不该追。
 
@@ -98,6 +102,10 @@ updated: 2026-10-28
 〔核对〕“涨了 30%”是会员说的，FXStreet 报道当天涨约 29%，对得上。他说 Circle 的盘子「基本全是」币圈炒币用户、很多是机构，这一轮没找到 USDC 持有人按机构和散户拆分的数据，没有核对。四季度币圈成交量大，链上交易额增长 247% 可以作为旁证。
 
 **一句话记住**：一次好业绩加一天大涨，不等于底已经有了；稳定币生意在熊市里反应慢、机构赎回猛，新故事还在从 0 到 1，所以他主张把建仓时间拉长、分批慢慢买。
+
+## 更早讲过
+
+- 2026-02-15 美股港股A股都有哪些护城河最深的长牛股（二）：「那那现在情况就是就是一个双杀预期嘛？我我的看法就是等等到熊市底部再看」。那时问答里有人问 Circle 这家第一个合规的稳定币最近跌得很厉害，怎么看。他先说币圈有牛熊周期，「那今年很明显币圈在走熊」（见 [[比特币四年周期还有效，今年是熊市]]）；又说「尤其是circle做的是机构的生意，他做的不是散户的生意」，机构看到币圈没机会，可能就把 USDC 赎回、换成美元去炒美股；要是再降息，规模和利息一起往下，就是双杀。他拿 [[Coinbase]] 作参照：据他说 Coinbase 从高点四百多美元跌到三十美元（未核实），「它的底部整整躺了。躺了一两年」，「有的是时间给你慢慢买」，所以不用急。他还说 Circle 是币圈的「天然杠杆」，波动可能比比特币还大，「有没有阿尔法需要进一步研究」。那时还没有 02-26 那天的好业绩和大涨，他给的已经是同一个方向：底还没到，不急，慢慢买；到 02-26 他又加了熊市里稳定币规模反应慢、AI Agent 支付还在从 0 到 1、业绩不能外推这几层。〔核对〕Coinbase 2021 年 4 月上市当天盘中最高约 429.54 美元，2022 年 12 月 28 日创下约 32.53 美元的历史低点（Macrotrends，仅作参考），他说的从四百多跌到三十大致对得上；之后在底部待了多久，这一轮没有细查。
 
 ## 后来又讲过
 
