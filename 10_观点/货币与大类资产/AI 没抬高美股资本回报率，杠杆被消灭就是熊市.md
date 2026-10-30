@@ -12,13 +12,16 @@ said_in:
   - "2026-05-07 直播"
   - "2026-05-10 直播"
   - "2026-05-13 直播"
-about: ["[[康波周期]]", "[[瑞·达利欧]]", "[[美国]]", "[[烟蒂股投资]]", "[[AI 硬件股更可能横盘消化而不是走熊]]", "[[利率还会涨，长债还要跌]]"]
+  - "2026-05-16 直播"
+about: ["[[康波周期]]", "[[瑞·达利欧]]", "[[美国]]", "[[烟蒂股投资]]", "[[AI 硬件股更可能横盘消化而不是走熊]]", "[[利率还会涨，长债还要跌]]", "[[利率是结果不是原因，央行加息是被通胀逼的]]"]
 fact_check: unchecked
 source_status: sourced
 sources:
   - "First Trust，2026-05-07，Real Rate of the 10-Year Treasury Note（3 月 CPI 同比 3.3%，2 月 2.4%；联邦基金利率 2025-12-11 起未变），https://www.ftportfolios.com/Commentary/MarketCommentary/2026/5/7/real-rate-of-the-10-year-treasury-note"
   - "Trading Economics（数据网站，仅作参考），2026-04-21，US 10-Year Yield Advances（10 年期美债收益率约 4.3%，低于 3 月高点），https://tradingeconomics.com/united-states/government-bond-yield/news/538623"
   - "Simon & Schuster，2025，How Countries Go Broke（瑞·达利欧讲大债务周期的书，2025 年 6 月出版），https://www.simonandschuster.co.uk/books/How-Countries-Go-Broke/Ray-Dalio/9781398551466"
+  - "Trading Economics（数据网站，仅作参考），2026-05-15，US 10-Year Yield Hits 1-Year High，https://tradingeconomics.com/united-states/government-bond-yield/news/550935"
+  - "Stocktwits，2026-05-12，CPI Report: Annual Inflation Rate Comes In At 3.8% In April, Highest Since 2023，https://stocktwits.com/news-articles/markets/equity/us-consumer-inflation-april-2026-cpi-report/cZXXfE8Rei2"
   - "Sherwood News，2026-02，How the Big Tech companies are spending their huge capex budgets（四大云厂 2026 年资本开支指引），https://sherwood.news/tech/how-the-big-tech-companies-are-spending-their-huge-capex-budgets"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-29
@@ -80,3 +83,4 @@ updated: 2026-10-30
 - 2026-05-07 直播：「美股的核心催化剂你要跟踪通胀。」那次是开场专题的收尾，他说 AI 里绝大部分公司和 A 股的易中天区别不大（见 [[AI 里绝大部分公司和 A 股的易中天区别不大]]），美股缺的只是一个刺破泡沫的催化剂。理由和这张卡是同一条：AI 行业「是靠投资推动的，投资推动靠各种债务推动的，靠企业加杠杆推动的」，所以对利率高度敏感；通胀一起来，利率高，就会改变资本开支的预期，估值承压。这次补的是看什么：不讲资本回报率，直接盯通胀。
 - 2026-05-10 直播：「康波萧条期的末端，容易发生剧烈的去杠杆。」这次是答纳指中长期怎么看，说中期拿着不动五到八年回报可能为负（见 [[纳指短期还涨，中期五到八年回报可能为负]]）。他说很多人问他[[瑞·达利欧|Ray Dalio]]讲的巨债危机，「我觉得他其实讲的也还是也是康波周期的问题」；现在仍在康波萧条期的末端，AI 的投资回报率也不是特别高，「击鼓传花是另一回事啊。AI革命几年，整个社会的投资回报率并没有变化。」投资回报率提不上来，债务膨胀到最后就可能剧烈去杠杆。这次补了两点：把达利欧的债务周期和康波连了起来；分清“别人加价接手”和真实的投资回报率。〔背景〕达利欧 2025 年 6 月出了讲大债务周期的新书 How Countries Go Broke；他说的「巨债危机」具体指哪本，他没说。
 - 2026-05-13 直播：「现在这波行情的核心问题是债务。」那次有人问 SpaceX IPO 之后会不会成为戳破这一阶段 AI 科技泡沫的导火索。他说担忧的方向不对，「SpaceX的IPO 不会是核心原因」，核心还是通胀上行、金融环境恶化。他把[[瑞·达利欧|Ray Dalio]]说的巨债危机讲成：总债务相对全社会现金流的比例已经很危险，花钱的人也在变少。再分三个部门看杠杆：中国只剩中央政府还有加杠杆空间；西方主流国家政府和居民债务都很高，「现在就靠企业还能加杠杆」，这波加完就再也找不到加杠杆的空间。债务出问题有两条路：利率大幅上涨，或经济衰退让大量人还不上债。[[SpaceX]] 上市反而让一级市场的机构拿到流动性退出，「SpaceX上市不是压垮的核心」。这次补的是把“杠杆加不动”拆到三个部门，并给了债务出事的两条路。
+- 2026-05-16 直播：「利率已经开始起来了」，「需要高度关注的，是通胀的动向。」那次他用中国城镇化类比 AI 基建（见 [[中国城市化基建与 AI 基建]]），说两边都是债务驱动的，需求对债务环境极为敏感。他当场看了 10 年期美债收益率：已经创出一年来的新高，本轮加息以来这个平台从没实质性跌破，现在又开始往上走；他说眼下和 2010 年前后通胀起来、利率上去那一段有些像（见 [[现在像 2010 年：利率起来，农业能源当防守]]）。这次补了两点：一是盯的东西更具体了，就是 10 年期美债和通胀；二是他说「利率是结果，不是原因」，央行加息是被通胀逼的，通胀背后是油价和物价（见 [[利率是结果不是原因，央行加息是被通胀逼的]]）。〔背景〕他说话前一天，5 月 15 日，10 年期美债收益率约 4.55% 到 4.6%，是一年来最高；5 月 12 日公布的 4 月 CPI 同比 3.8%，是 2023 年以来最高（Trading Economics，仅作参考；Stocktwits）。

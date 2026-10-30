@@ -261,3 +261,6 @@
 | Lev Kofsky | Lefkofsky | 脑总 | 2026-05-16 直播 |
 | TempusAI | Tempus AI | 脑总 | 2026-05-16 直播 |
 | Vibecoding | vibe coding | 脑总 | 2026-05-16 直播 |
+| 东方财富旗下的 iChoice | 东方财富旗下的 Choice | 脑总 | 2026-05-20 直播 |
+| PL（Planet Lab） | PL（Planet Labs） | 脑总 | 2026-05-20 直播 |
+| H&RBlock | H&R Block | 脑总 | 2026-05-20 直播 |
