@@ -12,14 +12,14 @@ source_status: partially-sourced
 sources:
   - "PayPal 8-K 附件（新闻稿），2015-07，PayPal Officially Separates From eBay，https://www.sec.gov/Archives/edgar/data/0001633917/000119312515257108/d31081dex992.htm"
   - "American Banker，2026-02-03，PayPal fires CEO Alex Chriss as branded checkout falters，https://www.americanbanker.com/payments/news/paypal-replaces-alex-chriss-with-hps-enrique-lores-as-ceo"
-  - "脑总 2026-02-19 直播（未核实）"
+  - "2026-02-19 美股港股A股都有哪些护城河最深的长牛股（三）"
   - "脑总 2026-04-26 直播（未核实）"
 tags:
   - type/entity
   - entity/company
   - status/draft
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 # PayPal
@@ -33,7 +33,7 @@ PayPal 是互联网时代最早做起来的在线支付公司：用户绑一张�
 
 ## 脑总怎么提到它
 
-- 2026-02-19：讲支付网络时他说 PayPal 市盈率很低，但竞争对手太多、没办法形成垄断，不能再用互联网成长股的估值看它，见 [[支付网络靠双边效应，互联网只能当它的分销商]]。
+- 2026-02-19：讲支付网络时他说 PayPal 市盈率很低，但壁垒不够稳固：到了互联网支付这一层，「他面临的竞争对手就多了」，Stripe、Block、Google Pay、Apple Pay 都在挤压它，「他现在真的被打的节节败退」；他说不能再以互联网公司的估值来看它，要等业绩和市场份额稳住再重新评估，见 [[支付网络靠双边效应，互联网只能当它的分销商]]。
 - 2026-04-26：有人问 [[Block]] 和 [[Fiserv]] 怎么比，他说 Block 的 Cash App 类似 PayPal，两家的面向个人的支付都很艰难，被 Apple Pay、Google Pay 抢了份额，他自己「PayPal也不怎么用了」。据他说 PayPal 从 300 多跌到底部 70 左右，还没止跌（未核实）。见 [[Fiserv 是金融业的 AWS，比 Block 安全]]。
 
 ## 各方怎么看它

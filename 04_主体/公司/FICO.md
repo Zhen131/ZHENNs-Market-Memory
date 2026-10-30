@@ -14,13 +14,13 @@ sources:
   - "The Motley Fool，2025-07-10，Why Fair Isaac Corporation Fell This Week，https://www.fool.com/investing/2025/07/10/why-fair-isaac-corporation-fell-this-week"
   - "Inman，2025-10，FICO 推出房贷评分直接授权计划（VantageScore 4.0 专题），https://www.inman.com/tag/vantagescore-4-0/"
   - "FICO，2026-01-28，FICO Announces Earnings of $6.61 per Share for First Quarter Fiscal 2026，https://investors.fico.com/static-files/a20e9c41-7ebc-4e14-9f8a-d0d1d757845a"
-  - "脑总 2026-02-19 美股港股A股都有哪些护城河最深的长牛股（三）（未核实）"
+  - "2026-02-19 美股港股A股都有哪些护城河最深的长牛股（三）"
 tags:
   - type/entity
   - entity/company
   - status/draft
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 # FICO
@@ -35,7 +35,7 @@ FICO 全名 Fair Isaac，中文名费埃哲，是一家美国的信用评分和�
 
 ## 脑总怎么提到它
 
-- 2026-02-19：他把 FICO 放在金融基础设施里讲，说它的地位被房贷机构和监管规则「焊死」，金融业不犯错比做得好重要，所以壁垒极高；但跌了很多仍有约 50 倍市盈率（据他说，未核实），要等合理估值，见 [[FICO 的垄断被制度焊死，只是太贵]]。同一期他还拿 FICO 演示长牛股的卖点，见 [[突破上升通道还连续加速，先卖一半]]。
+- 2026-02-19：他把 FICO 放在金融基础设施里讲，说它的评分模型「被制度焊死的啊」：房贷机构用它审核贷款人，监管也把它写进了合规指引，别人的模型再好，「那银行也不一定敢用」，所以壁垒非常高；但「即使跌了这么多，还是很贵」，要等合理估值，见 [[FICO 的垄断被制度焊死，只是太贵]]。同一期问答里他拿 FICO 演示长牛股的卖点（见 [[突破上升通道还连续加速，先卖一半]]），并说「现在现在49倍市盈率也不算便宜」（据他说，未核实），跌到 900 多美元、碰到上升通道下轨，他会考虑建一些仓位。
 
 ## 各方怎么看它
 
