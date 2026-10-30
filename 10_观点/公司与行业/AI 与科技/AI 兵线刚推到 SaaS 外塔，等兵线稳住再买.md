@@ -9,14 +9,18 @@ speaker: "[[脑总]]"
 said_on: 2026-05-02
 said_in:
   - "2026-05-02 直播"
-about: ["[[SaaS 抗 AI 靠嵌入工作流和沉淀行业隐性知识]]", "[[Chegg]]", "[[印度]]", "[[风险偏好收缩，先剥梦想溢价再剥成长溢价]]"]
-fact_check: consistent
+  - "2026-05-07 直播"
+about: ["[[SaaS 抗 AI 靠嵌入工作流和沉淀行业隐性知识]]", "[[Chegg]]", "[[印度]]", "[[风险偏好收缩，先剥梦想溢价再剥成长溢价]]", "[[ADP]]", "[[ServiceNow]]"]
+fact_check: mixed
 source_status: sourced
 sources:
   - "Sherwood News，2026-04-23，ServiceNow's woes are dragging the entire software sector down，https://www.sherwood.news/markets/servicenows-woes-are-dragging-the-entire-software-sector-down/"
   - "Bloomberg（经 Bloomberg Government 转载），2026-04-09，Software Slumps Anew With Growth Hopes ‘Dashed on the Rocks’，https://news.bgov.com/california-brief/software-slumps-anew-with-growth-hopes-dashed-on-the-rocks-1"
   - "K-12 Dive，2025，Chegg layoffs, strategic alternatives, Google AI，https://www.k12dive.com/news/chegg-layoffs-strategic-alternatives-google-ai/804568/"
   - "TechSpot，2025-10，Chegg replaces CEO and cuts 45% of staff as AI decimates its one-time $12 billion business，https://www.techspot.com/news/110041-chegg-replaces-ceo-cuts-45-staff-ai-decimates.html"
+  - "MarketBeat，2026-04-09，Automatic Data Processing (NASDAQ:ADP) Hits New 52-Week Low，https://www.marketbeat.com/instant-alerts/automatic-data-processing-nasdaqadp-hits-new-52-week-low-heres-why-2026-04-09/（仅作参考）"
+  - "MEXC 博客，2026-04，Why ADP stock dropping 2026，https://blog.mexc.com/finance/why-adp-stock-dropping-2026-automatic-data-processing/（仅作参考）"
+  - "OpenCapital，无发布日期（2026-10-30 访问），ServiceNow PE ratio / PS ratio，https://www.opencapital.sh/stocks/now/metrics/pe_ratio（仅作参考）"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-30
 updated: 2026-10-30
@@ -46,6 +50,8 @@ updated: 2026-10-30
 
 **什么时候进。** 「但现在不一定就要急着介入。」要等的是兵线稳住、往回退。他讲了游戏里的翻盘：对方都上高地了，己方集体买活，在主基地门口团灭对方，再反推过去，「这种事在市场上也是会发生的」。最后一句讲的是赔率和安全的取舍：「离兵线越近的外塔，估值杀得越惨，但一旦形势逆转，弹性也越大；靠近泉水的内塔更安全，但弹性相对低一些。」
 
+**2026-05-07 他把等什么说得更具体。** 有朋友问 AI 对 [[ADP]] 的影响，他又拿 Dota 画了一遍，说「我觉得这个ADP至少是内塔性质的公司」。高地、泉水要的是「行政性的特许经营权」，「这是最硬的护城河特许经营权。再稍微弱一点点的是网络效应。」ADP 这两样都不算强，靠的是在这一行做了很多年、跟政府部门的系统对接得好、沉淀了行业隐性知识，「而且更换成本比较高」。但「整个行业是一体的」，要看先行信号：「你现在要看就是看差生谁最先守住了。」「外塔公司已经止跌了。内塔公司就可以买。」据他说 ADP 股息率 3.17%，「股价有 3个月没有创新低了。我觉得可以再观察一下。」（未核实）同一场答 [[ServiceNow]] 时他说它也算内塔级别，但「ServiceNow的估值说实话杀的不够多。不够便宜。」据他说市盈率还有 50 多倍、市销率 8 倍（未核实）；外塔还在倒的时候，估值贵的会跌得更猛。
+
 ### 拿什么来对照
 
 **和一周前他说自己在买 SaaS 放在一起看。** 2026-04-26 直播里，他说[[迈克尔·伯里]]「最近也在买SaaS，因为 SaaS便宜了」，「我自己也在买 SaaS，道理是一样的」（见 [[SaaS 抗 AI 靠嵌入工作流和沉淀行业隐性知识]] 文末）。一周后他对朋友说「现在不一定就要急着介入」，要等兵线稳住。
@@ -66,6 +72,10 @@ updated: 2026-10-30
 
 它怕的有三件，都是图谱从他的话里推出来的，他没有这样说：一是 AI 不按“外塔、中塔、内塔”的顺序推，而是直接绕到某些内塔；二是兵线“稳住”很难在当下认出来，等确认了，弹性最大的外塔可能已经反弹了一大截，这正是他说的弹性和安全的取舍；三是半年后他自己对工作流软件已经说拿不准（见 [[AI 时代数据库的壁垒最稳，工作流拿不准]]），内塔的边界可能比这时画的更靠里。
 
-〔核对〕这一题他没有引用数字。Chegg 被 AI 冲击的情况对得上：2025 年它把收入下滑归到谷歌 AI 摘要和 ChatGPT，5 月裁员约 22%，10 月又裁掉剩下员工的约 45%（K-12 Dive、TechSpot），这些都在他说话之前，「开始雪崩」说的就是这件事。外包龙头这时业绩崩没崩，这次没有查。
+〔核对〕这一题他没有引用数字。Chegg 被 AI 冲击的情况对得上：2025 年它把收入下滑归到谷歌 AI 摘要和 ChatGPT，5 月裁员约 22%，10 月又裁掉剩下员工的约 45%（K-12 Dive、TechSpot），这些都在他说话之前，「开始雪崩」说的就是这件事。外包龙头这时业绩崩没崩，这次没有查。2026-05-07 那次的数字：ADP 据 MarketBeat 4 月 9 日创 52 周新低，另一篇说 4 月 13 日收在约 190 美元（MEXC 博客，都仅作参考）；照这些说法，到 5 月 7 日离上一次新低不到一个月，和「3个月没有创新低」对不上；股息率这两处写的是 3.2% 到 3.4%，和他说的 3.17% 接近。ServiceNow 4 月下旬的市盈率，数据网站给的是 56 到 62 倍、市销率约 8 倍（仅作参考），和他说的 50 多倍、8 倍大致对得上。
 
 **一句话记住**：AI 打软件股像推塔，先看外塔丢了几座；内塔公司先挑出来，等兵线稳住往回推了再上。
+
+## 后来又讲过
+
+- 2026-05-07 直播：「外塔公司已经止跌了。内塔公司就可以买。」这次是有朋友问 AI 对 ADP 的影响，同一场又有人问 ServiceNow 是不是错杀。意思和 05-02 一样，补了三处细节：要等的信号说得更具体，是外塔公司止跌、业绩回升；例子新加了 ADP（他说至少是内塔，据他说股息率 3.17%、三个月没创新低）和 ServiceNow（内塔级别，但估值杀得不够）；护城河的排序这次是特许经营权第一、网络效应第二，05-02 排第二的是行业隐性知识，这次隐性知识放在 ADP 自己的优势里讲（并进了上面“他怎么说”一节）。
