@@ -10,12 +10,14 @@ said_on: 2026-04-22
 said_in:
   - "2026-04-22 直播"
   - "2026-05-07 直播"
-about: ["[[康波周期]]", "[[美国]]", "[[烟蒂股投资]]", "[[AI 硬件股更可能横盘消化而不是走熊]]", "[[利率还会涨，长债还要跌]]"]
+  - "2026-05-10 直播"
+about: ["[[康波周期]]", "[[瑞·达利欧]]", "[[美国]]", "[[烟蒂股投资]]", "[[AI 硬件股更可能横盘消化而不是走熊]]", "[[利率还会涨，长债还要跌]]"]
 fact_check: unchecked
 source_status: sourced
 sources:
   - "First Trust，2026-05-07，Real Rate of the 10-Year Treasury Note（3 月 CPI 同比 3.3%，2 月 2.4%；联邦基金利率 2025-12-11 起未变），https://www.ftportfolios.com/Commentary/MarketCommentary/2026/5/7/real-rate-of-the-10-year-treasury-note"
   - "Trading Economics（数据网站，仅作参考），2026-04-21，US 10-Year Yield Advances（10 年期美债收益率约 4.3%，低于 3 月高点），https://tradingeconomics.com/united-states/government-bond-yield/news/538623"
+  - "Simon & Schuster，2025，How Countries Go Broke（瑞·达利欧讲大债务周期的书，2025 年 6 月出版），https://www.simonandschuster.co.uk/books/How-Countries-Go-Broke/Ray-Dalio/9781398551466"
   - "Sherwood News，2026-02，How the Big Tech companies are spending their huge capex budgets（四大云厂 2026 年资本开支指引），https://sherwood.news/tech/how-the-big-tech-companies-are-spending-their-huge-capex-budgets"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-29
@@ -75,3 +77,4 @@ updated: 2026-10-30
 ## 后来又讲过
 
 - 2026-05-07 直播：「美股的核心催化剂你要跟踪通胀。」那次是开场专题的收尾，他说 AI 里绝大部分公司和 A 股的易中天区别不大（见 [[AI 里绝大部分公司和 A 股的易中天区别不大]]），美股缺的只是一个刺破泡沫的催化剂。理由和这张卡是同一条：AI 行业「是靠投资推动的，投资推动靠各种债务推动的，靠企业加杠杆推动的」，所以对利率高度敏感；通胀一起来，利率高，就会改变资本开支的预期，估值承压。这次补的是看什么：不讲资本回报率，直接盯通胀。
+- 2026-05-10 直播：「康波萧条期的末端，容易发生剧烈的去杠杆。」这次是答纳指中长期怎么看，说中期拿着不动五到八年回报可能为负（见 [[纳指短期还涨，中期五到八年回报可能为负]]）。他说很多人问他[[瑞·达利欧|Ray Dalio]]讲的巨债危机，「我觉得他其实讲的也还是也是康波周期的问题」；现在仍在康波萧条期的末端，AI 的投资回报率也不是特别高，「击鼓传花是另一回事啊。AI革命几年，整个社会的投资回报率并没有变化。」投资回报率提不上来，债务膨胀到最后就可能剧烈去杠杆。这次补了两点：把达利欧的债务周期和康波连了起来；分清“别人加价接手”和真实的投资回报率。〔背景〕达利欧 2025 年 6 月出了讲大债务周期的新书 How Countries Go Broke；他说的「巨债危机」具体指哪本，他没说。
