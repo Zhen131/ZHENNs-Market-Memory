@@ -9,13 +9,16 @@ speaker: "[[脑总]]"
 said_on: 2026-05-13
 said_in:
   - "2026-05-13 直播"
-about: ["[[RELX]]", "[[收费站式商业模式]]", "[[AI 时代数据库的壁垒最稳，工作流拿不准]]", "[[Visa]]"]
+  - "2026-05-20 直播"
+about: ["[[RELX]]", "[[收费站式商业模式]]", "[[AI 时代数据库的壁垒最稳，工作流拿不准]]", "[[Visa]]", "[[汤森路透]]"]
 fact_check: mixed
 source_status: sourced
 sources:
   - "interactive investor（ii.co.uk），2026-02-03，Stockwatch: time to buy Relx shares after fresh plunge?，https://www.ii.co.uk/analysis-commentary/stockwatch-time-buy-relx-shares-after-fresh-plunge-ii538010"
   - "RELX，2026-02-12，RELX 2025 Results，https://www.relx.com/media/press-releases/year-2026/relx-2025-results"
   - "RELX，2026-02-12，2025 results presentation（分部调整后营业利润，只看到搜索摘要），https://www.relx.com/~/media/Files/R/RELX-Group/documents/results/results-presentations/2025-results-presentation.pdf"
+  - "维基百科，Elsevier，https://en.wikipedia.org/wiki/Elsevier"
+  - "维基百科，House of Elzevir，https://en.wikipedia.org/wiki/House_of_Elzevir"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-30
 updated: 2026-10-30
@@ -60,3 +63,7 @@ updated: 2026-10-30
 〔核对〕分部利润占比对不上一半。按 RELX 2025 年业绩材料（只看到搜索摘要），调整后营业利润风险业务约 13.05 亿英镑、科技医学（爱思唯尔所在的板块）约 10.35 亿、法律约 4.15 亿、展会约 4.10 亿，合计 33.42 亿。算下来爱思唯尔所在板块约占 31%，排第二，和他说的 30% 对得上；但排第一的是风险业务，约占 39%，法律只占约 12%，他说的「第一大业务是法律数据库，利润占比 35%」对不上，可能是把风险业务记成了法律。约 20 倍市盈率、3 个点股息率：2 月 3 日的数字是预测市盈率 17 倍多、股息率 2.9%，大致对得上；5 月 13 日当天的数字没有查。
 
 **一句话记住**：RELX 卖的是学术和专业领域离不开的数据，AI 让人用得更多；脑总认为它便宜时可以先买一点，但买它是买稳，不是买爆发。
+
+## 后来又讲过
+
+- 2026-05-20 直播：「RELX比汤森路透护城河高一档，商业模式也好一档。」有人问 TRI 和 RELX 怎么选。他给了两条理由。一是竞争：金融数据不是一家独大，[[汤森路透]]还要面对彭博；中国资本市场用的是万得和东方财富旗下的 Choice，汤森路透和彭博赚中国的钱非常有限；爱思唯尔却进了中国，「但凡需要查英文文献，但凡要跟全球接轨，你就绕不开爱思唯尔」，知网、万方替代不了，他说这是「独家垄断」。二是商业模式：汤森路透有路透社这种新闻业务，人力成本高，数据业务没那么纯，RELX 的数据业务更纯，资本回报和股东回报长期更好。他说「我对这家公司是不吝赞美的」，能让他这么说的，「都是护城河非常深、壁垒非常高、而且估值相对还比较合理的那种」。评论区又有人问护城河能不能持续 10 到 20 年，他说「我觉得大概率可以」，据他说爱思唯尔 1880 年正式成立，追溯创始人家族可到 1550 年。和 05-13 是同一个判断，这次补了与汤森路透的对比。〔核对〕爱思唯尔 1880 年由书商 Jacobus Robbers 创办，对得上；名字取自 16 世纪荷兰的 Elzevir 出版世家，那个家族的生意通常算从 1580 年在莱顿开始，不是 1550 年，而且新公司只借用了老家族的名字和标志，两者没有延续关系。
