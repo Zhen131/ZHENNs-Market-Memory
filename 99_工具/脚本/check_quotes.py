@@ -2,11 +2,13 @@
 """历史金融图谱 · 核对观点卡里的原话。只依赖 Python 3 标准库。
 
 观点卡里「」中的话和开头引用块里的话，都必须逐字出自原文（空格和 ► 不计）。
-这个脚本把它们和存档原文逐条比对，找不到的列出来。规则见 AGENTS.md 第 8.2 节。
+2026-10-30 起世界层和认知层的卡（主体、概念、方法、模式、资产、对比、事件）也一起核：
+它们里面「」装的也只能是他的原话。这个脚本把这些话和存档原文逐条比对，找不到的列出来。
+规则见 AGENTS.md 第 8.2 节、第 12.1 节。
 
 在 vault 根目录运行：
   python3 99_工具/脚本/check_quotes.py --said-in "2026-10-22 直播" 99Z_等待入库文件/已入库/261022.md
-      核对 said_in 里有「2026-10-22 直播」的所有观点卡
+      核对 said_in 或 sources 里有「2026-10-22 直播」的所有卡（观点卡和世界层的卡都算）
   python3 99_工具/脚本/check_quotes.py 原文.md 10_观点/公司与行业/某张卡.md
       只核对指定的卡或文件夹
 
@@ -19,6 +21,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
+# 哪些目录下的卡要核「」；哪些 type 算卡（导览、我的笔记不算）
+CARD_DIRS = ("10_观点", "04_主体", "06_概念", "08_方法", "03_模式", "05_资产", "07_对比", "02_事件", "01_时间线")
+CARD_TYPES = {"view", "entity", "concept", "method", "pattern", "asset", "comparison", "event", "timeline"}
 QUOTE = re.compile(r"「((?:[^「」]|「[^「」]*」)*)」")
 
 
@@ -71,8 +76,8 @@ def main():
     for a in args:
         p = Path(a)
         p = p if p.is_absolute() else ROOT / p
-        (targets if "10_观点" in p.as_posix() else sources).append(p)
-    if not sources or (tag is None and not targets):
+        (targets if any(d in p.as_posix() for d in CARD_DIRS) else sources).append(p)
+    if not sources:
         print(__doc__)
         return 1
 
@@ -85,14 +90,15 @@ def main():
             fixed = fixed.replace(wrong, right)
         text += raw + "\n" + fixed + "\n"
     cards = []
-    for t in targets or [ROOT / "10_观点"]:
+    for t in targets or [ROOT / d for d in CARD_DIRS if (ROOT / d).is_dir()]:
         cards += sorted(t.rglob("*.md")) if t.is_dir() else [t]
     bad = checked = 0
     for p in cards:
         s = p.read_text(encoding="utf-8")
-        if "type: view" not in s:
+        m = re.search(r"^type:\s*(\S+)", s, re.M)
+        if not m or m.group(1) not in CARD_TYPES:
             continue
-        if tag and not any(tag in x for x in said_in(s)):
+        if tag and not any(tag in x for x in said_in(s)) and tag not in s:
             continue
         checked += 1
         body = s.split("\n---\n", 1)[1] if "\n---\n" in s else s
@@ -100,7 +106,7 @@ def main():
             if norm(seg) not in text:
                 bad += 1
                 print(f"{p.relative_to(ROOT)}：{seg}")
-    print(f"核对了 {checked} 张观点卡，找不到的片段：{bad}")
+    print(f"核对了 {checked} 张卡，找不到的片段：{bad}")
     return 1 if bad else 0
 
 
