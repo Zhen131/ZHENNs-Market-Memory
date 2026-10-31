@@ -15,7 +15,7 @@ sources:
   - "Twelve Data（数据网站，仅作参考），Dollarama 拆股记录，https://twelvedata.com/markets/751346/stock/tsx/dol/historical-data/splits"
   - "Retail Insider，2026-03，Dollarama sales surpass $7 billion in its fiscal year，https://retail-insider.com/retail-insider/2026/03/dollarama-sales-surpass-7-billion-in-its-fiscal-year/"
   - "MarketBeat（数据网站，仅作参考），2026-03-17，Dollarama Inc (TSE:DOL) Given Consensus Recommendation of Moderate Buy，https://www.marketbeat.com/instant-alerts/dollarama-inc-tsedol-given-consensus-recommendation-of-moderate-buy-by-brokerages-2026-03-17/"
-  - "脑总 2026-03-26 零售业的商业模式（未核实）"
+  - "脑总 2026-03-25 零售业的商业模式（未核实）"
   - "脑总 2026-05-20 直播（未核实）"
 tags:
   - type/entity
@@ -38,7 +38,7 @@ Dollarama 是加拿大的平价杂货连锁店，总部在蒙特利尔。它从�
 
 ## 脑总怎么提到它
 
-2026-03-26 讲零售业为什么出牛股时，他在 Costco、沃尔玛、亚马逊、拉美的 MercadoLibre 之后点了它：「比如说去年去年加拿大的Dollarama」，「一元店Dollarama的股价也非常牛啊」。据他说，从「二零一九年34到最新170多刀啊，也涨了好几倍」；从「二零零九年那里三刀多涨到现在一百一百七十多」，不到 20 年涨了几十倍（未核实）。他拿这些例子说明零售业「是一个出牛股的行业」，接着讲了渠道和品牌轮流强势，见 [[渠道和品牌轮流强势：渠道卷投品牌，品牌卷投渠道]]。
+2026-03-25 讲零售业为什么出牛股时，他在 Costco、沃尔玛、亚马逊、拉美的 MercadoLibre 之后点了它：「比如说去年去年加拿大的Dollarama」，「一元店Dollarama的股价也非常牛啊」。据他说，从「二零一九年34到最新170多刀啊，也涨了好几倍」；从「二零零九年那里三刀多涨到现在一百一百七十多」，不到 20 年涨了几十倍（未核实）。他拿这些例子说明零售业「是一个出牛股的行业」，接着讲了渠道和品牌轮流强势，见 [[渠道和品牌轮流强势：渠道卷投品牌，品牌卷投渠道]]。
 
 2026-05-20 讲通胀里怎么选消费股时，他又提到它：说它「已经不是纯粹的一元店了」，「也是在给品牌清库存」，和 TJX 一样，在通胀里因为消费者越来越看重性价比反而表现更好，见 [[通胀里选消费股：能转嫁成本，或受益于性价比]]。
 

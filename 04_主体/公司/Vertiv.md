@@ -14,7 +14,7 @@ sources:
   - "Vertiv 2022 年年报（10-K），2023-02，https://www.sec.gov/Archives/edgar/data/1674101/000162828023005248/vrt-20221231.htm"
   - "Vertiv，2026-02-11，Vertiv Reports Strong Fourth Quarter with Organic Orders Growth of 252% and Diluted EPS Growth of 200%，https://investors.vertiv.com/news/news-details/2026/Vertiv-Reports-Strong-Fourth-Quarter-with-Organic-Orders-Growth-of-252-and-Diluted-EPS-Growth-of-200-Adjusted-Diluted-EPS-37/default.aspx"
   - "Parameter，2026-03-23，Vertiv (VRT) Stock Climbs 173% in 12 Months as S&P 500 Entry Confirmed，https://parameter.io/vertiv-vrt-stock-climbs-173-in-12-months-as-sp-500-entry-confirmed"
-  - "脑总 2026-03-26 零售业的商业模式（未核实）"
+  - "脑总 2026-03-25 零售业的商业模式（未核实）"
   - "脑总 2026-05-27 直播（未核实）"
 tags:
   - type/entity
@@ -36,7 +36,7 @@ Vertiv 给数据中心、通信网络这类不能断电的设施做“水电煤�
 
 ## 脑总怎么提到它
 
-- 2026-03-26：有人问 VRT 现在算强势股、能不能买。他说自己「我对这个公司的基本面研究不深，我就单纯讲一下技术哈」：纳斯达克指数下跌最猛的那段，「这个3月11号到3月20号。它是强势横盘」，指数「稍微一反弹，它已经它已经迫不及待的创出新高了」，是「欧奈尔式的买点」；止损最重要的一条是跌破 3 月 24 日低点 251 美元左右（据他说，未核实）。他也说这种估值，除非很懂它的基本面、很确定它是翻倍式增长的超级成长股，「否则的话，这个估值是非常贵的」。见 [[投机要等大盘调整，挑最抗跌的强势股]] 文末“后来又讲过”。
+- 2026-03-25：有人问 VRT 现在算强势股、能不能买。他说自己「我对这个公司的基本面研究不深，我就单纯讲一下技术哈」：纳斯达克指数下跌最猛的那段，「这个3月11号到3月20号。它是强势横盘」，指数「稍微一反弹，它已经它已经迫不及待的创出新高了」，是「欧奈尔式的买点」；止损最重要的一条是跌破 3 月 24 日低点 251 美元左右（据他说，未核实）。他也说这种估值，除非很懂它的基本面、很确定它是翻倍式增长的超级成长股，「否则的话，这个估值是非常贵的」。见 [[投机要等大盘调整，挑最抗跌的强势股]] 文末“后来又讲过”。
 - 2026-05-27：讲 AI 山寨季每年换一个主角时，他说「第二年是VRT这类电力液冷的故事」，见 [[AI 山寨季每年换主角，热炒的长期多半埋人]]。
 
 ## 各方怎么看它
