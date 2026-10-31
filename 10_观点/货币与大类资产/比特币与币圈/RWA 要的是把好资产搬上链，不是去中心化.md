@@ -14,6 +14,7 @@ said_in:
   - "2026-04-22 直播"
   - "2026-05-13 直播"
   - "2026-05-24 直播"
+  - "2026-06-07 美股下跌分析、比特币山寨币RWA、中美物业对比、铜周期位置"
 about: ["[[以太坊]]", "[[山寨币]]", "[[SpaceX]]", "[[洲际交易所]]", "[[纳斯达克]]"]
 fact_check: mixed
 source_status: sourced
@@ -23,9 +24,11 @@ sources:
   - "CoinMarketCap Academy，2025-07，Ethereum Foundation Sells 10,000 ETH for Development，https://coinmarketcap.com/academy/article/ethereum-foundation-sells-10000-eth-for-development"
   - "Fortune，2026-02-13，Anthropic's $380 billion valuation vaults it next to OpenAI, SpaceX among largest IPO candidates，https://fortune.com/2026/02/13/anthropics-380-billion-valuation-vaults-it-next-to-openai-spacex-among-largest-ipo-candidates/"
   - "The Block，2026-03，Ethereum Foundation sells 5,000 ETH to Tom Lee's BitMine in $10 million OTC deal，https://www.theblock.co/post/393614/ethereum-foundation-sells-5000-eth-to-tom-lees-bitmine-in-10-million-otc-deal"
+  - "The Block（转述彭博），2025-09-23，Tether seeks $500 billion valuation, would rank among world's most valuable private firms: Bloomberg，https://www.theblock.co/post/372033/tether-seeks-500-billion-valuation-would-rank-among-worlds-most-valuable-private-firms-bloomberg"
+  - "The Block，2026-06-01，Binance adds over 7,000 US stocks and ETFs for traders outside the United States amid super app push，https://www.theblock.co/post/403155/binance-adds-us-stocks-etfs-traders-outside-united-states-super-app-push"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 > 所以的话就是就这个里面往后面发展，可能去中心化不是最主要的啊……重点是把那些大家最想买到的好资产弄上来，对吧？
@@ -100,3 +103,4 @@ updated: 2026-10-30
 - 2026-04-22 直播：「我觉得美股上链的尽头，是金融自由势能的全面铺开。」那次有朋友问美股上链的尽头是什么。这次补了上链之后能做什么：中国大陆的人开不了海外银行户，有了稳定币就能去买美元资产，据他说美股的货币基金有四五个点的收益（未核实）；不同国家的股票可以在链上用 DeFi 直接互换，他举的是三菱重工换英伟达，不用换汇；股票质押借钱也会像币圈一样方便。他说只要有两个点的差价，就有「自带干粮的企业家」去打通稳定币入金出金的路。最后他把它和美元霸权连起来：「我认为美国的金融霸权会在这个过程中完成登顶」，和 02-09 说的「美元霸权的一个延伸」是同一条线。同一场他还说 Web3 是伪概念、DeFi 要拥抱监管，见 [[Web3 是伪概念，DeFi 最终要拥抱监管]]。
 - 2026-05-13 直播：「最近比较值得关注的方向是 RWA资产——现实资产上链，各交易所推得很猛，这一块可能会有比较大的机会。」那次是答加密货币还能不能赚大钱。他说这么多年下来大部分叙事几乎穷尽了，要找新叙事，RWA 是他点的第一个。他说的重点仍是好资产：让那些不好买的资产，「一级市场上当红炸子鸡的资产能够让币圈人买到」，做到这一点才可能有比较大的机会，和上面说的“把大家最想买的好资产弄上链”是一个意思。这次补的是把它放进了加密货币下一轮的叙事里。
 - 2026-05-24 直播：「我现在还没有向大家推荐具体的RWA平台，因为我比较看重自己的金融信用，怕随便推了一个结果爆雷，那是在伤害自己的观众。」那期讲三家跨境券商被罚，他说服务想把钱挪出去的人会是一个机会，投资上稳定币肯定受益，另一个要高度关注的就是 RWA，「华尔街已经在推进了」。他还不推荐平台，原因是看不清法律安排：「你买到的股票代币和真实股票之间的法律映射关系，现在还有多种形式，哪种靠谱完全看不出来。」等有相当把握的平台出现再推荐。这次补了两点：一是关注的理由，这里「未来可能会诞生新的金融基础设施」，可能跑出专门服务全球想把钱挪出去的人的大赛道（见 [[服务金融脱北者是创业机会，这一行会像网络博彩一样分散]]）；二是眼下的顾虑，好资产上链之后，代币和真股票之间怎么对应，还没有公认靠谱的做法。
+- 2026-06-07 美股下跌分析、比特币山寨币RWA、中美物业对比、铜周期位置：「山寨的最大的叙事来源」「币圈只能搞金融对吧？」「那那再下接下来就是证券科技了」。那次有人问主流山寨币怎么看，提问的人点了 ETH、Solana、BNB 和最近兴起的交易所币，说自己看好公链和交易所赛道。他说自己之前就讲过，RWA 是目前山寨最大的叙事来源，并给了一条路线：这些年整个山寨只证明了一件事，币圈只能搞金融；币圈自己内部的金融已经被 DeFi 探索完了，能做的全做了一遍，以后只能往外走；往外先是支付，做了这么多年，诞生了 [[Tether|USDT]]，据他说估值 5000 亿美金（未核实），支付属于「银行科技」；再往下就是证券科技，把美股、美债这类美式理财产品往链上搬。这次补的是把 RWA 放进这条路线，排在支付之后。主流山寨里他看好哪一类，见 [[老山寨币只能靠回购销毁上涨]]；同一期他还说币圈和美股同一标的的跨市场套利有一两年红利，见 [[币圈和美股同标的的跨市场套利有一两年红利]]。〔背景〕6 月 1 日，[[币安]]为美国以外的用户上线 7000 多只美股和 ETF 的交易，说几周内可以把持股转成 BNB 链上的代币（The Block）。〔核对〕USDT 估值 5000 亿美元：2025 年 9 月彭博报道，Tether 在以约 5000 亿美元的估值洽谈融资（The Block 转述），这是谈判中的估值，没有查到成交。
