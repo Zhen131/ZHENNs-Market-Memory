@@ -11,6 +11,7 @@ said_in:
   - "2026-02-09 如何看待当前黄金价格并建立投资体系"
   - "2026-02-12 美股港股A股都有哪些护城河最深的长牛股（一）"
   - "2026-02-23 美股港股A股都有哪些护城河最深的长牛股（四）"
+  - "2026-03-01 股票估值入门"
 about: ["[[Adobe]]", "[[Anthropic]]", "[[汤森路透]]"]
 fact_check: unchecked
 source_status: sourced
@@ -18,10 +19,11 @@ sources:
   - "Morningstar（道琼斯），2026-02-03，Thomson Reuters Shares Slide After Anthropic Unveils AI Tool Targeting Legal-Workflow Business，https://www.morningstar.com/news/dow-jones/202602037872/thomson-reuters-shares-slide-after-anthropic-unveils-ai-tool-targeting-legal-workflow-business"
   - "The Star（路透），2026-02-04，Global software stocks hit by Anthropic wake-up call on AI disruption，https://www.thestar.com.my/tech/tech-news/2026/02/04/global-software-stocks-hit-by-anthropic-wake-up-call-on-ai-disruption"
   - "Fortune，2026-02-06，Claude Opus 4.6 发布后软件股再遭抛售（标题按内容概括），https://fortune.com/2026/02/06/anthropic-claude-opus-4-6-stock-selloff-new-upgrade/"
+  - "CNBC，2018-05-04，Warren Buffett says Berkshire Hathaway has sold completely out of IBM，https://www.cnbc.com/2018/05/04/warren-buffett-says-berkshire-hathaway-has-sold-completely-out-of-ibm.html"
   - "DeepLearning.AI The Batch，2026-02，Claude Cowork plugins trigger a SaaS stock selloff（只用其中 2 月 12 日以前的事实），https://www.deeplearning.ai/the-batch/claude-cowork-plugins-trigger-a-saas-stock-selloff-but-partnerships-lead-to-slight-rebound"
 tags: [type/view, view/framework, status/active]
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 > 这里面有企业，企业软件的护城河其实挺深的。
@@ -91,3 +93,4 @@ updated: 2026-10-30
 ## 后来又讲过
 
 - 2026-02-23 美股港股A股都有哪些护城河最深的长牛股（四）：「我觉得我觉得SAP就算是被错杀了嘛SAP」。这次是问答里有人问，这波美股 SaaS 因为 AI 大跌，有没有他认为被市场严重错杀的公司。02-12 那期有观众请他分析 SAP，他说下次会讲到，这一期给了结论；他还点了[[汤森路透]]，「我觉得汤森路透也算是被错杀的」，「汤森路透下20几倍估值，我觉得也挺好的」（估值据他说，未核实）。后来有两个朋友问财捷，他说「这个我还真没有深深入研究看」，回头研究一下，但补了看软件公司的办法（并进了上面“他怎么说”“这个判断靠什么、怕什么”两节）：「tob tob比toc好」，要看公司怎么获客，因为「商业这个东西很多东西是。千年不变的人性啊」，「你并不是科技说颠覆就能颠覆的」。〔核对〕2026-10-30 按直播转写重核这一行：他紧接着又说了一句「tob比toc不好」，字面说反了，按上下文是口误；原卡里“绝对”“立刻”“信任、习惯和商业关系”是整理稿的话，已换成原话。
+- 2026-03-01 股票估值入门（比 02-23 那次晚六天）：「凭什么凭什么你会AI人家不会AI」。这次是有人让他研究财捷，他顺带看了 SAP，说 SAP 的估值「有点中不溜」，但「我觉得这些tob的公司都都很靠谱」。理由有两条：一是你会 AI，人家原来的老公司也会，凭什么一家创业公司用 AI 就能把人家的订单抢走；二是客户，「尤其是tob的客户，要的是结果，要的不是AI」，比如客户要的是一个 ERP、一个 OA 系统，不是“AI 的 OA 系统”。他还说「护城河这个东西就是建立起来不容易。那么失去的也不容易。toc的公司很多护城河建立起来，其实是相对容易的」，靠口碑、网络宣传一下子就起来了。这次补的是一个历史例子：互联网时代大家都担心 IBM 不行了，「互联网时代对吧？IBM依然还是IBM」，据他说「你看IBM也从这个30多30多涨到240，最高涨到三百三百多了。也涨了十倍」，「IBM的话也也跑赢指数了」（价格和涨幅未核实）；他说巴菲特当年投 IBM 的逻辑就是「你凭什么你凭什么互联网公司就能抢IBM的业务呢」，AI 也一样。他对这类公司「唯一的不满」是估值：他更喜欢杠铃的两头，合理价位的不如去买微软或跌得更深的 Fiserv（见 [[要么拿得准，要么白菜价，不碰中等风险]]）。〔核对〕伯克希尔 2011 年披露买入 IBM，约 107 亿美元、均价约 170 美元；2017 年起减持，到 2018 年 5 月巴菲特说已经全部卖光（CNBC，2018-05-04）。也就是说，巴菲特自己这笔 IBM 并没有赚到他说的那十倍，他讲的是买入时的逻辑。
