@@ -9,7 +9,8 @@ speaker: "[[脑总]]"
 said_on: 2026-06-10
 said_in:
   - "2026-06-10 逃顶与做空、AI落地瓶颈、泡泡玛特、加拿大银行股"
-about: ["[[SpaceX]]", "[[首次公开募股（IPO）]]", "[[SpaceX 上市会先爆炒，2 万亿美元以下可以先买]]", "[[稀缺新股在概念最热时上市，先爆炒再杀泡沫]]"]
+  - "2026-06-28 终局思维看待AI与半导体狂潮"
+about: ["[[SpaceX]]", "[[星链]]", "[[买入时只给保底定价，增长当彩票]]", "[[首次公开募股（IPO）]]", "[[SpaceX 上市会先爆炒，2 万亿美元以下可以先买]]", "[[稀缺新股在概念最热时上市，先爆炒再杀泡沫]]"]
 fact_check: consistent
 source_status: sourced
 sources:
@@ -17,6 +18,7 @@ sources:
   - "StreetInsider（转路透），2026-06，SpaceX sets $135 price for blockbuster IPO, upending Wall Street convention，https://www.streetinsider.com/Reuters/SpaceX+sets+%24135+price+for+blockbuster+IPO%2C+upending+Wall+Street+convention/26599691.html"
   - "The Next Web，2026-05，SpaceX has cut its IPO valuation target to $1.8 trillion as marketing begins next week，https://thenextweb.com/news/spacex-has-cut-its-ipo-valuation-target-to-1-8-trillion-as-marketing-begins-next-week"
   - "Tomasz Tunguz，2026-05-21，SpaceX's Limitless Ambition: An AI Conglomerate（招股书解读：2025 年收入 187 亿美元），https://tomtunguz.com/spacex-s1-analysis"
+  - "California Insider，2026-06-22，SpaceX Shares Down Nearly 20 Percent From Post-IPO High，https://californiainsider.com/california-news/business/company-news/spacex-shares-down-nearly-20-percent-from-post-ipo-high-6051628"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-31
 updated: 2026-10-31
@@ -69,3 +71,7 @@ updated: 2026-10-31
 〔核对〕约 1.75 万亿美元的估值对得上，他说的「一点七几万亿」和报道的 1.75 到 1.77 万亿美元一致。「今年我算他250亿」是他自己的估计，招股书里只有 2025 年的 187 亿美元，这一轮没有找到 2026 年全年的公开预测。
 
 **一句话记住**：同样看好 SpaceX，三月他说 2 万亿美元以下可以先买一批，六月面对 1.75 万亿美元的上市价却说很贵、没大跌难吃肉；公司没变，他对价钱的口气变了。
+
+## 后来又讲过
+
+- 2026-06-28 终局思维看待AI与半导体狂潮（比主体那次晚 18 天，上市两周多以后）：「单看这两块的话，我自己估算出来的话，保守一点的话，应该是这个五十五十刀以下。」「有没有机会跌到这个价的话，其他那些就送的彩票嘛」。这次不是有人问，是他讲“技术跟着钱走”时插进来的：商业航天靠回收火箭把故事讲通了，现在要讲太空数据中心的故事，还没完全讲通，但因为前面讲通过那么多故事，大家愿意相信，给了很多想象和估值。于是他分享自己打算以什么预期买 SpaceX：太空数据中心完全不算；AI 业务像是为了上市临时传出来的，「我把这个当成一次性」的资本开支，算它能顺利赚回来；只给[[星链]]和回收火箭替各国航天部门、商业机构代发射卫星这两块定价，最保守估约 50 美元以下一股，「我能给到就四五十刀」（据他说，他自己的估算）。市场可能不会这么保守，现在也许已经很认真地给太空数据中心估值，其他几块也打得比较满。火箭发射比的是单位质量的发射成本，很难一直保持巨大领先；「当前二级市场的估值打得很满的时候，意味着预期你这块是给的，给的是长期垄断」，却没考虑「假设五到八年中国也掌握可回收火箭技术了」，用低成本的工业产能疯狂发射、迭代，用一个朋友的话说「每个县都有一个火箭」，这块利润会慢慢下滑。所以跌到四五十美元，其他业务就是送的彩票，跑通了是更好的彩票。这次补的是每股的保守价和它是怎么算出来的，和 06-10 说“很贵、没大跌难吃肉”是同一个方向；做法就是 [[买入时只给保底定价，增长当彩票]]。三月那张 [[SpaceX 上市会先爆炒，2 万亿美元以下可以先买]] 不动。〔背景〕SpaceX 6 月 12 日在纳斯达克挂牌，发行价 135 美元；上市后一度涨到约 202 美元，6 月 22 日跌到约 162 美元，市值仍在 2 万亿美元以上（California Insider）。〔核对〕四五十美元这个保守价没有公开数据可对。按发行价 135 美元对应约 1.75 万亿美元的估值折算，图谱算的是四五十美元大约对应 5000 到 6500 亿美元市值，只有 6 月 22 日股价的四分之一到三成；这是图谱的推算，他没有说过市值数。
