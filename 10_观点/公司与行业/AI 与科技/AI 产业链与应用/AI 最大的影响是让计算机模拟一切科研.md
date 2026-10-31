@@ -10,7 +10,8 @@ said_on: 2026-03-19
 said_in:
   - "2026-03-19 手机的AIOS终端价值、逆向思维看宏观、财务指标分析企业质地"
   - "2026-06-10 逃顶与做空、AI落地瓶颈、泡泡玛特、加拿大银行股"
-about: ["[[谷歌]]", "[[科研最难的是知道哪个方向能成]]", "[[DNA 合成会是生物界的下一个摩尔定律]]", "[[莫德纳是押注下一场大战的期权]]"]
+  - "2026-06-14 世界杯冠军盛衰周期，半导体设备领涨，黄金作为机会成本看待资产配置，AI两大佬看好生物医药"
+about: ["[[谷歌]]", "[[科研最难的是知道哪个方向能成]]", "[[DNA 合成会是生物界的下一个摩尔定律]]", "[[莫德纳是押注下一场大战的期权]]", "[[戴密斯·哈萨比斯]]", "[[达里奥·阿莫迪]]"]
 fact_check: mixed
 source_status: sourced
 sources:
@@ -19,6 +20,10 @@ sources:
   - "新浪科技（转载量子位），2022-11-12，离美归国因AI抢走饭碗？颜宁本人长文回应，https://finance.sina.com.cn/tech/csj/2022-11-12/doc-imqqsmrp5894079.shtml"
   - "路透（Investing.com 转载），2026-01-20，Google-backed Isomorphic Labs delays clinical trial timeline，https://www.investing.com/news/stock-market-news/googlebacked-ai-drug-discovery-startup-isomorphic-labs-delays-clinical-trial-timeline-4456134"
   - "Sherwood News，2026-02，How the Big Tech companies are spending their huge capex budgets（四大云厂 2026 年资本开支指引），https://sherwood.news/tech/how-the-big-tech-companies-are-spending-their-huge-capex-budgets"
+  - "Dario Amodei，2026-06-10，Policy on the AI Exponential（第三部分 Accelerating AI's positive impact），https://darioamodei.com/post/policy-on-the-ai-exponential"
+  - "Axios，2026-06-10，Anthropic CEO says government should block dangerous AI，https://www.axios.com/2026/06/10/anthropic-ceo-government-block-dangerous-ai"
+  - "维基百科，2026-10-31 访问，Dario Amodei，https://en.wikipedia.org/wiki/Dario_Amodei"
+  - "维基百科，2026-10-31 访问，Demis Hassabis，https://en.wikipedia.org/wiki/Demis_Hassabis"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-31
 updated: 2026-10-31
@@ -73,3 +78,4 @@ updated: 2026-10-31
 ## 后来又讲过
 
 - 2026-06-10 逃顶与做空、AI落地瓶颈、泡泡玛特、加拿大银行股：「AI能不能够，比如说化学实验能不能模拟一番」「现在物理AI还没有一篇，你还有没有一篇这样的论文」。这次是讲 AI 落地的瓶颈（见 [[AI 落地的下个瓶颈在湿实验，CRO 和仪器收租]]）。他说 AlphaFold 能把药物分子快速预测出来，但实验室做实验这一步 AI 替代不了，「做实验确实比较长，你也没办法加速实验」；而这一块正是 AI 下一阶段可能大显身手的地方，「这我反复讲的物理AI」：化学实验、分子合成能不能模拟，生物实验、药物作用于某个蛋白质能不能模拟。和 03-19 是同一个方向，这次补了两个条件。一是难度有高低：化学实验「还算是比较简单的」，生物实验难得多。二是要有基础理论的突破：像 Transformer 有那篇 Attention Is All You Need 论文，物理 AI 还没有这样一篇，「现在还只能解决语言啊」，所以他估计「也没有那么快突破」。在突破之前，实验就是卡脖子的环节。
+- 2026-06-14 世界杯冠军盛衰周期，半导体设备领涨，黄金作为机会成本看待资产配置，AI两大佬看好生物医药：「他大量的讲了AI对于生物医药这整个一章都在讲。」「我觉得这两个大佬的观点比较值得重视」。这次是有人问怎么确定值得研究的行业，他说自己要转去研究生物医药（见 [[选研究方向先看贵贱，再找重大估值变量]]），然后搬出两位 AI 大佬当旁证。一位是 [[达里奥·阿莫迪|阿莫迪]]：前几天写了一篇文章，第三章整章讲 AI 对生物医药的影响；他说阿莫迪有生物相关的博士学位，在斯坦福医学院做过博士后，「他是有他是有相关背景的」。另一位是 [[戴密斯·哈萨比斯|哈萨比斯]]，他先说成 OpenAI，随即改口是 DeepMind 的 CEO，说他在很多地方表明「AI最大的机会可能在就是促进科学发现」，AlphaFold 就是他们搞出来的。〔背景〕阿莫迪那篇是 2026 年 6 月 10 日（星期三）在个人网站发表的《Policy on the AI Exponential》，正文分五部分，第三部分“加速 AI 的正面影响”专挑生物医药创新来讲，理由是它可能是 AI 给人类带来的最大好处，而这个领域的监管又特别复杂；他在直播里念的那句，就是这段开头的中文意思。文章主张药监机构现在就定好接受 AI 方法的标准，比如药代动力学建模、用毒理预测减少动物实验、合成对照组（Dario Amodei；Axios，2026-06-10）。这次比 03-19 多出的一层，是他说生物可能从手工业变成工程：他自己原来学化学，过去制药和生物研究「其实是生物手工业还没有还没有进入工程」；AI 可能让湿实验也工程化，AI 设计实验、「把整个实验交给机器人去做了。」，数据不对再重新设计。他也说「可能AI不一定不一定能达到这个计算机模拟那么快的速度」：也就是说，提速不一定全靠 03-19 讲的纯模拟，也可能靠 AI 加机器人。〔图谱的对照〕四天前的 06-10 他说实验这一步 AI 没法解决、是瓶颈；这次他设想了一条把实验本身工程化的路，说的都是「可能」，他没有把两次连起来讲。〔核对〕阿莫迪的学历：维基百科写他在普林斯顿读的是生物物理博士，此后在斯坦福大学医学院做博士后，对得上。他说哈萨比斯「他自己也是生物科班出身的」：维基百科写哈萨比斯本科在剑桥读计算机，博士在伦敦大学学院读认知神经科学，算神经科学出身，说成生物科班偏宽。机器人做实验这一层是他自己的设想，查到的文章摘要里没有提。同一段他还讲了三项牛技术里生物才可能是范式级，见 [[生物才可能是范式级，商业航天天花板看得见]]。

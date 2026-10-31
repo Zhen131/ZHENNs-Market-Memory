@@ -9,7 +9,8 @@ speaker: "[[脑总]]"
 said_on: 2026-02-23
 said_in:
   - "2026-02-23 美股港股A股都有哪些护城河最深的长牛股（四）"
-about: ["[[Meta]]", "[[苹果公司]]", "[[谷歌]]", "[[腾讯]]", "[[网络效应]]", "[[谷歌和苹果是互联网时代最硬的垄断]]"]
+  - "2026-06-14 世界杯冠军盛衰周期，半导体设备领涨，黄金作为机会成本看待资产配置，AI两大佬看好生物医药"
+about: ["[[Meta]]", "[[苹果公司]]", "[[谷歌]]", "[[腾讯]]", "[[网络效应]]", "[[谷歌和苹果是互联网时代最硬的垄断]]", "[[马克·扎克伯格]]", "[[Manus]]"]
 fact_check: mixed
 source_status: sourced
 sources:
@@ -17,9 +18,12 @@ sources:
   - "Meta，2026-01-28，Meta Reports Fourth Quarter and Full Year 2025 Results，https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/"
   - "The Star（路透），2026-01-30，Microsoft plunges, Meta rallies as investors demand AI payoffs，https://www.thestar.com.my/tech/tech-news/2026/01/30/big-tech-results-show-investor-demand-for-payoffs-from-heavy-ai-spending"
   - "Meta，2021-10-28，Introducing Meta: A Social Technology Company，https://about.fb.com/news/2021/10/facebook-company-is-now-meta/"
+  - "Fortune，2026-04-29，Meta 一季报与扎克伯格 1450 亿美元 AI 开支的报道（标题按网址转述），https://www.fortune.com/2026/04/29/meta-zuckerberg-145-billion-ai-spending-roi/"
+  - "SiliconANGLE，2026-04-29，Meta 资本开支指引盖过一季度超预期、盘后股价下跌的报道（标题按网址转述），https://siliconangle.com/2026/04/29/meta-shares-drop-hours-capex-guidance-overshadows-first-quarter-beats/"
+  - "Irish Times，2026-04-27，China blocks Meta’s $2bn purchase of AI group Manus，https://www.irishtimes.com/business/2026/04/27/china-blocks-metas-2bn-purchase-of-ai-group-manus/"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 > 这里面的话Meta的问题就是它不控制操作系统层对吧？
@@ -70,6 +74,8 @@ updated: 2026-10-30
 
 可能让它失效的有两种情况，都能从他的话里推出来：一是 Meta 真的拿到了下一代计算平台的操作系统层，这是他说的元宇宙押注的目的；二是社交关系的迁移成本比他估的高，用户就算被平台规则折腾也不走。
 
+到 2026-06-14，他又加了一层不看好的理由：文化。他觉得为元宇宙改名、收购已经过气的 [[Manus]]，显出这家公司「有点那个投机的味道」（见文末“后来又讲过”）。这一层和操作系统那一层是两回事：前一层讲的是地基在别人手里，这一层讲的是管理层会不会把钱花在伪概念上。
+
 他自己的态度很清楚：看不明白，就不给别人建议。这和他先做简单题、难题跳过的办法是一致的（见 [[先做简单题，难题直接跳过]]）。
 
 〔核对〕
@@ -80,3 +86,7 @@ updated: 2026-10-30
 - 2026-10-30 按直播逐字转写重核：原来抄自文字纪要的引用都换成了转写原话。纪要里有一句说他对 Meta 宁可等它暴跌、市场极度悲观时再看困境反转、平时不碰，转写里没有这句：问答里他只说看不明白、怕坑到人、壁垒不够高；后面一句提到“暴跌的公司”宁可去想一想，说的是很多公司，没点 Meta 的名，也没有“极度悲观”“困境反转”“平时不碰”。这层意思已从卡里删掉。纪要加的“全球第二大”“疯狂砸钱”“做投资”也去掉了；他字面说反的社交“可迁移性”半句改成转述。
 
 **一句话记住**：应用层再强，地基在别人手里就不算最硬；脑总把 Meta 放在这一档，自己也说看不明白。
+
+## 后来又讲过
+
+- 2026-06-14 世界杯冠军盛衰周期，半导体设备领涨，黄金作为机会成本看待资产配置，AI两大佬看好生物医药（比上面那次晚近四个月）：「这个公司有点企业文化，我也不是太喜欢」「然后这扎克伯格为一个伪概念，把公司名字改了。」那次是问答里有人问到 Meta。他先说自己看不太明白，因为自己基本不用 Facebook、WhatsApp；有朋友跟他讲 Meta 用 AI 大幅提升了广告收入，他说投资要有身体感知，要么懂技术、要么是忠实用户，所以「也不敢评价他到底是机会还是是不是机会」（这一层见 [[散户若是行业内行，只需再学会估值]] 文末 06-14 那一行）。接着他「多说一句」，讲了这家公司的文化。他自己是币圈出身，一直认为元宇宙、Web3 都是币圈发明的伪概念（见 [[Web3 是伪概念，DeFi 最终要拥抱监管]] 文末 06-14 那一行），[[马克·扎克伯格|扎克伯格]]却为它改了公司名字，还砸了一大堆钱，「事后证明打了水漂」。AI 这一波，Meta 又传出收购 [[Manus]]，他觉得「也也差点意思」：Manus 已经过气了，现在谁还会买，Meta 这么做「像个外行接盘侠」。他还说，老板是极客出身、在《社交网络》那部电影里打过黑客马拉松的一家公司，「怎么能做这种事情？」结论是「文化文化不太好」。这次补的是“文化”这一层理由：02-23 他说元宇宙是 Meta 想补上操作系统那一层；这次说元宇宙本身就是伪概念，押它显出这家公司有「投机的味道」。两次方向都是不看好，不算改口。〔背景〕4 月 29 日 Meta 公布一季报：收入 563 亿美元、增长 33%，广告收入 550 亿美元、也增长 33%；同时把 2026 年资本开支指引上调到 1250 亿到 1450 亿美元，盘后股价跌了 6% 以上（Fortune；SiliconANGLE）。收购 Manus 是 2025 年 12 月宣布的，报道的金额约 20 亿美元；2026 年 4 月 27 日，中国国家发改委要求撤销这笔交易，并禁止外资投资 Manus（Irish Times）。〔核对〕他说的是 Meta「传出收购」Manus、「他当时没买」，和报道对不上：交易 2025 年底已经宣布并完成，是 4 月底被中国监管叫停的；他也可能是指这笔交易最后没成。这几句转写断句很乱，这里按大意转述。
