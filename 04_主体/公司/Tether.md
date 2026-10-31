@@ -13,6 +13,7 @@ sources:
   - "The Block（转英国《金融时报》），2026-02-04，Tether floats $5 billion raise after investor pushback on $500 billion valuation target，https://www.theblock.co/news/business/2026-02-04-tether-floats-5-billion-raise-after-investor-pushback-on-500-billion-valuation-target-ft-388404"
   - "PYMNTS，2026，Tether CEO Disputes Reports of Fundraising Pullback Amid Valuation Concerns，https://www.pymnts.com/blockchain/2026/tether-ceo-disputes-reports-of-fundraising-pullback-amid-valuation-concerns/"
   - "脑总 2026-03-05 美伊战争对资本市场有什么影响（未核实）"
+  - "脑总 2026-03-15 黄金与美股分析、Adobe护城河危机、稳定币核心逻辑与山寨币消亡史（未核实）"
   - "脑总 2026-05-24 直播（未核实）"
 tags:
   - type/entity
@@ -36,6 +37,7 @@ Tether 发行美元稳定币 USDT：用户交给它一美元，它在链上发�
 ## 脑总怎么提到它
 
 - 2026-03-05：讲 Circle 时，他说「这个泰达一年的利润。已经比他的市值高了」，Circle 跌得低的时候，Tether 拿一年的利润就能把它整个买下来；要不是有反垄断法，「我要是泰达老板」，就把 Circle 私有化，「我也担心别人颠覆我嘛」。他说 Tether「现在在做合规市场啊，但他现给人留下的印象就没有那么合规嘛」，「合规的人就不会用泰达」；稳定币里「泰达才是龙一对吧？他只是龙二啊」。那次他已经说了「泰达现在估值5000亿美金，对吧？5000亿美金啊」（未核实，见上面的关键事实），拿来和 Circle 之前跌到的「100多亿」比想象空间（[[Circle 的底还会慢慢盘整，建仓要拉长|他的说法]]）。
+- 2026-03-15：讲稳定币的核心逻辑时，他把 USDT 当作龙一，拿来和「龙二」[[Circle]] 比：稳定币最硬的需求在第三世界的人防止被政府盘剥，USDT 的散户用户比 Circle 的美国机构用户「那么那么硬，那么爽」。他说 USDT 的网络效应眼下主要在币圈，「比如说USDT交易BTC可能流动性最好」，法币出入金的场外交易里它也最活跃（[[稳定币看谁吃到增量，网络效应让龙头恒强|他的说法]]）。他还说「虽然虽然这个泰达已经五好像5000亿美金估值了」（未核实，见上面的关键事实），这个行业以后出更大的公司「不是不可能」（[[美元稳定币会到几万亿美元，可能比比特币还大|他的说法]]）。
 - 2026-05-24：他把 Tether 当成“有管制就有灰产”的头号例子。据他说，USDT 的发行方 Tether「估值已经5000亿美金了」（未核实，见上面的关键事实），「曾经是全球人均效益最好的公司」，背后的核心原因是中国的封锁：「没有中国的封锁，USDT算个什么？」（[[哪里有管制，哪里就有帮人绕开管制的灰产|他的说法]]）。
 
 ## 各方怎么看它
