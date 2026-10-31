@@ -19,6 +19,7 @@ sources:
   - "IPOScoop（数据网站，仅作参考），2026-06-12，The IPO Buzz: SpaceX (SPCX) Climbs 19 Percent in NASDAQ Debut After Record IPO，https://www.iposcoop.com/?p=38639"
   - "Investment News，2026-02，Musk merger creates $1.25T privately-held company ripe for IPO, but what about Tesla?，https://www.investmentnews.com/equities/musk-merger-creates-125t-privately-held-company-ripe-for-ipo-but-what-about-tesla/265106"
   - "脑总 2026-03-12 讲讲技术分析（未核实）"
+  - "脑总 2026-04-01 直播（未核实）"
   - "脑总 2026-10-18 直播（未核实）"
 tags:
   - type/entity
@@ -44,6 +45,8 @@ SpaceX 是 [[马斯克]] 创办的航天公司。它最出名的一件事，是�
 ## 脑总怎么看它
 
 上市前三个月，2026-03-12 讲技术分析那期，他开场就讲 SpaceX 上市。他说上市前的估值「它现在是一万多亿美元吧？」（未核实；和上面合并时的估值大致对得上）。他估计它上市后可能像 Circle、Coinbase、Roblox 那样先被爆炒一波再杀泡沫；如果上市时估值在 2 万亿美元以下，可以先买一批心理上承受得住的筹码，「我自己还是很看好的」。见 [[SpaceX 上市会先爆炒，2 万亿美元以下可以先买]] 和 [[稀缺新股在概念最热时上市，先爆炒再杀泡沫]]。
+
+2026-04-01 直播里，有人问 SpaceX 秘密申请 IPO 了，可以“无脑冲”吗。他说肯定不能。据他说，SpaceX「现在一年的话。轻轻松松赚100多亿，100多亿美金」（未核实）；未来增速要是翻倍，100 倍市盈率也算合理，但那就是 1 万多亿美元，「能够给我一万多亿的SpaceX吗？我觉得很难」。他按估值给仓位：几百倍只建观察仓，100 倍给合理仓位，几十倍说不定给到最大仓位，见 [[贵股票不博更贵，按估值分档给仓位]]。
 
 据脑总在 2026-10-18 直播里说：飞车用的喷气技术「肯定不如 SpaceX火箭回收的难度吧」（[[造奇观比打广告划算|他的说法]]）；他还把一家早期地热公司比作「猎鹰 9 号时期的SpaceX」，见 [[Fervo 像猎鹰 9 号时期的 SpaceX]]。
 
