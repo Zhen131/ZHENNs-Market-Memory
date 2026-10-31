@@ -6,10 +6,11 @@ title: "DNA 合成会是生物界的下一个摩尔定律"
 summary: "脑总认为，生物界上一个摩尔定律是测序成本暴跌，下一个是 DNA 合成成本下降，会出现生物界的台积电；他看好这条赛道，但 Twist 会不会是赢家还不确定。"
 aliases: []
 speaker: "[[脑总]]"
-said_on: 2026-10-11
+said_on: 2026-06-25
 said_in:
+  - "2026-06-25 日本股市、科学仪器、生物平台公司、美股代币、费哲、重啤、奈飞、小商品城、TransMedics、Zoetis，杠铃策略与足球阵型"
   - "2026-10-11 直播"
-about: ["[[Twist Bioscience]]", "[[台积电]]"]
+about: ["[[Twist Bioscience]]", "[[台积电]]", "[[Illumina]]", "[[Ginkgo Bioworks]]", "[[阿斯麦]]"]
 fact_check: consistent
 source_status: sourced
 sources:
@@ -17,10 +18,11 @@ sources:
   - "Stock Analysis（数据网站，仅作参考），2026-10-27 查，Twist Bioscience (TWST) 行情页与历史股价（一年内价格区间、市值），https://stockanalysis.com/stocks/twst/history/"
   - "美国国家人类基因组研究所（NHGRI），2021-11-01 更新，The Cost of Sequencing a Human Genome，https://www.genome.gov/about-genomics/fact-sheets/sequencing-human-genome-cost"
   - "美国国家人类基因组研究所（NHGRI），2023-05-16 更新，DNA Sequencing Costs: Data，https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data"
+  - "Capital.com（数据网站，仅作参考），2026-07-16，Twist Bioscience market cap，https://capital.com/en-int/markets/shares/twist-bioscience-corporation-share-price/market-cap"
   - "Health & Wealth（Christina Ren），2022-06-09，Twist Bioscience: DNA synthesis as a service or product?，https://healthandwealth.substack.com/p/twist-bioscience-competition-part-2"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-31
 ---
 
 > 生物界上一次的摩尔定律，摩尔定律叫做就是测序成本的下降对吧……下个摩尔定律，就是 DNA 合成的成本下降
@@ -34,6 +36,8 @@ updated: 2026-10-27
 摩尔定律原指芯片上的晶体管数量大约每两年翻一番，单位成本跟着一路下降；他借它指一项技术的成本按指数往下掉。
 
 ### 他是在什么情况下说的
+
+这个意思他最早在 2026-06-25 那期就讲过（见文末“更早讲过”）：那时他已经说了，测序像生物界的阿斯麦，DNA 合成是卖铲子的生意，合成成本还比较高；不过那次他拿台积电比的是 Ginkgo 那种生物实验外包，不是 DNA 合成。下面按 2026-10-11 这次写，这次他把 DNA 合成本身讲成了下一条摩尔定律。
 
 2026-10-11 直播快结束时，会员问：“你觉得 Twist 算不算是铲子？”Twist 的股票代码是 TWST。铲子指“卖铲子”的生意：淘金热里不管谁挖到金子，卖铲子的都赚钱。
 
@@ -76,3 +80,18 @@ updated: 2026-10-27
 〔核对〕人类基因组计划「十几亿美元」：NHGRI 说美国方面总投入约 27 亿美元，单算第一个基因组是 5 亿到 10 亿美元；他自己也说「几10亿美元还是十几亿美元啊」，量级对得上。今天几百块：NHGRI 的数字只到 2015 年底不到 1500 美元，现在的价格没有核对。「弗拉特利定律」：没找到可靠出处，NHGRI 拿来对比的就是摩尔定律。「这一轮牛市以来已经涨了20倍了」：数据网站上，一年内从 23.30 美元涨到最高 219.71 美元，约 9.4 倍；20 倍要从更早的低点算，没有核对。转写里的「以最高点20块钱为例」，从上下文看，说的是 20 美元以下建仓的人，到最高点赚了十倍。
 
 **一句话记住**：脑总把 DNA 合成看成生物界的下一条摩尔定律。他看好的是这条赛道会像测序那样越做越便宜，不是已经认定了哪家公司会赢。
+
+## 更早讲过
+
+- 2026-06-25 日本股市、科学仪器、生物平台公司、美股代币、费哲、重啤、奈飞、小商品城、TransMedics、Zoetis，杠铃策略与足球阵型：「测序有点像里面的行业，里面的阿斯麦」「DNA合成就就是也属于行业里面卖铲子的」。那次是有人问生物科技里有哪些平台公司值得关注，他从底层技术一层层往下排（见 [[生物平台公司已上市、市值小，是二级市场的风投]]）。最早一层是基因测序：他说测序已经过了技术进步最快的年代，最先进的测序仪还被 [[Illumina]] 垄断，中国公司刚开始入局；据他说 Illumina 从二零零几年的一块钱涨到最高 500，靠的就是测序成本一路往下掉（未核实）。测完以后的下一步是 DNA 合成：科研人员设计好一条 DNA，交给专门的机构去合成，不用自己「一个碱基，一个碱基去合成」，他点的公司是 [[Twist Bioscience|Twist]]。据他说 Twist 那时 50 多亿美元市值，最低点 20 多，已经涨到 90、在不停创新高，营收也增长得比较好（都未核实）。他说眼下的情况是「测序的成本已经很低了，合成成本还比较高」，所以值得关注。再下一层是合成生物学：代码是 DNA 的那家公司，也就是 [[Ginkgo Bioworks|Ginkgo]]，想把一部分生物实验做成自动化平台、外包出去，他说它「有点像台积电」，像台积电把晶圆制造从计算机行业里单独拆出来，市值只有 6 亿美元左右（据他说，未核实）。
+
+那时他已经把这条赛道的骨架讲出来了：测序是上一代、成本已经掉下来，合成是卖铲子、成本还高。到 10-11，他把合成成本的下降直接叫作下一条摩尔定律，台积电这个比喻也从 Ginkgo 挪到了 DNA 合成工厂身上。两次的比喻对象不一样，并排看：
+
+| | 2026-06-25 | 2026-10-11 |
+|---|---|---|
+| 像台积电的是谁 | Ginkgo：把生物实验外包、做成自动化平台 | DNA 合成工厂：替科研人员合成 DNA |
+| 测序 | 像生物界的阿斯麦，成本已经很低 | 上一条摩尔定律 |
+| DNA 合成 | 卖铲子，成本还比较高 | 下一条摩尔定律 |
+| Twist | 50 多亿市值，从 20 多涨到 90（据他说） | 赢家是不是它还不确定 |
+
+10-11 那次他开口就说「我以前讲过」，库里能对上的最早一次就是这里（图谱的推断）。〔核对〕Twist 6 月下旬的股价这次没查到；数据网站显示 7 月 16 日市值约 55 亿美元，和他说的 50 多亿量级一致。Illumina 的价格和 Ginkgo 的市值没有核对。
