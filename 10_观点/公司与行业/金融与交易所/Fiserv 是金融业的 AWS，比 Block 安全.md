@@ -11,7 +11,8 @@ said_in:
   - "2026-03-22 黄金跌势已成、美股指数分析与核心资产防守策略"
   - "2026-04-01 直播"
   - "2026-04-26 直播"
-about: ["[[Fiserv]]", "[[Block]]", "[[PayPal]]", "[[Visa]]", "[[万事达]]", "[[比特币]]"]
+  - "2026-06-18 我亲自经历的第一次大牛市"
+about: ["[[Fiserv]]", "[[Block]]", "[[PayPal]]", "[[Visa]]", "[[万事达]]", "[[比特币]]", "[[李录]]", "[[卡骆驰]]"]
 fact_check: mixed
 source_status: sourced
 sources:
@@ -22,6 +23,8 @@ sources:
   - "MarketBeat（仅作参考），2026-02-12，PayPal sets new 12-month low after analyst downgrade，https://www.marketbeat.com/instant-alerts/paypal-nasdaqpypl-sets-new-12-month-low-after-analyst-downgrade-2026-02-12/"
   - "Benzinga，Chart Wars: Why The Bleeding May Be Over For PayPal, Block (Formerly Square) Stocks（两家 2021 年的历史高点），https://benzinga.com/z/24677450"
   - "Walletinvestor（数据网站，仅作参考），2026-04-22，Block, Inc Price History，https://walletinvestor.com/stock-forecast/xyz-stock-history/"
+  - "Payments Dive，2026-06-15，Fiserv CEO exits after rocky year，https://paymentsdive.com/news/fiserv-ceo-exits-after-rocky-year/822882/"
+  - "Motley Fool（Billy Duberstein），2026-06-15，Why Fiserv Plunged Today，https://www.fool.com/investing/2026/06/15/why-fiserv-plunged-today/"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-29
 updated: 2026-10-31
@@ -90,3 +93,7 @@ updated: 2026-10-31
 
 - 2026-03-22 黄金跌势已成、美股指数分析与核心资产防守策略：「所以的话这这种基本面在下滑的是不能抄底的啊」。那次有人问 Block 和费哲（就是 Fiserv）怎么对比，说两者估值似乎都有吸引力。他说自己还没深入看 Block，「我自己也没有用过block的产品」，只就看过的 PayPal 讲了一层：「toc这一块。支付竞争非常激烈」，Google Pay、Apple Pay 背后是底层操作系统，推得很猛，PayPal 的份额「受到谷歌和苹果产品的支付产品。的挤压导致市场份额在下滑啊」。所以基本面在下滑的不能抄底；只有单纯杀估值、市场分歧巨大、你又觉得逻辑没出问题的时候，才可以抄（杀估值、杀业绩、杀逻辑的分法，见 [[下跌分三种：杀估值可抄，杀业绩等拐点，杀逻辑别碰]]）。那时他已经讲了 C 端支付被苹果、谷歌挤压这一层，Fiserv 那一半没有答；到 04-26 同一个问题再来，他才把 Fiserv 讲成给银行和商户做后台的生意，给出更倾向 Fiserv 的结论。
 - 2026-04-01 直播：「已经很明显很便宜了」。那次是直播最后有人问 Fiserv 的 K 线（买点那段见 [[最好的左侧是底部已经横了一阵]]）。他拿它和[[李录]]买的天木兰、[[卡骆驰]]比，说那两家的生意模式不如它；据他说 Fiserv 差不多 8 倍市盈率，「市盈率比它贵一点点」（未核实）。它的生意是刷卡、「收过路费啊，抽抽水。那还是比较爽的」，所以和李录的买点比，「整体来说是一个比较合合适的一个价格了」（见 [[要么拿得准，要么白菜价，不碰中等风险]]）。那时他还没有拿它和 Block 比，讲的是它比鞋服生意好、价格合适；04-26 这次讲的是它和 Block 是两门生意。
+
+## 后来又讲过
+
+- 2026-06-18 我亲自经历的第一次大牛市：「护城河高也是真的高」。那次直播最后，「有两个朋友在问费哲」，问的是它换 CEO 后暴跌的事。他说公司本身没出太大问题，但股价还可能跌到估值低到极限的位置：参照是[[李录]]当年买[[卡骆驰]]的价位，「好像是六七倍PE吧」（据他说，未核实）；基本面正常、只是不增长的公司，市场会反应过度，可能便宜到那个地步。它的护城河是真的高，但那些商户讨厌它也是真的讨厌，希望有人来跟它竞争（他点了一个竞争对手的名字，转写听不清）；他认为这「目前来看的话还是鬼故事」，只是鬼故事发酵的极限在哪不好说，「最低也许会到六七倍PE那个水平上面去」。不算改口：04-26 他说它是给银行和商户做后台的、比 Block 安全，这次仍说公司本身没大问题，只是估值会被杀到极限；这次补的是一个风险：商户对它的不满，可能招来竞争对手。〔背景〕6 月 15 日 Fiserv 宣布 CEO 迈克·莱昂斯离职、去当 Truist 金融的 CEO，由高管塔基斯·乔治卡科普洛斯即日接任，公司维持 2026 年调整后每股收益 8.00 到 8.30 美元的指引；过去一年它的股价跌了约七成（Payments Dive，2026-06-15）。当天下午股价跌约 11%，按维持的指引算，市盈率已经不到 6 倍（Motley Fool，2026-06-15）。〔核对〕按 Motley Fool 的算法，6 月 15 日它已经不到 6 倍，比他说的「六七倍」还低；他说的市盈率可能是按别的利润口径算的。他点名的竞争对手是谁，已问 Zhen。
