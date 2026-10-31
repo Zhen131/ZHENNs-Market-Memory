@@ -6,20 +6,27 @@ title: "中概比港股更糟：VIE 从没有法律地位，两头堵"
 summary: "脑总认为中概股比港股处境更糟：港股至少还有基本法框架，VIE 只是双方官方不否认、律师和金融家搭出来的权宜之计；美国限投资、中国一纸文件，两头都在堵，巴菲特、芒格早给过警告。"
 aliases: []
 speaker: "[[脑总]]"
-said_on: 2026-05-24
+said_on: 2026-03-26
 said_in:
+  - "2026-03-26 零售业的商业模式"
   - "2026-05-24 直播"
-about: ["[[可变利益实体（VIE）]]", "[[中国平台公司境外上市风险]]", "[[香港]]", "[[巴菲特]]", "[[芒格]]", "[[李录]]", "[[腾讯音乐]]", "[[阿里巴巴]]"]
+about: ["[[可变利益实体（VIE）]]", "[[中国平台公司境外上市风险]]", "[[香港]]", "[[巴菲特]]", "[[芒格]]", "[[李录]]", "[[腾讯音乐]]", "[[阿里巴巴]]", "[[拼多多]]", "[[Manus]]"]
 fact_check: mixed
 source_status: sourced
 sources:
+  - "脑总 2026-03-26 零售业的商业模式（未核实）"
   - "脑总 2026-05-24 直播（未核实）"
+  - "路透社（雅虎财经转载），2026-03-25，China bars Manus co-founders from leaving country amid Meta deal review, FT reports，https://finance.yahoo.com/sectors/technology/articles/china-bars-manus-co-founders-044724261.html"
+  - "PDD Holdings（美国证监会 6-K 附件），2026-03-25，PDD Holdings Announces Fourth Quarter 2025 and Fiscal Year 2025 Unaudited Financial Results，https://www.sec.gov/Archives/edgar/data/1737806/000110465926034813/tm269789d1_ex99-1.htm"
+  - "Lightyear（数据网站，仅作参考），2026-03-09，PDD 市值与市盈率，https://lightyear.com/eu/stock/PDD:NASDAQ"
+  - "Supply Chain Brain（转述彭博），2025-04，Tariff Loophole That Fueled Rise of Temu, Shein Will Close May 2，https://supplychainbrain.com/articles/41482-tariff-loophole-that-fueled-rise-of-temu-shein-will-close-may-2"
+  - "KPMG，2026-02，EU: New customs duty rules for small parcels in e-commerce，https://kpmg.com/us/en/taxnewsflash/news/2026/02/tnf-eu-new-customs-duty-rules-for-small-parcels-in-e-commerce.html"
   - "Paul, Weiss，2023-08，President Biden Issues Executive Order Creating Unprecedented Outbound Investment Review, Prohibitions Targeting China，https://www.paulweiss.com/insights/client-memos/president-biden-issues-executive-order-creating-unprecedented-outbound-investment-review-prohibitions-targeting-china"
   - "Bloomberg，2022-04-11，Munger-Tied Daily Journal Slashes Its Alibaba Stake in Half，https://www.bloomberg.com/news/articles/2022-04-11/charlie-munger-tied-daily-journal-slashes-alibaba-stake-in-half"
   - "InsiderSet（数据网站，仅作参考），2026-05，Li Lu - Himalaya Capital Management 13F Activity & Position Changes (Q1 2026)，https://www.insiderset.com/investor/li-lu-himalaya-capital-management/activity/q1-2026"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 > 中概股的处境其实比港股还要糟糕一些。香港虽然有国安法，但至少没有动基本法，基本法的框架还在。
@@ -31,6 +38,8 @@ updated: 2026-10-30
 **一句话**：脑总认为，在美国上市的中概股比港股还糟：香港至少还有基本法这个框架，中概靠的 VIE 架构从来没有法律地位，只是当年中美两边都“不否认”、大家先拿来用的办法；现在美国在限制投资，中国时不时出一纸文件，两头都在堵。
 
 ### 他是在什么情况下说的
+
+这个意思他最早在 2026-03-26《零售业的商业模式》就讲过（见文末“更早讲过”）：那时他已经拿拼多多当例子，说中概股的 VIE 结构是买它最大的担心。下面按 2026-05-24 这次写，这次把两头堵和每一层的脆弱讲得最完整。
 
 这一期专题讲富途、老虎、长桥三家跨境券商被罚（见 [[2026 - 中国 - 富途老虎长桥被罚]]），讲完券商，他转到中概股，先说中概的长远结局是变成像 B 股那样的阑尾（见 [[中概终局像 B 股：流动性越来越弱，边缘化成阑尾]]），然后讲为什么。第一层理由就是这张卡：拿港股作参照，中概连港股都不如。
 
@@ -65,6 +74,8 @@ updated: 2026-10-30
 
 **和 05-20 那张。** 四天前他已经讲过 [[中概没投票权就没清算价值，不上不下最尴尬]]：隔了很多层、没有投票权，所以没有清算价值；非要买，港股比美股好，「港股的VIE架构至少少了一层」。这一期讲的是同一条资金链，换了个角度：那期讲股东手里的权利够不够，这期讲这条链本身有没有法律撑着，以及两国政府都在往里伸手。
 
+**和 05-24 同一场的“十几倍不便宜”。** 同一期他还说中概十几倍市盈率不便宜，十倍都不算便宜（见 [[中概十几倍 PE 不便宜：参照物锚错了]]）。03-26 那次他说拼多多「估值很便宜」，看上去方向相反，但不算改口：那次他紧接着就问「考虑到风险定价，它这个便宜是不是足够便宜？」，两次都是在给“便宜”打问号，理由都落在 VIE 这类拿不准的风险上；05-24 只是换成一级市场的眼光，把这个问号说得更重。
+
 〔图谱的对照〕巴菲特那个古巴的例子，和中概像的地方是：公司本身再好，所在国一纸命令就能让股东归零。不像的地方是：古巴是整个国家改制、全面国有化，他讲中概时说的是一纸文件让某个行业突然被团灭，并没有说中国会把中概公司收归国有。
 
 ### 这个判断靠什么、怕什么
@@ -76,3 +87,7 @@ updated: 2026-10-30
 〔核对〕芒格：Daily Journal（芒格任董事、管投资组合）2022 年一季度把阿里持仓从约 60 万股砍到 30 万股（Bloomberg，2022-04-11），和「割肉」对得上；他说的「最后还是割肉出局」，是否全部卖完，图谱没有查到。李录：几家 13F 数据网站显示，喜马拉雅资本 2026 年一季度新建仓腾讯音乐约 659 万股、约 6100 万美元，占组合约 1.9%（仅作参考），和他说的对得上。巴菲特古巴公司的故事，以及是不是 2023 年股东大会讲的，搜了两次都没找到可靠来源。
 
 **一句话记住**：港股至少还有一部基本法撑着；中概靠的 VIE 只是当年两边都“不否认”的权宜之计，现在中美两头都在堵。
+
+## 更早讲过
+
+- 2026-03-26 零售业的商业模式：「相比起你买到的到底是一一个代码还是拼多多这家公司的股票，买股票就是买公司对吧？」那次讲完零售专题，他说「也有人老在问拼多多」，他的担心有两点：一是电商竞争激烈（见 [[电商本质是零售，要买只买亚马逊]] 文末 03-26 那一行），二是「你买的拼多多这个股票跟拼多多这个公司到底？到到底能不能被承认的问题」。那时他已经把 VIE 的链条讲了一遍：开曼或英属维京群岛的公司投资一家香港公司，香港公司再和大陆公司签知识产权、服务这类协议，间接控制大陆公司，「这中间链条非常长」；也已经举了马云「耍过流氓」的例子，并说「今天所有的所有的中概股都是这么一个结构」。他拿当时的新闻作引子：「最近Manus这个新闻」，两位创始人去「商务部吧，还是发改委？」汇报，之后「现在已经被边控了」（据他说，见 [[Manus]]）。由此他给新创业者一条建议：想在中国创业、拿美元基金、海外上市，一开始就得解决海外身份，「然后整个团队一开始第一行代码就不要放在中国写了」；已经在里面的存量公司，则会让大家担心。落到拼多多：「扣除账上现金实际市盈率好像说是十倍左右吧」（他自己说具体数字记不清了），生意好、赚的是净现金流、「开始慢慢回购啊」，但「我唯一我唯一核心担心的。就是这个吧」。Temu 他也提了一句：小包裹免税「这个事情好像现在也开始严格执行起来了」，以后可能要去海外做本地仓、正常报关，低价优势会被抹平一些；可这些不确定性和 VIE 比，「那些都是小小巫见大巫了」。那时还没有讲到美国的行政令、两头堵，也没有讲巴菲特、芒格、李录（这些是 05-24 才讲的）。〔背景〕他说话前一天，2026-03-25，路透社转述金融时报：Manus 两位创始人肖弘、季逸超当月被叫到北京和国家发改委开会，会后被告知因监管审查不能离境，监管在查 [[Meta]] 收购 Manus 是否违反投资规定（路透社）。同一天拼多多公布 2025 年四季度业绩，季度收入 1239 亿元、同比增长 12%，年底现金、现金等价物和短期投资合计 4223 亿元（拼多多公告）。小包裹免税：美国 2025 年 5 月 2 日起取消了中国和香港商品 800 美元以下的免税（Supply Chain Brain）；欧盟 2026 年 2 月通过，自 7 月 1 日起对 150 欧元以下的小包裹征收每类商品 3 欧元的关税（KPMG）。〔核对〕扣现金约 10 倍：一家数据网站显示 3 月 9 日拼多多市值约 1450 亿美元、市盈率约 10.2 倍（Lightyear，仅作参考），这是没扣现金的；扣掉年底约 604 亿美元的现金和短期投资，图谱粗算约 6 倍，比他说的更低。「开始慢慢回购」：3 月 25 日的业绩公告里没有回购计划，这一轮没有查到它当时在回购。Manus：报道说的是收购审查，没有提到 VIE；他说的「商务部吧，还是发改委」，报道写的是发改委。他说的免税门槛「850美金」，美国的门槛是 800 美元。

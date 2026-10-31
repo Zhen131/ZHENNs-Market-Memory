@@ -14,6 +14,9 @@ sources:
   - "Retail Insider（Bruce Winder），2025-09，Costco Wholesale Corp 4th Q Fiscal 2025 Earnings Review，https://retail-insider.com/retail-insider/2025/09/costco-wholesale-corp-4th-q-fiscal-2025-earnings-review-commentary-bruce-winder"
   - "Fox 10 Phoenix，2024-07-10，Costco raising membership fees for 1st time since 2017，https://www.fox10phoenix.com/news/costco-raises-membership-fees-1st-time-since-2017"
   - "Canadian Grocer，2025-09，Costco marks 30 years of Kirkland Signature，https://canadiangrocer.com/costco-marks-30-years-kirkland-signature"
+  - "Costco，2026-03-05，Q2 FY2026 业绩电话会（会员续费率），转引自 Webull，https://www.webull.com/news/14486626702861312"
+  - "Motley Fool，2026-03-11，Is Costco Stock Going to $1,500?，https://www.fool.com/investing/2026/03/11/is-costco-stock-going-to-1500/"
+  - "脑总 2026-03-26 零售业的商业模式（未核实）"
   - "脑总 2026-04-11 沙漠之花也能实现超级复利的商业模式（未核实）"
   - "脑总 2026-05-10 直播（未核实）"
 tags:
@@ -21,7 +24,7 @@ tags:
   - entity/company
   - status/draft
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 # Costco
@@ -34,8 +37,18 @@ Costco 是美国的会员制仓储超市，中文常叫开市客或好市多，�
 - 同一财年会员费约 53 亿美元，全部收入约 2752 亿美元（10-K）；营业利润约 103.8 亿美元（Retail Insider）。会员费只占收入的 2% 左右，却差不多相当于营业利润的一半。
 - 美国普通会员年费 2024 年 9 月 1 日起从 60 美元涨到 65 美元，高级会员从 120 美元涨到 130 美元，是 2017 年以来第一次涨价（Fox 10 Phoenix，2024-07-10）。
 - 自有品牌 Kirkland Signature（柯克兰）到 2025 年约占全部销售额的三分之一（Canadian Grocer，2025-09）。
+- 核心仓储店每家在售的 SKU 不到 4000 个，远少于其他综合零售商；一家店平均约 14.7 万平方英尺（10-K）。
+- 2026 财年第二季度末（2026 年 2 月中），美国和加拿大的续费率 92.1%，全球 89.7%（2026-03-05 业绩电话会）。2026 年 3 月股价过 1000 美元，市盈率约 54 倍（Motley Fool，2026-03-11）。
 
 ## 脑总怎么提到它
+
+2026-03-26 那一期专讲零售业，他把 Costco 当成头号例子，从几个角度拆了一遍（数字都据他说，未核实）：
+
+- 估值：开场说它「除了贵没毛病」，约 50 倍市盈率。
+- 商业模式：商品基本不赚钱，利润来自会员费，「它回归到了这个零售业的本质里面去了」，即替顾客买东西；据他说续费率 91%，会员费约是销售额的 2%，见 [[收得比给客户创造的少，才滚得起雪球]]。
+- 选品：只有 4000 个 SKU、每类两三款，沃尔玛有十万个；单品量大换来对上游的议价权，又替顾客省掉选择焦虑，坪效「是沃尔玛的两倍」，见 [[替顾客挑货的零售商，靠少 SKU 拿到议价权和坪效]]。
+- 扩张：在北美「他都可以选择一个偏僻的地方自己购地啊」，基本自建，扩张慢但扎实；早期盈利波动挺大，规模效应出来后才稳定，见 [[线下连锁是地主命还是租客命，决定能不能长牛]]。
+- 芒格和巴菲特：他说巴菲特一直没看明白零售，「相当于逼着他买了」Costco 的是芒格，并由此讲到巴菲特错过沃尔玛，见 [[渠道和品牌轮流强势：渠道卷投品牌，品牌卷投渠道]]。
 
 2026 年 4 月 11 日（日子是推断的）的一期专题直播里，他把 Costco 当成讲商业模式的头一个例子，并说这个案例讲过很多遍：
 
