@@ -9,17 +9,19 @@ speaker: "[[脑总]]"
 said_on: 2026-06-10
 said_in:
   - "2026-06-10 逃顶与做空、AI落地瓶颈、泡泡玛特、加拿大银行股"
-about: ["[[Serenity]]", "[[新事物爆发时，找卡在约束条件上的公司]]", "[[AI 最大的影响是让计算机模拟一切科研]]", "[[生物科技杀了多年估值，是 AI 落地的相对底部]]", "[[爆发股的四个条件]]"]
+  - "2026-07-05 SpaceX新股解禁与估值逻辑、科技股的渗透率与估值、投资自学路径（价值与趋势）、反身性与庞氏融资、支付赛道混战、生物科技民主化"
+about: ["[[Serenity]]", "[[新事物爆发时，找卡在约束条件上的公司]]", "[[AI 最大的影响是让计算机模拟一切科研]]", "[[生物科技杀了多年估值，是 AI 落地的相对底部]]", "[[爆发股的四个条件]]", "[[药明康德]]"]
 fact_check: unchecked
 source_status: sourced
 sources:
   - "Google DeepMind，2024-10-09，Demis Hassabis & John Jumper awarded Nobel Prize in Chemistry，https://deepmind.google/discover/blog/demis-hassabis-john-jumper-awarded-nobel-prize-in-chemistry/"
   - "Fierce Biotech，2026-01，Lilly, Nvidia tag on partnership with new AI co-innovation lab, $1B investment，https://www.fiercebiotech.com/biotech/lilly-nvidia-tag-partnership-new-ai-co-innovation-lab-1b-investment"
   - "Pharmaphorum，2026-01，NVIDIA announces Lilly, Thermo Fisher collaborations at JPM，https://pharmaphorum.com/news/nvidia-announces-lilly-thermo-fisher-collaborations-jpm"
+  - "财联社，2026-03，药明康德 2025 年年报（营业收入约 454.56 亿元、持续经营业务在手订单 580 亿元），https://www.cls.cn/detail/2321935"
   - "路透（Investing.com 转载），2026-01-20，Google-backed Isomorphic Labs delays clinical trial timeline，https://www.investing.com/news/stock-market-news/googlebacked-ai-drug-discovery-startup-isomorphic-labs-delays-clinical-trial-timeline-4456134"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 > 刚开始思考那实验会不会是一个瓶颈环节呢？
@@ -64,6 +66,12 @@ updated: 2026-10-31
 
 它怕的有三种情况。一是第一件事来得慢：AI 进入医药比想象的慢，研发并没有变快，瓶颈也就无从谈起；所以他说要观察 AI 什么时候真正进入这些行业。二是第二件事被打破：模拟实验的理论突破了，实验不再卡脖子，这是他自己说的 AI 下一阶段。三是租金没有落到上市公司身上：卡位环节的产能可以扩、竞争者可以进来，或者受益的是没上市的公司。他没有点名公司，也没有给时间，这张卡讲的是去哪里找，不是买哪一家。
 
+第二种情况，25 天后的 2026-07-05 他自己讲成了一个具体的风险：如果 AI 机器人能把实验这一环攻下来，眼下吃着瓶颈租金的中国 CRO，订单会转去自动化实验室。也就是说，同一个瓶颈，卡着的时候 CRO 收租，被机器人打通以后 CRO 反而是受害者。他说这件事「现在还很早期，非常早期」（见文末“后来又讲过”）。
+
 〔核对〕转写里有两处已问 Zhen，正文照转写抄：一是「中国的CTO公司是整个医药工业生产力突飞猛进的瓶颈环节」里的 CTO，是 CRO、CXO 还是别的，拿不准；二是「瓶颈点就是白毛股神说的提速点」里的「提速点」，是他原话还是语音识别的错字，拿不准。CRO 指替药企做临床试验和研发外包的公司。他说科学仪器很多是欧洲公司、这一块估值还很低，这次没有核对。
 
 **一句话记住**：AI 能把药算出来，算不出实验；脑总认为，研发一提速，卡在实验、仪器、试剂和 CRO 上的公司就可能收瓶颈租金，研究这里比研究算力链有增量。
+
+## 后来又讲过
+
+- 2026-07-05 SpaceX新股解禁与估值逻辑、科技股的渗透率与估值、投资自学路径（价值与趋势）、反身性与庞氏融资、支付赛道混战、生物科技民主化（比上面那次晚 25 天）：「可能最后情况就会是会卡在。卡在实验这个步骤上面。」「目前来说卡住的一个重要受益者是中国的cro行业」「那意味着中国的cro订单。中国的很多cro的订单的，目前这个量会大幅下降」。这次是有人问：问了几家 AI，未来五到十年生物科技哪条路线最可能爆发，GPT 和 Gemini 最看好蛋白质预测这类卖水人，Claude 说基因编辑潜力最大、不看好 mRNA，想听他的看法。他说自己目前的研究来看，爆发的机会在实验这一块：AI 把分子预测、药物发现变快以后，最后会卡在实验上；而实验又恰好是 AI 能发挥想象力的地方，比如让机器人来完成实验过程，「但现在还很还很早期了」。接着他给了一个「小的一个判断」：现在验证这一步卡住了，验证的订单大量发给了中国的 CRO，「他们现在活的很滋润」；但如果 AI 机器人攻克了实验，这些订单会转移到自动化实验室，「自动化的实验室可能会抢他们的蛋糕」。他当场搜了一下中国 CRO 的订单规模，说只是整个行业可能都不止那个数，「那光药明光药明就400多亿」（单位没说，未核实）；又说这是他之前讲过的中国特色行业，创新药各项成本低得多（见 [[港股创新药是能钓大鱼的鱼塘]]）。同一段他还讲了生物极客和用在人身上的医疗，见 [[生物极客搞技术民主化，可能长出生物界的拓竹]]、[[用在人身上的医疗难像计算机那样爆发]]。**这次补的是反面**：06-10 说的是卡在瓶颈上的人收租，这次把 CRO 点成了中国的受益者，同时说出它的威胁，就是瓶颈被自动化实验室打通（并进了上面“这个判断靠什么、怕什么”一节）。方向仍是同一张卡：实验是 AI 制药的瓶颈。〔核对〕[[药明康德]] 2026 年 3 月发布的 2025 年年报，营业收入约 454.56 亿元人民币，持续经营业务在手订单 580 亿元（财联社）；他说的「400多亿」若指药明康德的人民币收入，量级对得上。他前面说的「一年1000多亿吧。才200亿美元」是搜索结果里的哪个口径，没有核对。
