@@ -9,18 +9,20 @@ speaker: "[[脑总]]"
 said_on: 2026-02-15
 said_in:
   - "2026-02-15 美股港股A股都有哪些护城河最深的长牛股（二）"
-about: ["[[半导体]]", "[[英伟达]]", "[[博通]]", "[[中芯没吃到 AI 蛋糕，台积电一跌它就暴跌]]"]
+  - "2026-07-02 Circle为什么还是币圈周期股、投资与投机的差异、AI里长周期暴露的商业模式"
+about: ["[[半导体]]", "[[英伟达]]", "[[博通]]", "[[中芯没吃到 AI 蛋糕，台积电一跌它就暴跌]]", "[[比特大陆]]", "[[EDA 是长周期的 AI 暴露，还没被爆炒]]"]
 fact_check: consistent
 source_status: sourced
 sources:
   - "脑总 2026-02-15 直播（未核实）"
+  - "脑总 2026-07-02 Circle为什么还是币圈周期股、投资与投机的差异、AI里长周期暴露的商业模式（未核实）"
   - "I-Connect007（转载美国半导体行业协会 SIA 新闻稿），2026-02-12，Global Annual Semiconductor Sales Increase 25.6% to $791.7 Billion in 2025，https://iconnect007.com/article/148780/global-annual-semiconductor-sales-increase-256-to-7917-billion-in-2025/148777/pcb"
   - "Futurum Group，2025-12-15，Broadcom Q4 FY 2025 Earnings: AI And Software Drive Beat，https://futurumgroup.com/insights/broadcom-q4-fy-2025-earnings-ai-and-software-drive-beat/"
   - "虎嗅（转载如是金融研究院），2020-02-27，春市A股半导体涨势强劲，行业到底怎么样？，https://www.huxiu.com/article/341689.html"
   - "Data Center Dynamics，2025-05，Wolfspeed prepares bankruptcy filing for coming weeks（报道转引《华尔街日报》），https://www.datacenterdynamics.com/en/news/wolfspeed-prepares-bankruptcy-filing-for-coming-weeks-report/"
 tags: [type/view, view/framework, status/active]
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 > 就是这每一轮半导体，它的它的这个驱动力是不一样的嘛，对吧？现在情况就不是传统消费电子驱动了。现在就变成AI的芯片驱动了
@@ -68,3 +70,7 @@ updated: 2026-10-30
 它怕的有两样。一是 AI 投资本身降温：驱动力一旦换掉，按他的说法，这一轮跟着 AI 涨起来的公司也会和下一轮没关系。二是下一轮落在哪里看错了。他对 ASIC 只说了「可能」，并且同一期答内存问题时说自己对「这种科技行业的周期，我研究不深」。所以下一轮在 ASIC 这一半，是他的猜想，不是他有把握的判断；有把握的是前一半：不在这轮驱动力的链上，就分不到这轮的钱。
 
 **一句话记住**：看半导体股，先问这一轮是谁在带，再问这家公司在不在那条链上；不在链上，行业再热也和它无关。
+
+## 后来又讲过
+
+- 2026-07-02 Circle为什么还是币圈周期股、投资与投机的差异、AI里长周期暴露的商业模式（比 02-15 晚四个半月）：「芯片的新的芯片的种类的物种大爆发」「是一个长长周期的一个暴露啊」。这次是有人问芯片设计软件（EDA）能不能当前锋股，他把 02-15 那个关于推理 ASIC 的猜想讲细了。GPU 是通用的；推理的话，广告推理、搜索推理、电商推理这些大场景，每一个大类里都可能有一种专门的 ASIC 芯片，而且还要一代代迭代，就像币圈的矿机芯片，从[[比特大陆]]蚂蚁矿机第一代出来到现在，已经迭代了很多轮，芯片越造越小。币圈的不一样在于算法很有限，比特币「就是那个SHA-256」，所有公司都围着这一种算法优化，需求很小；AI 一旦大量用 ASIC 做推理，用量多、种类非常多，「对于设计的需求是会加大的」，「比可能比消费电子时代的要大很多」：手机里的芯片大多挺像，很多都用高通骁龙，一代代迭代而已。他说现在做这些芯片的是大厂，以后还可能有很多 IC 创业公司去做更小众需求的芯片，「这是一个长周期的事情」。他拿这一段说明 EDA 为什么是长周期的 AI 暴露（见 [[EDA 是长周期的 AI 暴露，还没被爆炒]]）。这次补的是：02-15 只说下一轮可能在推理 ASIC，这次说了为什么种类会多、会像矿机那样迭代，以及受益的不只是做芯片的公司，还有给它们做设计工具的上游。拿矿机比 AI 芯片，他 2026-03-01 就讲过，见 [[AI 和币圈同构，大模型的收入才是真现金流]]。

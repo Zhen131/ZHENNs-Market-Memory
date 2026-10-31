@@ -3,7 +3,7 @@ type: entity
 entity_kind: company
 status: draft
 title: "SpaceX"
-summary: "马斯克 2002 年创办的美国航天公司，第一个让轨道级火箭第一级回收并复用；2026 年 2 月并入 xAI，6 月在纳斯达克上市，代码 SPCX。"
+summary: "马斯克 2002 年创办的美国航天公司，第一个让轨道级火箭第一级回收并复用；2026 年 2 月把 xAI 并了进来，6 月在纳斯达克上市，代码 SPCX。"
 aliases: ["太空探索技术公司", "Space Exploration Technologies", "SPCX"]
 countries:
   - "[[美国]]"
