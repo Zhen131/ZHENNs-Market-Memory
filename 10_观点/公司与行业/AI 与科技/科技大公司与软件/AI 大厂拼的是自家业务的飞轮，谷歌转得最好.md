@@ -9,16 +9,18 @@ speaker: "[[脑总]]"
 said_on: 2026-05-07
 said_in:
   - "2026-05-07 直播"
+  - "2026-05-31 投资与移民中的逆向思维"
 about: ["[[谷歌]]", "[[微软]]", "[[OpenAI]]", "[[Anthropic]]", "[[网络效应]]", "[[谷歌和苹果是互联网时代最硬的垄断]]"]
 fact_check: consistent
 source_status: sourced
 sources:
   - "脑总 2026-05-07 直播（未核实）"
+  - "脑总 2026-05-31 投资与移民中的逆向思维（未核实）"
   - "YourStory，2026-04，Alphabet plans to ramp up investment after strong quarter driven by AI demand，https://yourstory.com/2026/04/alphabet-investment-strong-quarter-cloud-surges-on-ai-demand"
   - "AI Business，2026-01，Gemini Can Scour Apps to Deliver 'Personal Intelligence'，https://aibusiness.com/agentic-ai/gemini-scours-apps-personal-intelligence"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 > 谷歌目前来说的话是在 AI这一块，它是整个飞轮效应最好的公司。AI 这一块大厂做投入，能够做出差异化的核心是什么呢？核心是 AI业务能够跟你自身的业务协同，形成良好的增长飞轮。
@@ -69,3 +71,7 @@ updated: 2026-10-30
 〔核对〕他说 Gemini 用了谷歌地图的数据、调取你授权的定位回答本地问题：Personal Intelligence 1 月推出时接的是 Gmail、相册、YouTube 和搜索，地图是否在他说话时已经接入，这次没有查到他说话前的可靠来源。
 
 **一句话记住**：看大厂的 AI，别只看它砸了多少钱，要看 AI 和它原来的生意能不能互相喂养；脑总看到转得最好的是谷歌。
+
+## 后来又讲过
+
+- 2026-05-31 投资与移民中的逆向思维（比主体那次晚三周多）：「飞轮目前来说转的最好的是谷歌」「我觉得微软在这里面属于。次于谷歌一档」。那次是答微软的自由现金流怎么估，讲到大厂自建 AI 数据中心风险最低时，他顺带排了名次：谷歌第一，「其实大家各方面都已经看到了」；微软第二，理由是它在跟工作有关的地方布得全，办公有 Office，开发者有 GitHub，社交关系的数据库有领英，还有 Windows，「跟工作相关的东西。的布局是比较全面的」。这次补了微软排第几、凭什么：05-07 他说微软的飞轮还没转起来、「表现一般般」；11 天前的 05-20 他说微软近乎 T0 级别、仅次于谷歌（见 [[微软这轮下跌是正常回档，现在可以买]] 文末 05-20 那一行）；这次和 05-20 的排法一致，并把微软的飞轮落到了工作场景上。

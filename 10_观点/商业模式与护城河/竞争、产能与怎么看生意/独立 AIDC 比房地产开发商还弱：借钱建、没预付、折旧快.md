@@ -9,16 +9,20 @@ speaker: "[[脑总]]"
 said_on: 2026-05-16
 said_in:
   - "2026-05-16 直播"
-about: ["[[CoreWeave]]", "[[Meta]]", "[[字节跳动]]", "[[英伟达]]", "[[Cerebras]]", "[[商业模式归根到底是势能]]", "[[中国城市化基建与 AI 基建]]"]
-fact_check: consistent
+  - "2026-05-31 投资与移民中的逆向思维"
+about: ["[[CoreWeave]]", "[[Meta]]", "[[字节跳动]]", "[[英伟达]]", "[[Cerebras]]", "[[商业模式归根到底是势能]]", "[[中国城市化基建与 AI 基建]]", "[[xAI]]", "[[甲骨文]]", "[[Anthropic]]"]
+fact_check: mixed
 source_status: sourced
 sources:
   - "Converge Digest，2026-05-07，CoreWeave Doubles Revenue to $2.1B as AI Cloud Backlog Nears $100B，https://convergedigest.com/coreweave-doubles-revenue-to-2-1b-as-ai-cloud-backlog-nears-100b/"
   - "Built In，2026-05，Cerebras Raises Billions in 2026's Largest U.S. IPO，https://builtin.com/articles/cerebras-launches-ipo-20260515"
   - "Fortune，2026-04-29，Meta 上调 2026 年资本开支指引，https://fortune.com/2026/04/29/meta-zuckerberg-145-billion-ai-spending-roi/"
+  - "WION，2026-05-08，Musk’s xAI strikes shocking deal with rival Anthropic，https://www.wionews.com/world/elon-musk-xai-anthropic-ai-compute-deal-1778229295906"
+  - "dev.ua（转述 TechCrunch），2026-05-21，Anthropic will pay xAI $1.25 billion per month for computing power，https://dev.ua/en/news/anthropic-will-pay-xai-125-billion-per-month-for-computing-power"
+  - "Twitter, Inc.，2019-02，Form 10-K for fiscal year 2018，https://www.sec.gov/Archives/edgar/data/1418091/000156459019003523/twtr-10k_20181231.htm"
 tags: [type/view, view/framework, status/active]
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 > 它的商业模式我仔细想了想，比房地产开发商还要弱。
@@ -71,3 +75,7 @@ updated: 2026-10-30
 〔核对〕他说 Cerebras 是「最近上市的那家公司」：对得上，Cerebras 2026-05-14 在纳斯达克上市，发行价 185 美元、募资约 55.5 亿美元，是当年美国最大的 IPO，离他说话只有两天（Built In）。矿机「两三年就要换一代」是他自己的经验，图谱没有查。
 
 **一句话记住**：判断一门基建生意，先问三件事：钱是客户先给，还是自己借？手里的东西会不会贬值？建多了，有没有自家业务兜底？独立 AIDC 三问都答得不好。
+
+## 后来又讲过
+
+- 2026-05-31 投资与移民中的逆向思维（比主体那次晚两周）：「有些公司的话的aidc只能靠出租，对吧？」「你就看你就看这个马一龙的xai了对吧？」那次是答微软的自由现金流怎么估。他先说大厂自建 AIDC「是比那些这个neocloud那些公司要相对来说安全的多啊」，比[[甲骨文]]也安全不少；neocloud 指的是 [[CoreWeave]] 这类专门出租 AI 算力的新云厂商。原因是有些公司的 AIDC 跟自家业务形不成飞轮，「搞好了，可能就得租出去了」。例子是马斯克（「马一龙」是网友对他的叫法）的 [[xAI]]：特斯拉 FSD 训练要的算力和大模型比「完全不是个数量级的」，他自己用不了这么多，最后把 xAI 的算力拿给 [[Anthropic]] 用；推特本身也不是强大的现金奶牛，它的价值主要在「政治杠杆」，帮川普赢了大选。「你就知道投入这个事情，对于这个级别的科技公司」「来说他自己建的话都是有风险的，那更不用说其他家了啊」。这次补了一个反例：05-16 他说只有大厂自建、自家业务消化得掉才说得通，这次拿 xAI 说明，就算是马斯克这个级别的公司，自家业务消化不了，建出来的算力也只能出租；他还排了个序，互联网大厂最安全，甲骨文次之，neocloud 最危险。〔背景〕2026-05-06 前后，xAI 宣布把孟菲斯 Colossus 1 数据中心的全部算力给 Anthropic 用（WION）；据 05-21 的报道，SpaceX 的上市文件写明 Anthropic 每月付 12.5 亿美元，约 300 兆瓦，租到 2029 年 5 月（dev.ua 转述 TechCrunch）。〔核对〕他说推特私有化以前「一直是亏损的啊，经常是亏损的」：推特 2018 年净利润约 12.1 亿美元，是它第一次全年盈利（推特 2018 年年报），说经常亏损对得上，说一直亏损不对。

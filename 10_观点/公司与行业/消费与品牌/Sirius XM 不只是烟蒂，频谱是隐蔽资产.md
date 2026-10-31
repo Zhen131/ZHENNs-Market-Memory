@@ -10,6 +10,7 @@ said_on: 2026-04-22
 said_in:
   - "2026-04-22 直播"
   - "2026-04-26 直播"
+  - "2026-05-31 投资与移民中的逆向思维"
 about: ["[[Sirius XM]]", "[[烟蒂股投资]]", "[[亚马逊]]", "[[Globalstar]]", "[[SpaceX]]", "[[EchoStar]]"]
 fact_check: mixed
 source_status: sourced
@@ -18,9 +19,10 @@ sources:
   - "Broadband Breakfast，2025-09-08，SpaceX Buying EchoStar Satellite Spectrum for $17 Billion，https://broadbandbreakfast.com/spacex-buying-echostar-satellite-spectrum-for-17-billion/"
   - "Business Wire，2026-02-27，Globalstar Announces Fourth Quarter and Full Year 2025 Results，https://www.businesswire.com/news/home/20260227717557/en"
   - "美国联邦通信委员会（FCC），日期未注明，Wireless Communications Service (WCS)（2.3 GHz 频段的划分），https://www.fcc.gov/general/wireless-communications-service-wcs"
+  - "Motley Fool，2026-05-08，Why Sirius XM Holdings Rallied in April，https://www.fool.com/investing/2026/05/08/why-sirius-xm-holdings-rallied-in-april/"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-31
 ---
 
 > 我当时觉得这是个烟蒂股，但后面仔细看，觉得它不只是一个烟蒂，而且还长得挺好的，就把它给很多朋友都分享了。
@@ -79,3 +81,4 @@ updated: 2026-10-29
 ## 后来又讲过
 
 - 2026-04-26 直播（比主体晚四天）：「这种小加速不用担心，因为它估值还有价值」。这次是讲完技术分析里的加速信号，他说指数贵、他一般不根据指数交易，转而说起「上一期公开讲过的那个 SIRI」。据他说，SIRI 这里有点加速了，但还在靠近破净的位置，「它连破净都还没有修复」，第一步是先修复破净；业绩是缓慢萎缩，「不是断崖」；卫星频谱这块隐蔽资产，市场最终可能炒到两三倍 PB。他第一次给了具体的买法：「比如在 20左右买，设好止损——一旦明显跌破这个平台，止损出去，判断它进入下一个阶段了；否则就继续持有。」还说「说不定就跟 Intel一样，从底部平台起来涨四倍」（见 [[英特尔]]）。仓位上，「做好交易计划的话，可以给到相当不错的仓位」。〔图谱的对照〕04-22 他讲烟蒂组合时说用分散代替止损（见 [[用分散代替止损]]），这次单讲 SIRI 却设了止损。两处对象不同：分散是对一篮子烟蒂，止损是对一只做了交易计划、仓位较重的票，不算改口；这是图谱的推论，他没有这样连起来说。〔核对〕他说「在 20左右买」时 SIRI 的股价，本轮没查到可靠的收盘价。
+- 2026-05-31 投资与移民中的逆向思维（比 04-26 那次晚五周）：「现在已经从四月份涨到20几，涨到30几了啊」。这次不是有人问 SIRI，是他答 KTOS 时讲制造业该用市净率估值，说到破净就更便宜，「典型的典型的破净的话，我就给大家之前说的就是」，当场打开 SIRI 看了一眼（见 [[血汗工厂的估值就在净资产附近]]）。他说它「虽然现在还在破净水平，对吧？还在破净水平」，「但是比起我当时给大家说的时候又涨上去了，对吧？」，他记得当时是 4 月份讲的；据他说股价从 4 月份的二十几涨到了三十几（未核实），可「这个还没有修复，这个还没有修复」，也就是还没回到净资产。和 04-26 那次说的「它连破净都还没有修复」是同一件事，方向一致，这次补的是一个月以后的位置：涨了一段，破净还没修复完。频谱那一层这次没有再讲。〔核对〕Motley Fool 转述标普的数据，SIRI 4 月涨了 16.7%，主要是 4 月 22 日宣布和 YouTube 合作，之后 Rosenblatt 的分析师把目标价从 24 美元提到 46 美元，理由里提到它的卫星直连设备频谱可能带来重估。5 月底的收盘价和当时的市净率，本轮没有查到可靠来源，「涨到30几」「还在破净水平」未核实。
