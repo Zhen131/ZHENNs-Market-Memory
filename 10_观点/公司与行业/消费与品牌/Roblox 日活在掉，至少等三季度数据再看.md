@@ -9,7 +9,8 @@ speaker: "[[脑总]]"
 said_on: 2026-05-02
 said_in:
   - "2026-05-02 直播"
-about: ["[[Roblox]]", "[[业绩还在下滑就不碰，除非是近乎垄断的公司]]", "[[基本面研究盯的是决定财报的前瞻数据]]"]
+  - "2026-06-10 逃顶与做空、AI落地瓶颈、泡泡玛特、加拿大银行股"
+about: ["[[Roblox]]", "[[业绩还在下滑就不碰，除非是近乎垄断的公司]]", "[[基本面研究盯的是决定财报的前瞻数据]]", "[[泡泡玛特对标茅台和奢侈品，不是迪士尼]]"]
 fact_check: consistent
 source_status: sourced
 sources:
@@ -18,9 +19,11 @@ sources:
   - "Nasdaq（转载 Motley Fool），2026，Can Roblox Recover After Dropping Over 36% This Year?（2025 年三季度 1.52 亿、四季度 1.44 亿日活），https://nasdaq.com/articles/can-roblox-recover-after-dropping-over-36-year"
   - "MarketBeat，2026-05-02，Roblox Q1 earnings call highlights，https://www.marketbeat.com/instant-alerts/roblox-q1-earnings-call-highlights-2026-05-02/"
   - "SQ Magazine（数据网站，仅作参考），2026，Roblox Statistics（公司预计 2026 年二季度日活环比再降），https://sqmagazine.co.uk/roblox-statistics/"
+  - "MMOHuts，2026-02，Roblox reports big revenue and bookings growth in Q4 and 2025, but losses also rose（2025 年收入 49 亿美元、bookings 68 亿美元、净亏损 10.7 亿美元），https://mmohuts.com/?p=340479"
+  - "Statista（数据网站，仅作参考），Roblox developer payout（2025 年 DevEx 付给开发者约 15 亿美元），https://statista.com/statistics/1376672/roblox-developer-payout"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 > Roblox已经连续两个季度日活在下降，管理层的指引是二季度可能还会继续下滑，预计三季度才会回升。那我的建议是，至少等到三季度的数据出来再看
@@ -60,3 +63,7 @@ updated: 2026-10-30
 〔核对〕「连续两个季度日活在下降」对得上：2025 年三季度约 1.52 亿、四季度约 1.44 亿、2026 年一季度 1.32 亿。「二季度可能还会继续下滑」：一季报后的报道说公司预计二季度日活环比再降（MarketBeat 的财报电话会摘要；SQ Magazine 也这样写，仅作参考），和他转述的方向一致，公司原文没有直接查；「预计三季度才会回升」这次没有查到出处。
 
 **一句话记住**：互联网公司的命根子是日活。日活还在往下掉的时候，哪怕你相信它掉得有原因、能回来，也先等数据回正再进。
+
+## 后来又讲过
+
+- 2026-06-10 逃顶与做空、AI落地瓶颈、泡泡玛特、加拿大银行股：「否则现在的话就是它的飞轮转的其实不顺的。」39 天后答泡泡玛特那一题，他拿 Roblox 作对照，这次不看日活，看的是成本结构。Roblox 是软件，复制成本为零，生意模式本来不错；但据他说它分给创作者的比例「将近30啊」，玩家在里面充值，苹果和安卓还要抽 30%，「营收的一半以上交给了这这两个了」，最后是亏损（数字未核实）。泡泡玛特这两块都低得多，所以它的飞轮已经转顺（见 [[泡泡玛特对标茅台和奢侈品，不是迪士尼]]）。渠道那一块他说「好像不太容易越过」，所以 Roblox 要变得更好，观察的核心是内容这一块：AI 能不能帮忙，让给开发者的分成占总营收的比例随着规模不断往下走，「那这这个公司的话，飞轮也会转」。有些国家在打压它，他说长远看「这个打压起不到作用」。他还说渠道抽成是「你要被收34%」，这个数和前面说的 30% 对不上，已问 Zhen。〔核对〕2025 年 Roblox 收入 49 亿美元、bookings 68 亿美元，净亏损 10.7 亿美元（MMOHuts），亏损对得上；2025 年通过 DevEx 付给开发者约 15 亿美元（Statista，仅作参考），约是 bookings 的 22%，和他说的「百分之二三十」在一个范围里，说「将近30」略高。应用商店抽成占多少，这次没有查。

@@ -4,7 +4,7 @@ entity_kind: person
 status: draft
 title: "Serenity"
 summary: "X 上的匿名美股博主，专挑 AI 硬件供应链里供给卡脖子的小公司，2026 年晒出极高收益后在中文网络爆红；脑总不跟他的票，只学他找弹性的思路。"
-aliases: ["aleabitoreddit", "AleaBito", "白帽股神"]
+aliases: ["aleabitoreddit", "AleaBito", "白帽股神", "白毛股神"]
 countries: []
 source_status: partially-sourced
 sources:
