@@ -19,7 +19,7 @@ tags:
   - entity/company
   - status/draft
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-11-01
 ---
 
 # PayPal
@@ -34,7 +34,7 @@ PayPal 是互联网时代最早做起来的在线支付公司：用户绑一张�
 ## 脑总怎么提到它
 
 - 2026-02-19：讲支付网络时他说 PayPal 市盈率很低，但壁垒不够稳固：到了互联网支付这一层，「他面临的竞争对手就多了」，Stripe、Block、Google Pay、Apple Pay 都在挤压它，「他现在真的被打的节节败退」；他说不能再以互联网公司的估值来看它，要等业绩和市场份额稳住再重新评估，见 [[支付网络靠双边效应，互联网只能当它的分销商]]。
-- 2026-04-26：有人问 [[Block]] 和 [[Fiserv]] 怎么比，他说 Block 的 Cash App 类似 PayPal，两家的面向个人的支付都很艰难，被 Apple Pay、Google Pay 抢了份额，他自己「PayPal也不怎么用了」。据他说 PayPal 从 300 多跌到底部 70 左右，还没止跌（未核实）。见 [[Fiserv 是金融业的 AWS，比 Block 安全]]。
+- 2026-04-26：有人问 [[Block]] 和 [[Fiserv]] 怎么比，他说 Block 的 Cash App 类似 PayPal，两家的面向个人的支付都很艰难，被 Apple Pay、Google Pay 抢了份额，他说自己现在大部分用 Google Pay、老婆大部分用 Apple Pay，两人都不太用 PayPal 了（转写把 PayPal 认成「paper」「配票」）。据他说 PayPal 从 300 多跌到底部 70 左右，还没止跌（未核实）。见 [[Fiserv 是金融业的 AWS，比 Block 安全]]。
 
 ## 各方怎么看它
 
