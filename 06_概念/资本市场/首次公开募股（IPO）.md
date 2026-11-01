@@ -12,11 +12,14 @@ sources:
   - "Investor.gov, Initial Public Offering (IPO): https://www.investor.gov/introduction-investing/investing-basics/glossary/initial-public-offering-ipo"
   - "Financial Times, 2026-07-02, RedNote prepares Hong Kong IPO: https://www.ft.com/content/bed4b1c8-6345-4a89-b356-4479783a9157"
   - "The Wall Street Journal, 2026-06-17, Xiaohongshu Hong Kong IPO report: https://www.wsj.com/tech/chinas-instagram-readies-hong-kong-ipo-that-could-see-it-valued-at-over-70-billion-879222fa"
+  - "Corporate Finance Institute，2026-11-01 查阅，Greenshoe / Overallotment，https://corporatefinanceinstitute.com/resources/equities/overallotment-greenshoe-option-ipo"
+  - "The Star（转路透），2026-06-15，SpaceX IPO haul rises to $85.7 billion after underwriters exercise greenshoe，https://www.thestar.com.my/tech/tech-news/2026/06/15/spacex-ipo-raises-857-billion-as-underwriters-exercise-039greenshoe-option"
+  - "脑总 2026-07-12 Vibe Coding中的创业机会；阅读SpaceX招股书并进行估值（未核实）"
 tags:
   - type/concept
   - status/draft
 created: 2026-07-07
-updated: 2026-10-07
+updated: 2026-11-01
 ---
 
 # 首次公开募股（IPO）
@@ -49,6 +52,16 @@ updated: 2026-10-07
 对 [[非上市公司股权]] 的持有人来说，IPO 提供的是潜在流动性，不保证立即变现。锁定期、行权成本、市场价格和交易限制仍会影响最终收益。对公司来说，市场窗口关闭、高利率压低估值或监管要求上升，都可能让发行推迟、缩小甚至取消。
 
 发行规模、公司新股与老股出售的比例、公众流通股占比，也会影响公司实际拿到的资金、原股东退出安排和上市后的流动性与价格发现。“成功上市”不代表所有原有股东都能立即退出，也不代表市场已经形成充分交易。
+
+## 承销商为什么上市以后还在唱多
+
+美国的 IPO 通常给承销商一项超额配售权，俗称“绿鞋”：发行时承销商可以比原定多卖最多 15% 的股票，这项权利要在发行后 30 天内用掉。上市后股价高于发行价，承销商不会去市场上高价买回，而是行使这项权利，按发行价向公司增购这部分股票；股价跌破发行价，就在市场上低价买回来补上，买盘同时托住了股价（Corporate Finance Institute）。所以读招股书算股本时，要按这部分全部行使以后的数字算。
+
+[[脑总]] 2026-07-12 带读 [[SpaceX]] 招股书时讲到这一点，并拿它解释承销商的动机：「这就是这就是为什么这个承销商很多时候是有有动力。在IPO完成很一段时间后，依然依然还在这个拼命吹牛逼的原因啊」。他的说法是，股价高于 IPO 发行价时，承销商行使这项选择权「还能多赚很多钱」。这是他的解释，读招股书的其他几步见 [[招股书读法]]。
+
+〔背景〕SpaceX 这次以每股 135 美元发行约 5.56 亿股、募资 750 亿美元；纳斯达克首日涨 19%，6 月 15 日公司宣布承销商已全额行使超额配售权，增购约 8330 万股（约为基础发行量的 15%），募资总额升到约 857 亿美元，牵头承销商是[[高盛]]和摩根士丹利（The Star 转路透，2026-06-15）。
+
+〔核对〕按上面查到的规则，这项权利一般只有 30 天，SpaceX 这次上市第二个交易日就行使完了；所以承销商过了 30 天还卖力唱多，单靠超额配售权解释不了。这是图谱的推论，他没有这样说。
 
 ## 小红书目前能确认到哪一步
 
