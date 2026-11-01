@@ -45,7 +45,7 @@ sources:
   - "California Insider，2026-06-22，SpaceX Shares Down Nearly 20 Percent From Post-IPO High，https://californiainsider.com/california-news/business/company-news/spacex-shares-down-nearly-20-percent-from-post-ipo-high-6051628"
   - "同花顺财经（仅作参考），2026-07-11，SpaceX7月10日成交额为69.16亿美元（收盘 145.3 美元、跌 4.51%、7 月以来跌 14.96%），https://stock.10jqka.com.cn/20260711/c678110320.shtml"
   - "脑总 2026-03-12 讲讲技术分析（未核实）"
-  - "脑总 2026-04-01 直播（未核实）"
+  - "脑总 2026-04-02 直播（未核实）"
   - "脑总 2026-06-10 逃顶与做空、AI落地瓶颈、泡泡玛特、加拿大银行股（未核实）"
   - "脑总 2026-07-05 SpaceX新股解禁与估值逻辑、科技股的渗透率与估值、投资自学路径（价值与趋势）、反身性与庞氏融资、支付赛道混战、生物科技民主化（未核实）"
   - "脑总 2026-07-12 Vibe Coding中的创业机会；阅读SpaceX招股书并进行估值（未核实）"
