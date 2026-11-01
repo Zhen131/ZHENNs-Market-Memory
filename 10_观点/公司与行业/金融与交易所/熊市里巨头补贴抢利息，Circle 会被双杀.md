@@ -9,6 +9,7 @@ speaker: "[[脑总]]"
 said_on: 2026-07-02
 said_in:
   - "2026-07-02 Circle为什么还是币圈周期股、投资与投机的差异、AI里长周期暴露的商业模式"
+  - "2026-08-09 新老军工、微盘股策略、马斯克、破现金科技股、当铺生意、医药先于消费、扩容战争"
 about: ["[[Circle]]", "[[稳定币]]", "[[Coinbase]]", "[[Circle 的底还会慢慢盘整，建仓要拉长]]"]
 fact_check: unchecked
 snapshot: "2026-07-02：据他说比特币约 6 万美元，他预期比特币的底还要一年；6 月 30 日 Stripe 等一百多家公司宣布推出稳定币 Open USD，Circle 当天大跌逾 17%（智通财经）；他说市场还没有特别反映双杀。"
@@ -19,6 +20,8 @@ source_status: sourced
 sources:
   - "Forrester，2026-06-30，Stripe's New Stablecoin Bet: Open USD，https://www.forrester.com/blogs/stripes-new-stablecoin-bet-open-usd/"
   - "智通财经，2026-07-06，美股异动 | 股价超跌反弹！Circle(CRCL.US)涨逾5%，https://www.zhitongcaijing.com/content/detail/1463817.html"
+  - "Circle，2026-08-05，Circle Reports Second Quarter 2026 Results，https://www.circle.com/pressroom/circle-reports-second-quarter-2026-results"
+  - "Stablecoin Insider，2026-08-05，Circle Q2 2026 results: USDC circulation（季末 733 亿美元，3 月底约 770 亿美元），https://stablecoininsider.org/circle-q2-2026-results-usdc-circulation/"
 tags: [type/view, view/prediction, status/active]
 created: 2026-11-01
 updated: 2026-11-01
@@ -73,3 +76,7 @@ updated: 2026-11-01
 复盘日期是估的：他没给时间，只说「如果接下来未来还有一年」，图谱定在 2027-07-02。到时看三样：这一年里 USDC 流通量有没有缩；Circle 的储备利息收入有没有往下；股价是否比 2026-07-02 更低、底部是否比之前更低。
 
 **一句话记住**：稳定币在熊市里只剩利息可比，谁多给一个点谁就能拉走人；脑总认为这会让 Circle 在熊市里业绩和估值一起挨打，要等币圈上升周期才翻身。
+
+## 后来又讲过
+
+- 2026-08-09 新老军工、微盘股策略、马斯克、破现金科技股、当铺生意、医药先于消费、扩容战争（比上面那次晚 38 天）：「circle的这个usdc发行量的话，后面应该是会有回撤的」「等到等到这个比特币见底之后，再来再来讨论这家公司」。这次是有人问 Circle 的财报怎么看、底部稳住了没有，他说「我觉得我觉得可能还没有」。理由是他之前预料的事开始兑现了：「circle的这个usdc的发行量第一次，第一次缩减了嘛」。他接着把双杀的账又算了一遍：USDC 发行量回撤，Circle 为了「要努力维持住市场规模嘛」，要多撒渠道，「circle的渠道费用。也会要增长啊」，于是「管理规模和这个每亿美元给circle的股东最后带来的盈利」一起往下，「会产生双杀啊」。所以他「也不急着去买」，倾向等比特币见底再谈；而且比特币见底也不够，「比特币见底山寨币不一定见底」，山寨币不见底，不代表 Circle 会开始涨（Circle 跟的是山寨币周期，见 [[Circle 是币圈周期股，跟的是山寨币周期]]）。最后他拿 Circle 和 [[Coinbase]] 比：熊市里币圈股都跟着币圈基本面走，眼下 Coinbase「还好一些」，Circle 的「弹性可能弹性大一些嘛」（三家币圈股的排法，见 [[三只币圈杠杆股：Circle 弹性最大，微策略先见底]]；更早的建仓节奏见 [[Circle 的底还会慢慢盘整，建仓要拉长]]）。这次补了两处：一是 07-02 说「你后面就能看到流通量的缩小啊」，这次他说已经看到了；二是双杀的另一半，07-02 说的是巨头补贴把利息挤薄，这次说的是 Circle 自己要多花渠道费用来保规模。〔背景〕Circle 2026-08-05 公布二季报：二季度末 USDC 流通量 733 亿美元，比上年同期多 19%；储备回报率降到 3.5%（Circle 公告）。据 Stablecoin Insider 当天的报道，3 月底 USDC 约 770 亿美元，2026 年的高点接近 800 亿美元，也就是这一季比上一季少了约 37 亿美元。「第一次缩减」是不是 Circle 上市以来第一次季度环比下降，这次没有查到确切说法。
