@@ -10,6 +10,7 @@ said_on: 2026-07-19
 said_in:
   - "2026-07-19 投资中的赔率思维、万亿千亿百亿哥、存储见顶、英特尔、莫德纳、量子计算、达芬奇"
   - "2026-09-04 AI像iPhone十年牛市、诺基亚、比特小鹿、楼市看衰与生育率、纳指定投、CRS"
+  - "2026-09-28 川习会与G2是否可能、FICO、RKLB、锂电、AI债务、国债、DeFi、Momenta"
 about: ["[[Rocket Lab]]", "[[SpaceX]]", "[[蓝色起源]]", "[[蓝箭航天]]", "[[维珍银河]]", "[[Rocket Lab 是最好的商业航天标的，但梦想定价多]]", "[[早期科技股要看赛道稀缺和企业家]]", "[[木头姐]]", "[[飞轮效应]]", "[[好股太贵，不输基本面，输在时间上]]", "[[商业航天高潮后进入不应期，中期没有催化剂]]"]
 fact_check: consistent
 source_status: sourced
@@ -19,6 +20,7 @@ sources:
   - "TechCrunch，2026-06-02，Blue Origin plans to launch New Glenn again this year after explosion，https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/"
   - "新华网，2026-07-10，新华鲜报丨长征十号乙首飞成功 我国运载火箭首次实现可控回收，https://www.news.cn/politics/20260710/1a2fac984d9a468aa9a71cdcce236eba/c.html"
   - "TechCrunch，2026-06-11，SpaceX officially prices shares at $135 in the largest IPO ever，https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/"
+  - "Rocket Lab（新闻稿），2026-04-14，Rocket Lab Completes Mynaric Acquisition, Adding Laser Optical Communications To Growing Space Systems Portfolio，https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-completes-mynaric-acquisition-adding-laser-optical"
   - "Dealroom，2026-09-02，ARK Invest buys $44M in Rocket Lab, $38M in Block while trimming AMD and PA，https://dealroom.co/news/148366-ark-invest-buys-44m-in-rocket-lab-38m-in-block-while-trimming-amd-and-pa/"
 tags: [type/view, view/judgment, status/active]
 created: 2026-11-01
@@ -80,3 +82,4 @@ updated: 2026-11-01
 ## 后来又讲过
 
 - 2026-09-04 AI像iPhone十年牛市、诺基亚、比特小鹿、楼市看衰与生育率、纳指定投、CRS（比 07-19 那次晚 47 天）：「就不用看了，都不用看了，它确定性，它的确定性都没有那么强了」「是有双重的不确定性的」「不是很好的，长线建仓的时间点啊」。这期是清前两期没答完的问题，有人问：Rocket Lab 可以买了吗？最近[[木头姐]]加仓了。他说「我自己的我自己的话没有特别看这家公司」，SpaceX 上市以后就没怎么看 Rocket Lab，去蹲 SpaceX 的机会了（SpaceX 那一半见 [[SpaceX 1.7 万亿上市很昂贵，没大跌难吃肉]] 文末 09-04 那一行）。讲完 SpaceX 的价位，他说其他这些包括 Rocket Lab，就不用看了，确定性没那么强。接着讲为什么买入的条件要苛刻：「宁可错过也不要买错」，买得太贵，公司最后成功了回报也可能很惨，还错过很多机会成本（他举的例子见 [[好股太贵，不输基本面，输在时间上]]），所以「对于贵的股票，我自己是相当相当慎重的」。落到 Rocket Lab，他说在这个点上「是有双重的不确定性的」。哪两重他没有逐条点名；从前后文看，一重是贵，一重是赛道里有 SpaceX：只买 SpaceX 的话，「你只需要关注这个问题，波动和贵」，买其他的「你要多操很多很多心啊」，而他说「我们尽可能的尽可能去做那个少操心的人」（这是图谱的理解）。他也承认，Rocket Lab 在这轮几十倍上涨之前，「它是符合我们那个选股标准」：创始人领导，「创始人本身也是一个。有有有点传奇性的人」，故事远大，「飞轮那个点上面垂直整合啊」（飞轮的说法见 [[飞轮效应]]、[[早期公司要有飞轮基因，没有就是辛苦生意]]）。但现在「不是很好的，长线建仓的时间点啊」，「包括甚至包括就是中期炒作」的波段起点也还没到：六月那个情绪亢奋点是几年一遇的，「至少到半年后再看」（这一层见 [[商业航天高潮后进入不应期，中期没有催化剂]] 文末 09-04 那一行）。**补的是两点**：一是口气更明确，07-19 说的是“很悬”“没必要”，这次是“不用看了”；二是他把它放回自己的选股标准里看，承认它涨之前是合格的，现在的问题是贵和确定性。05 月那张 [[Rocket Lab 是最好的商业航天标的，但梦想定价多]] 这次不加行，算不算改口仍等 Zhen 定。〔背景〕据 Dealroom 2026-09-02 的报道，木头姐的方舟投资 9 月 1 日买入 70 多万股 Rocket Lab，约 4450 万美元；Rocket Lab 股价比 5 月的高点跌了 58% 以上。
+- 2026-09-28 川习会与G2是否可能、FICO、RKLB、锂电、AI债务、国债、DeFi、Momenta（比 09-04 那次晚 24 天）：「就卫星、卫星、火箭这块业务垂直整合的小号的 SpaceX」「就布局布局的眼光不错就在在之前他比较有钱的低位的时候」「我会只盯着 SpaceX 的机会」「但是我觉得他的话配得上龙二的」。有人问：长期持有 Rocket Lab，请从商业模式判断它未来五到十年的核心价值来自 Neutron 发射、卫星制造、国防业务还是太空基础设施，长期逻辑如果失败最可能卡在哪一环（都是提问人的话）。他说除开 AI 这块，它就是一个垂直整合的小号 SpaceX；整个这一块「我觉得当前是不好去看终局的」，核心只能「投赛道加投人」：赛道有没有问题、创始人怎么样，无非拿它和 SpaceX 对比；人类太空经济的饼越来越大这个逻辑没问题的话，这些都还好。他点了一处优点：他研究以前讲过的激光链路时，「然后我在看产业链的结果发现有公司被 Rocket Lab 给收购了」，在它有钱、行业惨淡、很多国防军工公司惨淡的时候收走了不少，布局眼光不错（以前讲激光通信见 [[卫星互联网可能引爆军备竞赛，激光通信会供不应求]]）。企业家这一层他说自己没有很深的研究。落到自己：看这个赛道他只盯 SpaceX，不会那么多去关注龙二，但它配得上龙二，处处都在和 SpaceX 对标（龙一龙二那层见 [[主题炒作只看龙头：龙二的市值巅峰常不到龙一的一成]]；投赛道加投人见 [[早期科技股要看赛道稀缺和企业家]]）。**口气比 07-19、09-04 好**：那两次是“不独特”“不用看了”，这次是“小号 SpaceX”“配得上龙二”、收购眼光不错；但操作结论没变，他自己仍只盯 SpaceX。这里不另判改口，记一笔请 Zhen 复核。〔背景〕Rocket Lab 2026-04-14 宣布完成收购德国激光通信公司 Mynaric，对价约 1.553 亿美元，主要用股票支付；它说激光通信一直是星座运营商供应链的痛点（Rocket Lab 新闻稿）。他说的被收购公司没有点名，是不是 Mynaric 是图谱的推断。
