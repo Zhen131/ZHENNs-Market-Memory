@@ -9,7 +9,8 @@ speaker: "[[脑总]]"
 said_on: 2026-03-01
 said_in:
   - "2026-03-01 股票估值入门"
-about: ["[[加拿大国家铁路]]", "[[微软]]", "[[甲骨文]]", "[[杠铃策略]]"]
+  - "2026-10-15 李录哥大演讲、SpaceX估值、主观与客观价值、AI杠杆周期、低人权与世界秩序"
+about: ["[[加拿大国家铁路]]", "[[微软]]", "[[甲骨文]]", "[[杠铃策略]]", "[[李录]]"]
 fact_check: unchecked
 source_status: sourced
 sources:
@@ -18,9 +19,10 @@ sources:
   - "Business Today，2026-02-02，Oracle outlines plan to raise $50 billion in debt and equity for 2026，https://www.businesstoday.in/technology/news/story/oracle-outlines-plan-to-raise-50-billion-in-debt-and-equity-for-2026-514150-2026-02-02"
   - "TIKR（数据网站，仅作参考），2026-02，Oracle Stock Drops 3% After Plan to Raise $50 Billion for Cloud Expansion，https://www.tikr.com/blog/oracle-nyse-orcl-stock-drops-3-after-plan-to-raise-50-billion-for-cloud-expansion"
   - "Progressive Railroading，2026-01-30，CN posts revenue, profit gains in Q4, full-year 2025，https://www.progressiverailroading.com/canadian_national/news/CN-posts-revenue-profit-gains-in-Q4-fullyear-2025--76257"
+  - "格隆汇（据但斌视频号的现场片段整理），2026-10，李录最新哥大交流：AI发展可能会伴随不止一轮繁荣与崩溃，https://m.gelonghui.com/p/6887032"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-28
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 > 那原子世界的我我我敢相信它很难被AI冲击到对吧
@@ -71,3 +73,7 @@ updated: 2026-10-31
 它怕的有两类。一是原子世界也有自己的风险，比如关税、经济周期，和 AI 无关但同样伤利润。二是比特世界的公司其实也守得住，他自己也说微软「已经很稳当了」，只是不敢百分之百确定。这条判断说的是哪边更稳，不是哪边一定赚得多。
 
 **一句话记住**：AI 能改写软件，改写不了铁轨；拿不准比特世界的时候，原子世界的公司是更稳的那一头。
+
+## 后来又讲过
+
+- 2026-10-15 李录哥大演讲、SpaceX估值、主观与客观价值、AI杠杆周期、低人权与世界秩序（比上面那次晚 228 天）：「这两层都是这个AI完全无法影响的啊」「只只需要考虑就是AI带来的增量需求。是不是被充分price in了啊？」这次是逐条点评[[李录]]在哥伦比亚大学的演讲，讲到「AI拉平的是经济里面的哪一层啊？」。他转述李录给经济分的层：从底往上是能源与交通、制造业，再往上是通信和数字媒体，最上面是知识与技术服务，AI 拉平的是最上面这一层；李录认为 AI 到不了眼下叙事讲的那个高度，最下面两层可能都改变不了。投资上的含义是他自己接着说的：这两层不用考虑 AI 的冲击，只要看 AI 带来的增量需求有没有被市场充分算进价格（price in）；如果基本没算进去，它们会照之前的样子发展，「那你的估值还可以建立在之前的预测之上」。中间通信和数字媒体那一层他怎么说，转写里有两处听不清，已问 Zhen，这里不引。讲这一段之前，他还说李录这段话让他想起《沙丘》的设定：人类造了智能机器，最后活在它和控制它的人的奴役之下，于是发动巴特勒圣战把机器毁掉，技术转去增强人本身，「现在就沙丘的那个设定」。这次补的是：03-01 他说原子世界的公司难被 AI 冲击，举的是一条铁路；这次借李录的分层，把“原子世界”说成能源交通和制造业两整层，并加了一条看这类公司的办法：不看 AI 的冲击，只看 AI 带来的新需求是不是已经被价格算进去了。〔背景〕据格隆汇根据现场视频片段的整理，李录这次交流在美东时间 2026 年 10 月 5 日，说法是：最底层是能源和交通运输，上面是制造业，再往上是通信、数字化媒体，在这些基础设施之上是极其庞大的知识型、技术型服务业。整理里提到《沙丘》的是文章作者的联想，不是李录的原话，他和这篇整理的作者想到了同一个故事。
