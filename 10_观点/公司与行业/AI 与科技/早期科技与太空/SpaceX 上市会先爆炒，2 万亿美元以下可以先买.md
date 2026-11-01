@@ -1,7 +1,7 @@
 ---
 type: view
 view_kind: prediction
-status: active
+status: archived
 title: "SpaceX 上市会先爆炒，2 万亿美元以下可以先买"
 summary: "2026 年 3 月 SpaceX 上市前，脑总估计它上市后会先被爆炒、再杀泡沫；但如果上市估值在 2 万亿美元以下，可以先买一批心理上承受得住的筹码，他自己很看好它。"
 aliases: []
@@ -27,9 +27,9 @@ sources:
   - "TechCrunch，2026-06-11，SpaceX officially prices shares at $135 in the largest IPO ever，https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/"
   - "Seeking Alpha，2026-04-13，Morgan Stanley maps 60 stocks across the space trade，https://seekingalpha.com/news/4574518-morgan-stanley-maps-60-stocks-across-the-space-trade"
   - "IPOScoop（数据网站，仅作参考），2026-06-12，The IPO Buzz: SpaceX (SPCX) Climbs 19 Percent in NASDAQ Debut After Record IPO，https://www.iposcoop.com/?p=38639"
-tags: [type/view, view/prediction, status/active]
+tags: [type/view, view/prediction, status/archived]
 created: 2026-10-29
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 > 但是如果上市之后哈估值还算……不算太夸张，比如说两万两万亿美元以下，我觉得可以先买先买一些吧
@@ -88,3 +88,5 @@ updated: 2026-10-31
 - 2026-04-02 直播（比主体那次晚二十天）：「未来他要是翻倍的话，我觉得100倍市盈率也算合理啊」，但「能够给我一万多亿的SpaceX吗？我觉得很难」。有人问 SpaceX 秘密申请 IPO 了能不能无脑冲，他说不能；增速翻倍的话 100 倍市盈率也算合理，据他说它一年轻松赚 100 多亿美元（未核实），100 倍就是 1 万多亿，在当时科技泡沫的水平下，他觉得市场很难给这个价。这次没再提 2 万亿美元那条线，讲的是按估值分档给仓位，那一层见 [[贵股票不博更贵，按估值分档给仓位]]。
 - 2026-04-16 直播（比主体那次晚五周）：「SpaceX快要上市了，到时候能不能借机再炒一波商业航天的概念，有没有机会，这个值得密切关注，虽然不一定会发生。」这次是有朋友问想配前锋股、哪些板块值得关注，他讲到维珍银河这类商业航天股还不适合当前锋（见 [[前锋股要买强势热门股，灵活进出]]），顺带说了这一句。他还说摩根士丹利「最近」弄出了一个「商业航天50」指数，据他说有 50 只成分股，他还在研究。这次没有再谈 SpaceX 本身的估值和买点，补的是另一面：它上市可能顺带把整个商业航天板块再炒一波，他用了「不一定会发生」。〔核对〕查到的是摩根士丹利分析师亚当·乔纳斯 2026 年 4 月 13 日前后发布的“Space 60”清单，列了 60 只和航天产业链相关的上市公司，从原材料、推进系统到卫星运营分成七类（Seeking Alpha）；数目和他说的 50 只对不上，也是一份股票清单，不一定是指数。
 - 2026-05-02 直播（比主体那次晚七周多）：「一旦SpaceX 上市，商业航天产业链可能会进一步被重新定价」。这次是讲当前市场风险偏好往两头走：一头是愿意为梦想付费的热门概念，另一头是资金转向困境反转股。和 04-16 一样，说的是 [[2026 - 美国 - SpaceX 上市|SpaceX 上市]]对整个商业航天板块的带动，不是 SpaceX 自己的估值和买点；用的仍是「可能」。同一期他点名 [[Rocket Lab]]，说它可能是二级市场能买到的最好的商业航天标的，但股价已含大量梦想定价（见 [[Rocket Lab 是最好的商业航天标的，但梦想定价多]]）。
+
+2026-11-01 归档：他 2026-06-10 改口，面对约 1.75 万亿美元的上市价说很贵、没有大跌难吃肉，见 [[SpaceX 1.7 万亿上市很昂贵，没大跌难吃肉]]；以后各次讲 SpaceX 的价钱都记在那张。这张是预测卡，复盘日 2027-03-12 照旧留着。

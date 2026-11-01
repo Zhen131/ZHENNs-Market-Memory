@@ -1,7 +1,7 @@
 ---
 type: view
 view_kind: judgment
-status: active
+status: archived
 title: "Rocket Lab 是最好的商业航天标的，但梦想定价多"
 summary: "脑总研究过 Rocket Lab，认为从全产业链布局看它可能是二级市场能买到的最好的商业航天标的，也还有经营数据可追踪；但它的股价早已包含大量梦想定价。"
 aliases: []
@@ -17,9 +17,9 @@ source_status: sourced
 sources:
   - "Rocket Lab，2026-02-26，Rocket Lab Announces Fourth Quarter And Full Year 2025 Financial Results，https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-announces-fourth-quarter-and-full-year-2025-financial"
   - "Bloomberg（经 Bloomberg Government 转载），2026-04-01，Space, Satellite Stocks Rise After Reports SpaceX Filed for IPO，https://news.bgov.com/texas-brief/space-satellite-stocks-rise-after-reports-spacex-filed-for-ipo"
-tags: [type/view, view/judgment, status/active]
+tags: [type/view, view/judgment, status/archived]
 created: 2026-10-30
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 > 像Rocket Lab，我自己也研究过，从全产业链布局的质地来看，可能是二级市场能买到的商业航天标的里最好的一家，在研究产业链某些环节时这家公司会反复跳出来，但它现在的股价早就包含了大量梦想定价。
@@ -66,3 +66,5 @@ updated: 2026-10-31
 
 - 2026-05-07 直播（比上面那次晚五天）：「如果后面有机会让你网格建仓买那个比较不错的价格的话。这种后面可能会有可能会有一波就是全产业链的上涨。」这次是有人说相比 A 股商业航天股，Rocket Lab 显得很便宜，想建个观察仓、网格建仓。他接着说除了 Rocket Lab，还有一个 Fly 最近也上市了（应指 Firefly，图谱的推断），「要去把这些公司的招股书都看一遍」；全产业链要是涨起来，里面某些环节可能出一年十倍股，「可能会出一年十倍股就核心核心产能受受限的环节」。他没有说现在就该买，条件是后面有机会、买到比较不错的价格；这和上面说质地最好、价格里梦想多是一致的。读招股书那半段见 [[每读一份招股书，就是学懂一个行业]]。
 - 2026-06-25 日本股市、科学仪器、生物平台公司、美股代币、费哲、重啤、奈飞、小商品城、TransMedics、Zoetis，杠铃策略与足球阵型（比 05-07 那次晚七周）：「这一轮的话，这些炒过的炒过的是属于你学习的时候」。这次没有人专门问 Rocket Lab，是他讲生物科技的平台公司时，拿计算机和商业航天作反面（见 [[生物平台公司已上市、市值小，是二级市场的风投]]）：商业航天的平台级公司「这一波也都炒的非常充分了」，即使不说 [[SpaceX]]，Rocket Lab「这都已经是几百亿的市值了」（据他说，未核实），它靠并购把火箭发射、卫星制造和一些重要环节都涉猎了，「这些的话就都不便宜了，都不便宜了」。他接着提醒，别对这一轮炒过的这批公司产生太多信仰：除了 SpaceX 这种已经展示出实力的，其他那些「后面不一定不一定他们还在还在台上」，「你现现阶段产生信仰后果会很惨烈」。理由是产业链里很多关键环节的公司没上市、不透明；他研究下来发现 SpaceX「它自己的话基本上就是就我我研究了下来就发现它啥都想自己做」，卫星之间的激光通信、太空数据中心的散热，它都在自己做。这次他没有点名说 Rocket Lab 本身会怎样，别产生信仰这句提醒是对这一轮炒过的商业航天整体说的；和上面说的价格里装了很多梦想是一个方向，补的是一句提醒：这一轮是学习的时候，不是押信仰的时候。
+
+2026-11-01 归档：他 2026-07-19 改口，说 Rocket Lab 好像不那么独特了、能不能守住很悬，商业航天只看 SpaceX，见 [[Rocket Lab 不独特，商业航天只看 SpaceX]]。

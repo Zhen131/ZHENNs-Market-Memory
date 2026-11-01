@@ -1,7 +1,7 @@
 ---
 type: view
 view_kind: judgment
-status: active
+status: archived
 title: "Reddit 确定性不够高，看不清它十年后的样子"
 summary: "2026-04-09 脑总说 Reddit 还挺不错、PEG 不贵，但确定性没那么高、看不懂它十年后的样子，用户壁垒也没那么高，适合交易能力强的人跟踪季报玩。17 天后他说确定性还比较强。"
 aliases: []
@@ -19,7 +19,7 @@ sources:
   - "StockStory（Finviz 转载），2026-01-15，Why Reddit (RDDT) Stock Is Nosediving，https://finviz.com/news/278183/why-reddit-rddt-stock-is-nosediving"
   - "Reddit 财报新闻稿（美国证券交易委员会 8-K 附件），2026-07-30，Reddit Reports Second Quarter 2026 Results，https://www.sec.gov/Archives/edgar/data/0001713445/000171344526000098/earningspressreleaseq226.htm"
   - "Peec AI，2026-03-31，Top domains cited by AI search: Analysis based on 30M sources，https://peec.ai/blog/top-domains-cited-by-ai-search-analysis-based-on-30m-sources"
-tags: [type/view, view/judgment, status/active]
+tags: [type/view, view/judgment, status/archived]
 created: 2026-10-29
 updated: 2026-11-01
 ---
@@ -82,3 +82,5 @@ updated: 2026-11-01
 ## 后来又讲过
 
 - 2026-08-06 中国资产的躁郁周期、人民币汇率、高通与边缘计算、建仓纪律、英股点评（比主体那次晚近四个月）：「还是有点有一点点小贵的，有一点点小贵」「我觉得中性吧，我觉得中性吧」。这次是有人说对他的 Reddit 估值有不同意见：营收增长还在 60%，按过去十二个月算的市盈率只有 30 倍左右，静态 50 倍市盈率不适合拿来估值，他自己测算过 140 美元以下就比较便宜了。他不同意「已经是一个比较便宜的价格」这个说法。他拿同行比滚动市销率，据他说 Reddit 10.77 倍、[[Meta]] 6.75 倍、Pinterest 2.73 倍（未核实），Reddit 是高预期的公司；用户增长已经放缓，营收高增长靠的是 ARPU，而 ARPU 的上限就是 Meta，所以不能把 60% 的增速线性往后推（这套算法见 [[高增长别线性外推，拿同行的 ARPU 做天花板]]）。结论是「不能说便宜吧」，「只能说不算很贵」，「它不是肉眼可见便宜」。这次他只谈价格，没有谈确定性和用户壁垒；和上表比，估值这一栏从 04-09 的「有可能是一个击球点吧」、04-26 的“好股好价”，变成了中性略贵，10-22 他又说「估值有点贵」。〔背景〕一周前的 7 月 30 日，Reddit 公布二季报：营收增长 61%，日活增长 18%，全球 ARPU 6.18 美元（Reddit 公告）。
+
+2026-11-01 归档：Zhen 确认算改口。他 2026-04-26 改口，说 Reddit 非常独特、确定性还比较强，2026-10-22 又说它的版主生态今天无法复制，见 [[Reddit 的版主生态今天无法复制]]。

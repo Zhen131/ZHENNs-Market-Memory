@@ -1,7 +1,7 @@
 ---
 type: view
 view_kind: judgment
-status: active
+status: archived
 title: "Sirius XM 是个烟蒂，捡起来抽一口"
 summary: "脑总认为 Sirius XM 是典型的烟蒂股：车载卫星电台用户在慢慢凋零，但萎缩已经稳定，0.7 倍市净率肉眼可见地便宜、能分红；它没有英特尔那样反转后继续成长的故事，涨到 2 倍市净率就到头了。"
 aliases: []
@@ -17,9 +17,9 @@ sources:
   - "The Motley Fool，2026-01-04，Where Will Sirius XM Holdings Be in 1 Year?，https://www.fool.com/investing/2026/01/04/where-will-sirius-xm-holdings-be-in-1-year"
   - "Radio Online，2026-02-05，SiriusXM Reports $8.56B 2025 Revs, $1.26B Free Cash Flow，https://news.radio-online.com/articles/b18349/SiriusXM-Reports-$856B-2025-Revs-$126B-Free-Cash-Flow"
   - "AlphaQuery（数据网站，仅作参考），2026-10-29 查，SIRI Book Value Per Share（2026-06-30 季度每股净资产），https://www.alphaquery.com/stock/SIRI/fundamentals/quarterly/book-value-per-share"
-tags: [type/view, view/judgment, status/active]
+tags: [type/view, view/judgment, status/archived]
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-11-01
 ---
 
 > 但车载卫星电台就没有这些了，它只是一个烟蒂，捡起来抽一口。
@@ -78,3 +78,5 @@ updated: 2026-10-29
 〔核对〕0.7 倍市净率：按数据网站上 2026-06-30 的每股净资产约 35 美元粗算，25 美元对应约 0.7 倍，对得上（这个净资产数字是他说话之后的季度，只作参考）。之前底部大约 20 美元：Motley Fool 2026-01-04 说股价“刚过 20 美元”，对得上。股息率在底部超过 5%：本轮没有查公司公告里的每股股息，没有核对。3000 多万订阅用户：2025 年底公司自己付费的用户约 3100 多万、总用户约 3300 万（Radio Online 只给了总数），对得上。他说话前几天的价格是不是 25 美元，本轮没查到可靠的收盘价。伯克希尔的持仓是合伙人主导：CNBC 说不清楚是谁做的决定，有报道倾向于 Weschler，但伯克希尔没有确认，只能算他的判断。
 
 **一句话记住**：生意在慢慢变小不等于不能买，只要缩得稳、便宜得明显、还能分钱；但没有第二段故事的烟蒂，抽一口就该扔，脑总给 Sirius XM 定的那一口是 2 倍市净率。
+
+2026-11-01 归档：他 2026-04-22 改口，见 [[Sirius XM 不只是烟蒂，频谱是隐蔽资产]]。

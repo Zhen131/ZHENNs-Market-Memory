@@ -1,7 +1,7 @@
 ---
 type: view
 view_kind: judgment
-status: active
+status: archived
 title: "AI 是旧康波末期的过渡，下一轮康波是商业航天"
 summary: "脑总用康波框架看 AI：今天的 AI 是半导体革命那一轮康波的尾巴，还没有像当年随身听那样赚钱的现象级产品；下一轮康波的核心是商业航天，AI 是为它服务的工具。星链已经盈利，比今天的 AI 更关键。"
 aliases: []
@@ -18,9 +18,9 @@ sources:
   - "路透社（经 The Star 转载），2026-01-31，Exclusive-SpaceX generated about $8 billion in profit last year ahead of IPO, sources say，https://www.thestar.com.my/tech/tech-news/2026/01/31/exclusive-spacex-generated-about-8-billion-in-profit-last-year-ahead-of-ipo-sources-say"
   - "RTÉ，2026-04-10，SpaceX posts loss of $5 billion（转述 The Information 的报道），https://www.rte.ie/news/business/2026/0410/1567498-spacex-posts-loss-of-5-billion"
   - "RTÉ，2026-02-03，Musk merges SpaceX and xAI（太空数据中心），https://www.rte.ie/news/business/2026/0203/1556436-musk-spacex-xai"
-tags: [type/view, view/judgment, status/active]
+tags: [type/view, view/judgment, status/archived]
 created: 2026-10-29
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 > 今天的AI 属于一轮康波的末期，它本身是半导体革命的一部分。
@@ -83,3 +83,5 @@ updated: 2026-10-31
 
 - 2026-05-10 直播：「所以的话，下一轮康波周期还是很确定的。」这次是有人问宽基 ETF 持续流出、纳指创了新高，短期和中长期怎么看。他说长期「非常看好」，因为这可能是新一轮康波的起点，「以人工智能，商业航天，生物科技等新科技为创新动力的，新的周期」。他举的证据有三样：商业航天「商业模式已经初步跑通了」（见 [[太空产业先做往地球传数据的生意]]）；生物科技里 MRNA、合成生物学、基因编辑「已经走到临界点上了」；AI 他说不多讲。定位和上面一样：科技创新还没让全社会的投资回报率大幅上涨，「可能现在还是在过去半导体信息革命康波周期的最尾巴上面啊」，中间要担心剧烈的去杠杆，中期的判断见 [[纳指短期还涨，中期五到八年回报可能为负]]。和 04-22 有一点不同：04-22 他说 AI 是为商业航天服务的，这次把 AI、商业航天、生物科技并列成下一轮的动力，没有分主次。
 - 2026-06-03 从巴菲特投资中石油看AI周期与估值（比 05-10 那次晚 24 天）：「可能不是最大的康波级别的超长时间」。这次他说长期应该把 AI 当成 2000 年代到 2010 年代中国城市化那个级别的机会，「但是达到这个城市化那个级别，我觉得是很清晰的」。比 04-22 新补的是 AI 为什么还不够格的理由：「AI没有开拓。嗯，定义一个新的资源」，也还没有一套能让大家拼命冲进去复制的发财范式，石油和互联网都有这两样（见 [[够康波级的机会要定义新资源和发财范式]]）。04-22 他用的尺子是有没有像随身听那样赚钱的现象级产品，这次换成了新资源和发财范式，结论一样：AI 还不是新一轮康波的主角。这次他没有提商业航天。
+
+2026-11-01 归档：他 2026-06-14 改口，说 AI 加速商业航天的可能性不大、商业航天的技术天花板看得见，真正可能是范式级的是生物，见 [[生物才可能是范式级，商业航天天花板看得见]]。

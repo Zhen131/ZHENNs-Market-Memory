@@ -1,7 +1,7 @@
 ---
 type: view
 view_kind: prediction
-status: active
+status: archived
 title: "美国会借 AI 资本狂潮完成再工业化"
 summary: "脑总 2026-06-28 推测：就像中国借城市化拿走了全球新增的工业产能，美国会借 AI 资本狂潮，再用产业政策把扩产留在本土；到 2046 年计算相关产能扩十倍，大部分蛋糕归美国。"
 aliases: []
@@ -21,9 +21,9 @@ sources:
   - "KPMG TaxNewsFlash，2026-01-14，United States imposes immediate 25% tariff on certain advanced computing chips，https://kpmg.com/us/en/taxnewsflash/news/2026/01/united-states-imposes-tariff-advanced-computing-chips.html"
   - "美国商务部，2025-06-12，President Trump Secures $200B Investment from Micron Technology for Memory Chip Manufacturing in the United States，https://content.govdelivery.com/accounts/USDOC/bulletins/3e4c251"
   - "F. A. Hayek，1945-09，The Use of Knowledge in Society（American Economic Review；Econlib 转载），https://www.econlib.org/library/Essays/hykKnw.html"
-tags: [type/view, view/prediction, status/active]
+tags: [type/view, view/prediction, status/archived]
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 > 其核心就是当时全世界所有的新增的。工业产能产产业链
@@ -86,3 +86,5 @@ updated: 2026-10-31
 〔核对〕转写里这句写作「我所估算的就是中局的，但这不是只不过是最终的终局哈」。「中局」是他有意说的中盘（和后面的「终局」对着说），还是「终局」的同音错，听不准，已问 Zhen；上面照抄。
 
 **一句话记住**：中国靠城市化拿走了上一轮的新增产能，脑总推测美国要靠 AI 拿走这一轮的；看美国再工业化，别看搬回来多少老工厂，看新增的计算产能落在哪里。
+
+2026-11-01 归档：他 2026-08-21 改口，说美国制造业回流不了，卡在审批、司法和地方团体，连电厂都难建，见 [[美国制造业回流不了，难在审批、司法和社区，不在工人]]。同一期推演的 [[AI 带出的上亿美国新工人是下一块大需求]] 不归档，只和那张互链。这张是预测卡，复盘日 2046-06-28 照旧留着。
