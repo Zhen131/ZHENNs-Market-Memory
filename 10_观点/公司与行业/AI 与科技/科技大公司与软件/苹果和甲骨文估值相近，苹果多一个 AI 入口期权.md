@@ -10,7 +10,8 @@ said_on: 2026-03-19
 said_in:
   - "2026-03-19 手机的AIOS终端价值、逆向思维看宏观、财务指标分析企业质地"
   - "2026-07-16 SpaceX、Tesla、黄金、WKL.AS、Oracle、银行、消费、生物医药、正确对待财报"
-about: ["[[苹果公司]]", "[[甲骨文]]", "[[谷歌]]", "[[字节跳动]]", "[[AI 的大机会在垄断交互入口，聊天框不是终局]]", "[[OpenAI]]"]
+  - "2026-08-21 如何挑选黑科技公司、拼多多与中概、银行股估值、日股、制造业回流与电力股"
+about: ["[[苹果公司]]", "[[甲骨文]]", "[[谷歌]]", "[[字节跳动]]", "[[AI 的大机会在垄断交互入口，聊天框不是终局]]", "[[OpenAI]]", "[[任天堂]]", "[[存储价格不崩，消费电子全产业链都别碰]]"]
 fact_check: consistent
 source_status: sourced
 sources:
@@ -25,6 +26,7 @@ sources:
   - "路透（老虎证券转载），2026-03-18，Artificial Intelligencer-Jensen Huang wants every company to have an OpenClaw plan，https://www-web.itiger.com/news/2620266856"
   - "Business Today，2026-07-16，OpenAI 推出首款硬件 Codex 键盘的报道（标题按网址概括），https://www.businesstoday.in/technology/news/story/openai-launches-its-first-hardware-device-a-codex-keyboard-priced-at-543319-2026-07-16"
   - "Gizmodo，2026-07，OpenAI just launched its first hardware product and it's a tiny keyboard for bossing around AI agents，https://gizmodo.com/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents-2001234567"
+  - "AppleInsider，2026-05-31，Longtime leaker joins others in saying Apple Glasses won't arrive until late 2027，https://appleinsider.com/articles/26/05/31/longtime-leaker-joins-others-in-saying-apple-glasses-wont-arrive-until-late-2027"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-31
 updated: 2026-11-01
@@ -92,3 +94,4 @@ AI 代理也正热：3 月 16 日，[[英伟达]]的[[黄仁勋]]在 GTC 大会�
 ## 后来又讲过
 
 - 2026-07-16 SpaceX、Tesla、黄金、WKL.AS、Oracle、银行、消费、生物医药、正确对待财报：「我觉得市场给苹果的估值，苹果压根都没有入局。但是市场给苹果的估值不便宜啊」。那次有人设想 agent store 和微应用，他回答说平台级机会要等技术进入平稳期，现在连硬件都才刚开始创新（见 [[平台级机会要等技术进入平稳期]]）。他提到 [[OpenAI]] 最近推出了硬件，据他说是一个可编程键盘，估计市场会稍微炒一下；接着说苹果：市场「甚都没有去杀苹果的估值」，他认为这在很大程度上是在给苹果在硬件创新里的卡位定价，苹果「从设计能力到芯片到芯片，对吧？端端侧芯片低功耗芯片。是相当的全占卡位的啊」。03-19 那次他说的期权是 Siri 当 AI 代理的入口，这次说的是苹果在 AI 硬件上的卡位，角度不同，意思一样：苹果在 AI 上还没真正出手，市场已经在为它占着的位置付钱。这次没有再拿甲骨文比。〔背景〕OpenAI 在他说话前一两天推出第一款自有品牌硬件 Codex Micro，是给编程 agent Codex 用的小键盘，售价约 230 美元（Business Today，07-16；Gizmodo）。
+- 2026-08-21 如何挑选黑科技公司、拼多多与中概、银行股估值、日股、制造业回流与电力股（比主体晚五个月，比 07-16 那次晚 36 天）：「但是股价依然一直很坚挺呀」「能够把软硬一体同时做好的门槛不低」。这次是答任天堂适不适合当中场时讲到苹果（见 [[任天堂是游戏机里的苹果]]）。他先说消费电子：大家很多注意力在机器人上，机器人拿到了很多溢价；但端侧是边缘 AI，「搞不好以后还有机会。又去炒消费电子」。他让大家关注苹果的眼镜 N50：「之前说是二零二六年底好像又跳票了啊，跳到二零二七年了」，现在还在概念阶段，也没有产业链拆机。然后说苹果股票里肯定有这些预期：它「都没有做什么AI布局」，股价比起很多做 AI 布局的大厂「不遑多让」；他认为市场在定价的是，AI 最后「逃不过它的入口」，还有软硬一体的价值，苹果之下再次一档，就是任天堂。**这次把两层合在了一起**：03-19 说期权是 Siri 当 AI 代理的入口，07-16 说是苹果在 AI 硬件上的卡位，这次说市场定价的是入口加软硬一体；还多了一个看点，端侧 AI 以后可能让消费电子再被炒一次，苹果眼镜是要盯的东西。〔背景〕彭博记者 Gurman 等人 5 月底报道，苹果第一款智能眼镜 N50 原计划 2026 年底亮相，推迟到 2027 年底（AppleInsider，2026-05-31），和他说的「跳到二零二七年了」对得上。〔图谱的对照〕这和 [[存储价格不崩，消费电子全产业链都别碰]] 不矛盾：那张说的是眼下存储贵，消费电子都别碰；这次说的是以后端侧 AI 可能让消费电子再被炒一次。一个讲现在，一个讲以后。

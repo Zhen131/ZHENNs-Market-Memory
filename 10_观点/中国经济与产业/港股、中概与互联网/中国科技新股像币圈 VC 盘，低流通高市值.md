@@ -9,8 +9,9 @@ speaker: "[[脑总]]"
 said_on: 2026-03-05
 said_in:
   - "2026-03-05 美伊战争对资本市场有什么影响"
-about: ["[[智谱]]", "[[MiniMax]]", "[[A 股的核心红利就是韭菜红利]]"]
-fact_check: consistent
+  - "2026-08-21 如何挑选黑科技公司、拼多多与中概、银行股估值、日股、制造业回流与电力股"
+about: ["[[智谱]]", "[[MiniMax]]", "[[A 股的核心红利就是韭菜红利]]", "[[宇树科技]]", "[[乐视网]]"]
+fact_check: mixed
 source_status: sourced
 sources:
   - "Pandaily，2025-12-30，Zhipu AI Launches Hong Kong IPO With HK$3 Billion in Cornerstone Commitments，https://pandaily.com/zhipu-ai-launches-hong-kong-ipo-with-hk-3-billion-in-cornerstone-commitments-poised-to-be-2026-s-largest-opening-ipo"
@@ -19,9 +20,13 @@ sources:
   - "KuCoin 资讯（加密媒体，仅作参考），2026-02，MiniMax and Zhipu AI surge in Hong Kong market，https://www.kucoin.com/news/flash/minimax-and-zhipu-ai-surge-in-hong-kong-market-valuations-top-300-billion-hkd"
   - "GMT Eight（仅作参考），2026-03-24，Dual Large-Model Leaders Propel Hong Kong Stocks Higher，https://gmt8press.com/content/detail/350960"
   - "AI Weekly（仅作参考），2026，Zhipu Seeks $4B in Hong Kong Follow-On After 1,500% Rally，https://aiweekly.co/alerts/zhipu-seeks-4b-in-hong-kong-follow-on-after-1500-rally"
+  - "证券时报（同花顺转载），2026-08-18，宇树科技将于8月19日科创板上市，https://news.10jqka.com.cn/20260818/c679025061.shtml"
+  - "财闻（同花顺转载），2026-08-19，出货量全球第一！宇树科技高开629% 总市值达4449亿，https://stock.10jqka.com.cn/20260819/c679073949.shtml"
+  - "观察者网（同花顺转载），2026-08-20，宇树暴跌超15%，https://stock.10jqka.com.cn/20260820/c679124594.shtml"
+  - "第一财经，2020-05-14，三年亏了近300亿，乐视网正式退市，28万股民何去何从丨时间线，https://www.yicai.com/news/100630184.html"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-28
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 > 那这这就是中国的这科技资产……VC项目一模一样。
@@ -74,3 +79,7 @@ updated: 2026-10-31
 〔核对〕他说智谱、MiniMax「几千亿人民币的市值」：2 月有报道说两家估值过了 3000 亿港元（仅作参考）；他说话以后的 3 月 24 日，智谱约 2795 亿港元、MiniMax 约 3133 亿港元（GMT Eight，仅作参考），量级对得上。重置成本 100 亿、项目成本 100 多亿是他自己的估算，没法核对。Token 刷量是他的假设，没找到证据。他说话以后的事：智谱基石锁定期 7 月到期，据报道智谱之后发起了约 40 亿美元的增发，当时股价已比上市时涨了约 1500%（AI Weekly，仅作参考），复盘这条判断时可以从这里看起。
 
 **一句话记住**：看一只被炒到天上的新股，先问三件事：再造一个要花多少钱，流通盘占多少，解禁是哪一天。答不上来的，就别去跟早期股东抢着接筹码（这是图谱的推论，他没有这样说）。
+
+## 后来又讲过
+
+- 2026-08-21 如何挑选黑科技公司、拼多多与中概、银行股估值、日股、制造业回流与电力股（比上面那次晚五个多月）：「这机器人到底能干能能干点啥？」「乐视顶峰的市值是1400亿人民币」。这次是讲怎么挑黑科技公司、讲到政府背书时顺口批的（见 [[技术看不懂时看 ToG 和 ToB 背书，诉诸权威不是看大佬持仓]]）。他说今天中国「AI相关的芯片公司几个亿的营收，上千亿的市值」；最近的[[宇树科技]]研发经费就那么一点，机器人一共才出了多少套，能干的就是在社交媒体上搞点流量，「但是几千亿人民币的市值啊」。他拿 2015 年那个著名的破灭泡沫[[乐视网]]来比：乐视顶峰才 1400 亿，今天这些所谓的硬科技、新质生产力「动辄几千亿，才几个亿，营收支撑几千亿」（数字据他说，未核实）。结论和 03-05 一样是泡沫太大，这次补的是一把新尺子：拿营收比市值，再拿当年最出名的泡沫比今天。〔背景〕他说话前两天，2026-08-19，宇树在科创板上市，发行价 150.80 元，开盘时总市值一度到 4449 亿元，当天收在 845 元、比发行价涨 460%；公司 2025 年营收 16.99 亿元，纯人形机器人出货超过 5500 台（证券时报、财闻、观察者网）。〔核对〕宇树 2025 年营收约 17 亿元，比他说的「几个亿」多，几个亿营收那句可能说的是 AI 芯片公司，他没点名；乐视网 2015 年 5 月市值超过 1700 亿元（第一财经），比他说的 1400 亿高。

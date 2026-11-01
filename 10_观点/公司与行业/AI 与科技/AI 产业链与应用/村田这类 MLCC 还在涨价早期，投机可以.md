@@ -9,17 +9,20 @@ speaker: "[[脑总]]"
 said_on: 2026-06-10
 said_in:
   - "2026-06-10 逃顶与做空、AI落地瓶颈、泡泡玛特、加拿大银行股"
-about: ["[[村田制作所]]", "[[Serenity]]", "[[爆发股的四个条件]]", "[[下一阶段强电强于弱电，关键材料比零件更会涨]]", "[[存储是这轮的铜，光纤是这轮的钢铁]]", "[[英伟达]]"]
-fact_check: unchecked
+  - "2026-08-21 如何挑选黑科技公司、拼多多与中概、银行股估值、日股、制造业回流与电力股"
+about: ["[[村田制作所]]", "[[Serenity]]", "[[爆发股的四个条件]]", "[[下一阶段强电强于弱电，关键材料比零件更会涨]]", "[[存储是这轮的铜，光纤是这轮的钢铁]]", "[[英伟达]]", "[[最好的左侧是底部已经横了一阵]]", "[[前锋中场后卫阵型]]"]
+fact_check: consistent
 source_status: sourced
 sources:
   - "Bloomberg，2026-02-17，Murata Explores Raising Prices of Key AI Server Component，https://www.bloomberg.com/news/articles/2026-02-17/murata-explores-raising-prices-of-ai-server-ceramic-capacitors"
   - "TrendForce，2026-03-17，MLCC Giant Murata Reportedly Confirms April 1 Price Hike on Key Components，https://www.trendforce.com/news/2026/03/17/news-mlcc-giant-murata-reportedly-confirms-april-1-price-hike-on-key-components/"
   - "Traders Web（数据网站，仅作参考），2026-10-31 查，村田製作所（6981）時系列株価，https://www.traders.co.jp/stocks/61_6981/historical/3"
+  - "Traders Web（数据网站，仅作参考），2026-11-01 查，村田製作所（6981）時系列株価（6 月 5 日至 8 月 17 日），https://www.traders.co.jp/stocks/61_6981/historical/2"
+  - "Traders Web（数据网站，仅作参考），2026-11-01 查，村田製作所（6981）時系列株価（8 月 18 日起），https://www.traders.co.jp/stocks/61_6981/historical/1"
   - "村田制作所官网文章，2021-10-26，Achieving the SDGs Through MLCCs (Part 1)（MLCC 全球份额约 40%），https://article.murata.com/article/achieving-sdgs-through-mlcc-1"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 > 你看村田最近的股价就很明显硬很多，对吧？它股价已经很硬了啊，逆逆势上涨
@@ -75,3 +78,7 @@ MLCC 是多层陶瓷电容，一种米粒大小、电路板上用量极大的被
 〔核对〕提问的人说这些公司处在周期的哪一段，转写原文是“零售的一浪”，是不是“周期的第一浪”听不清，已问 Zhen，这里只按意思转述。提问里的「三星」，做 MLCC 的是三星集团旗下的三星电机，不是三星电子，他没有单独讲。村田 4 到 6 月的股价来自数据网站，仅作参考。
 
 **一句话记住**：MLCC 卡在产能上、涨价才开头，村田又走得强，他认为投机可以；但它技术含量不高、链条已长，弹性和确定性都别期望太高，等所有 MLCC 都涨价就是炒透了。
+
+## 后来又讲过
+
+- 2026-08-21 如何挑选黑科技公司、拼多多与中概、银行股估值、日股、制造业回流与电力股（比主体晚两个多月）：「等到它开始波动变小筑底，我觉得是有机会作为前锋」「可能需要时间」。这期有朋友问任天堂当中场如何、村田适不适合当前锋（阵型的说法见 [[前锋中场后卫阵型]]；任天堂那一半见 [[任天堂是游戏机里的苹果]]）。他说村田作为前锋应该还挺不错，「这一波这一波已经跌下来了」；他当场看了一眼，说这一波已经从 6000 多涨起来（据他说），接下来可能波动开始变小、筑个底，等筑完底，就有机会当前锋。为什么要等：今年整个 AI 硬件产业链的炒作，之前的高潮已经过去一段了，可能要「歇一段时间」，之后可能「风云再起」，中间这段就是挑好的布局机会。**这次补的是买点条件**：06-10 那次，股价正在高处逆势上涨，他说涨价才开头、从投机角度挺不错；两个多月后股价已经跌下来又反弹，他说别急，等波动变小、底部横住了再当前锋。这和他常说的 [[最好的左侧是底部已经横了一阵]] 是一个意思。〔背景〕据数据网站，[[村田制作所|村田]]东京股价 6 月 1 日收 10490 日元，之后一路回落，7 月 29 日收 6231 日元，是 6 月以来的最低；8 月 17 日反弹到 8290 日元，8 月 20 日收 7205 日元（Traders Web，仅作参考）。他说的「从6000多涨起来」，和 7 月底的低点对得上。
