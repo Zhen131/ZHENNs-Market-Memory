@@ -9,16 +9,18 @@ speaker: "[[脑总]]"
 said_on: 2026-06-03
 said_in:
   - "2026-06-03 从巴菲特投资中石油看AI周期与估值"
-about: ["[[石油]]", "[[霍尔木兹海峡]]", "[[2026 - 中东 - 美伊战争]]", "[[中海油]]", "[[页岩油革命]]"]
+  - "2026-09-25 AI助手利好CPU、Meta像字节、股票代币与DeFi、抄巴菲特莱纳作业、爱马仕"
+about: ["[[石油]]", "[[霍尔木兹海峡]]", "[[2026 - 中东 - 美伊战争]]", "[[中海油]]", "[[页岩油革命]]", "[[巴西石油]]", "[[三桶油里中海油的资源禀赋最好]]", "[[巴西石油便宜优质，但这一波涨多了要歇一歇]]", "[[现在像 2010 年：利率起来，农业能源当防守]]"]
 fact_check: consistent
 source_status: sourced
 sources:
   - "Gulf News，2026-06-02，Oil prices hover near $95 as Iran conflict keeps global supplies in a chokehold，https://gulfnews.com/business/energy/oil-prices-hover-near-95-as-iran-conflict-keeps-global-supplies-in-a-chokehold-why-your-fuel-tank-still-hurts-1.500560154"
   - "The Center Square（AOL 转载，引美国能源信息署），2025-10-08，US oil production reached record-high 13.6 million barrels a day in July，https://www.aol.com/articles/us-oil-production-reached-record-164900459.html"
+  - "PSU Connect，2026-09-12，Crude Oil Price Today (12 September 2026): Brent Holds Near $104, WTI at $100，https://www.psuconnect.in/market/crude-oil-price-today-12-september-2026-brent-holds-near-104-wti-at-100"
   - "同花顺财经，2026-03-02，中国海油（600938）涨停、收盘价创历史新高，https://news.10jqka.com.cn/20260302/c675014488.shtml"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 > 那石油毕竟是工业的血液啊，那长期来说的话，对于石油的话的需求也是一个提振。
@@ -73,3 +75,7 @@ updated: 2026-10-31
 〔核对〕「封锁……到现在还没有开」：对得上，6 月 2 日的报道说海峡已经被实际封锁三个多月（Gulf News）。「今年石油公司本身来说，已经表现的挺好的了」：对得上，A 股中国海油 3 月 2 日收盘创历史新高（同花顺），[[雪佛龙]] 3 月 19 日也创了历史新高（见 [[战争让非中东的油企被重估]]）。
 
 **一句话记住**：这次他看多石油公司，理由不只是战争：AI 带动制造业会提振石油需求，页岩油大增产后油价还坚挺说明定价锚在换成美国的油；这和他 4 月说的“石油没有新需求”方向不同，算不算改口待 Zhen 定。
+
+## 后来又讲过
+
+- 2026-09-25 AI助手利好CPU、Meta像字节、股票代币与DeFi、抄巴菲特莱纳作业、爱马仕（比 06-03 那次晚 114 天）：「接替它的相对来说比较好的，就是能源股」「我倾向于建议你买美洲能源股」。这期最后一题有人问中石油的股价走势。他说股价「跟跟着油价走吧，跟着油价走啊」，油价他一般不去猜；然后讲了自己的预期：油价「未来长期会维持一个比较不错的位置，比较高的位置」，即使科技股「有或有一年不行了」，接替它的相对较好的就是能源股；能买美股的朋友，他倾向建议买美洲的能源股。方向和 06-03 一样：看好油价长期偏高、美洲的油企更好。这次没有再讲 AI 提振需求和换锚这两条理由，补的是能源股在科技股退潮时接棒这一层。三桶油里他长期选中海油，见 [[三桶油里中海油的资源禀赋最好]] 文末“更早讲过”里 09-25 那一行；同一段他提了之前讲过的[[巴西石油]]，「巴西石油应该是在18块之前讲的」，「这一波涨的挺强势」（见 [[巴西石油便宜优质，但这一波涨多了要歇一歇]]）。一周前的 09-18 他说现在像 2010 年、能源可以当防守，见 [[现在像 2010 年：利率起来，农业能源当防守]]。〔背景〕他说话前两周，布伦特原油期货收在 104.61 美元一桶，那一周早些时候摸到过 107 到 109 美元的几个月高点（PSU Connect，2026-09-12）。
