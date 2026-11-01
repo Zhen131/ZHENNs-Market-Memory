@@ -15,13 +15,14 @@ fact_check: mixed
 snapshot: "SpaceX 6 月 12 日已在纳斯达克上市，他说自己在等买点；5 月 26 日有报道说马斯克讨论过合并两家，7 月 22 日特斯拉财报会上马斯克不确认也不否认；8 月 11、12 日马斯克在 X 上夸中国、他母亲附和。特斯拉上海工厂 2025 年交付约占全球 52%。"
 review_on: 2028-08-13
 outcome: pending
-outcome_note: "说话以后的线索（未到复盘日，只记不判）：2026 年 10 月有报道说 SpaceX 已接触特斯拉谈合并方案，见投票权那张卡的〔核对〕。"
+outcome_note: "说话以后的线索（未到复盘日，只记不判）：2026 年 10 月有报道说 SpaceX 已接触特斯拉谈合并方案，见投票权那张卡的〔核对〕。2026-10-20，马斯克在 SpaceX 三季度财报电话会上说，两家董事会应股东要求各自成立了由独立董事组成的特别委员会，评估合并的可能；他本人有利益冲突，不在委员会里。他说合并是个好主意，但不保证会成；委员会还没谈定任何条款；特斯拉这边要全部股份的 50% 同意，不只是投票股份的过半（TechCrunch，2026-10-20）。上海工厂卖不卖，这些报道里没有提到。"
 source_status: sourced
 sources:
   - "TechCrunch，2026-06-11，SpaceX officially prices shares at $135 in the largest IPO ever，https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/"
   - "investingLive（转述 CNBC），2026-05-26，Musk discussed merging SpaceX and Tesla as rocket company prepares Nasdaq debut，https://investinglive.com/stocks/musk-discussed-merging-spacex-and-tesla-as-rocket-company-prepares-nasdaq-debut-20260526/"
   - "NBC Palm Springs（据搜索摘要），2026-07-22，Elon Musk won't say whether SpaceX and Tesla will merge as speculation grows，https://www.nbcpalmsprings.com/2026/07/22/elon-musk-wont-say-whether-spacex-and-tesla-will-merge-as-speculation-grows"
   - "unwire.hk（据搜索摘要），2026-08-12，Musk 在 X 公開讚揚中國、母親 Maye Musk 留言附和，https://unwire.hk/2026/08/12/musk-china-praise-tesla-sales/fun-tech/"
+  - "TechCrunch（Kirsten Korosec），2026-10-20，SpaceX and Tesla boards form special committees to review merger，https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/"
   - "上海市政府英文网，2026-01-07，Tesla's Shanghai plant powers 52% of automaker's global 2025 deliveries，https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260107/4c2060e1dc874d40b56a3a8fa8baedf5.html"
 tags: [type/view, view/prediction, status/active]
 created: 2026-11-01

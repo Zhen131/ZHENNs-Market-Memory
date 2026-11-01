@@ -16,6 +16,7 @@ sources:
   - "CleanTechnica，2024-06-17，Google Agrees To Buy 115 MW Of Geothermal Power From Fervo & NV Energy，https://cleantechnica.com/2024/06/17/google-agrees-to-buy-115-mw-of-geothermal-power-from-fervo-nv-energy/"
   - "ThinkGeoEnergy，2026-04-14，Fervo highlights stable operations of Project Red geothermal project after 600 days，https://www.thinkgeoenergy.com/fervo-highlights-stable-operations-of-project-red-geothermal-project-after-600-days/"
   - "Benzinga（Webull 转载），2026-08-12，Fervo Energy Shares Rise as Investors Weigh Earnings Miss Against Cape Station Progress，https://www.webull.com.au/news-detail/15390292110156800"
+  - "ESG Today，2026-09-01，Google Signs Record Geothermal Power Deal with Fervo，https://www.esgtoday.com/?p=25419"
   - "Renewable Energy Magazine，2026-10-02，Fervo Energy declares commercial operation at Cape Station geothermal power plant，https://www.renewableenergymagazine.com/geothermal/fervo-energy-declares-commercial-operation-at-cape-20261002"
   - "斯坦福可持续发展论坛，日期不详，Tim Latimer 讲者介绍，https://sustainabilityforum.stanford.edu/speaker/tim-latimer/"
   - "Stock Analysis（数据网站，仅作参考），2026-10-26 查，Fervo Energy (FRVO) Stock Price History，https://stockanalysis.com/stocks/frvo/history/"
@@ -24,7 +25,7 @@ tags:
   - entity/company
   - status/draft
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-11-01
 ---
 
 # Fervo Energy
@@ -39,6 +40,7 @@ Fervo Energy 是一家美国地热发电公司，做的是增强型地热：在�
 - 2026 年 4 月：公布 Project Red 运行 614 天的数据，平均净出力约 1.4 兆瓦；产出的水温 500 多天不变，最近略降约 2.5 华氏度（ThinkGeoEnergy）。这组数据怎么读有争议，见 [[Fervo 像猎鹰 9 号时期的 SpaceX]] 的〔背景〕。
 - 2026-05-13：在纳斯达克上市，代码 FRVO，发行价 27 美元，连同超额配售募资约 22 亿美元（ESG Dive；Benzinga）。
 - 2026 年二季度：收入 11.3 万美元，亏损 5590 万美元，资本开支 2.265 亿美元；6 月底现金约 21 亿美元、债务约 2.28 亿美元；公司预计下半年资本开支 8.5 亿到 9 亿美元（Benzinga）。
+- 2026-09-01：和谷歌签下 396 兆瓦的购电协议，电来自犹他州比弗县的 Cape Station；Fervo 还给了谷歌一个选择权，到 2030 年 6 月前可再加约 600 兆瓦，合计接近 1 吉瓦。ESG Today 说这是全球迄今最大的增强型地热购电协议（ESG Today）。
 - 2026-09-30：犹他州 Cape Station 第一个 33 兆瓦机组进入商业运行，从开建到投运 23 个月；一期约 100 兆瓦，另两个机组要在 2027 年 1 月 1 日前投运；二期 400 兆瓦计划 2028 年投运。公司说已签的购电合同超过 1 吉瓦（Renewable Energy Magazine）。
 - 2026-10-16：收盘 9.68 美元，比发行价低六成多（Stock Analysis，数据网站）。
 
