@@ -9,7 +9,8 @@ speaker: "[[脑总]]"
 said_on: 2026-03-19
 said_in:
   - "2026-03-19 手机的AIOS终端价值、逆向思维看宏观、财务指标分析企业质地"
-about: ["[[苹果公司]]", "[[甲骨文]]", "[[谷歌]]", "[[字节跳动]]", "[[AI 的大机会在垄断交互入口，聊天框不是终局]]"]
+  - "2026-07-16 SpaceX、Tesla、黄金、WKL.AS、Oracle、银行、消费、生物医药、正确对待财报"
+about: ["[[苹果公司]]", "[[甲骨文]]", "[[谷歌]]", "[[字节跳动]]", "[[AI 的大机会在垄断交互入口，聊天框不是终局]]", "[[OpenAI]]"]
 fact_check: consistent
 source_status: sourced
 sources:
@@ -22,9 +23,11 @@ sources:
   - "苹果公司，2025-10，Form 10-K（2025 财年，截至 2025-09-27），https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
   - "Fund Library（数据网站，仅作参考），2026-03-13，Apple Inc. (AAPL) 价格表，https://www.fundlibrary.com/Stocks/Detail/197254"
   - "路透（老虎证券转载），2026-03-18，Artificial Intelligencer-Jensen Huang wants every company to have an OpenClaw plan，https://www-web.itiger.com/news/2620266856"
+  - "Business Today，2026-07-16，OpenAI 推出首款硬件 Codex 键盘的报道（标题按网址概括），https://www.businesstoday.in/technology/news/story/openai-launches-its-first-hardware-device-a-codex-keyboard-priced-at-543319-2026-07-16"
+  - "Gizmodo，2026-07，OpenAI just launched its first hardware product and it's a tiny keyboard for bossing around AI agents，https://gizmodo.com/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents-2001234567"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 > 你跟苹果估值差不多，但是没有没有明显的这个。没有明显的免费期权。
@@ -85,3 +88,7 @@ AI 代理也正热：3 月 16 日，[[英伟达]]的[[黄仁勋]]在 GTC 大会�
 〔核对〕按苹果 2025 财年每股收益 7.46 美元，加上 2026 财年一季度 2.84 美元、减去上年同期约 2.40 美元，过去四个季度约 7.90 美元；3 月 13 日收盘约 255.76 美元（Fund Library，仅作参考），算下来滚动市盈率约 32 倍，静态约 34 倍（图谱计算），和他说的 31 倍、33 倍左右大致对得上。甲骨文的 27 倍、35 倍没有查。Siri 交给 Gemini，对得上 1 月 12 日的合作公告。
 
 **一句话记住**：两家公司估值差不多时，要问谁身上还挂着没被定价的可能；脑总认为苹果挂着“Siri 当 AI 入口”这一张，甲骨文的那张已经兑现完了。
+
+## 后来又讲过
+
+- 2026-07-16 SpaceX、Tesla、黄金、WKL.AS、Oracle、银行、消费、生物医药、正确对待财报：「我觉得市场给苹果的估值，苹果压根都没有入局。但是市场给苹果的估值不便宜啊」。那次有人设想 agent store 和微应用，他回答说平台级机会要等技术进入平稳期，现在连硬件都才刚开始创新（见 [[平台级机会要等技术进入平稳期]]）。他提到 [[OpenAI]] 最近推出了硬件，据他说是一个可编程键盘，估计市场会稍微炒一下；接着说苹果：市场「甚都没有去杀苹果的估值」，他认为这在很大程度上是在给苹果在硬件创新里的卡位定价，苹果「从设计能力到芯片到芯片，对吧？端端侧芯片低功耗芯片。是相当的全占卡位的啊」。03-19 那次他说的期权是 Siri 当 AI 代理的入口，这次说的是苹果在 AI 硬件上的卡位，角度不同，意思一样：苹果在 AI 上还没真正出手，市场已经在为它占着的位置付钱。这次没有再拿甲骨文比。〔背景〕OpenAI 在他说话前一两天推出第一款自有品牌硬件 Codex Micro，是给编程 agent Codex 用的小键盘，售价约 230 美元（Business Today，07-16；Gizmodo）。

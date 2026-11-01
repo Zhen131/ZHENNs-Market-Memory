@@ -6207,3 +6207,5 @@
 | git HUB上面 | GitHub上面 | 脑总 | 2026-07-12 Vibe Coding中的创业机会；阅读SpaceX招股书并进行估值 |
 | 达摩打蓝那本书 | 达莫达兰那本书 | 脑总 | 2026-07-12 Vibe Coding中的创业机会；阅读SpaceX招股书并进行估值 |
 | 杜军的那个 | 杜均的那个 | 脑总 | 2026-07-12 Vibe Coding中的创业机会；阅读SpaceX招股书并进行估值 |
+| 刚我们讲cpcx | 刚我们讲SpaceX | 脑总 | 2026-07-16 SpaceX、Tesla、黄金、WKL.AS、Oracle、银行、消费、生物医药、正确对待财报 |
+| 前方仓位你要不停的 | 前锋仓位你要不停的 | 脑总 | 2026-07-16 SpaceX、Tesla、黄金、WKL.AS、Oracle、银行、消费、生物医药、正确对待财报 |
