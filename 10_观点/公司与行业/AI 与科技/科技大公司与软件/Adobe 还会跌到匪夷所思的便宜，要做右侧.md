@@ -9,7 +9,8 @@ speaker: "[[脑总]]"
 said_on: 2026-03-15
 said_in:
   - "2026-03-15 黄金与美股分析、Adobe护城河危机、稳定币核心逻辑与山寨币消亡史"
-about: ["[[Adobe]]", "[[专业软件的壁垒是可视化窗口，AI 能绕过它]]", "[[下跌三分法]]", "[[最好的左侧是底部已经横了一阵]]"]
+  - "2026-08-13 科技怎么定价、股权稀释、HYPE、土地财政、特斯拉与SpaceX、黄金、软件股"
+about: ["[[Adobe]]", "[[专业软件的壁垒是可视化窗口，AI 能绕过它]]", "[[下跌三分法]]", "[[最好的左侧是底部已经横了一阵]]", "[[挑软件股拿 Adobe 当机会成本，这几家里 OpenText 最安全]]"]
 fact_check: unchecked
 snapshot: "他说话时 Adobe 正在快速创新低：3 月 12 日公布一季度业绩并宣布 CEO 将卸任，3 月 13 日收在约 249.32 美元，当天跌约 7.6%（var.gg，仅作参考）；财报前年内已跌约 19%（MarketWatch）；比 2021 年 11 月 688.37 美元的历史收盘高点低约 64%（Macrotrends，仅作参考）。按公司 2026 财年非 GAAP 每股收益指引中值 23.40 美元算，约 10.7 倍市盈率（图谱自己算的）。"
 review_on: 2027-03-15
@@ -23,9 +24,10 @@ sources:
   - "var.gg（数据网站，仅作参考），2026-03-12，ADBE FY2026-Q1 财报前后股价，https://trade.var.gg/en/earnings/ADBE/2026-03-12-fy2026-q1"
   - "Macrotrends（数据网站，仅作参考），Adobe 历史股价（历史收盘最高 688.37 美元，2021-11-19），https://www.macrotrends.net/stocks/charts/ADBE/adobe/stock-price-history"
   - "Engadget，2025-10-28，Adobe's new Photoshop AI Assistant can automate repetitive tasks，https://www.engadget.com/apps/adobes-new-photoshop-ai-assistant-can-automate-repetitive-tasks-120032017.html"
+  - "24/7 Wall St.（仅作参考），2026-06-23，Adobe Stock Poised for 35% Rebound Despite Recent Selloff，https://247wallst.com/investing/2026/06/23/adobe-stock-poised-for-35-rebound-despite-recent-selloff/"
 tags: [type/view, view/prediction, status/active]
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 > 就是跌的时候觉得它还是会继续下跌，会跌到可能会跌到一个你匪夷所思的便宜程度
@@ -75,3 +77,7 @@ updated: 2026-10-31
 〔核对〕他这一段没有引用 Adobe 的具体数字。他在同一段里说 Adobe「60%以上的业务」是 Photoshop 这类软件（转写里这半句前面的“多比”是 Adobe 的错字），查到 2024 财年整个 Creative 收入约占六成，但不只是 Photoshop，见 [[Adobe]]。
 
 **一句话记住**：看不清一家公司的生意时，就别跟下跌的趋势较劲；要么等公司自己拿出改变的证据，要么等股价几个月不再创新低。
+
+## 后来又讲过
+
+- 2026-08-13 科技怎么定价、股权稀释、HYPE、土地财政、特斯拉与SpaceX、黄金、软件股：「之前完全不买账啊，杀到了一个比较便宜的价格」「现在的话相对底部反弹了一些」。这是 03-15 那次预测五个月后的后续。这期快下播时有人问软件股怎么换仓，他说软件最恐慌的时候已经过去，可以去挑被杀得足够便宜的公司了。他说 Adobe 在积极拥抱 AI，「拥抱AI显示出来有些成效了，但市场完全不买账啊」；据他说它之前在底部时不分红、一年回购了差不多 10%，市盈率十几倍，市销率四倍（未核实）。他不再说要等右侧，而是开始拿 Adobe 当衡量别的软件股的机会成本，见 [[挑软件股拿 Adobe 当机会成本，这几家里 OpenText 最安全]]。复盘意义：方向对了。〔背景〕3 月 13 日它收在约 249 美元；6 月 23 日前后贴着一年内 190.12 美元的低点，年内跌了约 44%（24/7 Wall St.，仅作参考），比他 03-15 说话时又跌了约四分之一。他这次没有说右侧是否已经出现，也没有说这算不算「匪夷所思的便宜程度」；`outcome` 留到 2027-03-15 复盘时再填。
