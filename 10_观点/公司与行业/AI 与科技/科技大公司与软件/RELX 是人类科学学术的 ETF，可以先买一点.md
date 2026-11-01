@@ -12,19 +12,22 @@ said_in:
   - "2026-05-20 直播"
   - "2026-06-10 逃顶与做空、AI落地瓶颈、泡泡玛特、加拿大银行股"
   - "2026-06-25 日本股市、科学仪器、生物平台公司、美股代币、费哲、重啤、奈飞、小商品城、TransMedics、Zoetis，杠铃策略与足球阵型"
-about: ["[[RELX]]", "[[Veeva]]", "[[收费站式商业模式]]", "[[AI 时代数据库的壁垒最稳，工作流拿不准]]", "[[Visa]]", "[[汤森路透]]"]
+  - "2026-09-14 软件股的长期机会、颠覆与融合、找悲观共识、百事与可口、AI对冲、RELX"
+about: ["[[RELX]]", "[[Veeva]]", "[[收费站式商业模式]]", "[[AI 时代数据库的壁垒最稳，工作流拿不准]]", "[[Visa]]", "[[汤森路透]]", "[[前锋中场后卫阵型]]", "[[2020 - 全球 - 新冠疫情]]", "[[2008 - 全球 - 金融危机]]"]
 fact_check: mixed
 source_status: sourced
 sources:
   - "interactive investor（ii.co.uk），2026-02-03，Stockwatch: time to buy Relx shares after fresh plunge?，https://www.ii.co.uk/analysis-commentary/stockwatch-time-buy-relx-shares-after-fresh-plunge-ii538010"
   - "RELX，2026-02-12，RELX 2025 Results，https://www.relx.com/media/press-releases/year-2026/relx-2025-results"
   - "RELX，2026-02-12，2025 results presentation（分部调整后营业利润，只看到搜索摘要），https://www.relx.com/~/media/Files/R/RELX-Group/documents/results/results-presentations/2025-results-presentation.pdf"
+  - "RELX，2021-02-11，RELX 2020 Results，https://www.relx.com/media/press-releases/year-2021/relx-2020-results"
+  - "Reed Elsevier，2010-02，2009 results presentation，https://www.relx.com/~/media/Files/R/RELX-Group/documents/results/results-presentations/2009-results-presentation.pdf"
   - "维基百科，Elsevier，https://en.wikipedia.org/wiki/Elsevier"
   - "维基百科，House of Elzevir，https://en.wikipedia.org/wiki/House_of_Elzevir"
   - "Veeva 投资者关系，2026-03-04，Veeva Announces Fourth Quarter and Fiscal Year 2026 Results，https://ir.veeva.com/news/news-details/2026/Veeva-Announces-Fourth-Quarter-and-Fiscal-Year-2026-Results/default.aspx"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-30
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 > RELX本质上是人类科学学术的ETF。
@@ -74,3 +77,5 @@ updated: 2026-10-31
 - 2026-06-10 逃顶与做空、AI落地瓶颈、泡泡玛特、加拿大银行股：「Veeva的进攻性强一些。RELX的这个防守性强一些啊」「吃拨款的是吃拨款的」。这次有朋友请他对比 [[Veeva]] 和 RELX。他说两家都还不错：RELX 防守性强，增长要慢一些，但「壁垒确实要更高一些」。区别在客户：Veeva 的客户是在市场上赚钱的药企，「虽然他们也很赚钱」，买你的东西也要考虑自己的产出；RELX 的客户吃拨款，不考虑这个问题，「我一年上面给我拨了一个亿，我这一年要想办法把这一个钱我就要花出去」，花不出去，明年就没这么多钱了，「所以你从这个这一点上你就知道RELX是就是赚钱更稳的嘛」。他接着说盘子小的那家成长性要好一些（从上下文看指 Veeva）；据他说两家的盘子差了一个量级，一个 100 多亿、一个 30 来个亿，是营收还是利润他自己说记不清了（未核实），「这这个主要看你怎么选择了」。和 05-13、05-20 是同一个判断，这次补了一个新理由：客户的钱从哪里来。吃拨款的客户让 RELX 赚钱更稳，代价是增长慢，和 05-13 那句「弹性不会很大」是一回事。〔核对〕按收入算大致对得上：RELX 2025 年收入 95.9 亿英镑（见上面〔背景〕），折合 120 多亿美元；Veeva 截至 2026-01-31 的财年收入 31.95 亿美元（公司公告）。按利润算就对不上：RELX 调整后营业利润 33.4 亿英镑，Veeva 非 GAAP 营业利润约 14.3 亿美元。
 
 - 2026-06-25 日本股市、科学仪器、生物平台公司、美股代币、费哲、重啤、奈飞、小商品城、TransMedics、Zoetis，杠铃策略与足球阵型（比 06-10 那次晚两周）：「我觉得完全有可能啊」。这次有人问，RELX 有没有可能演化成 API 商业模式（API 是程序之间调用数据的接口）。他说完全有可能：现在跟 AI 对话时，它引用的还是很多互联网来源；「你希不希望AI少一点胡说多一点有理有据？」比如问 AI 一个医学问题，「他给你引用的是新英格兰医学柳叶刀」，你肯定希望这样。能对接到这些文献、让来源更靠谱，他说是有希望看到的，而且「这商业模式并本身呢，不是特别大的困难」。05-13 他已经说过 AI 想少乱说就得靠柳叶刀、新英格兰医学这类期刊，这次补的是一种可能的变现方式：通过接口给 AI 供文献。这和他看软件股的那把尺子是一回事，见 [[抗不抗 AI 看业务能不能 API 化]]。
+
+- 2026-09-14 软件股的长期机会、颠覆与融合、找悲观共识、百事与可口、AI对冲、RELX（比 06-25 那次晚两个半月）：「它的成长性其实不强」「回报就是业绩的可预测性非常强」。这一期前面讲一手数据时，他已经提到有人在问 RELX，把它和汤森路透、[[Reddit]] 放在一起，说这些公司的估值并没有给到很便宜。最后问答里有人问：RELX 是作为成长中场，还是稳定后卫？他答「稳定后卫，稳定后卫」（阵型说法见 [[前锋中场后卫阵型]]），优点是业务非常稳定。据他说（未核实），它历史上业绩下滑相对厉害的只有一次，是 2020 年[[2020 - 全球 - 新冠疫情|疫情]]，因为有展会业务，展会办不了；这种出不了门的极端压力测试下，营收可能也就下滑十个点；2008、2009 年的[[2008 - 全球 - 金融危机|金融危机]]里营收几乎没怎么下滑，低个位数，两三个点；平均下来，每年是个位数的匀速增长。成长可能会有一些，就是他之前讲的 AI 对它的调用会不会增长、让业绩多一些；但它的估值在他看来反映的就是不怎么增长，而这一点的可预测性比较强，这是它和功能性软件股的很大区别。**这次补的是位置和压力测试**：05-13 他说弹性不会很大，06-10 说防守性强，这次明确把它放在后卫，并拿疫情和金融危机两次压力测试说明它稳在哪里；AI 让调用增长的说法，和 05-13 说的 AI 是增强一致。〔核对〕2020 年对得上：RELX 收入 71.10 亿英镑，上一年 78.74 亿，按报告口径少了 10%，按基础口径少了 9%，其中展会收入少了 71%（RELX 2020 年业绩）。2009 年对不太上：当时还叫 Reed Elsevier，收入 60.71 亿英镑，按报告口径因汇率和收购反而多了 14%，按基础口径少了 6%；其中律商联讯基础口径少了 4%，爱思唯尔多了 4%（2009 年业绩材料）。他说的两三个点比集团的 6% 小；当时集团里还有商业杂志这类后来陆续卖掉的业务，图谱没有查它们各降了多少，口径不同可能是原因之一。

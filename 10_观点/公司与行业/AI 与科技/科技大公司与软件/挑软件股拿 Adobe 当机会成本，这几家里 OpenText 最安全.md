@@ -9,7 +9,8 @@ speaker: "[[脑总]]"
 said_on: 2026-08-13
 said_in:
   - "2026-08-13 科技怎么定价、股权稀释、HYPE、土地财政、特斯拉与SpaceX、黄金、软件股"
-about: ["[[Adobe]]", "[[OpenText]]", "[[Salesforce]]", "[[Adobe 还会跌到匪夷所思的便宜，要做右侧]]", "[[AI 时代数据库的壁垒最稳，工作流拿不准]]", "[[杜比的下游不再高增长，20 多倍市盈率不便宜]]", "[[机会成本拿各市场的本位资产来量，不拿现金]]", "[[不增长的公司，估值要更苛刻]]"]
+  - "2026-09-14 软件股的长期机会、颠覆与融合、找悲观共识、百事与可口、AI对冲、RELX"
+about: ["[[Adobe]]", "[[OpenText]]", "[[Salesforce]]", "[[Adobe 还会跌到匪夷所思的便宜，要做右侧]]", "[[AI 时代数据库的壁垒最稳，工作流拿不准]]", "[[杜比的下游不再高增长，20 多倍市盈率不便宜]]", "[[机会成本拿各市场的本位资产来量，不拿现金]]", "[[不增长的公司，估值要更苛刻]]", "[[挑软件股先看便宜和存量稳不稳，再看和 AI 融合得够不够坚决]]"]
 fact_check: mixed
 source_status: sourced
 sources:
@@ -17,6 +18,7 @@ sources:
   - "24/7 Wall St.（仅作参考），2026-06-23，Adobe Stock Poised for 35% Rebound Despite Recent Selloff，https://247wallst.com/investing/2026/06/23/adobe-stock-poised-for-35-rebound-despite-recent-selloff/"
   - "OpenText 新闻稿（Stock Titan 转载），2026-08-06，OpenText Reports Fourth Quarter and Fiscal Year 2026 Financial Results，https://www.stocktitan.net/news/OTEX/open-text-reports-fourth-quarter-and-fiscal-year-2026-financial-2ijcgov9dhzo.html"
   - "Stock Analysis（数据网站，仅作参考），2026-11-01 查，Adobe (ADBE) Stock Price History，https://stockanalysis.com/stocks/adbe/history/"
+  - "脑总 2026-09-14 软件股的长期机会、颠覆与融合、找悲观共识、百事与可口、AI对冲、RELX（未核实）"
 tags: [type/view, view/judgment, status/active]
 created: 2026-11-01
 updated: 2026-11-01
@@ -82,3 +84,7 @@ updated: 2026-11-01
 〔核对〕Adobe 回购约 10%：二季度买回约 850 万股，约占 4.02 亿稀释股数的 2.1%，按这个速度一年约 8% 到 9%；稀释股数一年少了约 6%。说「差不多10%」偏高一点，量级对得上。市盈率十几倍、市销率四倍：图谱按 6 月下旬约 190 美元、全年指引算（营收 265 亿到 266 亿美元，非 GAAP 每股收益 24.35 到 24.45 美元，GAAP 每股收益 17.90 到 18.00 美元，稀释股数约 3.99 亿），非 GAAP 约 8 倍、GAAP 约 11 倍，市销率约 2.9 倍，比他说的低；他说话时股价已经从低点反弹，图谱没查到 8 月 13 日前后的股价。数据网站显示 8 天后的 8 月 21 日收 275.30 美元（仅作参考），按这个价算 GAAP 约 15 倍、市销率约 4.1 倍，和他说的对得上，但那是他说话以后的价格，只作核对参考。OpenText 回购 6%：按旧计划一年买回约 1427 万股，约占年初股数的 5.6%，对得上；分红 4.5% 的股息率没有查到他说话那天的股价，没有核对。Salesforce 回购减少 10% 以上的流通股，没有核对。
 
 **一句话记住**：恐慌过后挑软件股，先别问它好不好，先问它比被杀便宜的 Adobe 好在哪；比不过，就不如去买 Adobe。脑总在几家候选里，只看中了不增长、但分红回购约一成的 OpenText。
+
+## 后来又讲过
+
+- 2026-09-14 软件股的长期机会、颠覆与融合、找悲观共识、百事与可口、AI对冲、RELX（比主体那次晚 32 天）：「你要跟Adobe比一下」「它有没有明显？比Adobe强很多的地方」「那你凭什么比Adobe估值贵很多啊」。这期讲挑软件股时（见 [[挑软件股先看便宜和存量稳不稳，再看和 AI 融合得够不够坚决]]），他说有人问他 Adobe，他「不太敢不太敢拍胸脯的」，当时就是把它当成这个行业的一个机会成本：它是过去软件行业的标杆公司、订阅制的开创者，现在被质疑得非常厉害，「以至于估值非常便宜」。所以考虑别的软件股时，就拿它跟 Adobe 比：比 Adobe 贵，就要去想它在面对 AI 冲击、在和 AI 融合的动作上，有没有明显比 Adobe 强很多的地方；有，贵一些是合理的，应该选确定性高得多的那家；看不出来，它凭什么比 Adobe 还贵。问答后半段他又讲了一遍：他会选自己更理解业务的公司，理解的过程中拿它跟 Adobe 对比一下，如果比 Adobe 强得极其有限，「那你凭什么比Adobe估值贵很多啊」，这是他「看待软件股的一个base」，也就是参照基准。补的是：一个月后，他把“拿 Adobe 当尺子”讲成了一条通用的规则，比它贵就要说出凭什么，而且比较的地方落在面对 AI 冲击和与 AI 融合的动作上。这次他没有再提 OpenText。他对 Adobe 本身把握不大，见 [[Adobe 还会跌到匪夷所思的便宜，要做右侧]] 文末 09-14 那一行。
