@@ -9,18 +9,20 @@ speaker: "[[脑总]]"
 said_on: 2026-02-15
 said_in:
   - "2026-02-15 美股港股A股都有哪些护城河最深的长牛股（二）"
-about: ["[[中国]]", "[[东北是中国消费的先行指标]]", "[[老龄化社会打不起仗]]"]
+  - "2026-08-06 中国资产的躁郁周期、人民币汇率、高通与边缘计算、建仓纪律、英股点评"
+about: ["[[中国]]", "[[东北是中国消费的先行指标]]", "[[老龄化社会打不起仗]]", "[[这一波中国 AI 成果，出自留学窗口关闭前的最后一批人]]"]
 fact_check: unchecked
 source_status: sourced
 sources:
   - "脑总 2026-02-15 直播（未核实）"
+  - "脑总 2026-08-06 中国资产的躁郁周期、人民币汇率、高通与边缘计算、建仓纪律、英股点评（未核实）"
   - "PBS NewsHour（美联社），2026-01-19，China's population falls again as birth rate drops to lowest since 1949，https://www.pbs.org/newshour/world/chinas-population-falls-again-as-birth-rate-drops-to-lowest-since-1949"
   - "China Daily，2021-05-12，Around 850,000 foreigners living in China（第七次全国人口普查），https://govt.chinadaily.com.cn/s/202105/12/WS609b4345498e7a02c6f6b932/china-releases-7th-population-census-data_3.html"
   - "中国政府网英文版，2025-07-30，China to offer nationwide childcare subsidies（每名三岁以下婴幼儿每年 3600 元），https://english.www.gov.cn/news/202507/30/content_WS6889e474c6d0868f4e8f48d2.html"
   - "The Star（转载《南华早报》），2025-10-07，As China's population falls, 300,000-strong robot army keeps factories humming，https://www.thestar.com.my/tech/tech-news/2025/10/07/as-chinas-population-falls-300000-strong-robot-army-keeps-factories-humming"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-01
 ---
 
 > 你指望这个中国靠开放移民来解决人口问题，那不可能的。我中国移民人口问题，我觉得无解，我觉得是无解的问题。
@@ -66,3 +68,7 @@ updated: 2026-10-30
 〔核对〕他这一段没有引用具体数字，没有要核的。〔背景〕里的出生人口、外国人数、育儿补贴、机器人安装量都是图谱查的，不是他说的。
 
 **一句话记住**：在脑总看来，人口是中国消费和资产价格绕不过去的底层变量；移民、强制生育、机器人，他都不认为能把它补回来。
+
+## 后来又讲过
+
+- 2026-08-06 中国资产的躁郁周期、人民币汇率、高通与边缘计算、建仓纪律、英股点评（比上面那次晚近六个月）：「人口不仅仅我要强调的就是人口，它不仅仅是提供生产人口」「也提供市场。对吧啊，没有没有人口了」「然后人口也提供，创新也提供创新啊」。这次没人专门问，他在讲人民币和中国资产时说长远看问题没有变，接着反驳一种说法：有了 AI、有了机器人，就不需要人口了，「人口是累赘」。他说人口不只提供生产，也提供市场：没人买东西，你生产的东西卖给谁，别人的市场也不一定允许你进去；没有人口作为需求，「你都不知道应该生产什么东西啊」。新补的一层是人口也提供创新，他说很多极度自信的人忘了这一点，例子是杨植麟这批人出自留学窗口关闭前的最后一段，见 [[这一波中国 AI 成果，出自留学窗口关闭前的最后一批人]]。02-15 讲的是机器人不消费和人口决定价值体系，这次加了“需求决定生产什么”和“人口提供创新”两层。

@@ -9,17 +9,19 @@ speaker: "[[脑总]]"
 said_on: 2026-04-09
 said_in:
   - "2026-04-09 直播"
-about: ["[[Reddit]]", "[[Reddit 的版主生态今天无法复制]]", "[[成长股要逐季跟踪，失速就先卖]]", "[[段永平]]", "[[Meta]]", "[[Robinhood]]"]
+  - "2026-08-06 中国资产的躁郁周期、人民币汇率、高通与边缘计算、建仓纪律、英股点评"
+about: ["[[Reddit]]", "[[Reddit 的版主生态今天无法复制]]", "[[成长股要逐季跟踪，失速就先卖]]", "[[段永平]]", "[[Meta]]", "[[Robinhood]]", "[[高增长别线性外推，拿同行的 ARPU 做天花板]]"]
 fact_check: consistent
 source_status: sourced
 sources:
   - "Reddit 财报新闻稿（Business Wire），2026-02-05，Reddit Reports Fourth Quarter and Full Year 2025 Results; Announces $1 Billion Share Repurchase Program，https://www.businesswire.com/news/home/20260205441801/en/Reddit-Reports-Fourth-Quarter-and-Full-Year-2025-Results-Announces-%241-Billion-Share-Repurchase-Program"
   - "道琼斯（老虎证券转载），2026-07-22，Reddit Down Nearly 10%, on Pace for Largest Percent Decrease Since October 2025（含 2025-09-18 历史最高收盘价、2026-03-27 一年最低收盘价），https://www.itiger.com/news/2653650717"
   - "StockStory（Finviz 转载），2026-01-15，Why Reddit (RDDT) Stock Is Nosediving，https://finviz.com/news/278183/why-reddit-rddt-stock-is-nosediving"
+  - "Reddit 财报新闻稿（美国证券交易委员会 8-K 附件），2026-07-30，Reddit Reports Second Quarter 2026 Results，https://www.sec.gov/Archives/edgar/data/0001713445/000171344526000098/earningspressreleaseq226.htm"
   - "Peec AI，2026-03-31，Top domains cited by AI search: Analysis based on 30M sources，https://peec.ai/blog/top-domains-cited-by-ai-search-analysis-based-on-30m-sources"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-29
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 > 确定性也没有，没没有那么高，就是不是那种……段永平说的，我能想清楚一个公司十年后。大概赚多少钱？
@@ -76,3 +78,7 @@ updated: 2026-10-31
 〔核对〕AI 引用数据源的排名：数据公司 Peec AI 2026-03-31 发的分析（3000 万条来源，美国的五个 AI 搜索平台）里，Reddit 排第一，YouTube 第二，领英第三；Reddit 排第一和他说的对得上，第二、第三和他说的顺序相反，不同机构的统计口径不同，排名也不一样，他自己也说 YouTube「好像排第三吧」。提问里的“reddit max”是什么产品，照转写抄，已问 Zhen。
 
 **一句话记住**：2026-04 初脑总觉得 Reddit 还挺不错、价格可能是击球点，但确定性没那么高、看不懂十年后，只适合跟着季报玩；两周多以后他说它确定性还比较强（算不算改口待 Zhen 定）。读 Reddit 的卡，要按日期看他的说法怎么变。
+
+## 后来又讲过
+
+- 2026-08-06 中国资产的躁郁周期、人民币汇率、高通与边缘计算、建仓纪律、英股点评（比主体那次晚近四个月）：「还是有点有一点点小贵的，有一点点小贵」「我觉得中性吧，我觉得中性吧」。这次是有人说对他的 Reddit 估值有不同意见：营收增长还在 60%，按过去十二个月算的市盈率只有 30 倍左右，静态 50 倍市盈率不适合拿来估值，他自己测算过 140 美元以下就比较便宜了。他不同意「已经是一个比较便宜的价格」这个说法。他拿同行比滚动市销率，据他说 Reddit 10.77 倍、[[Meta]] 6.75 倍、Pinterest 2.73 倍（未核实），Reddit 是高预期的公司；用户增长已经放缓，营收高增长靠的是 ARPU，而 ARPU 的上限就是 Meta，所以不能把 60% 的增速线性往后推（这套算法见 [[高增长别线性外推，拿同行的 ARPU 做天花板]]）。结论是「不能说便宜吧」，「只能说不算很贵」，「它不是肉眼可见便宜」。这次他只谈价格，没有谈确定性和用户壁垒；和上表比，估值这一栏从 04-09 的「有可能是一个击球点吧」、04-26 的“好股好价”，变成了中性略贵，10-22 他又说「估值有点贵」。〔背景〕一周前的 7 月 30 日，Reddit 公布二季报：营收增长 61%，日活增长 18%，全球 ARPU 6.18 美元（Reddit 公告）。
