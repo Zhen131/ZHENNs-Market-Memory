@@ -10,6 +10,7 @@ said_on: 2026-04-26
 said_in:
   - "2026-04-26 直播"
   - "2026-10-22 直播"
+  - "2026-11-02 直播"
 about: ["[[Reddit]]", "[[推特]]"]
 changed_from: "[[Reddit 确定性不够高，看不清它十年后的样子]]"
 fact_check: mixed
@@ -24,9 +25,12 @@ sources:
   - "Simpson Thacher，2022-10-28，Elon Musk Completes Twitter Acquisition，https://webdev.stblaw.com/about-us/news/view/2022/10/28/elon-musk-completes-twitter-acquisition"
   - "推特 8-K 附件（财报新闻稿），2022-07-22，Twitter Announces Second Quarter 2022 Results，https://www.sec.gov/Archives/edgar/data/1418091/000141809122000143/twtrq222ex991.htm"
   - "推特 8-K 附件（财报新闻稿），2022-02-10，Twitter Announces Fourth Quarter and Fiscal Year 2021 Results，https://sec.gov/Archives/edgar/data/1418091/000141809122000021/twtrq421ex991.htm"
+  - "PPC Land，2026-10-29，Reddit ad revenue gains 54% to $847M as daily users stall at 130.3M（三季度业绩与股东信里对四季度日活的提醒），https://ppc.land/reddit-ad-revenue-gains-54-to-847m-as-daily-users-stall-at-130-3m/"
+  - "Stock Analysis（数据网站，仅作参考），2026-11-07 查，Reddit (RDDT) Stock Price History（10 月 29 日、30 日收盘价），https://stockanalysis.com/stocks/rddt/history/"
+  - "Stock Analysis（数据网站，仅作参考），2026-11-07 查，Reddit (RDDT) Statistics（总股本、过去四个季度营收），https://stockanalysis.com/stocks/rddt/statistics/"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-24
-updated: 2026-11-01
+updated: 2026-11-07
 ---
 
 > 你，你错过了那个时代。你今天你想要复制一个reddit已经绝无可能。
@@ -97,3 +101,7 @@ updated: 2026-11-01
 ## 更早讲过
 
 - 2026-04-26 直播：「我觉得挺看好的，我觉得挺看好redditreddit非常独特」。那次有人问：Reddit 目前股价深度调整，能不能左侧慢慢买入，长期看好吗？他说要「控制好仓位分档对吧？分档啊，不求不求一把重仓」，因为它「有可能会宽幅振荡式上涨」；「ready的这种真的可以作为前锋式的。前锋式的股票了啊，不算是特确定性还比较强，我觉得」。估值上，据他说 2025 年营收增长 60%，利润增速哪怕只和营收持平，「peg的话，它就在一左右」，「市销率十倍左右」（未核实），「我们说peg=1，但是好股好价，这真的就好股好价」。看好的理由那时讲的是 AI：「reddit是目前来说AI引用。引用量第一的互联网平台」，在 AI 时代，有强烈真人感的东西稀缺，「那真的哎呀reddit独树一帜」；他还举了自己在北美买房、查片区情况都上 Reddit 的例子。那时他还没讲版主生态，到 2026-10-22 才讲；两次对估值的口气也不同，04-26 是「好股好价」，10-22 是「估值有点贵」。〔核对〕Reddit 公告 2025 年全年营收 22 亿美元、增长 69%（2026-02-05），他说的 60% 偏低；PEG、10 倍市销率、AI 引用量第一这次都没有查。17 天前的 2026-04-09 他还说「确定性也没有，没没有那么高」，见 [[Reddit 确定性不够高，看不清它十年后的样子]]。
+
+## 后来又讲过
+
+- 2026-11-02 直播（比上面那次晚 11 天）：「核心原因就真的还是比较贵」「对于对于贵。不宽容对贵极其不宽容」「五到6 PS，可能还有杀跌空间」「一方面担心AI冲击reddit。一方面担心AI不行了」「你还需要谨慎Reddit，我觉得也还需要谨慎」。这期开场讲完英特尔、谷歌大跌，他说接下来回答大家关心的问题，先答的就是 Reddit。他当场口算：四个季度营收 31 亿，市值 176 亿，约 5 到 6 倍市销率（据他说，未核实），「不算极端的便宜」。他之前说过这类股票有跌到 3 倍市销率的，但那是增长不好的；Reddit 跟自己过去比，市销率已经跌破了以前的低点，就只能拿同类比，他说 [[Pinterest]] 最低也跌到过 3 倍。他还说市场担心的东西自相矛盾：在半导体那一块担心 AI 不行了，在互联网这一块又担心 AI 冲击 Reddit。这次补的是条件：版主生态他没有再讲，问题仍是一个“贵”字，只是市场眼下对贵「极其不宽容」，所以 5 到 6 倍也还要谨慎；10-22 说的持有它时间是朋友，这次没有再说。对象、方向都没变，不算改口。〔背景〕Reddit 2026-10-29 公布三季度业绩：营收约 8.95 亿美元，增长 53%；日活 1.303 亿，和二季度一样。股东信说，三季度来自搜索引擎的流量明显下降，10 月平均每周又少了 100 多万次；如果这样下去，四季度总日活可能比 1.3 亿再降低双位数的百分比（PPC Land）。股价 10 月 29 日收 129.60 美元，10 月 30 日跌 29.22%，收 91.73 美元（数据网站，仅作参考）。他这次没有提日活的这个提醒。〔核对〕按 10 月 30 日收盘价和约 1.93 亿股算，市值约 177 亿美元；数据网站给的过去四个季度营收约 30.9 亿美元，市销率约 5.7 倍。他说的 176 亿、31 亿和「五点七」都对得上。
