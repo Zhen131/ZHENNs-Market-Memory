@@ -9,8 +9,9 @@ speaker: "[[脑总]]"
 said_on: 2026-03-05
 said_in:
   - "2026-03-05 美伊战争对资本市场有什么影响"
-about: ["[[美国运通]]", "[[Visa]]", "[[万事达]]", "[[支付网络靠双边效应，互联网只能当它的分销商]]"]
-fact_check: consistent
+  - "2026-10-29 直播"
+about: ["[[美国运通]]", "[[Visa]]", "[[万事达]]", "[[支付网络靠双边效应，互联网只能当它的分销商]]", "[[垄断型金融基础设施，20 倍市盈率附近就该考虑买]]"]
+fact_check: mixed
 source_status: sourced
 sources:
   - "The Statesman（IANS），2026-01-13，Amex stock plunges 4.3 pc after Trump pushes 10 pc cap on credit card rates，https://www.thestatesman.com/business/amex-stock-plunges-4-3-pc-after-trump-pushes-10-pc-cap-on-credit-card-rates-1503539733.html"
@@ -18,9 +19,12 @@ sources:
   - "Asianet Newsable，2026-02-24，Visa, Mastercard, AmEx Could Be Gutted By AI 'Agentic Commerce' Threat, Citrini Research Warns，https://newsable.asianetnews.com/markets/visa-mastercard-amex-could-be-gutted-by-ai-agentic-commerce-threat-citrini-research-warns-but-retail-traders-unfazed-by-selloff-articleshow-kmv943n"
   - "The Motley Fool（Brett Schafer），2026-03-06，Why American Express Stock Slipped 12% In March（正文说的是 2 月跌 12.3%），https://www.fool.com/investing/2026/03/06/why-american-express-stock-slipped-12-in-march/"
   - "脑总 2026-03-05 美伊战争对资本市场有什么影响（未核实）"
+  - "StockAnalysis（数据网站，仅作参考），2026-11-07 查，American Express Company (TSX:AXP) Financials（10 月 7 日市销率约 2.90），https://stockanalysis.com/quote/tsx/AXP/financials/"
+  - "CleaRank（数据网站，仅作参考），2026-11-07 查，American Express (AXP)（10 月 22 日股价 323.61 美元、市销率约 3.01），https://clearank.com/stock/american-express-axp/"
+  - "脑总 2026-10-29 直播（未核实）"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-07
 ---
 
 > 不算很贵吧，不算很贵，也不算特别便宜。应该会是后面市场一段这个相对来说会表现会要强一些的
@@ -75,3 +79,7 @@ updated: 2026-10-31
 〔核对〕提问里说的“运通最近跌了不少”：对得上，2 月跌了 12.3%，2 月 23 日一天跌 7.2%（Motley Fool、Cointelegraph）。“Visa 和万事达跌了之后立马涨上去”：2 月 23 日之后第二天几家大体企稳，Visa、万事达是不是比运通涨回得多，这一轮没有查到逐日数据。他说「不算很贵」：Motley Fool 在 3 月 6 日的文章里说，运通比高点低了约两成，市盈率回到 20 倍以下，大致对得上。他说运通「前不久涨的比较多」，没有核对是哪一段。
 
 **一句话记住**：同样是“高端客户”，市场在担心 AI 让他们丢工作，脑总看的是 AI 让他们更有钱；他据此认为运通不贵不便宜，后面会比 Visa、万事达强一些。
+
+## 后来又讲过
+
+- 2026-10-29 直播（比上面那次晚近八个月）：「不算很好的入场机会」「市销率破二是我觉得比较新的价格」「现在不算很差，但不算很有吸引力」。这次有人问，运通现在 19 倍市盈率算不算入场机会。他说还不够：据他说运通现在市销率 2.54（未核实），他觉得跌破 2 倍市销率才比较有吸引力。为什么看市销率、不看市盈率，他给了两个理由。一是运通「他有一部分业务是是是自己自己去做信用卡放贷了啊」，这一块的估值相当于银行，可能有坏账，业绩跟着周期起伏。二是利润「有时候会计会计上面是可调节的嘛」，一年里有笔大支出，成本怎么摆都会影响利润，所以「可以从营收来说的话啊，可能看的话更更更清晰一点」。还有一个更简单的办法是看五年均线：运通上涨的过程中「几乎每一年都会碰五年均线」，耐心等它回到五年均线就是了。同一段里他还讲了 Visa 这类金融基础设施 20 倍左右就该考虑买的规矩，运通因为带着放贷业务不能直接套，见 [[垄断型金融基础设施，20 倍市盈率附近就该考虑买]]。**这次补的是买点**：03-05 只说不贵不便宜，这次给了两条线，市销率破 2 或者回到五年均线；方向和 03-05 一致，不算改口。〔核对〕数据网站给的运通市销率，10 月 7 日约 2.90（StockAnalysis，仅作参考），10 月 22 日约 3.01（CleaRank，仅作参考），都比他说的 2.54 高；差别可能在营收的口径（扣不扣利息支出），他说话那天的数没有查。19 倍市盈率是提问的人说的，没有核。
