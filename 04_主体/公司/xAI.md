@@ -16,15 +16,18 @@ sources:
   - "The Peninsula，2026-02-03，SpaceX completes acquisition of xAI，https://thepeninsulaqatar.com/article/03/02/2026/spacex-completes-acquisition-of-xai"
   - "WION，2026-05-08，Musk’s xAI strikes shocking deal with rival Anthropic，https://www.wionews.com/world/elon-musk-xai-anthropic-ai-compute-deal-1778229295906"
   - "dev.ua（转述 TechCrunch），2026-05-21，Anthropic will pay xAI $1.25 billion per month for computing power，https://dev.ua/en/news/anthropic-will-pay-xai-125-billion-per-month-for-computing-power"
+  - "Mississippi Today，2026-07-31，Southaven xAI turbines deadline，https://mississippitoday.org/2026/07/31/southaven-xai-turbines-deadline/"
+  - "SELC，2026-04-14，xAI built an illegal power plant to power its data center，https://www.selc.org/news/xai-built-an-illegal-power-plant-to-power-its-data-center/"
   - "脑总 2026-05-10 直播（未核实）"
   - "脑总 2026-05-31 投资与移民中的逆向思维（未核实）"
   - "脑总 2026-07-02 Circle为什么还是币圈周期股、投资与投机的差异、AI里长周期暴露的商业模式（未核实）"
+  - "脑总 2026-11-06 直播（未核实）"
 tags:
   - type/entity
   - entity/company
   - status/draft
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-13
 ---
 
 # xAI
@@ -33,19 +36,21 @@ xAI 是[[马斯克]]的人工智能公司，做 Grok 系列大模型和同名聊
 
 ## 关键事实
 
-以下只写到 2026-05-31。
+以下只写到 2026-11-06。
 
 - 2023-07-12，马斯克宣布成立 xAI，当时的说法是要做 ChatGPT 的替代品（Data Center Knowledge 转载 Bloomberg）。
 - 2024 年，xAI 在田纳西州孟菲斯一座旧工厂里建起训练集群 Colossus，装了 10 万块[[英伟达]] H100；马斯克说从开工到上线用了 122 天（Converge Digest）。
 - 2025-03-28，马斯克宣布 xAI 以全换股的方式收购 X：xAI 作价 800 亿美元，X 作价 330 亿美元，另有约 120 亿美元债务（Fox Business）。
 - 2026-02-02，xAI 并入 SpaceX，成为它的全资子公司；这笔换股交易给合并后的公司估值约 1.25 万亿美元，其中 xAI 约 2500 亿美元（The Peninsula 等，详见 [[SpaceX]]）。
 - 2026-05-06 前后，xAI 宣布把孟菲斯 Colossus 1 数据中心的全部算力交给 [[Anthropic]] 使用，据报道是 22 万多块英伟达芯片、约 300 兆瓦（WION）。据 05-21 的报道，SpaceX 的上市文件写明 Anthropic 每月付 12.5 亿美元，租到 2029 年 5 月，头两个月有折扣，任何一方提前 90 天通知都可以解约（dev.ua 转述 TechCrunch）。
+- 给孟菲斯一带的数据中心供电，xAI 通过子公司在田纳西州孟菲斯和隔州的密西西比州绍斯黑文用拖车式燃气轮机发电，没有拿空气许可。密西西比州环保部门认为这类可移动的临时轮机一年内不需要许可，并给它们定了退役期限；环保组织 SELC 代表全国有色人种协进会认为这违反《清洁空气法》，2026 年 4 月起诉（Mississippi Today，2026-07-31；SELC，2026-04-14）。
 
 ## 脑总怎么提到它
 
 - 2026-05-31：讲大厂自建 AI 数据中心为什么比 [[CoreWeave]] 这类专门出租算力的公司安全时，他拿 xAI 作反例：「你就看你就看这个马一龙的xai了对吧？」（「马一龙」是网友对马斯克的叫法）。据他说，特斯拉自动驾驶训练要的算力和大模型「完全不是个数量级的」，马斯克自己用不了这么多，最后把 xAI 的算力拿给 Anthropic 用；推特也不是强大的现金奶牛，价值主要在「政治杠杆」。他的结论是，这个级别的科技公司「来说他自己建的话都是有风险的，那更不用说其他家了啊」（[[独立 AIDC 比房地产开发商还弱：借钱建、没预付、折旧快|他的说法]]）。同一期答微软的估值时，他拿 xAI 租给 Anthropic 的这笔账作参照，据他说「大概1 GW是500亿美金吧」，月租他说记不清了（未核实，见 [[微软这轮下跌是正常回档，现在可以买]]）。
 - 2026-05-10：讲扩张的钱从哪来时，他设想马斯克如果去做 AI 数据中心，因为 xAI 的 Colossus 1 建得漂亮，搞不好能让 [[OpenAI]] 这类客户先打款（见 [[商业模式归根到底是势能]]）。三周后他讲的是另一面：xAI 的算力最后是租出去的。两次说的不矛盾，前一次讲工程能力带来的议价势能，后一次讲自家业务消化不了算力；这是图谱放在一起看的，他没有把两次连起来讲。
 - 2026-07-02：有人问 [[Meta]] 收缩 AI 研发、把算力租出去，会不会让需求从此下降。他拿 xAI 作比：Meta 做的事「跟马一龙马一龙搞的那个x差不多吧」，「搞不动了嘛」，就把算力分出来租出去；Meta 搞出来的产品「可能还不如xai吧」。他说这和「当时xa退出。性质差不多对吧？」，都没对市场产生太多影响，所以不用怀疑 AI 的需求，只需看金融环境（[[需求再确定，债务牛市也会被外部危机腰斩|他的说法]]）。「搞不动」「退出」是他的说法（未核实）；按上面的关键事实，xAI 是把 Colossus 1 的算力租给了 Anthropic，公司本身并进了 SpaceX。
+- 2026-11-06：他说 xAI 的燃气轮机没经过空气环评就投入运行，是马斯克在德州的监管特权（据他说，未核实；查到的地点是孟菲斯和绍斯黑文，见上面的关键事实），中期选举后政治风向一变，SpaceX 受影响最明显，见 [[SpaceX 的 AI 业务吃监管特权，政治风向变了最受影响]]；他还说 xAI 在新云里有点独特，能靠星链的现金流拿到更好的融资条件，见 [[AI 中游只买几大云厂，甲骨文以下不碰]] 文末 11-06 那一行。
 - xAI 并入 SpaceX 以后，他谈 [[2026 - 美国 - SpaceX 上市|SpaceX 上市]]的看法见 [[SpaceX 上市会先爆炒，2 万亿美元以下可以先买]]。
 
 ## 各方怎么看它
