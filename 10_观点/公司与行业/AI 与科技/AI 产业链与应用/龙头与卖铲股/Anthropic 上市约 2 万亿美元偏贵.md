@@ -9,15 +9,18 @@ speaker: "[[脑总]]"
 said_on: 2026-11-02
 said_in:
   - "2026-11-02 直播"
-about: ["[[Anthropic]]", "[[Hyperliquid]]", "[[首次公开募股（IPO）]]", "[[AI 中游只买几大云厂，甲骨文以下不碰]]", "[[大模型生意没有网络效应，边际成本也不降]]", "[[稀缺新股在概念最热时上市，先爆炒再杀泡沫]]"]
+  - "2026-11-13 直播"
+about: ["[[Anthropic]]", "[[Hyperliquid]]", "[[首次公开募股（IPO）]]", "[[AI 中游只买几大云厂，甲骨文以下不碰]]", "[[大模型生意没有网络效应，边际成本也不降]]", "[[稀缺新股在概念最热时上市，先爆炒再杀泡沫]]", "[[OpenAI]]", "[[达里奥·阿莫迪]]", "[[长坡指的是时间，不是市场空间]]"]
 fact_check: consistent
 source_status: sourced
 sources:
   - "OPB（转载 NPR），2026-10-26，AI giant Anthropic files for an IPO that could break records，https://www.opb.org/article/2026/10/26/ai-giant-anthropic-files-for-an-ipo-that-could-break-records/"
   - "Crypto Briefing（加密货币新闻网站，仅作参考），2026-08-28，Anthropic's implied valuation hits $2 trillion as tokenized trading takes off，https://cryptobriefing.com/anthropic-valuation-tokenized-market-trading/"
+  - "Renaissance Capital，2026-11，Anthropic sets terms for $61 billion IPO targeting a $1.2 trillion market cap，https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap"
+  - "The Next Web，2026-11，Anthropic's IPO seeks up to $64.4B at a $1.4 trillion valuation，https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation"
 tags: [type/view, view/judgment, status/active]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-14
 ---
 
 > 在现在可能上市就20000亿了啊IPO，他已经提交招股书了
@@ -64,6 +67,12 @@ updated: 2026-11-07
 
 这个判断怕的，是增长比价格跑得还快：如果收入继续以倍数涨，今天的 2 万亿过一两年回头看也许并不贵。他自己没给价格线，也没给时间，只说要看市场调整能不能杀出满意的估值，所以这张卡按判断处理，不设复盘日。
 
+到 2026-11-13 他又补了一个理由（见文末“后来又讲过”）：估值要建在壁垒上，可大模型的壁垒他看不懂，OpenAI 领先一下子就被反超，Anthropic 的业务还高度多变，「因因此的话，我也不知道该怎么给估值」。所以这个判断还怕另一件事：要是写代码之外又找到了新场景、壁垒慢慢看清了，“估不了”就会变成“估得了”。他那次的做法是等上市之后再看。
+
 〔核对〕他说的「已经提交招股书了」，对得上：10 月 26 日公开提交。「可能上市就20000亿」，和媒体报道的 1.5 万亿到 2 万亿美元目标的上沿对得上。Hyperliquid 上最高到过 2 万亿美元：8 月下旬 Crypto Briefing 报道那里的合约折算估值超过 2 万亿美元，对得上，但这一来源只作参考。
 
 **一句话记住**：Anthropic 是这一波最热的 AI 公司之一，脑总不否认它的增长，只是觉得 2 万亿美元的上市价太贵，要等市场把它杀下来。
+
+## 后来又讲过
+
+- 2026-11-13 直播（比上面那次晚 11 天）：「这些公司肯定是。充分的price in的」「因因此的话，我也不知道该怎么给估值」「我自己倾向于等上市之后再看一看」。这期问答里有人问：当前 Anthropic 的合约可以入吗？投机拿到上市，赔率怎么样？还有朋友想让他做一个给 Anthropic 估值的案例。他说这一类公司不好估，也不需要算得很细，「一眼定胖瘦」：市场还在密集关注，肯定已经充分定价，捡不到便宜；好捡便宜的时候，是市场没那么关注的时候。然后他讲为什么估不了。估值第一点建立在壁垒上，就是知道你赚的钱大概能赚多少年；可大模型的壁垒他看不明白：2025 年之前最牛的是 [[OpenAI]]，这两年就变成了 Anthropic，「open AI好好的领着先，一下子就被反超了」。Anthropic 的 CEO 他很推崇（见 [[达里奥·阿莫迪]]），很多认知会参考他的看法，但公司的业务还高度多变：眼下找到了写代码这一个场景，到底是 Claude 胜利还是 Codex 胜利还不知道，以后还可能找到新场景，比如他说的那个能操作机器人的模型（转写作“fiber五点二”，听不清）。所以他拿不准，倾向于等上市之后再看。他还提了两个他看不清的外部变量：严格执行不让中国拿到英伟达的先进算力、严格限制蒸馏，对整个 AI 需求和对 Anthropic 会有多大影响。**这次补了两层**：一是除了 11-02 说的“价格贵”，又加了“壁垒看不懂、估不了”这个理由；二是做法从“等市场调整杀出满意的估值”具体成“等上市之后再看”，对上市前用合约去赌上市没有给正面回答。方向一样，都是不追，不算改口；已并进上面“这个判断靠什么、怕什么”一节。估值靠壁垒、业务稳定才估得清这一层道理，见 [[长坡指的是时间，不是市场空间]] 文末 11-13 那一行。〔背景〕他说话前，Anthropic 11 月 10 日提交了修改后的招股书：发行 8.25 亿股 A 类股，预计每股 70 到 78 美元，在纳斯达克上市、代码 ANT；按这个区间算，媒体报道的上市市值约 1.2 万亿到 1.4 万亿美元（Renaissance Capital、The Next Web），比 11-02 他说的 2 万亿低。〔核对〕2025 年之前最牛的是 OpenAI、这两年变成 Anthropic，是他的看法，这次没有拿市场份额数据去核。

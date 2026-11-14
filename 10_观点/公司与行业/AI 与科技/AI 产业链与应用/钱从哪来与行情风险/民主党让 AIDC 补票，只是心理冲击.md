@@ -9,16 +9,18 @@ speaker: "[[脑总]]"
 said_on: 2026-11-09
 said_in:
   - "2026-11-09 直播"
-about: ["[[2026 - 美国 - 中期选举]]", "[[SpaceX]]", "[[xAI]]", "[[特朗普]]", "[[SpaceX 的 AI 业务吃监管特权，政治风向变了最受影响]]", "[[AI 中游只买几大云厂，甲骨文以下不碰]]", "[[川普丢了国会，人为制造的大跌买点会变少]]", "[[费城半导体可能回调到 20 季度线，先别急着建仓]]", "[[美国制造业回流不了，难在审批、司法和社区，不在工人]]"]
+  - "2026-11-13 直播"
+about: ["[[2026 - 美国 - 中期选举]]", "[[SpaceX]]", "[[xAI]]", "[[特朗普]]", "[[SpaceX 的 AI 业务吃监管特权，政治风向变了最受影响]]", "[[AI 中游只买几大云厂，甲骨文以下不碰]]", "[[川普丢了国会，人为制造的大跌买点会变少]]", "[[费城半导体可能回调到 20 季度线，先别急着建仓]]", "[[美国制造业回流不了，难在审批、司法和社区，不在工人]]", "[[AI 上游的暴利于外于内都开始被反噬]]"]
 fact_check: unchecked
 source_status: sourced
 sources:
   - "NPR（OPB 转载），2026-11-04，Democrats win full control of Congress, ushering in a new era of divided government，https://www.opb.org/article/2026/11/04/2026-midterms-democrats-win-the-senate/"
   - "Gotrade News，2026-11-06，SpaceX Stock (SPCX) Falls 9.0% on Midterm Regulation Worries (Nov 5)，https://www.heygotrade.com/en/news/spacex-spcx-stock-news-november-6-2026/"
   - "The National News Desk（WJLA 转载），2026-01-16，Added costs from data centers adds to affordability debate for midterms，https://wjla.com/news/nation-world/added-costs-from-data-centers-adds-to-affordability-debate-for-midterms-artificial-intelligence-big-tech-utility-bill-electricity"
+  - "Deseret News，2026-09-30，Bill to crack down on data centers fails in Senate，https://www.deseret.com/politics/2026/09/30/bill-crack-down-data-center-fails-in-senate/"
 tags: [type/view, view/judgment, status/active]
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 > 现在情况就是属于在在纠正纠正这些东西啊，在纠正这些对于行业来说的话，有一点心理层面上的冲击。我觉得只是这块，只是心理层面上的冲击。
@@ -70,3 +72,7 @@ updated: 2026-11-13
 〔核对〕SpaceX 燃气轮机没过空气环评：11-06 那张卡查过，报道里 xAI 的燃气轮机在田纳西州孟菲斯和密西西比州绍斯黑文，环保组织说它违反《清洁空气法》，密西西比州环保部门认为可移动的临时设备一年内不需要空气许可；这次他没有说地点。民主党具体会怎么限制 AIDC，他没有说，图谱这次也没有查到选后民主党的具体提案。
 
 **一句话记住**：民主党上台后让 AIDC 补环评、补电费，在脑总看来是纠正之前的先上车后补票，对 AI 基建只是心理冲击；但这不等于半导体现在可以放心买。
+
+## 后来又讲过
+
+- 2026-11-13 直播（比主体那次晚四天）：「另外一块是于内，于内是什么呢？就是。这个。就我们讲的AIDC的建设对吧？」「肯定不会说停建。但是大资本肯定是需要拿出更多的利益。来跟当地的这些小业主。来做交换」「那肯定就是股东股东赚到钱。就会少一些了」「板块过去的暴利。会让出一些，会让出一些」。这次他讲 AI 上游的暴利「于外于内」都开始被反噬，「于内」就是民主党要放缓、重新审议 AIDC 的建设。他说民间反对的人并不多，因为 AIDC 大干快上时没和当地分好利益；小业主跟万亿市值的公司打官司力量不对等，只能指望政府，而政府过去两年偏向大资本，现在政治变了，会偏向小业主。**这次口气比主体那次重了**：11-09 他说对行业只是心理层面的冲击；这次他仍说不会停建，但大资本要拿出更多利益来交换，股东赚的会少，板块的暴利要让出一些。对象（民主党纠正 AIDC）和方向（纠正、不停建）没变，变的是他认为代价会真落到股东身上，所以算补了代价，不算改口。详见 [[AI 上游的暴利于外于内都开始被反噬]]。〔背景〕选前民主党人多数不赞成全国暂停新建数据中心，要的是让数据中心自己付电网升级的钱：9 月底参议院民主党人挡下共和党一份相关法案，理由就是它只“建议”、不“要求”数据中心付钱（Deseret News，2026-09-30）。

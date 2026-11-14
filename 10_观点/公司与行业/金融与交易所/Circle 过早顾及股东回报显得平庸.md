@@ -9,7 +9,8 @@ speaker: "[[脑总]]"
 said_on: 2026-10-22
 said_in:
   - "2026-10-22 直播"
-about: ["[[Circle]]"]
+  - "2026-11-13 直播"
+about: ["[[Circle]]", "[[Visa]]", "[[熊市里巨头补贴抢利息，Circle 会被双杀]]", "[[三只币圈杠杆股：Circle 弹性最大，微策略先见底]]"]
 fact_check: consistent
 source_status: sourced
 sources:
@@ -18,9 +19,12 @@ sources:
   - "StockTitan，2026-08，Circle Internet Group 8-K 摘要，https://www.stocktitan.net/sec-filings/CRCL/8-k-circle-internet-group-inc-reports-material-event-75758181111c.html"
   - "Schwab Network，2026-08-03，Chart of the Day 8-3-26: CRCL，https://schwabnetwork.com/video/chart-of-the-day-8-3-26-crcl"
   - "Google Finance（数据网站，仅作参考），2026-10 上旬，CRCL 行情页（52 周最低价），https://www.google.com/finance/labs/quote/CRCL:NYSE"
+  - "The Defiant，2026-09，Circle launches Arc mainnet with BlackRock, DTCC and Visa producing blocks，https://thedefiant.io/news/blockchains/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-producing-blocks"
+  - "BeInCrypto，2026-09，Is Being Indian a Fraud Signal? Arc Traders Sold Like It Is，https://beincrypto.com/does-crypto-fraud-have-nationality-arc-mainnet/"
+  - "Crypto Times，2026-09-17，Quiet racism in crypto gets obvious during Circle's Arc mainnet launch，https://www.cryptotimes.io/2026/09/17/quiet-racism-in-crypto-gets-obvious-during-circles-arc-mainnet-launch/"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-24
-updated: 2026-11-01
+updated: 2026-11-14
 ---
 
 > 这么就开始投考虑投资的回报，我觉得。反倒不是对投资者。好的，负责的这种企业家态度足够好吧，不不足够好。
@@ -53,6 +57,8 @@ updated: 2026-11-01
 
 他给的标准很具体：「我希望看到是每年每年一倍，每年一倍」，USDC 的发行量「以每年翻了倍的速度增长」，「这才是一个有有足够的这个侵略性的团队嘛」。最后他说：「其他其他看法不变哈，其他看法还是不变。」也就是说，这一期只补了这一点，他此前对 Circle 的其他判断没有改。
 
+**到 11-13，他把“该怎么激进”说具体了。** 他还是那句：「我我我对他很不满意的一点，就是他不够激进」。这次多了三层。一是政策并没有挡住它：「只是说不允许你直接发利息，没有说不允许你别的平台帮你发利息啊」。二是钱该在什么时候撒：「那更多的应该把赚的这些利息在熊市里面。都撒出去作为营销费用」，换发行量和市场份额，「牛市里面就是收获」；「就他们这种应该追求这个规模至上啊」，像互联网那样先做规模。三是为什么非做规模不可：它现在的生意是拿用户的钱去买国债吃息，「你要是这个商业模式的话，你跟银行一样吗？那银行啥估值？你啥估值啊？」；市场给它科技股的估值，是预期「你最终会变成Visa那样的牛逼」，要走到那一步、从交易里抽佣金，得先有极强的网络效应。他说它上市以后「还是很看重很看重二级市场的看法」，「他们应该学一学中国企业家」。
+
 ### 拿什么来对照
 
 把他要的和 Circle 说的、做的放在一起看：
@@ -77,3 +83,7 @@ updated: 2026-11-01
 〔核对〕股价的底：数据网站显示 Circle 过去 52 周的最低价约 49.9 美元，和他说的「最低的时候 50」对得上；Schwab Network 8 月 3 日的图表点评把 58 美元左右看作支撑位，10 月上旬股价在 80 多美元，和他说的 60、80 大致对得上。
 
 **一句话记住**：Circle 没有在分红或回购。脑总说它过早顾及股东回报，指的是它留着利润、在意华尔街的看法，增长只有 19%，离他要的每年翻倍差得远。
+
+## 后来又讲过
+
+- 2026-11-13 直播（比 10-22 那次晚三周）：「我我我对他很不满意的一点，就是他不够激进」「那更多的应该把赚的这些利息在熊市里面。都撒出去作为营销费用」「市场规模在熊市里面，这个这个熊市里面一直没有扩大」。这是这一期最后一题，有人问 Coinbase 和 Circle 哪个弹性更高、Circle 的代币 Arc 安全吗。弹性那一半见 [[三只币圈杠杆股：Circle 弹性最大，微策略先见底]] 文末 11-13 那一行。**这次补了两样。**一是怎么激进：政策只禁直接发息、没禁别的平台帮它发；熊市把利息撒出去换规模，牛市收获；不做大规模，就只是一家估值该像银行的公司，撑不起市场预期它变成 [[Visa]] 的科技股估值（已并进上面“他怎么说”一节的最后一段）。和他 07-02 说的熊市里巨头补贴抢利息会让 Circle 被双杀（见 [[熊市里巨头补贴抢利息，Circle 会被双杀]]）对着看：那次担心的是别人在熊市里撒钱，这次他要 Circle 自己先撒。二是 Arc：「circle的代币不是很安全，不确定性非常大」，据他说他看到币圈爆出来，Arc「好像外包给了一些印度的开发者」，「被币圈嘲笑说像草台班子」，「上面的生态做的好像也一般」。外包印度开发者是他转述的币圈传闻，他自己用的是「好像」。〔背景〕Circle 的公链 Arc 2026 年 9 月 16 日上了公开主网，贝莱德、DTCC、Visa 等机构做验证节点（The Defiant）。主网发布直播里出现了南亚开发者的画面，一些交易者因此抛售链上代币，几家币圈媒体批评这是偏见，并说画面里的人不是 Circle 员工，主网也没有出过漏洞或宕机（BeInCrypto、Crypto Times）。〔核对〕本次没有查到 Arc 外包给印度开发者的报道；查到的是上面那场直播引出的争议，他说的“币圈嘲笑”可能指这件事，这是图谱的推论。

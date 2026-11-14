@@ -14,15 +14,18 @@ sources:
   - "Intelligent CIO（转载 AMD 公告），2025-10-06，AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs，https://www.intelligentcio.com/north-america/2025/10/06/amd-and-openai-announce-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus/"
   - "Technobezz，2026-05（页面未注明具体日期），AMD Shares Surge 16 Percent After Q1 Revenue Hits $10.25 Billion on AI Demand，https://www.technobezz.com/news/amd-shares-surge-16-percent-after-q1-revenue-hits-1025-billion-on-ai-demand"
   - "SiliconANGLE，2025-12-08，Trump agrees to let Nvidia sell more powerful H200 GPUs to Chinese companies，https://siliconangle.com/?p=724403"
+  - "The Next Platform，2026-09-29，AMD Buys World Labs For $8.2 Billion To Get AI Model Cred，https://www.nextplatform.com/ai/2026/09/29/amd-buys-world-labs-for-82-billion-to-get-ai-model-cred/5299801"
+  - "Trefis，2026-11-07，Why Did AMD Stock Jump?（2026 年三季度数据中心收入），https://www.trefis.com/stock/amd/articles/623723/why-did-amd-stock-jump-2/2026-11-07"
   - "脑总 2026-03-19 手机的AIOS终端价值、逆向思维看宏观、财务指标分析企业质地（未核实）"
   - "脑总 2026-05-07 直播（未核实）"
   - "脑总 2026-07-02 Circle为什么还是币圈周期股、投资与投机的差异、AI里长周期暴露的商业模式（未核实）"
+  - "脑总 2026-11-13 直播（未核实）"
 tags:
   - type/entity
   - entity/company
   - status/draft
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-14
 ---
 
 # AMD
@@ -37,10 +40,13 @@ AMD 设计芯片，自己不造，交给[[台积电]]这类代工厂生产。它
 - 2025 年 10 月 6 日，AMD 和 OpenAI 宣布合作：OpenAI 分几代部署共 6 吉瓦的 AMD Instinct GPU，第一批 1 吉瓦的 MI450 计划 2026 年下半年开始部署；AMD 给 OpenAI 最多可认购 1.6 亿股 AMD 普通股的认股权证，按部署进度分批生效（AMD 公告）。
 - 2025 年 12 月 8 日特朗普宣布允许英伟达向审批过的中国客户卖 H200 时，也说 AMD、英特尔等公司可以向部分中国客户卖类似的芯片（SiliconANGLE）。
 - 2026 年第一季度营收 102.5 亿美元，财报公布后股价大涨约 16%（Technobezz）。
+- 2026 年 9 月 28 日，AMD 宣布用全部股票、约 82 亿美元收购[[李飞飞]]创办的世界模型公司 World Labs，李飞飞出任 AMD 执行副总裁兼首席科学家；World Labs 2 月融资时估值约 50 亿美元（The Next Platform）。
+- 2026 年第三季度（11 月 3 日公布）数据中心收入 85 亿美元，同比涨 97%，约占总收入的 64%（Trefis）。
 - [[黄仁勋]]创办英伟达之前，1984 到 1985 年在 AMD 工作过（英伟达官网，见黄仁勋卡）。
 
 ## 脑总怎么提到它
 
+- 2026-11-13（黄仁勋辞任公告之前那场直播）：他说黄仁勋这场风波「可能会利好AMD」，AMD 的份额也许会大一点点，中国那块算力退潮对它影响也小；但他「拿不准」AMD 的股价，因为他觉得黄仁勋比苏姿丰厉害得多，AMD 最近的连续上涨也已经在体现这个预期。见 [[英伟达逆风利好 AMD 份额，他拿不准 AMD 股价]]。
 - 2026-07-02：有人问 AMD 算不算投机，他说「当前这些跟算力相关的芯片，现在已经是高比较高度的投机性了」，接着解释各家大厂都在想办法越过英伟达的 CUDA，英伟达则希望大模型越多越乱越好，见 [[英伟达盼大模型混战，模型厂一强就想绕开它]]。他没有单独评价 AMD 这家公司。
 - 2026-05-07：讲补涨时他说 AMD 也开始拉起来了，把它和诺基亚、阿斯麦一起当作补涨的例子，见 [[市场进入补涨交易，贵的龙头交易拥挤]]。
 - 2026-03-19：有人问 AI 美股是买英伟达、AMD、博通还是别的，他说眼下 AI 美股只能当投机做，见 [[投资和投机是两套打法]]。
