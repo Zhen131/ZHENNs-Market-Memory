@@ -19,12 +19,13 @@ sources:
   - "The Defiant，2026-09，Circle launches Arc mainnet with BlackRock, DTCC and Visa producing blocks，https://thedefiant.io/news/blockchains/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-producing-blocks"
   - "BeInCrypto，2026-09，Is Being Indian a Fraud Signal? Arc Traders Sold Like It Is，https://beincrypto.com/does-crypto-fraud-have-nationality-arc-mainnet/"
   - "脑总 2026-11-13 直播（未核实）"
+  - "脑总 2026-11-16 直播（未核实）"
 tags:
   - type/entity
   - entity/company
   - status/draft
 created: 2026-10-24
-updated: 2026-11-14
+updated: 2026-11-16
 ---
 
 # Circle
@@ -40,6 +41,7 @@ Circle 发行美元[[稳定币]] USDC，已经上市。它最主要的对手是 
 - 2026-07-02：这一期他用一大段讲 Circle。一是周期：它未必和比特币一起见底，「更多的是跟山寨币的周期走的」，因为稳定币是币圈打新的入场券，赚钱效应在山寨币那一段；他也说自己还没完全想清楚（[[Circle 是币圈周期股，跟的是山寨币周期|他的说法]]）。二是护城河：[[Stripe]] 等巨头 2026-06-30 宣布推出稳定币 Open USD 以后，他认为巨头大概率挤不进币圈；据他说 USDC 在 DeFi 里的份额可能有四五十%，它用协议绑着 [[Coinbase]]，一半利息收入分给 Coinbase，这是公司净利润惨淡的核心原因（[[巨头发稳定币挤不进币圈，Circle 护城河在圈内|他的说法]]）。三是熊市：用户为多一个点利息就会换别家稳定币，巨头补贴会让它连熊市的「低保」都吃不到，形成业绩和估值的双杀（[[熊市里巨头补贴抢利息，Circle 会被双杀|他的说法]]）。
 - 2026-10-22 直播时，股价的底在抬高（最低 50，后来 60、80），顶在降低，波动越来越小。
 - 2026-11-13：他说 Circle 比 [[Coinbase]] 弹性更高，Coinbase 确定性更高（[[三只币圈杠杆股：Circle 弹性最大，微策略先见底|他的说法]]）。他对它最不满意的还是不够激进：政策只禁直接发息、没禁别的平台帮它发，它该在熊市把利息撒出去换规模；不做大规模，就只是一家估值该像银行的公司（[[Circle 过早顾及股东回报显得平庸|他的说法]]）。他还说 Arc「不是很安全」，据他说币圈传 Arc 好像外包给了印度开发者、被嘲笑像草台班子，上面的生态也一般（未核实；本次没查到外包的报道）。
+- 2026-11-16：他说 Circle 整体「中规中矩」，跌回 50 左右是相对底部，可以开始建仓（[[Circle 的底还会慢慢盘整，建仓要拉长|他的说法]]）；USDC 的发行量和币圈牛熊高度相关，2025 年靠和[[币安]]合作、在 Solana 上的增长吃到了 USDT 的一些份额，2026 年份额基本持平；在好行业里算有进取心，但离“风林火山”式的扩张还差得远；不让它直接给持有人付息，是传统金融在抵抗新技术（[[Circle 过早顾及股东回报显得平庸|他的说法]]）。
 
 ## 各方怎么看它
 

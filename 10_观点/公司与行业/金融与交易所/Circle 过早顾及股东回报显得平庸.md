@@ -10,6 +10,7 @@ said_on: 2026-10-22
 said_in:
   - "2026-10-22 直播"
   - "2026-11-13 直播"
+  - "2026-11-16 直播"
 about: ["[[Circle]]", "[[Visa]]", "[[熊市里巨头补贴抢利息，Circle 会被双杀]]", "[[三只币圈杠杆股：Circle 弹性最大，微策略先见底]]"]
 fact_check: consistent
 source_status: sourced
@@ -22,9 +23,13 @@ sources:
   - "The Defiant，2026-09，Circle launches Arc mainnet with BlackRock, DTCC and Visa producing blocks，https://thedefiant.io/news/blockchains/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-producing-blocks"
   - "BeInCrypto，2026-09，Is Being Indian a Fraud Signal? Arc Traders Sold Like It Is，https://beincrypto.com/does-crypto-fraud-have-nationality-arc-mainnet/"
   - "Crypto Times，2026-09-17，Quiet racism in crypto gets obvious during Circle's Arc mainnet launch，https://www.cryptotimes.io/2026/09/17/quiet-racism-in-crypto-gets-obvious-during-circles-arc-mainnet-launch/"
+  - "美国国会研究处（CRS），2026-03-06，IF13174（GENIUS 法案禁止合规发行方向持有人付息，未明确禁止交易所付奖励），https://www.everycrsreport.com/files/2026-03-06_IF13174_7540209d30cc9c7b46ac59d7881a7f8083a31e3f.pdf"
+  - "CLS Blue Sky Blog（哥伦比亚大学法学院），2025-12-11，Circle, Coinbase, and the Prohibition on Interest Under the GENIUS Act，https://clsbluesky.law.columbia.edu/2025/12/11/circle-coinbase-and-the-prohibition-on-interest-under-the-genius-act/"
+  - "Spark（研究网站，仅作参考），2026，USDT vs USDC: Market Share Dynamics and the Battle for Stablecoin Dominance，https://www.spark.money/research/stablecoin-competitive-dynamics-usdt-usdc"
+  - "CoinGape（引 DefiLlama，仅作参考），2026-10，USDT Hits $183B and USDC Holds $73B as No Other Stablecoin Breaks the $5B Mark，https://coingape.com/usdt-hits-183b-and-usdc-holds-73b-as-no-other-stablecoin-breaks-the-5b-mark/"
 tags: [type/view, view/judgment, status/active]
 created: 2026-10-24
-updated: 2026-11-14
+updated: 2026-11-16
 ---
 
 > 这么就开始投考虑投资的回报，我觉得。反倒不是对投资者。好的，负责的这种企业家态度足够好吧，不不足够好。
@@ -59,6 +64,8 @@ updated: 2026-11-14
 
 **到 11-13，他把“该怎么激进”说具体了。** 他还是那句：「我我我对他很不满意的一点，就是他不够激进」。这次多了三层。一是政策并没有挡住它：「只是说不允许你直接发利息，没有说不允许你别的平台帮你发利息啊」。二是钱该在什么时候撒：「那更多的应该把赚的这些利息在熊市里面。都撒出去作为营销费用」，换发行量和市场份额，「牛市里面就是收获」；「就他们这种应该追求这个规模至上啊」，像互联网那样先做规模。三是为什么非做规模不可：它现在的生意是拿用户的钱去买国债吃息，「你要是这个商业模式的话，你跟银行一样吗？那银行啥估值？你啥估值啊？」；市场给它科技股的估值，是预期「你最终会变成Visa那样的牛逼」，要走到那一步、从交易里抽佣金，得先有极强的网络效应。他说它上市以后「还是很看重很看重二级市场的看法」，「他们应该学一学中国企业家」。
 
+**到 11-16，他给了一个定位。** 有人请他分析 Circle，他说整体「中规中矩吧」。据他说他查了份额（未核实）：2025 年 USDC 的份额有增长，吃到了 USDT 的一些份额，一靠和[[币安]]的合作，二靠在 Solana 上的增长；2026 年「它的市场份额没怎么变，跟着整个市场盘子一起在掉。但是份额保持稳定」。在他看来，它「还能够缓慢的去吃一些usdt的市场」，算「一个好行业里面还有一些进取型的公司」，但离他心里最好的投资还差一截：「最好投资就是爆发式增长的牛逼行业，对吧？里面爆发式增长的。极其有进取心的」团队，「极其有侵略性风林风林火山一样的扩张啊」；Circle「这口这个属于在里面一般的」。政策也拖了后腿：不让它直接给 USDC 持有人发息，「不能直接给你发利息」，只能通过币安这些大平台发，他说这是「传统金融对新技术的抵抗」，不过「但抵抗的不是特别有效果啊」。所以买它，能吃到币圈的贝塔，团队在牛市里「还能够稍微给你创造一点点市场份额提升」。
+
 ### 拿什么来对照
 
 把他要的和 Circle 说的、做的放在一起看：
@@ -87,3 +94,4 @@ updated: 2026-11-14
 ## 后来又讲过
 
 - 2026-11-13 直播（比 10-22 那次晚三周）：「我我我对他很不满意的一点，就是他不够激进」「那更多的应该把赚的这些利息在熊市里面。都撒出去作为营销费用」「市场规模在熊市里面，这个这个熊市里面一直没有扩大」。这是这一期最后一题，有人问 Coinbase 和 Circle 哪个弹性更高、Circle 的代币 Arc 安全吗。弹性那一半见 [[三只币圈杠杆股：Circle 弹性最大，微策略先见底]] 文末 11-13 那一行。**这次补了两样。**一是怎么激进：政策只禁直接发息、没禁别的平台帮它发；熊市把利息撒出去换规模，牛市收获；不做大规模，就只是一家估值该像银行的公司，撑不起市场预期它变成 [[Visa]] 的科技股估值（已并进上面“他怎么说”一节的最后一段）。和他 07-02 说的熊市里巨头补贴抢利息会让 Circle 被双杀（见 [[熊市里巨头补贴抢利息，Circle 会被双杀]]）对着看：那次担心的是别人在熊市里撒钱，这次他要 Circle 自己先撒。二是 Arc：「circle的代币不是很安全，不确定性非常大」，据他说他看到币圈爆出来，Arc「好像外包给了一些印度的开发者」，「被币圈嘲笑说像草台班子」，「上面的生态做的好像也一般」。外包印度开发者是他转述的币圈传闻，他自己用的是「好像」。〔背景〕Circle 的公链 Arc 2026 年 9 月 16 日上了公开主网，贝莱德、DTCC、Visa 等机构做验证节点（The Defiant）。主网发布直播里出现了南亚开发者的画面，一些交易者因此抛售链上代币，几家币圈媒体批评这是偏见，并说画面里的人不是 Circle 员工，主网也没有出过漏洞或宕机（BeInCrypto、Crypto Times）。〔核对〕本次没有查到 Arc 外包给印度开发者的报道；查到的是上面那场直播引出的争议，他说的“币圈嘲笑”可能指这件事，这是图谱的推论。
+- 2026-11-16 直播（比 11-13 那次晚三天）：「中规中矩吧」「一个好行业里面还有一些进取型的公司」「这口这个属于在里面一般的」「传统金融对新技术的抵抗」。有人问能不能分析一下 Circle。他先说这个点上可以开始建仓（见 [[Circle 的底还会慢慢盘整，建仓要拉长]] 文末 11-16 那一行），然后讲定位：USDC 的发行量和牛熊高度相关（和 [[Circle 是币圈周期股，跟的是山寨币周期]] 同向）；份额 2025 年涨、2026 年持平（据他说，未核实）；在好行业里算有进取心，但比起「风林风林火山一样的扩张」只算一般；政策不让它直接给持有人发息，「也略微也低于我的预期」。比起币圈「八八字八字没一撇，正在讲故事的」，它强得多；比起很多估值很贵的科技股，他觉得也还过得去。**这次补了三样**：一个“中规中矩、一般”的定位；最好的投资是什么样（爆发行业里极有进取心的团队）；不让直接付息是传统金融在抵抗（已并进上面“他怎么说”一节的最后一段）。这和 10-22、11-13 说的不够激进是同一个意思，这次换成拿最好的投资来比。〔背景〕2025 年 7 月 18 日签署的 GENIUS 法案，禁止合规的稳定币发行方因为用户持有、使用稳定币而向他们支付利息或收益；美国国会研究处说，法律没有明确禁止交易所给持有稳定币的用户发奖励（CRS，2026-03-06）。Circle 把储备收益分给 Coinbase，Coinbase 再给用户发“奖励”，有法学评论认为这和法案的精神有冲突（CLS Blue Sky，2025-12-11）。〔核对〕份额：一份研究网站的数据说，到 2026 年 7 月，USDT 的份额同比降了约 3 个百分点到约 59%，USDC 从约 21% 升到约 24%（Spark，仅作参考）；DefiLlama 10 月 17 日的数据是 USDT 约 1834 亿美元、占约 60.6%，USDC 约 727 亿美元（CoinGape 转引，仅作参考）。这和他说的 USDC 在吃 USDT 的份额同向，但这些数据没有把 2025 年和 2026 年分开，他说的“2026 年份额持平、盘子在掉”这次没有核清。

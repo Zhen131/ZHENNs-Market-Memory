@@ -15,12 +15,14 @@ sources:
   - "Crypto Briefing，2026-11-02，Nvidia, Micron and Reddit join 50 companies opposing OKX-ICE stock tokenization，https://cryptobriefing.com/stock-tokenization-controversy-okx-ice/"
   - "脑总 2026-02-09 如何看待当前黄金价格并建立投资体系（未核实）"
   - "脑总 2026-11-06 直播（未核实）"
+  - "The Block，2023-12，OKX DEX suffers apparent $2.7 million exploit following suspected private key leak，https://www.theblock.co/post/267405/okx-dex-suffers-apparent-2-7-million-exploit-following-suspected-private-key-leak"
+  - "脑总 2026-11-16 直播（未核实）"
 tags:
   - type/entity
   - entity/company
   - status/draft
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-16
 ---
 
 # OKX
@@ -37,6 +39,7 @@ OKX 是一家加密货币交易所，中文名欧易，原名 OKEx，2022 年改
 
 - 2026-02-09：讲比特币不如黄金匿名时，据他说，OKX 当初专门成立了一家公司，帮中国政府分析链上记录（未核实；见 [[黄金比比特币更匿名、更持久，总优势更大|他的说法]]）。
 - 2026-11-06：有人问 OKXICE 的股票代币被 50 家上市公司抵制，他说大公司不缺流动性、代币对它们没好处，还担心薄流动性的代币被人拿来放大美股的下跌（[[股票代币流动性薄，可能被用来放大美股恐慌|他的说法]]）。同一题里他说，加密货币交易所里「就只有OK，还没被盗过了」（据他说，未核实；见 [[链上美股可以关注，先看底层资产靠不靠谱]] 文末 11-06 那一行）。
+- 2026-11-16：有人在 OKX 上定投微策略的股票代币、再提到冷钱包，问是不是除非 OKX 倒了才有风险。他说 OKX 的安全在各交易所里做得最好，至今没遭遇过很大的盗币事件（据他说，未核实），这种大交易所倒掉的风险没那么高；股票代币真正要看的是发行方的协议、上市公司认不认（[[链上美股可以关注，先看底层资产靠不靠谱|他的说法]]，见文末 11-16 那一行）。
 
 ## 各方怎么看它
 
@@ -45,7 +48,7 @@ OKX 是一家加密货币交易所，中文名欧易，原名 OKEx，2022 年改
 ## 仍需确认的部分
 
 - OKX 的成立年份：2013 年是它前身 OKCoin 的起点，还是 OKX 本身，来源说法不一，本卡两种都写了出处。
-- 他说 OKX 从没被盗过，这次没有查；它历史上有没有资金被盗的事件，待核。
+- 他说 OKX 从没被盗过：2026-11-16 查到的只有 2023 年 12 月它的去中心化交易产品 OKX DEX 因私钥疑似泄露被盗，报道约 270 万美元（The Block）；交易所本身有没有大额被盗，还没有查全。
 - 他说 OKX 成立公司帮中国政府分析链上记录，没有查到来源。
 
 **一句话记住**：OKX 是和币安同一代的大交易所，2025 年在美国认罪付了约 5 亿美元；2026 年它想把美股做成 7×24 小时的代币，被大多数上市公司反对。

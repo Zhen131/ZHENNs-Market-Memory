@@ -15,12 +15,15 @@ sources:
   - "Techleap，2025-03，CoreWeave files for IPO（2024 年收入 19.2 亿美元），https://finder.techleap.nl/news/feed/coreweave-files-for-ipo-1-92b-revenue"
   - "脑总 2026-05-16 直播（未核实）"
   - "脑总 2026-05-07 直播（未核实）"
+  - "CoreWeave 公告，2026-11-10，CoreWeave Reports Strong Third Quarter 2026 Results，https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx"
+  - "Let's Data Science（新闻汇总，仅作参考），2026-11，CoreWeave Beats Q3 Revenue Estimates, Raises 2026 Guidance, Backlog Hits $132.5B（转述 CNBC），https://letsdatascience.com/news/coreweave-beats-q3-revenue-estimates-raises-2026-guidance-ba-f4170a31"
+  - "脑总 2026-11-16 直播（未核实）"
 tags:
   - type/entity
   - entity/company
   - status/draft
 created: 2026-10-30
-updated: 2026-11-01
+updated: 2026-11-16
 ---
 
 # CoreWeave
@@ -32,9 +35,11 @@ CoreWeave 自己不做大模型，也不像[[微软]]、谷歌那样有自家的
 - **起家**：2017 年在美国新泽西以 Atlantic Crypto 的名字成立，用英伟达 GPU 挖以太坊；后来改名 CoreWeave，把手里的 GPU 转去做云算力（维基百科，仅作参考；改名年份各处说法不一）。
 - **上市**：2025 年 3 月 28 日在纳斯达克挂牌，代码 CRWV，发行价 40 美元，募资约 15 亿美元，比原计划缩了规模，首日开盘 40.5 美元（StreetInsider）。
 - **收入和亏损**：上市文件显示，2024 年收入约 19.2 亿美元，亏损约 8.63 亿美元（Techleap）。
+- **2026 年三季度**（11 月 10 日公布）：收入约 36.6 亿美元，同比涨 168%；净亏损 7.09 亿美元；已签约未确认的收入约 1325 亿美元（CoreWeave 公告；Let's Data Science 转述 CNBC，仅作参考）。英伟达和它签过 63 亿美元的包买未售算力协议，期限到 2032 年 4 月，见 [[新云]]。
 
 ## 脑总怎么提到它
 
+- 2026-11-16：黄仁勋辞任后，他说[[新云]]是半导体这条链上最薄弱的一环，CoreWeave「什么时候爆个雷出来，我就是一个是一个很好的一个观察节点」，爆了才是板块阶段性结束的信号；到他说话时「好像都没有出太大问题啊」（见 [[新云的债务雷还没爆，这波可能爆一两家]] 文末 11-16 那一行）。
 - 2026-05-16：有人问到 CoreWeave，他说自己盘算了一下 CoreWeave，觉得它的商业模式「都还不如。房地产开发公司好」。理由是开发商先收预付款再交房，它却要借钱把机房建起来、再慢慢租出去，没人给全款预付；而且芯片折旧比土地快得多，他拿自己在币圈看到的矿机两三年换一代作比。他认为这类生意只有大厂做才说得通，因为大厂能用自家业务消化算力（见 [[独立 AIDC 比房地产开发商还弱：借钱建、没预付、折旧快]]）。
 - 2026-05-07：他把借大量债务投 AI 的大厂和 CoreWeave 这类公司，比作中国房地产火热年代猛加杠杆的开发商，对面是不加杠杆的苹果（见 [[苹果是 M7 里最防守的，像不加杠杆的李嘉诚]]）。
 
