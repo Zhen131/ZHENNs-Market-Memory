@@ -19,12 +19,13 @@ sources:
   - "Renaissance Capital，2026-11，Anthropic sets terms for $61 billion IPO targeting a $1.2 trillion market cap，https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap"
   - "FourWeekMBA（仅作参考），2026-11，Anthropic's IPO Day by Day: Pricing 18 Nov, Trading 19 Nov，https://fourweekmba.com/ai-anthropics-ipo-day-by-day-pricing-18-nov-trading-19-nov/"
   - "脑总 2026-11-16 直播（未核实）"
+  - "见 [[2026 - 美国 - Anthropic 与国防部的使用限制之争]] 的来源"
 tags:
   - type/entity
   - entity/company
   - status/draft
 created: 2026-10-24
-updated: 2026-11-16
+updated: 2026-11-20
 ---
 
 # Anthropic
@@ -34,6 +35,8 @@ Anthropic 是开发 Claude 系列大模型的美国 AI 公司，也提供 Claude
 更早，2026-04-19 讲新事物爆发时找卡位公司，他转述一位朋友举的 AI 编程的例子：能解决 AI 编程问题的公司里，现在最好的就是 Claude，也就是 Anthropic。他说今年如果它上市，「这有可能会成为一波情绪的倾泻，倾泻点」（这是有条件的说法；它当时有没有上市计划，图谱没有查），见 [[稀缺新股在概念最热时上市，先爆炒再杀泡沫]] 和 [[新事物爆发时，找卡在约束条件上的公司]]。
 
 2026-05-16，他把 AI 基建比作中国的城市化，把大模型公司放在产业链的中间层。他说大模型谈不上真正的垄断：年初大家还说 [[OpenAI]] 最领先，现在写代码、生成文本 Claude 已经全面超越，「这这仅仅五个月时间，仅仅五个月时间」，王座就易主了；又借一份英文报告（Leopold Aschenbrenner 的《态势感知》）说，训练大模型要花几百亿，偷走权重却可能只要收买一个人，网络效应保护不了它（见 [[大模型生意没有网络效应，边际成本也不降]]）。所以他说「我觉得如果是万亿美元上市的话，我觉得大家可能要慎重一点」，弹性最大的反而在算力和存力。〔背景〕他说话前，据 The Next Web 报道，Anthropic 2026 年 2 月那轮融资估值 3800 亿美元，4 月底在谈一轮估值超过 9000 亿美元的融资；5 月 15 日 Quartz 的标题仍是它在谈以 9000 亿美元估值融资 300 亿美元。他说的“万亿估值上市”是假设，图谱没有查到它当时有上市时间表。
+
+它对美国政府也划过线。2026 年初，美国国防部要求 Claude 可用于一切合法用途，它坚持不做完全自主的武器、不做对美国公民的大规模监控，随后被列为“供应链风险”；8 月 27 日加州一位联邦法官判这些措施违法，华盛顿的另一案到 8 月底还没了结（CNBC；TechCrunch；PBS）。见 [[2026 - 美国 - Anthropic 与国防部的使用限制之争]]。
 
 ## 上市
 
