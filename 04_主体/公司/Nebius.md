@@ -15,12 +15,15 @@ sources:
   - "Converge Digest，2025-09，Nebius inks $17.4B deal with Microsoft for AI infrastructure，https://convergedigest.com/nebius-inks-17-4b-deal-with-microsoft-for-ai-infrastructure/?amp=1"
   - "TIKR，2026-07-21，Nebius Stock Surges 19% Following Nvidia Disclosure of Passive Stake in AI Cloud Firm，https://www.tikr.com/blog/nebius-nasdaq-stock-surges-following-nvidia-disclosure-of-passive-stake-in-ai-cloud-firm"
   - "脑总 2026-07-23 奖励极致惩罚平庸、新云公司像城投、5万亿市值天花板、海螺水泥、A股高低切换（未核实）"
+  - "TechCrunch，2024-07-21，From Yandex's ashes comes Nebius, a startup with plans to be a European AI compute leader，https://techcrunch.com/2024/07/21/from-yandexs-ashes-comes-nebius-a-startup-with-plans-to-be-a-european-ai-compute-leader"
+  - "维基百科（仅作参考），2026-11-21 访问，Arkady Volozh，https://en.wikipedia.org/wiki/Arkady_Volozh"
+  - "脑总 2026-11-20 直播（未核实）"
 tags:
   - type/entity
   - entity/company
   - status/draft
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-21
 ---
 
 # Nebius
@@ -30,6 +33,7 @@ Nebius 是一家出租 AI 算力的云公司，总部在阿姆斯特丹。它的
 ## 关键事实
 
 - **从 Yandex 拆出来。** 2024 年 7 月，一笔约 54 亿美元的交易把 Yandex 的俄罗斯资产和海外资产分开，Nebius 从这次重组里独立出来。2024 年 10 月 21 日它在纳斯达克恢复交易，这是 2022 年 2 月[[2022 - 欧洲 - 俄乌战争|俄乌战争]]爆发、股票停牌以来第一次；当天开盘前一度跌约 26%，收盘反而涨 5.6%，收在 20 美元（路透，Boursorama 转载）。
+- **创始人沃洛日。** Nebius 的 CEO 是 Yandex 的联合创始人阿尔卡季·沃洛日。2022 年俄乌开战后他被欧盟制裁，辞去在 Yandex 的全部职务；2024 年 3 月从欧盟制裁名单移出，同年 7 月改组完成后出任 Nebius 的 CEO（TechCrunch；维基百科，仅作参考）。
 - **英伟达是股东。** 2024 年 12 月，Nebius 宣布约 7 亿美元的定向增发，以每股 21 美元发行，投资方里有英伟达、Accel 和 Orbis（MT Newswires，老虎证券转载）。2026 年 7 月，英伟达披露持有 Nebius 约 9.3% 的股份，7 月 21 日 Nebius 股价因此涨了约 19%（TIKR）。
 - **大厂是主要客户。** 2025 年 9 月，它和[[微软]]签了一份五年期合同，基础金额约 174 亿美元，最多可到约 194 亿美元，由新泽西州新建的数据中心供算力（Converge Digest）。据 TIKR 2026 年 7 月的文章，它还拿到了和 [[Meta]] 一份五年最多 270 亿美元的扩大合同。
 - **规模和花钱的速度。** 据 TIKR，它 2026 年一季度收入约 3.99 亿美元，同比增长约 684%；季末现金约 93 亿美元；2026 年的资本开支计划上调到 200 亿到 250 亿美元。收入还远小于每年要花在机房上的钱。
@@ -37,6 +41,8 @@ Nebius 是一家出租 AI 算力的云公司，总部在阿姆斯特丹。它的
 ## 脑总怎么提到它
 
 - 2026-07-23：有人问 Nebius。他说新云公司「都已经不像地方政府了」，在他的比方里，谷歌、微软像一座城市的地方政府，甲骨文像二三线城市的地方政府，新云这一轮 AI 才催生出来，「那他们就是一个城投公司了」，赔率很不够；它们还「属于英伟达的白手套」。他让大家拿 A 股的城投、城建股当样本，浦东建设「零七年涨了一波之后再也没涨过」。有人提到英伟达入股并持续加仓，他说就像上海市政府增持上海建工，「我觉得不一定有影响吧」。他的结论是要么买大厂，要么买上游铲子，新云不碰（见 [[独立 AIDC 比房地产开发商还弱：借钱建、没预付、折旧快]]、[[AI 中游只买几大云厂，甲骨文以下不碰]]）。这些是他的判断，不是公司的事实。
+
+- 2026-11-20：讲海外俄裔在俄乌战争后的处境时，他提到「这个新云公司的一个创始人」也是俄裔，当场想不起名字；按图谱的推断指的就是沃洛日。他拿这些人说明海外普通俄裔没被迫害（[[台海打到俄乌那一级，海外华人参考今天的俄裔|他的说法]]）。
 
 ## 在历史里出现过的地方
 

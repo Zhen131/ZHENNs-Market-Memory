@@ -9,8 +9,9 @@ speaker: "[[脑总]]"
 said_on: 2026-10-29
 said_in:
   - "2026-10-29 直播"
-about: ["[[MercadoLibre]]", "[[巴西]]", "[[卢拉]]", "[[巴西大选在复制阿根廷米莱的剧本：放开管制加估值重估，双击]]", "[[政治折价]]", "[[估值贵时要给非美供应链打风险折价]]", "[[颠覆故事里，被看衰的老牌股长期未必跑输颠覆者]]", "[[超长期看好拉美：三个海是地缘高地]]"]
-fact_check: consistent
+  - "2026-11-20 直播"
+about: ["[[MercadoLibre]]", "[[巴西]]", "[[卢拉]]", "[[巴西大选在复制阿根廷米莱的剧本：放开管制加估值重估，双击]]", "[[政治折价]]", "[[估值贵时要给非美供应链打风险折价]]", "[[颠覆故事里，被看衰的老牌股长期未必跑输颠覆者]]", "[[超长期看好拉美：三个海是地缘高地]]", "[[看好本土电商，不看好中国卖全球]]", "[[先做简单题，难题直接跳过]]"]
+fact_check: mixed
 source_status: sourced
 sources:
   - "Yahoo Finance（Michael Douglass），2026-10-26，Petrobras Sinks 15%, MercadoLibre Down 12% as Lula's Surprise Re-Election Rocks Brazilian Stocks，https://finance.yahoo.com/markets/stocks/articles/petrobras-sinks-15-mercadolibre-down-135559994.html"
@@ -19,9 +20,12 @@ sources:
   - "NeoFeed，日期未注明（报 2025 年数），R$ 17,3 bilhões em oito anos: o ritmo acelerado de investimentos do Mercado Livre no Brasil（2025 年巴西业务净收入占集团 52.6%），https://neofeed.com.br/negocios/r-173-bilhoes-em-oito-anos-o-ritmo-acelerado-de-investimentos-do-mercado-livre-no-brasil/en/"
   - "Business Wire，2026-02-24，MercadoLibre Inc. Reports Fourth Quarter and Full Year 2025 Financial Results，https://www.businesswire.com/news/home/20260224245400/en/MercadoLibre-Inc.-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results"
   - "Investing.com 转路透，2025-07-01，MercadoLibre stock hits all-time high at $2645.22，https://ng.investing.com/news/company-news/mercadolibre-stock-hits-alltime-high-at-264522-93CH-1990396"
+  - "CoinCentral（据搜索摘要），2026-11，MercadoLibre (MELI) Stock Slips After Q3 Profit Miss as Logistics Costs Weigh on Margins，https://coincentral.com/mercadolibre-meli-stock-slips-after-q3-profit-miss-as-logistics-costs-weigh-on-margins/"
+  - "StockStory（据搜索摘要），2026-11，MercadoLibre’s (NASDAQ:MELI) Q3 2026 sales top estimates but stock drops，https://stockstory.org/us/stocks/nasdaq/meli/news/earnings/mercadolibres-nasdaqmeli-q3-2026-sales-top-estimates-but-stock-drops"
+  - "Stock Analysis（数据网站，仅作参考），2026-11-21 查，MercadoLibre (MELI) Stock Price History（10 月 28 日至 11 月 19 日收盘价），https://stockanalysis.com/stocks/meli/history/"
 tags: [type/view, view/judgment, status/active]
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-21
 ---
 
 > 它不算巴西资产。它有巴西业务，只能这么说。
@@ -71,8 +75,14 @@ updated: 2026-11-07
 
 它靠两件事：一是 MercadoLibre 作为在美国注册的跨国公司，不会像巴西国企那样被政府拿利润去补财政；二是拉美电商和支付的成长还在，所以价格跌下来就是机会。他自己没有说具体买点，“再跌一跌、估值再杀下来一些”是这张卡里唯一的条件。
 
+2026-11-20 他补了一个条件：估值便宜不便宜，取决于它的增速保不保得住。「它如果保持过去的高增长，其实算便宜了啊」；如果增速永久下滑，「变成一个中低速增长的公司了，那它当前的估值其实不便宜的」。所以“再跌一跌就是机会”要加一个前提：跌下来的同时，增长没有掉档。这一点他自己判断不了，就把它归为难题，等更便宜再说（见文末 11-20 那一行）。
+
 它怕的，是上面〔图谱的对照〕里那一半：它一半以上的收入在巴西，雷亚尔贬值、巴西消费变弱会直接压低它换成美元的收入和利润。另外，他自己说「估值不算很便宜」，跌一跌也未必就够便宜。
 
 〔核对〕「在美国注册」：MercadoLibre, Inc. 是在美国特拉华州注册的公司，总部在乌拉圭蒙得维的亚，公司公告的发稿地就写蒙得维的亚（Business Wire，2026-02-24），对得上。「主要经营业务是在这个拉美」：对得上，2025 年最大的市场是巴西，占净收入一半多（NeoFeed）。「估值不算很便宜」：数据网站 11 月 7 日查到的过去一年每股收益是 37.28 美元，已经含 11 月 4 日才公布的三季度；拿它粗算，10 月 28 日的 1673.09 美元约合 45 倍市盈率（仅作参考）。Yahoo Finance 说 10 月 26 日跌 12%，按数据网站收盘价算，10 月 23 日到 26 日跌约 7.8%，两个数字口径不同（可能一个是盘中、一个是收盘），这里两个都列。
 
 **一句话记住**：一家公司在哪个国家赚钱，和它是不是那个国家的资产，是两回事；政治折价压在后者身上，汇率风险两者都躲不开。
+
+## 后来又讲过
+
+- 2026-11-20 直播：「我感觉就是它的它的季度的情况不是特别好」「现在现在介入的话，需要有一定的需要有一定的预测」「等到它更便宜的变成简单题了，会好做一些」。这次是有人问 MELI 这个价位是不是到了建仓的时候。三周前他说再跌一跌、估值杀下来是好机会；这次它确实跌了，他却说现在是难题，还得再跟，或者等它更便宜、变成简单题（见 [[先做简单题，难题直接跳过]]）。这不算改口，条件变了：中间出了一个不太好的季度，据他说今年增长速度一般、现金流投入比去年加大（未核实），而它的估值便宜不便宜，取决于高增长保不保得住，这一条并进了上面“这个判断靠什么、怕什么”。他还说「但是MELI我自己研究不是太深」。同一段里他讲了自己看好本土电商、不看好中国卖全球的模式，说 MELI 属于前一种（见 [[看好本土电商，不看好中国卖全球]]）。〔背景〕11 月 4 日 MercadoLibre 公布三季报，营收增长约 45%，但物流和营销开支压低了利润率，每股收益低于预期，股价随后下跌（CoinCentral、StockStory，据搜索摘要）。按数据网站的收盘价，它 11 月 4 日收 1739.88 美元，第二天收 1530.28 美元；11 月 19 日、也就是他说话前一天收 1355.49 美元，比 10 月 28 日的 1673.09 美元又低了约 19%（Stock Analysis，仅作参考）。〔核对〕他说「去年120亿」，没说是什么数；公司公告的 2025 年净收入是 289 亿美元（Business Wire），对不上，口径不明。

@@ -19,12 +19,13 @@ sources:
   - "GEN，2022-02，PTAB Sides with Broad Institute over CVC on CRISPR Patent Priority，https://www.genengnews.com/news/ptab-sides-with-broad-institute-over-cvc-on-crispr-patent-priority/"
   - "脑总 2026-03-19 手机的AIOS终端价值、逆向思维看宏观、财务指标分析企业质地（未核实）"
   - "脑总 2026-04-16 直播（未核实）"
+  - "脑总 2026-11-20 直播（未核实）"
 tags:
   - type/entity
   - entity/company
   - status/draft
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-21
 ---
 
 # CRISPR Therapeutics
@@ -44,6 +45,7 @@ CRISPR Therapeutics 用 CRISPR-Cas9 这把基因剪刀做药：把病人细胞�
 
 - 2026-03-19：有人问 CRISPR，他说是基因编辑赛道，「挺牛逼的」，和莫德纳、BioNTech 有点类似，都是[[2020 - 全球 - 新冠疫情|疫情]]时炒过一波的，「这几个公司都可以作为作为一个赌注股」（[[莫德纳是押注下一场大战的期权|他的说法]]）。
 - 2026-04-16：有人请他细讲基因编辑股。他说这类公司还没有像样的营收，核心是买赛道；CRISPR 做 DNA 编辑、Beam 做碱基编辑，各是细分龙头，要看手头现金、等上升趋势启动，眼下还不适合作前锋股（[[没营收的生物科技股，买龙头、看现金、等趋势启动|他的说法]]）。
+- 2026-11-20：有朋友拿 CRSP 举例，讲自己的一套估值法：先剥离现金和负债，算现金消耗速度和能撑几年，再给研发管线和商业化定价，最后反推股价。这套算法是提问人的，不是他的。他说算账之前，最重要的是认不认可、信不信任公司的掌舵人和团队（[[早期科技股要看赛道稀缺和企业家|他的说法]]）；建仓时只对当前账面出价，管线当添头（[[买入时只给保底定价，增长当彩票|他的说法]]）。他没有对 CRSP 本身下判断。
 
 ## 各方怎么看它
 

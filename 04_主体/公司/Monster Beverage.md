@@ -12,12 +12,13 @@ source_status: partially-sourced
 sources:
   - "Motley Fool，2026-02-03，You'd Never Guess the Top-Performing Stock of the 21st Century，https://www.fool.com/investing/2026/02/03/never-guess-top-performing-stock-21st-century-mnst"
   - "脑总 2026-02-15 美股港股A股都有哪些护城河最深的长牛股（二）（未核实）"
+  - "Monster Beverage，2026-11，Monster Beverage Reports 2026 Third Quarter Financial Results（SEC 8-K 附件），https://www.sec.gov/Archives/edgar/data/0000865752/000110465926123387/tm2629095d1_ex99-1.htm"
 tags:
   - type/entity
   - entity/company
   - status/draft
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-21
 ---
 
 # Monster Beverage
@@ -34,6 +35,7 @@ Monster Beverage 是美国的能量饮料公司，在纳斯达克上市，代码
 
 - 2026-02-15：讲消费这个时代时，他说 2000 年后美股最牛的股票「其实可能是这个怪兽怪兽饮料」，「就是那个魔爪呀，就是一个一个三道三道抓痕的那个饮料」；他也说明「我我具体没有一个一个去查哈，但是我原来好像看过数据」。上面 Motley Fool 的说法和他对得上。见 [[每个时代的泡沫，会沉淀出垄断长牛股]]。
 - 同一期讲 A 股对标时，他说东鹏能对标两瓶可乐和 Monster，「它跟Monster做的是一样的东西，都是都是功能饮料」；据他说，功能饮料在中国也是增长最好的品类之一（未核实）。见 [[东鹏是 A 股唯一能对标可乐和 Monster 的]]、[[东鹏饮料]]。
+- 2026-11-20：讲同行业估值会看齐时，他说东鹏「号称中国的monster」，据他说增速「不比美股的monster差」。〔核对〕2026 年第三季度 Monster 净销售额 25.6 亿美元，增长 16.7%，前三季度增长 20.9%（Monster 公告），同期东鹏前三季度只增长 10.40%。见 [[同行业估值终会看齐，行业贵时个股错杀是买点]]。
 
 ## 各方怎么看它
 

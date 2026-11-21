@@ -10,6 +10,7 @@ said_on: 2026-08-13
 said_in:
   - "2026-08-13 科技怎么定价、股权稀释、HYPE、土地财政、特斯拉与SpaceX、黄金、软件股"
   - "2026-10-15 李录哥大演讲、SpaceX估值、主观与客观价值、AI杠杆周期、低人权与世界秩序"
+  - "2026-11-20 直播"
 about: ["[[特斯拉]]", "[[SpaceX]]", "[[马斯克]]", "[[投票权只在行业低谷时值钱，向好时市场只看企业家]]", "[[特斯拉在 FSD 突变前会在 200 到 500 美元间震荡]]", "[[xAI]]", "[[SpaceX 1.7 万亿上市很昂贵，没大跌难吃肉]]"]
 fact_check: mixed
 snapshot: "SpaceX 6 月 12 日已在纳斯达克上市，他说自己在等买点；5 月 26 日有报道说马斯克讨论过合并两家，7 月 22 日特斯拉财报会上马斯克不确认也不否认；8 月 11、12 日马斯克在 X 上夸中国、他母亲附和。特斯拉上海工厂 2025 年交付约占全球 52%。"
@@ -24,9 +25,10 @@ sources:
   - "unwire.hk（据搜索摘要），2026-08-12，Musk 在 X 公開讚揚中國、母親 Maye Musk 留言附和，https://unwire.hk/2026/08/12/musk-china-praise-tesla-sales/fun-tech/"
   - "TechCrunch（Kirsten Korosec），2026-10-20，SpaceX and Tesla boards form special committees to review merger，https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/"
   - "上海市政府英文网，2026-01-07，Tesla's Shanghai plant powers 52% of automaker's global 2025 deliveries，https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260107/4c2060e1dc874d40b56a3a8fa8baedf5.html"
+  - "IBTimes UK，2026-10，Musk Says Tesla and SpaceX Have Merger Committees, but a Deal Is Far From Certain，https://www.ibtimes.co.uk/tesla-spacex-potential-merger-independent-committees-1826902"
 tags: [type/view, view/prediction, status/active]
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-21
 ---
 
 > 我我自己感觉特斯拉跟space x大概率最后大概率是会合并的啊
@@ -83,3 +85,4 @@ updated: 2026-11-01
 ## 后来又讲过
 
 - 2026-10-15 李录哥大演讲、SpaceX估值、主观与客观价值、AI杠杆周期、低人权与世界秩序（比主体那次晚 63 天）：「我估计欺负特斯拉股东呗」「特斯拉股东在估值上面吃点亏，然后然后在想象空间上面提振一下」。这期问答里，有人先问 SpaceX 怎么看（见 [[SpaceX 1.7 万亿上市很昂贵，没大跌难吃肉]] 文末 10-15 那一行），接着有人问 SpaceX 跟特斯拉合并有什么看法。他说从营收倍数看，SpaceX 的估值要比特斯拉高一些，合并的时候估计会让特斯拉股东稍微吃点亏，「但是也算是提高了特斯拉的天花板吧」。他说这本质上跟[[马斯克]]收购推特一样：收购推特本来已经要亏掉了，靠政治运作成功，跑掉的广告商又回来了；广告商回来以后他又搞概念运作，搞出 [[xAI]]，自己飞快地起了一座 AI 数据中心，速度够快、回报也不错，「马斯克本人的工程能力很在线」。可你作为股东，等于他用极强的工程能力快速做出一块营收，再连同筹码一起打包卖给你，而你只想要太空业务。这次是把 08-13 说的“大概率会合并”往下推了一步，讲合并以后两边股东谁吃亏、换来什么；他没有再提上海工厂，也没有说合并前要先卖厂。他讲打包那几句里有个字（转写作“传”）还没定，已列入要问 Zhen，这一行没有引。
+- 2026-11-20 直播（比主体那次晚 99 天，10-15 那次之后 36 天）：「但我估计最后这两家公司可能要会合并吧，可能会合并」。这是答马斯克的股票要不要重估那题时顺口说的（那题见 [[SpaceX 1.7 万亿上市很昂贵，没大跌难吃肉]] 文末 11-20 那一行）：他说两家都看好、价格买不下去，更看好 [[SpaceX]]，接着说估计两家最后可能会合并。口气从 08-13 的「大概率」变成「可能」，这次没有提上海工厂，也没给时间；按第 8.3 节，口气变弱不算改口。〔背景〕2026 年 10 月 20 日前后，两家董事会各自成立了独立董事组成的特别委员会，研究可能的合并；马斯克说把合并当成定局是言过其实，委员会还没谈定任何交易条款（TechCrunch、IBTimes UK）。图谱没有查到 11 月 19 日以前有新的进展。
